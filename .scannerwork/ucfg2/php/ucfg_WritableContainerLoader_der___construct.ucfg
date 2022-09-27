@@ -1,0 +1,45 @@
+
+>joomla\cms\console\loader\writablecontainerloader::__constructr
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/Loader/WritableContainerLoader.php/ /("1*Æ
+2
+WritableContainerLoader.php"â
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/Loader/WritableContainerLoader.php3 3(
+implicit return*ç
+1r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/Loader/WritableContainerLoader.php1 1('Ω
+∫
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/Loader/WritableContainerLoader.php/ /(
+
+$container"__id*0
+.
+
+$container psr\container\containerinterface§
+°
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/Loader/WritableContainerLoader.php/ /(
+$commandMap"__id*
+
+$commandMaparray—
+Œ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/Loader/WritableContainerLoader.php1 1(&B3
+1joomla\cms\console\loader\writablecontainerloader"
+	container"__id*
+
+
+$container”
+–
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/Loader/WritableContainerLoader.php2 2('C3
+1joomla\cms\console\loader\writablecontainerloader"
+
+commandMap"__id*
+
+$commandMap*
+2:.
+
+$container psr\container\containerinterface:
+$commandMaparrayB53
+1joomla\cms\console\loader\writablecontainerloader

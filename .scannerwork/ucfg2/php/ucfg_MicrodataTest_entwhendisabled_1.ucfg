@@ -1,0 +1,71 @@
+
+[joomla\tests\unit\libraries\cms\microdata\microdatatest::testdisplaymetacontentwhendisabledp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÄ Ä(6"1*¢
+2
+MicrodataTest.php"‡
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÐ Ð(
+implicit return*¢
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÆ Æ(=ƒ€
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÆ9 Æ(;
+%1"$Array¼¹
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÆ Æ(<
+
+$microdata"7joomla\tests\unit\libraries\cms\microdata\microdatastubñ
+î
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÆ Æ(<
+%2"Djoomla\tests\unit\libraries\cms\microdata\microdatastub::__construct*
+
+
+$microdata*	
+Article*	
+false*
+
+%1Ÿœ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÉ Ê(
+%3*
+
+
+$microdata*	
+en-GB2contentš
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÉ Ë($
+%4*
+
+%3*
+
+inLanguage2property¥¢
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÉ Ì(*
+%5*
+
+%4*
+
+Language*
+name2fallback 
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÉ Í(#
+%6*
+
+%5*
+meta*
+true2displayŒ
+‰
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÉ Í(#
+$html"__id*
+
+%6ÐÍ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÏ Ï(!
+%7*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*	
+
+$html2assertempty*
+2B;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest

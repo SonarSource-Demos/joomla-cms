@@ -1,0 +1,35 @@
+
+(plgwebservicesmessages::onbeforeapiroutec
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/messages/messages.php( (($"1*è
+2
+messages.php"z
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/messages/messages.php/ /(
+implicit return*ø
+1c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/messages/messages.php* .(
+us
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/messages/messages.php- -(+
+%1"$Array°
+û
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/messages/messages.php- -(+
+%2"__mapSet*
+
+%1*
+	component*
+com_messages¥±
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/messages/messages.php* .(	
+%3*
+	
+$router*
+v1/messages*
+
+messages*
+
+%12createcrudroutes*
+2:	
+$routerB
+plgwebservicesmessages

@@ -1,0 +1,82 @@
+
++plgworkflowpublishing::oncontentprepareformd
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.php^ ^(("1*ï
+2d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpg g(7∑¥
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpg g(6
+%4*
+plgworkflowpublishing*	
+
+$form*	
+
+$data2enhancetransitionform"p
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpi i(
+void*¢
+3d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpl l(-±Æ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpl l(,
+%5*
+plgworkflowpublishing*	
+
+$form*	
+
+$data2enhanceitemform*
+4*í
+4
+publishing.php"{
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpm m(
+implicit return*»
+1d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.php` `()¢
+ü
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.php^ ^((
+$event"__id*'
+%
+$eventjoomla\event\eventinterfaceèå
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.php` `((
+%1*
+
+
+$event*
+02getargument
+}
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.php` `((
+$form"__id*
+
+%1èå
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpa a((
+%2*
+
+
+$event*
+12getargument
+}
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpa a((
+$data"__id*
+
+%2ÉÄ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpc c(#
+%3*	
+
+$form2getnameÉ
+Ä
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpc c(#
+
+$context"__id*
+
+%3*
+2
+3:%
+$eventjoomla\event\eventinterfaceB
+plgworkflowpublishing

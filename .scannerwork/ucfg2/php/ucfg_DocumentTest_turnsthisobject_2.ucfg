@@ -1,0 +1,38 @@
+
+ijoomla\tests\unit\libraries\cms\document\documenttest::testensuresetmetadataforgeneratorreturnsthisobjectn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¿ ¿(F"1*Ÿ
+2
+DocumentTest.php"…
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÄ Ä(
+implicit return*ê
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÁ Á(,ÄÁ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÁ Á(+
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
+‹
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÁ Á(+
+	$document"__id*
+
+%1½º
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÃ% Ã(_
+%2*
+
+	$document*
+	generator*
+My Custom Generator2setmetadata×Ô
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÃ Ã(`
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest*
+
+	$document*
+
+%22
+assertsame*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

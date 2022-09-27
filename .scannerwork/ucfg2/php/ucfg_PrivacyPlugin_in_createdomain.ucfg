@@ -1,0 +1,44 @@
+
+Ijoomla\component\privacy\administrator\plugin\privacyplugin::createdomain{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php5 5(#"1*ç
+
+1{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php7 7(,¡æ
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php7 7(+	
+$domain"4joomla\component\privacy\administrator\export\domain÷
+”
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php7 7(+
+%1"Ajoomla\component\privacy\administrator\export\domain::__construct*
+	
+$domain¶
+£
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php8 8($
+	
+$domain"
+name"__id*	
+
+$name¥
+±
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php9 9(+
+	
+$domain"
+description"__id*
+
+$descriptionœ
+Ã
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php; ;(:
+%24joomla\component\privacy\administrator\export\domain"__id*
+	
+$domain"ª
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Plugin/PrivacyPlugin.php; ;(<
+:
+%24joomla\component\privacy\administrator\export\domain:
+$name:
+$descriptionB?=
+;joomla\component\privacy\administrator\plugin\privacyplugin

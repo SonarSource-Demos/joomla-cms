@@ -1,0 +1,27 @@
+
+Gjoomla\component\tags\administrator\controller\tagcontroller::allowedit|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php1 1( "1*¨
+1|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php4 4(.“
+
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php4 4(-
+%1"3joomla\cms\mvc\controller\formcontroller::allowedit*@>
+<joomla\component\tags\administrator\controller\tagcontroller*	
+
+$data*
+
+$keyÍ
+Ê
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php4 4(.<
+%26joomla\component\tags\administrator\controller\boolean"__id*
+
+%1"¾
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php4 4(.>
+<
+%26joomla\component\tags\administrator\controller\boolean:
+$data:
+$keyB@>
+<joomla\component\tags\administrator\controller\tagcontroller

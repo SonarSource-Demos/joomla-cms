@@ -1,0 +1,51 @@
+
+)joomla\cms\toolbar\toolbarhelper::previewa
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php| |(""1*î
+2
+ToolbarHelper.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÇ Ç(
+implicit return*©
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php~ ~(/¬
+ø
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php~ ~(.
+%1"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbar{
+y
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php~ ~(.
+$bar"__id*
+
+%1ï
+í
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÅ6 Å(L
+%2"__concat*
+
+$url*
+&task=preview·ﬁ
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÅ Å(q
+%3*
+
+$bar*	
+Popup*	
+
+$icon*	
+Preview*
+
+%2*2Ä*2‡*
+
+$bodyHeight*
+
+$modalWidth2appendbutton*
+2:
+$url:
+$updateEditors:
+$icon:
+$bodyHeight:
+$modalWidthB$"
+ joomla\cms\toolbar\toolbarhelper

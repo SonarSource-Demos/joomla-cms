@@ -1,0 +1,162 @@
+
+Ejoomla\plugin\system\webauthn\extension\webauthn::getsubscribedeventsn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.phpö ö(."1*
+2n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.phpü ü(Ä~
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.phpü ü(
+%2"$Array"x
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.phpü ü(
+
+%2*ï
+3n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¢ ¢(Góî
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¢ ¢(#
+%3*
+
+$app*
+site2isclient*
+4
+6*û
+4n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¢' ¢(G†ù
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¢( ¢(G
+%4*
+
+$app*
+administrator2isclient*
+5
+6*
+5n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php£ £(Ä~
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php£ £(
+%5"$Array"x
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php£ £(
+
+%5* 
+6n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(
+Ä~
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%6"$Array≥
+∞
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%7"__mapSet*
+
+%6*
+onAjaxWebauthn*
+onAjaxWebauthn≈
+¬
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%8"__mapSet*
+
+%6*
+onAjaxWebauthnChallenge*
+onAjaxWebauthnChallengeø
+º
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%9"__mapSet*
+
+%6*
+onAjaxWebauthnCreate*
+onAjaxWebauthnCreate¿
+Ω
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%10"__mapSet*
+
+%6*
+onAjaxWebauthnDelete*
+onAjaxWebauthnDelete»
+≈
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%11"__mapSet*
+
+%6*
+onAjaxWebauthnInitcreate*
+onAjaxWebauthnInitcreateæ
+ª
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%12"__mapSet*
+
+%6*
+onAjaxWebauthnLogin*
+onAjaxWebauthnLogin∆
+√
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%13"__mapSet*
+
+%6*
+onAjaxWebauthnSavelabel*
+onAjaxWebauthnSavelabel∫
+∑
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%14"__mapSet*
+
+%6*
+onUserAfterDelete*
+onUserAfterDeleteº
+π
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%15"__mapSet*
+
+%6*
+onUserLoginButtons*
+onUserLoginButtons¿
+Ω
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%16"__mapSet*
+
+%6*
+onContentPrepareForm*
+onContentPrepareForm¿
+Ω
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(	
+%17"__mapSet*
+
+%6*
+onContentPrepareData*
+onContentPrepareData"x
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php¶ ≤(
+
+
+%6*õ
+8
+Webauthn.php"Ö
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.php≥ ≥(
+implicit return*¬
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.phpù ù(-µ
+≤
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.phpù ù(,
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factoryâ
+Ü
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Extension/Webauthn.phpù ù(,
+$app"__id*
+
+%1*	
+2
+3
+8B42
+0joomla\plugin\system\webauthn\extension\webauthn

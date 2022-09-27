@@ -1,0 +1,94 @@
+
+Mjoomla\component\content\administrator\controller\articlecontroller::allowaddƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpd d("1*Ç
+
+2ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpj j(nç
+ä
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpj j(
+%4"__id*P*NE
+Cjoomla\component\content\administrator\controller\articlecontroller"
+app¤¡
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpj j(,
+%5*
+
+%42getidentityÅ
+Â
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpjG j(l
+%6"__concat*
+com_content.category.*
+
+$categoryId»¸
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpj j(m
+%7*
+
+%5*
+core.create*
+
+%62	authoriseØ
+Õ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpj j(n?
+%89joomla\component\content\administrator\controller\boolean"__id*
+
+%7"É
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpj j(nA
+?
+%89joomla\component\content\administrator\controller\boolean*Á
+3ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpn n("Œ
+‰
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpn n(!
+%9"2joomla\cms\mvc\controller\formcontroller::allowadd*GE
+Cjoomla\component\content\administrator\controller\articlecontrollerÙ
+Ö
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpn n("@
+%109joomla\component\content\administrator\controller\boolean"__id*
+
+%9"Ê
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpn n("B
+@
+%109joomla\component\content\administrator\controller\boolean*ã
+1ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpf f(oé
+æ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpf< f(H
+%1"__id*R*PE
+Cjoomla\component\content\administrator\controller\articlecontroller"
+input·´
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpf< f(f
+%2*
+
+%1*
+filter_category_id2getint€
+ý
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpf f(n
+%3"&joomla\utilities\arrayhelper::getvalue* "
+joomla\utilities\arrayhelper*	
+
+$data*	
+catid*
+
+%2*
+int¦
+£
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpf f(n
+$categoryId"__id*
+
+%3*
+2
+3:
+$dataBGE
+Cjoomla\component\content\administrator\controller\articlecontroller

@@ -1,0 +1,60 @@
+
+Hjoomla\component\messages\administrator\view\config\htmlview::addtoolbar|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpR R(!"1*©
+2
+HtmlView.php"“
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.php[ [(
+implicit return*ë
+1|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpT T(DÃ
+À
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpT T(!
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory 
+
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpT T((
+%2"__id**
+
+%1"
+input°­
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpT T(C
+%3*
+
+%2*
+hidemainmenu*
+true2setè
+å
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpV V(H
+%4"joomla\cms\language\text::_*"
+joomla\cms\language\text*$"
+ COM_MESSAGES_TOOLBAR_MY_SETTINGSì
+é
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpV V(U
+%5"'joomla\cms\toolbar\toolbarhelper::title*$""
+ joomla\cms\toolbar\toolbarhelper*
+
+%4*
+
+envelopeò
+ï
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpX X(4
+%6"'joomla\cms\toolbar\toolbarhelper::apply*$""
+ joomla\cms\toolbar\toolbarhelper*
+config.save*	
+JSAVE÷
+ô
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/View/Config/HtmlView.phpZ Z(9
+%7"(joomla\cms\toolbar\toolbarhelper::cancel*$""
+ joomla\cms\toolbar\toolbarhelper*
+config.cancel*	
+JCANCEL*
+2B@>
+<joomla\component\messages\administrator\view\config\htmlview

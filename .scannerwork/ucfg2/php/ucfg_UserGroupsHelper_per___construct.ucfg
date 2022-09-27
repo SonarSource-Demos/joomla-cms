@@ -1,0 +1,43 @@
+
+/joomla\cms\helper\usergroupshelper::__constructc
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpN N("1*û
+2c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpS S(&Æ´
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpS S(%
+%2*&$
+"joomla\cms\helper\usergroupshelper*
+	
+$groups2	setgroups*
+3*ó
+3
+UserGroupsHelper.php"z
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpU U(
+implicit return*∏
+1c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpP P("ç
+ä
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpN N(	
+$groups"__id*
+
+$groupsarrayå
+â
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpP P(!
+%1"__sanitizing_cast*	
+
+$mode¶
+£
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpP P(!.$
+"joomla\cms\helper\usergroupshelper"
+mode"__id*
+
+%1*
+2
+3:
+$groupsarray:
+$modeB&$
+"joomla\cms\helper\usergroupshelper

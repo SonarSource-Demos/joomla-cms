@@ -1,0 +1,45 @@
+
+=joomla\cms\dispatcher\componentdispatcherfactory::__constructq
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Dispatcher/ComponentDispatcherFactory.php1 1("1*°
+2 
+ComponentDispatcherFactory.php"ˆ
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Dispatcher/ComponentDispatcherFactory.php5 5(
+implicit return*‘
+1q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Dispatcher/ComponentDispatcherFactory.php3 3('¢
+Ÿ
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Dispatcher/ComponentDispatcherFactory.php1 1(
+
+$namespace"__id*
+
+
+$namespacestringÈ
+Å
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Dispatcher/ComponentDispatcherFactory.php1 1(
+$mvcFactory"__id*;
+9
+$mvcFactory*joomla\cms\mvc\factory\mvcfactoryinterfaceÏ
+Ì
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Dispatcher/ComponentDispatcherFactory.php3 3(&A2
+0joomla\cms\dispatcher\componentdispatcherfactory"
+	namespace"__id*
+
+
+$namespaceÑ
+Î
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Dispatcher/ComponentDispatcherFactory.php4 4('B2
+0joomla\cms\dispatcher\componentdispatcherfactory"
+
+mvcFactory"__id*
+
+$mvcFactory*
+2:
+
+$namespacestring:9
+$mvcFactory*joomla\cms\mvc\factory\mvcfactoryinterfaceB42
+0joomla\cms\dispatcher\componentdispatcherfactory

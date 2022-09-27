@@ -1,0 +1,30 @@
+
+5joomla\cms\console\addusertogroupcommand::__constructi
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpR R("1*£
+2
+AddUserToGroupCommand.php"€
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpW W(
+implicit return*²
+1i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpT T(§
+¤
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpR R(
+$db"__id**
+(
+$db!joomla\database\databaseinterface×
+Ô
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpT T(
+%1"3joomla\console\command\abstractcommand::__construct*,*
+(joomla\cms\console\addusertogroupcommand¸µ
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpV V(
+%2*,*
+(joomla\cms\console\addusertogroupcommand*
+
+$db2setdatabase*
+2:(
+$db!joomla\database\databaseinterfaceB,*
+(joomla\cms\console\addusertogroupcommand

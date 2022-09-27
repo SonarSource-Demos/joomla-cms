@@ -1,0 +1,184 @@
+
+=joomla\component\finder\administrator\indexer\adapter::changew
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php≠ ≠("3"4*Ç
+3w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php± ±("É
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php± ±(
+true*®%
+4w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpµ µ(VÀ
+»
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpµ µ(
+%1"__id*A*?7
+5joomla\component\finder\administrator\indexer\adapter"
+db“
+œ
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpµ4 µ(D
+%2"__id*H*F7
+5joomla\component\finder\administrator\indexer\adapter"
+	extensionœ
+Ã
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpµF µ(S
+%3"__id*E*C7
+5joomla\component\finder\administrator\indexer\adapter"
+layoutﬁ€
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpµ! µ(T
+%4*97
+5joomla\component\finder\administrator\indexer\adapter*
+
+$id*
+
+%2*
+
+%32geturlôñ
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpµ µ(U
+%5*
+
+%1*
+
+%42quoteì
+ê
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpµ µ(U
+$item"__id*
+
+%5À
+»
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∏ ∏(
+%6"__id*A*?7
+5joomla\component\finder\administrator\indexer\adapter"
+dbûõ
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∏ ∏(*
+%7*
+
+%6*
+true2getqueryÀ
+»
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpπ π(
+%8"__id*A*?7
+5joomla\component\finder\administrator\indexer\adapter"
+db™ß
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpπ π(<
+%9*
+
+%8*
+#__finder_links2	quotenameõò
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∏ π(=
+%10*
+
+%7*
+
+%92updateÃ
+…
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∫ ∫(
+%11"__id*A*?7
+5joomla\component\finder\administrator\indexer\adapter"
+db¶£
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∫ ∫(1
+%12*
+
+%11*
+
+	$property2	quotename¢
+ü
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∫< ∫(H
+%13"__sanitizing_cast*
+
+
+$value®
+•
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∫ ∫(H
+%14"__concat*
+
+%12*
+ = *
+
+%13öó
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∏ ∫(I
+%15*
+
+%10*
+
+%142setÃ
+…
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpª ª(
+%16"__id*A*?7
+5joomla\component\finder\administrator\indexer\adapter"
+db†ù
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpª ª(/
+%17*
+
+%16*
+url2	quotename™
+ß
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpª ª(?
+%18"__concat*
+
+%17*
+ = *	
+
+$itemúô
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∏ ª(@
+%19*
+
+%15*
+
+%182whereï
+í
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.php∏ ª(@
+$query"__id*
+
+%19Ã
+…
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpº º(
+%20"__id*A*?7
+5joomla\component\finder\administrator\indexer\adapter"
+db¢ü
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpº º(#
+%21*
+
+%20*
+
+
+$query2setqueryÃ
+…
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpΩ Ω(
+%22"__id*A*?7
+5joomla\component\finder\administrator\indexer\adapter"
+dbïí
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpΩ Ω(
+%23*
+
+%222execute"É
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Adapter.phpø ø(
+true:
+$id:
+	$property:
+$valueB97
+5joomla\component\finder\administrator\indexer\adapter

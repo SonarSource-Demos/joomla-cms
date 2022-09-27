@@ -1,0 +1,36 @@
+
+-joomla\cms\extension\component::getdispatcher_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php5 5(!"1*§
+1_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php7 7(H¼
+¹
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php5 5(!
+$application"__id*@
+>
+$application.joomla\cms\application\cmsapplicationinterface«
+¨
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php7 7('
+%1"__id*9*7 
+joomla\cms\extension\component"
+dispatcherFactory–“
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php7 7(G
+%2*
+
+%1*
+
+$application2createdispatcher£
+ 
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php7 7(H/
+%3)joomla\cms\dispatcher\dispatcherinterface"__id*
+
+%2"”
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php7 7(H1
+/
+%3)joomla\cms\dispatcher\dispatcherinterface:>
+$application.joomla\cms\application\cmsapplicationinterfaceB" 
+joomla\cms\extension\component

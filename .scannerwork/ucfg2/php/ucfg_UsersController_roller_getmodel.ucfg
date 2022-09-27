@@ -1,0 +1,30 @@
+
+Ijoomla\component\users\administrator\controller\userscontroller::getmodel
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.phpB B("1*Ç
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.phpD D(9©
+¦
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.phpD D(8
+%1"3joomla\cms\mvc\controller\admincontroller::getmodel*CA
+?joomla\component\users\administrator\controller\userscontroller*	
+
+$name*
+	
+$prefix*
+	
+$configÐ
+Í
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.phpD D(9<
+%26joomla\component\users\administrator\controller\object"__id*
+
+%1"Á
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.phpD D(9>
+<
+%26joomla\component\users\administrator\controller\object:
+$name:	
+$prefix:	
+$configBCA
+?joomla\component\users\administrator\controller\userscontroller

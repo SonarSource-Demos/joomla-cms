@@ -1,0 +1,76 @@
+
+Cjoomla\component\users\site\model\registrationmodel::preprocessformp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpô ô(%"1*ª
+2p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpù6 ù(bª§
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpù6 ù(]
+%3*
+
+$userParams*
+frontend_userparams2get*
+3
+4*¦
+3p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpú ú(/©¦
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpú ú(.
+%4*	
+
+$form*
+
+sitelang*	
+false2loadfile*
+4*ƒ
+4p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpı ı(5†
+ƒ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpı ı(4
+%5".joomla\cms\mvc\model\formmodel::preprocessform*75
+3joomla\component\users\site\model\registrationmodel*	
+
+$form*	
+
+$data*
+
+
+$group*
+5*¦
+5
+RegistrationModel.php"‡
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpş ş(
+implicit return*É
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpö ö(>¥
+¢
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpô ô(%
+$form"__id*
+
+$formjoomla\cms\form\formå
+â
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpö ö(=
+%1"/joomla\cms\component\componenthelper::getparams*("&
+$joomla\cms\component\componenthelper*
+	com_users’
+
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpö ö(=
+$userParams"__id*
+
+%1¤¡
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpù ù(-
+%2*
+
+$userParams*
+site_language2get*
+2
+4:
+$formjoomla\cms\form\form:
+$data:
+$groupB75
+3joomla\component\users\site\model\registrationmodel

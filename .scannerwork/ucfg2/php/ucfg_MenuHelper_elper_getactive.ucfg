@@ -1,0 +1,56 @@
+
+4joomla\module\menu\site\helper\menuhelper::getactivef
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÖ Ö($"1*Ê
+3f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÚ% Ú(7×
+Ô
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÚ% Ú(7
+%5"5joomla\module\menu\site\helper\menuhelper::getdefault*-"+
+)joomla\module\menu\site\helper\menuhelper~
+|
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÚ Ú(7
+%4"__id*
+
+%5*
+4*®
+4f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÚ7 Ú(7¦
+£
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÚ Ú(8+
+%6%joomla\module\menu\site\helper\object"__id*
+
+%4"—
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÚ Ú(8-
++
+%6%joomla\module\menu\site\helper\object*µ
+1f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpØ Ø(5­
+ª
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpØ Ø()
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpØ Ø(4
+%2*
+
+%12getmenu
+
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpØ Ø(4
+$menu"__id*
+
+%2‡„
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_menu/src/Helper/MenuHelper.phpÚ Ú(!
+%3*	
+
+$menu2	getactive*
+3
+4:	
+$paramsB-+
+)joomla\module\menu\site\helper\menuhelper

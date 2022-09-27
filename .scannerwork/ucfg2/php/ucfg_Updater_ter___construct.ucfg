@@ -1,0 +1,26 @@
+
+'joomla\cms\updater\updater::__construct[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Updater/Updater.phpQ Q("1*†
+2
+Updater.php"r
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Updater/Updater.phpT T(
+implicit return*Ì
+1[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Updater/Updater.phpS S(Eä
+á
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Updater/Updater.phpS S(D
+%1"'joomla\cms\adapter\adapter::__construct*
+joomla\cms\updater\updater*
+
+	$basepath*
+
+$classprefix*
+
+$adapterfolder*
+2:
+	$basepath:
+$classprefix:
+$adapterfolderB
+joomla\cms\updater\updater

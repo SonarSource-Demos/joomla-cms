@@ -1,0 +1,86 @@
+
+Jjoomla\component\categories\administrator\model\categorymodel::__construct}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpV V("1*¯
+2
+CategoryModel.php"”
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php_ _(
+implicit return*ù
+1}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpX X(WÎ
+Ë
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpV V(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÄ
+Á
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpX X(.
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory¡
+ž
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpX X(5
+%2"__id**
+
+%1"
+inputµ²
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpX X(V
+%3*
+
+%2*
+	extension*
+com_content2getž
+›
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpX X(V
+
+$extension"__id*
+
+%3±
+®
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpY Y(3
+%4"__concat*
+
+
+$extension*
+	.categoryà
+Ý
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpY Y(3N?
+=joomla\component\categories\administrator\model\categorymodel"
+	typeAlias"__id*
+
+%4å
+â
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php\ \(
+%5"__id*U*S?
+=joomla\component\categories\administrator\model\categorymodel"
+batch_commandsÄ
+Á
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php\ \(.
+%6"__mapSet*
+
+%5*
+flip_ordering*
+batchFlipordering”
+‘
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php^ ^(.
+%7",joomla\cms\mvc\model\adminmodel::__construct*A?
+=joomla\component\categories\administrator\model\categorymodel*
+	
+$config*
+
+
+$factory*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceBA?
+=joomla\component\categories\administrator\model\categorymodel

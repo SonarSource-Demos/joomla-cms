@@ -1,0 +1,38 @@
+
+kjoomla\tests\unit\libraries\cms\document\documenttest::testensuresetmetadatafordescriptionreturnsthisobjectn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php× ×(H"1*Ÿ
+2
+DocumentTest.php"…
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÜ Ü(
+implicit return*ç
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÙ Ù(,ÄÁ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÙ Ù(+
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
+‹
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÙ Ù(+
+	$document"__id*
+
+%1º·
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÛ% Û(\
+%2*
+
+	$document*
+description*
+My Description2setmetadata×Ô
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÛ Û(]
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest*
+
+	$document*
+
+%22
+assertsame*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

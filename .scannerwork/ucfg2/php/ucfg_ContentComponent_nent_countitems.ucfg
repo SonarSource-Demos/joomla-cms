@@ -1,0 +1,95 @@
+
+Mjoomla\component\content\administrator\extension\contentcomponent::countitemsƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php§ §("1*¹
+2
+ContentComponent.php"›
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php³ ³(
+implicit return*Û
+1ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(
+¬
+©
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php§ §(
+$items"__id*
+
+$itemsarray±
+®
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php§ §(
+
+$section"__id*
+
+$sectionstring—”
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(	
+%1"$Array¿
+¼
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(	
+%2"__mapSet*
+
+%1*
+related_tbl*	
+content»
+¸
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(	
+%3"__mapSet*
+
+%1*
+	state_col*	
+state»
+¸
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(	
+%4"__mapSet*
+
+%1*
+	group_col*	
+catidË
+È
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(	
+%5"__mapSet*
+
+%1*
+relation_type*
+category_or_group¿
+¼
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(	
+%6"__mapSet*
+
+%1*
+uses_workflows*
+trueË
+È
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(	
+%7"__mapSet*
+
+%1*
+workflows_component*
+com_content°
+­
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php© °(		
+$config"__passthrough_cast*
+
+%1þ
+û
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.php² ²(=
+%8"/joomla\cms\helper\contenthelper::countrelations*#"!
+joomla\cms\helper\contenthelper*
+
+
+$items*
+	
+$config*
+2:
+$itemsarray:
+$sectionstringBEC
+Ajoomla\component\content\administrator\extension\contentcomponent

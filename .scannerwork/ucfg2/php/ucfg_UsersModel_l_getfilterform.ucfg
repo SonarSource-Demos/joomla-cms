@@ -1,0 +1,52 @@
+
+Djoomla\component\users\administrator\model\usersmodel::getfilterformw
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpà à(!"1*Ì
+2w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpå å(@Ê
+„
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpå å(@
+%2")joomla\cms\plugin\pluginhelper::isenabled*"" 
+joomla\cms\plugin\pluginhelper*
+multifactorauth*
+3
+4*≥
+3w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpç ç(0Ø¨
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpç ç(/
+%3*	
+
+$form*
+mfa*
+
+filter2removefield*
+4*É
+4w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpê ê("Ñ
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpê ê(	
+
+$form*£
+1w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpä ä(8Ü
+É
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpä ä(7
+%1"-joomla\cms\mvc\model\listmodel::getfilterform*97
+5joomla\component\users\administrator\model\usersmodel*	
+
+$data*
+
+	$loadDataì
+ê
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UsersModel.phpä ä(7
+$form"__id*
+
+%1*
+2
+4:
+$data:
+	$loadDataB97
+5joomla\component\users\administrator\model\usersmodel

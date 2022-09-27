@@ -1,0 +1,41 @@
+
+p__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.php_222_16f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpﬁ ﬁ("1*˘
+1f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpﬂ ﬂ(4§
+°
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpﬁ ﬁ(
+
+$container"__id*#
+!
+
+$containerjoomla\di\containeröó
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpﬂ ﬂ(3
+
+$factory"!joomla\cms\session\sessionfactoryØ
+¨
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpﬂ ﬂ(3
+%1".joomla\cms\session\sessionfactory::__construct*
+
+
+$factoryùö
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.php‡ ‡(6
+%2*
+
+
+$factory*
+
+
+$container2setcontainer"v
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.php‚ ‚($
+
+
+$factory:!
+
+$containerjoomla\di\containerB'%
+#joomla\cms\service\provider\session

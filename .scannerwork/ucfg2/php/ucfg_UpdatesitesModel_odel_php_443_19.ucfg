@@ -1,0 +1,39 @@
+
+ã__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.php_443_19Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.phpª ª("1*∑
+2
+UpdatesitesModel.php"ô
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.phpæ æ(
+implicit return*Ô
+1Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.phpº º(:≠™
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.phpº º(9
+$data"joomla\cms\object\cmsobjectÕ
+ 
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.phpº º(9
+%1"(joomla\cms\object\cmsobject::__construct*	
+
+$data*	
+
+$itemÆ
+´
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.phpΩ% Ω(K
+%2"Ojoomla\component\installer\administrator\helper\installerhelper::getdownloadkey*C"A
+?joomla\component\installer\administrator\helper\installerhelper*	
+
+$dataØ
+¨
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdatesitesModel.phpΩ Ω(K
+
+$item"
+downloadKey"__id*
+
+%2*
+2:
+$itemBCA
+?joomla\component\installer\administrator\model\updatesitesmodel

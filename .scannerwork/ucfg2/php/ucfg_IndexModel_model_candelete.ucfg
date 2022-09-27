@@ -1,0 +1,43 @@
+
+Ajoomla\component\finder\administrator\model\indexmodel::candeletev
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpW W( "1*…
+
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpY Y(KÍ
+Ê
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpW W( 	
+$record"__id*?
+=
+$record2joomla\component\finder\administrator\model\object¶
+³
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpY Y(!
+%1"joomla\cms\factory::getuser*"
+joomla\cms\factoryÏ
+Ì
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpY< Y(I
+%2"__id*F*D8
+6joomla\component\finder\administrator\model\indexmodel"
+option­ª
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpY Y(J
+%3*
+
+%1*
+core.delete*
+
+%22	authoriseÄ
+Á
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpY Y(K9
+%43joomla\component\finder\administrator\model\boolean"__id*
+
+%3"µ
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpY Y(K;
+9
+%43joomla\component\finder\administrator\model\boolean:=
+$record2joomla\component\finder\administrator\model\objectB:8
+6joomla\component\finder\administrator\model\indexmodel

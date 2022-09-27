@@ -1,0 +1,52 @@
+
+Ujoomla\component\actionlogs\administrator\model\actionlogsmodel::getlogdataasiteratorÅ
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpú ú(("1*‡
+1Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpû û(&ﬂ‹
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpû û(%
+%1*CA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel2getdatabaseú
+ô
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpû û(%
+$db"__id*
+
+%1ÌÍ
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpü ü(-
+%2*CA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel*
+
+$pks2getlogdataqueryü
+ú
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpü ü(-
+$query"__id*
+
+%2¨©
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php° °(
+%3*
+
+$db*
+
+
+$query2setquery£†
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php£ £(!
+%4*
+
+$db2getiteratorΩ
+∫
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php£ £("&
+%5 joomla\database\databaseiterator"__id*
+
+%4"Æ
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php£ £("(
+&
+%5 joomla\database\databaseiterator:
+$pksBCA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel

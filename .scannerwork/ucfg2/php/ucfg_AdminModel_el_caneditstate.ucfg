@@ -1,0 +1,42 @@
+
+-joomla\cms\mvc\model\adminmodel::caneditstateb
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÎ Î(#"1*°
+1b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÌ Ì(O¢
+ü
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÎ Î(#	
+$record"__id*(
+&
+$recordjoomla\cms\mvc\model\object¢
+ü
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÌ Ì(!
+%1"joomla\cms\factory::getuser*"
+joomla\cms\factory§
+°
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÌ@ Ì(M
+%2"__id*/*-!
+joomla\cms\mvc\model\adminmodel"
+optionùö
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÌ Ì(N
+%3*
+
+%1*
+core.edit.state*
+
+%22	authoriseô
+ñ
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÌ Ì(O"
+%4joomla\cms\mvc\model\boolean"__id*
+
+%3"ä
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpÌ Ì(O$
+"
+%4joomla\cms\mvc\model\boolean:&
+$recordjoomla\cms\mvc\model\objectB#!
+joomla\cms\mvc\model\adminmodel

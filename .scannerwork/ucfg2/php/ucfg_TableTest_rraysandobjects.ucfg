@@ -1,0 +1,254 @@
+
+Yjoomla\tests\integration\libraries\cms\table\tabletest::testbindworkswitharraysandobjectsm
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpa a(5"1*õ
+2
+TableTest.php"Ñ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpy y(
+implicit return*¸4
+1m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpc h(
+}
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpc h(	
+%1"$Array•
+¢
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpc h(	
+%2"__mapSet*
+
+%1*	
+title*
+
+Test Titleö
+ó
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpc h(	
+%3"__mapSet*
+
+%1*
+hits*2*ü
+ú
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpc h(	
+%4"__mapSet*
+
+%1*
+	published*2û
+õ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpc h(	
+%5"__mapSet*
+
+%1*
+
+ordering*2â
+Ü
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpc h(	
+$data"__id*
+
+%1∆
+√
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpj j(
+%6"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectëé
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpj j("
+%7*
+
+%6*	
+
+$data2bind∆
+√
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpl* l(7
+%8"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectë
+é
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpl* l(>
+%9"__id**
+
+%8"
+title€ÿ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpl l(?
+%10*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*
+
+Test Title*
+
+%92assertequals«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpm  m(-
+%11"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectí
+è
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpm  m(3
+%12"__id**
+
+%11"
+hits“œ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpm m(4
+%13*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*2**
+
+%122assertequals«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpn n(,
+%14"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectó
+î
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpn n(7
+%15"__id**
+
+%14"
+	published“œ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpn n(8
+%16*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*2*
+
+%152assertequals«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpo  o(-
+%17"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectñ
+ì
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpo  o(7
+%18"__id**
+
+%17"
+
+ordering“œ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpo o(8
+%19*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*2*
+
+%182assertequals«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpq q(
+%20"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectâÜ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpq q(
+%21*
+
+%202reset«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phps s(
+%22"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectò
+ï
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phps s(*
+%23"__passthrough_cast*	
+
+$dataëé
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phps s(+
+%24*
+
+%22*
+
+%232bind«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpu* u(7
+%25"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectì
+ê
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpu* u(>
+%26"__id**
+
+%25"
+title‹Ÿ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpu u(?
+%27*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*
+
+Test Title*
+
+%262assertequals«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpv  v(-
+%28"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectí
+è
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpv  v(3
+%29"__id**
+
+%28"
+hits“œ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpv v(4
+%30*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*2**
+
+%292assertequals«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpw w(,
+%31"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectó
+î
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpw w(7
+%32"__id**
+
+%31"
+	published“œ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpw w(8
+%33*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*2*
+
+%322assertequals«
+ƒ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpx  x(-
+%34"__id*F*D8
+6joomla\tests\integration\libraries\cms\table\tabletest"
+objectñ
+ì
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpx  x(7
+%35"__id**
+
+%34"
+
+ordering“œ
+m
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/Libraries/Cms/Table/TableTest.phpx x(8
+%36*:8
+6joomla\tests\integration\libraries\cms\table\tabletest*2*
+
+%352assertequals*
+2B:8
+6joomla\tests\integration\libraries\cms\table\tabletest

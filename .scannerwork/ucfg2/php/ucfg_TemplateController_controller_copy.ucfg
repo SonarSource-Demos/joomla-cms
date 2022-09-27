@@ -1,0 +1,547 @@
+
+Ljoomla\component\templates\administrator\controller\templatecontroller::copyà
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpá á("1*√
+13à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpƒ ƒ(ß§
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpƒ ƒ(
+%39*
+
+
+$model2copy*
+14
+15*ß
+14à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php≈ ≈(Z¯
+ı
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php≈" ≈(O
+%40"joomla\cms\language\text::_*"
+joomla\cms\language\text*&$
+"COM_TEMPLATES_ERROR_COULD_NOT_COPYÅ˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php≈ ≈(Y
+%41*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%40*	
+error2
+setmessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php« «(	
+false*ˆ
+15à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÀ À(qÚ
+Ô
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÀ À(
+%42"__id*U*SH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+input≤Ø
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÀ3 À(H
+%43*
+
+$app*
+
+tmp_path2getª∏
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÀQ À(o
+%44*
+
+
+$model*
+
+tmp_prefix2getstate∏
+µ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÀ3 À(o
+%45"__concat*
+
+%43*
+/*
+
+%44√¿
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÀ À(p
+%46*
+
+%42*
+install_directory*
+
+%452set
+Ì
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpŒ Œ(&
+%47"__id*S*QH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+app¿Ω
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpŒ Œ(F
+%48*
+
+%47*
+com_installer2bootcomponent≠™
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpŒ œ(!
+%49*
+
+%482getmvcfactoryÀ»
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpŒ œ(J
+%50*
+
+%49*	
+Install*
+Administrator2createmodelÆ
+´
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpŒ œ(J
+$installModel"__id*
+
+%50
+Ì
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php– –(
+%51"__id*S*QH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+app´®
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php– –(%
+%52*
+
+%512getlanguage∑¥
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php– –(<
+%53*
+
+%52*
+com_installer2load±Æ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php“ “()
+%54*
+
+$installModel2install*
+16
+17*™
+16à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php” ”(]˚
+¯
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php”" ”(R
+%55"joomla\cms\language\text::_*"
+joomla\cms\language\text*)'
+%COM_TEMPLATES_ERROR_COULD_NOT_INSTALLÅ˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php” ”(\
+%56*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%55*	
+error2
+setmessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php’ ’(	
+false*‘
+17à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÿ ÿ(UÑ
+Å
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÿ ÿ(S
+%57"!joomla\cms\language\text::sprintf*"
+joomla\cms\language\text*
+COM_TEMPLATES_COPY_SUCCESS*
+
+
+$newNameˆÛ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÿ ÿ(T
+%58*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%572
+setmessage™ß
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpŸ Ÿ(
+%59*
+
+
+$model2cleanup"ï
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php€ €(
+true*¥
+18à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpﬁ ﬁ(_Ö
+Ç
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpﬁ ﬁ(T
+%60"!joomla\cms\language\text::sprintf*"
+joomla\cms\language\text*-+
+)COM_TEMPLATES_ERROR_INVALID_TEMPLATE_NAMEÅ˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpﬁ ﬁ(^
+%61*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%60*	
+error2
+setmessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php‡ ‡(	
+false*Ô
+1à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpä ä(ÏÈ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpä ä(
+%1*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller2
+checktokenÔ
+Ï
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpå å(
+%2"__id*S*QH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+app§
+°
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpå å(
+$app"__id*
+
+%2Ò
+Ó
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpç ç(
+%3"__id*U*SH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+inputæª
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpç ç(2
+%4*
+
+%3*
+installtype*
+
+folder2setÒ
+Ó
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpé é("
+%5"__id*U*SH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+inputøº
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpé é(C
+%6*
+
+%5*
+
+new_name* *
+
+string2get´
+®
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpé é(C
+$newNameRaw"__id*
+
+%6–
+Õ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpê ê(F
+%7"preg_replace* *
+/[^a-zA-Z0-9_]/* *
+
+$newNameRaw®
+•
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpê ê(F
+
+$newName"__id*
+
+%7Ò
+Ó
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpë ë((
+%8"__id*U*SH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+input∞≠
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpë ë(9
+%9*
+
+%8*
+id*2 2getint∏
+µ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpë ë(9
+$templateID"__sanitizing_cast*
+
+%9Ú
+Ô
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpí í(+
+%10"__id*U*SH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+input∫∑
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpí í(C
+%11*
+
+%10*
+file* *
+cmd2get¥
+±
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpí í(C
+$file"__passthrough_cast*
+
+%11ÏÈ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpï ï(
+%12*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller2	allowedit*
+2
+3*Ô
+2à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpñ ñ(`ˇ
+¸
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpñ! ñ(U
+%13"joomla\cms\language\text::_*"
+joomla\cms\language\text*-+
+)JLIB_APPLICATION_ERROR_SAVE_NOT_PERMITTED√¿
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpñ ñ(_
+%14*
+
+$app*
+
+%13*	
+error2enqueuemessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpò ò(	
+false*∑
+3à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpõ õ(p˝
+˙
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpõ õ(n
+%15"__concat*42
+0index.php?option=com_templates&view=template&id=*
+
+$templateID*
+
+&file=*	
+
+$file˜Ù
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpõ õ(o
+%16*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%152setredirectåâ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpû û(=
+%17*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+Template*
+Administrator2getmodelß
+§
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpû û(=
+$model"__id*
+
+%17«ƒ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpü ü(.
+%18*
+
+
+$model*
+
+new_name*
+
+
+$newName2setstateµ
+≤
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php†' †(?
+%19"uniqid* *
+template_copy_ƒ¡
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php† †(@
+%20*
+
+
+$model*
+
+tmp_prefix*
+
+%192setstate≤Ø
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php°$ °(9
+%21*
+
+$app*
+
+tmp_path2getª∏
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php°B °(`
+%22*
+
+
+$model*
+
+tmp_prefix2getstate∏
+µ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php°$ °(`
+%23"__concat*
+
+%21*
+/*
+
+%22¡æ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php° °(a
+%24*
+
+
+$model*	
+to_path*
+
+%232setstateØ
+¨
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php§ §(
+%25"strlen* *
+
+
+$newName*
+4
+18*ä
+4à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php• •(U
+Ì
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php• •(
+%26"__id*S*QH
+Fjoomla\component\templates\administrator\controller\templatecontroller"
+app´®
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php• •(*
+%27*
+
+%262getidentityÕ 
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php• •(U
+%28*
+
+%27*
+core.create*
+com_templates2	authorise*	
+5
+8
+9*¨
+5à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpß ß(`˛
+˚
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpß" ß(U
+%29"joomla\cms\language\text::_*"
+joomla\cms\language\text*,*
+(COM_TEMPLATES_ERROR_CREATE_NOT_PERMITTEDÅ˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpß ß(_
+%30*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%29*	
+error2
+setmessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php© ©(	
+false*≠
+8à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÆ Æ(aˇ
+¸
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÆ" Æ(V
+%31"joomla\cms\language\text::_*"
+joomla\cms\language\text*-+
+)COM_TEMPLATES_ERROR_INVALID_TEMPLATE_NAMEÅ˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpÆ Æ(`
+%32*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%31*	
+error2
+setmessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php∞ ∞(	
+false* 
+9à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php¥ ¥('Ø¨
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php¥ ¥('
+%33*
+
+
+$model2checknewname*
+10
+11*∞
+10à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpµ µ(cÅ
+˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpµ" µ(X
+%34"joomla\cms\language\text::_*"
+joomla\cms\language\text*/-
++COM_TEMPLATES_ERROR_DUPLICATE_TEMPLATE_NAMEÅ˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpµ µ(b
+%35*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%34*	
+error2
+setmessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php∑ ∑(	
+false*˜
+11à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpª ª(.Æ´
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpª ª(-
+%36*
+
+
+$model2getfromname™
+ß
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpª ª(-
+	$fromName"__id*
+
+%36*
+13
+12*™
+12à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpæ æ(]˚
+¯
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpæ" æ(R
+%37"joomla\cms\language\text::_*"
+joomla\cms\language\text*)'
+%COM_TEMPLATES_ERROR_INVALID_FROM_NAMEÅ˛
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpæ æ(\
+%38*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*
+
+%37*	
+error2
+setmessage"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php¿ ¿(	
+falseBJH
+Fjoomla\component\templates\administrator\controller\templatecontroller

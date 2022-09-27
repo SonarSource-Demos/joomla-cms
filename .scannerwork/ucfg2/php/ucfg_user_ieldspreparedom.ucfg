@@ -1,0 +1,74 @@
+
+'plgfieldsuser::oncustomfieldspreparedomV
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php! !(,"1*¿
+2V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php% %("b
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php% %(
+void*µ
+3V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php( ((Hí
+ê
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php( ((G
+%3"Sjoomla\component\fields\administrator\plugin\fieldsplugin::oncustomfieldspreparedom*
+plgfieldsuser*
+
+
+$field*
+	
+$parent*	
+
+$formz
+x
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php( ((H
+%4
+domelement"__id*
+
+%3"l
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php( ((H
+
+%4
+domelement*€
+1V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php# #((€
+~
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php! !(,
+$field"__id*
+
+$fieldstdclass…
+‚
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php! !(,	
+$parent"__id*
+
+$parent
+domelement‹
+ˆ
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php! !(,
+$form"__id*
+
+$formjoomla\cms\form\formƒ
+€
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php# #(
+%1"__id**
+plgfieldsuser"
+app|z
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/user/user.php# #((
+%2*
+
+%1*
+site2isclient*
+2
+3:
+$fieldstdclass:
+$parent
+domelement:
+$formjoomla\cms\form\formB
+plgfieldsuser

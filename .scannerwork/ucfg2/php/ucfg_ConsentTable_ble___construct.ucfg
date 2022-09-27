@@ -1,0 +1,28 @@
+
+Fjoomla\component\privacy\administrator\table\consenttable::__constructy
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php$ $("1*™
+2
+ConsentTable.php"ê
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php' '(
+implicit return*œ
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php& &(>¥
+±
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php$ $(
+$db"__id*'
+%
+$dbjoomla\database\databasedriverí
+è
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php& &(=
+%1"#joomla\cms\table\table::__construct*=;
+9joomla\component\privacy\administrator\table\consenttable*
+#__privacy_consents*
+id*
+
+$db*
+2:%
+$dbjoomla\database\databasedriverB=;
+9joomla\component\privacy\administrator\table\consenttable

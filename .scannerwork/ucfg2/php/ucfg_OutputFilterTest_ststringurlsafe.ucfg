@@ -1,0 +1,41 @@
+
+Jjoomla\tests\unit\libraries\cms\filter\outputfiltertest::teststringurlsafen
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php; ;(%"1*£
+2
+OutputFilterTest.php"…
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpH H(
+implicit return*ñ	
+1n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php= A(
+³
+°
+o
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php? ?(‹
+%1"-joomla\cms\filter\outputfilter::stringurlsafe*"" 
+joomla\cms\filter\outputfilter*db
+``1234567890-=~!@#$%^&*()_+	qwertyuiop[]\QWERTYUIOP{}|asdfghjkl;\'ASDFGHJKL:"zxcvbnm,./ZXCVBNM<>?ÈÅ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php= A(	
+%2*;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest*HF
+D1234567890-qwertyuiop-qwertyuiop-asdfghjkl-asdfghjkl-zxcvbnm-zxcvbnm*
+
+%1*0.
+,Should clean keyboard string down to ASCII-72assertequalsã
+à
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpE E(<
+%3"-joomla\cms\filter\outputfilter::stringurlsafe*"" 
+joomla\cms\filter\outputfilter*
+joomla\'s versionŒ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpC G(	
+%4*;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest*
+joomlas-version*
+
+%3*,*
+(Should remove apostrophe from the string2assertequals*
+2B;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest

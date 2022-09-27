@@ -1,0 +1,37 @@
+
+]joomla\tests\unit\libraries\cms\document\documenttest::testensuresetlanguagereturnsthisobjectn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php† †(:"1*ü
+2
+DocumentTest.php"Ö
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php• •(
+implicit return*Õ
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¢ ¢(,ƒ¡
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¢ ¢(+
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2createdocumenté
+ã
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¢ ¢(+
+	$document"__id*
+
+%1†ù
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php§% §(D
+%2*
+
+	$document*	
+de-de2setlanguage◊‘
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php§ §(E
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest*
+
+	$document*
+
+%22
+assertsame*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

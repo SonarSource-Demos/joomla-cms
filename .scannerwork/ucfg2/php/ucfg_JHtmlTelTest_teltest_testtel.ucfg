@@ -1,0 +1,105 @@
+
+:joomla\tests\unit\libraries\cms\html\jhtmlteltest::testtelh
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php   ("1*˜
+2
+JHtmlTelTest.php"
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php9 9(
+implicit return* 
+1h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php" &(
+ª
+§
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php# #(/
+%1"jhtmltel::tel*"
+
+jhtmltel*
+1.9419555555*
+USÎË
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php$ $(3
+%2*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*
+(941) 955-55552stringcontainsáÞ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php" &(	
+%3*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*
+
+%1*
+
+%2*
+Testing for US format2
+assertthat­
+ª
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php) )(2
+%4"jhtmltel::tel*"
+
+jhtmltel*
+49.15123456789*
+EPPÏÌ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php* *(4
+%5*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*
++49.151234567892stringcontainsâß
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php( ,(	
+%6*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*
+
+%4*
+
+%5*
+Testing for EPP format2
+assertthat¬
+©
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php/ /(1
+%7"jhtmltel::tel*"
+
+jhtmltel*
+82.12345678*	
+ITU-TÏÌ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php0 0(4
+%8*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*
++82 12 34 56 782stringcontainsäá
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php. 2(	
+%9*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*
+
+%7*
+
+%8*
+Testing for ITU-T format2
+assertthat­
+ª
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php5 5(1
+%10"jhtmltel::tel*"
+
+jhtmltel*
+1.9413216789*
+ARPAáÞ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php6 6(E
+%11*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*$"
+ +9.8.7.6.1.2.3.1.4.9.1.e164.arpa2stringcontainsæã
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlTelTest.php4 8(	
+%12*53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest*
+
+%10*
+
+%11*
+Testing for ARPA format2
+assertthat*
+2B53
+1joomla\tests\unit\libraries\cms\html\jhtmlteltest

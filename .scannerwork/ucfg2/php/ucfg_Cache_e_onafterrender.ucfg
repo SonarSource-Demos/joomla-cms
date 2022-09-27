@@ -1,0 +1,85 @@
+
+9joomla\plugin\system\cache\extension\cache::onafterrenderh
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpü ü("1*π
+2h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php°+ °(^∑¥
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php°+ °(F
+%2*.,
+*joomla\plugin\system\cache\extension\cache2getcachecontrolleráÑ
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php°+ °(T
+%3*
+
+%22
+getcaching*
+3
+4*„
+3h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php£ £(
+"t
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php£ £(
+
+void*ß
+4h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php¶ ¶("Ø¨
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php¶ ¶(
+%4*.,
+*joomla\plugin\system\cache\extension\cache2
+isexcluded*
+5
+6*≤
+5h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php® ®(2∑¥
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php® ®(
+%5*.,
+*joomla\plugin\system\cache\extension\cache2getcachecontrolleríè
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php® ®(1
+%6*
+
+%5*	
+false2
+setcaching"t
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php™ ™(
+
+void*¿
+6h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpÆ Æ(.≥∞
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpÆ Æ(
+%7*.,
+*joomla\plugin\system\cache\extension\cache2getapplicationïí
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpÆ Æ(-
+%8*
+
+%7*
+gzip*	
+false2set*
+7*ë
+7
+	Cache.php"
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpØ Ø(
+implicit return*‘
+1h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php° °(^ù
+ö
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpü ü(
+$event"__id*
+
+$eventjoomla\event\eventºπ
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php° °('
+%1*.,
+*joomla\plugin\system\cache\extension\cache2appstatesupportscaching*
+2
+3:
+$eventjoomla\event\eventB.,
+*joomla\plugin\system\cache\extension\cache

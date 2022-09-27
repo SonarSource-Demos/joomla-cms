@@ -1,0 +1,59 @@
+
+Hjoomla\component\banners\administrator\model\downloadmodel::loadformdataz
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpM M(#"1*á
+1z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpO R(
+Š
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpO R(	
+%1"$ArrayÝÚ
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpP P(7
+%2*><
+:joomla\component\banners\administrator\model\downloadmodel*
+
+basename2getstate­
+ª
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpO R(	
+%3"__mapSet*
+
+%1*
+
+basename*
+
+%2ßÜ
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpQ Q(9
+%4*><
+:joomla\component\banners\administrator\model\downloadmodel*
+
+compressed2getstate¯
+¬
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpO R(	
+%5"__mapSet*
+
+%1*
+
+compressed*
+
+%4¤
+¡
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpO R(	
+$data"__passthrough_cast*
+
+%1ú÷
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpT T(<
+%6*><
+:joomla\component\banners\administrator\model\downloadmodel*
+com_banners.download*	
+
+$data2preprocessdata"‡
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/DownloadModel.phpV V(	
+
+$dataB><
+:joomla\component\banners\administrator\model\downloadmodel

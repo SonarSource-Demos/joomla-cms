@@ -1,0 +1,41 @@
+
+*joomla\cms\form\field\orderingfield::__setd
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpE E("3"4*≤
+3d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpI I(5è
+å
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpI% I(4
+%1"__passthrough_cast*
+
+
+$valueØ
+¨
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpI I(46%
+#joomla\cms\form\field\orderingfield"
+contentType"__id*
+
+%1*
+5*¬
+4d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpM M(-—
+Œ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpM M(,
+%2" joomla\cms\form\formfield::__set*'%
+#joomla\cms\form\field\orderingfield*	
+
+$name*
+
+
+$value*
+5*ï
+5
+OrderingField.php"{
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpO O(
+implicit return:
+$name:
+$valueB'%
+#joomla\cms\form\field\orderingfield

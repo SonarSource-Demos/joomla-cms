@@ -1,0 +1,44 @@
+
+Sjoomla\component\config\administrator\controller\applicationcontroller::__construct†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php) )("1*Á
+2
+ApplicationController.php"ž
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php/ /(
+implicit return*¹
+1†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php+ +(=Ø
+Õ
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php) )(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÆ
+Ã
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php+ +(<
+%1"5joomla\cms\mvc\controller\basecontroller::__construct*JH
+Fjoomla\component\config\administrator\controller\applicationcontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$inputþ
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php. .(,
+%2*JH
+Fjoomla\component\config\administrator\controller\applicationcontroller*	
+apply*
+save2registertask*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputBJH
+Fjoomla\component\config\administrator\controller\applicationcontroller

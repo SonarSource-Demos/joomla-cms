@@ -1,0 +1,47 @@
+
+helper\joomladb::haveindatabaseh
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php9 9(""1*Š
+1h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php; ;(*Ž
+‹
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php9 9("
+$data"__id*
+
+$dataarrayŸœ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php; ;()
+%1*
+helper\joomladb*
+
+
+$table2	addprefix…
+‚
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php; ;()
+$table"__id*
+
+%1Æ
+Ã
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php= =(4
+%2"%codeception\module\db::haveindatabase*
+helper\joomladb*
+
+
+$table*	
+
+$data‘
+Ž
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php= =(5
+%3helper\integer"__id*
+
+%2"‚
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php= =(5
+
+%3helper\integer:
+$table:
+$dataarrayB
+helper\joomladb

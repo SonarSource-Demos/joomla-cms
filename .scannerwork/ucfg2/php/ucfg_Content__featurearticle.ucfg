@@ -1,0 +1,96 @@
+
+5step\acceptance\administrator\content::featurearticle~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpG G(""1*™
+2
+Content.php"ï
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpS S(
+implicit return*ö
+1~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpI I(∫
+∑
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpI I(
+$I"__id*)'
+%step\acceptance\administrator\contentÃ
+…
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpJ J(*
+%1"__id*;*9/
+-page\acceptance\administrator\contentlistpage"
+$url£†
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpJ J(+
+%2*
+
+$I*
+
+%12amonpage’
+“
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpK K(9
+%3"__id*D*B/
+-page\acceptance\administrator\contentlistpage"
+$filterSearch©¶
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpK; K(S
+%4*
+
+$I*	
+timeout2	getconfig±Æ
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpK K(T
+%5*
+
+$I*
+
+%3*
+
+%42waitforelementØ¨
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpL L($
+%6*
+
+$I*
+
+
+$title2searchforarticle¢ü
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpM M(
+%7*
+
+$I2checkallresults±Æ
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpN N((
+%8*
+
+$I*
+
+Action2clicktoolbarbuttonùö
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpO O(
+%9*
+
+$I*22wait≥∞
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpP P()
+%10*
+
+$I*	
+feature2clicktoolbarbuttonûõ
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpQ Q(
+%11*
+
+$I*22wait£†
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Content.phpR R(
+%12*
+
+$I*
+
+
+$title2see*
+2:
+$titleB)'
+%step\acceptance\administrator\content

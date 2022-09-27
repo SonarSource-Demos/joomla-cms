@@ -1,0 +1,95 @@
+
+@joomla\component\privacy\administrator\table\consenttable::storey
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php2 2("1*Þ
+2y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php8 8(Õ
+Ò
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php8 8(
+%3"__id*I*G;
+9joomla\component\privacy\administrator\table\consenttable"
+remind*
+3
+4*Ú
+3y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php9 9($Ô
+Ñ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php9 9(#G;
+9joomla\component\privacy\administrator\table\consenttable"
+remind"__id*
+0*
+4*ß
+4y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php< <(Ö
+Ó
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php< <(
+%4"__id*J*H;
+9joomla\component\privacy\administrator\table\consenttable"	
+created*
+5
+6*õ
+5y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php= =(0–“
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php=! =(/
+%5*	
+
+$date2tosqlÖ
+Ó
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php= =(/H;
+9joomla\component\privacy\administrator\table\consenttable"	
+created"__id*
+
+%5*
+6*ü
+6y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.phpA A(+ô
+ñ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.phpA A(*
+%6"joomla\cms\table\table::store*=;
+9joomla\component\privacy\administrator\table\consenttable*
+
+$updateNullsÈ
+Å
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.phpA A(+:
+%74joomla\component\privacy\administrator\table\boolean"__id*
+
+%6"¹
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.phpA A(+<
+:
+%74joomla\component\privacy\administrator\table\boolean*
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php4 4(#Ü
+Ù
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php2 2(
+$updateNulls"__id*F
+D
+$updateNulls4joomla\component\privacy\administrator\table\boolean¹
+¶
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php4 4("
+%1"joomla\cms\factory::getdate*"
+joomla\cms\factory•
+’
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php4 4("
+$date"__id*
+
+%1Ñ
+Î
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Table/ConsentTable.php7 7(
+%2"__id*E*C;
+9joomla\component\privacy\administrator\table\consenttable"
+id*
+2
+6:D
+$updateNulls4joomla\component\privacy\administrator\table\booleanB=;
+9joomla\component\privacy\administrator\table\consenttable

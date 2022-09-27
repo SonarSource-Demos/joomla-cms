@@ -1,0 +1,38 @@
+
+ajoomla\tests\unit\libraries\cms\document\documenttest::testensuresetmodifieddatereturnsthisobjectn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÈ È(>"1*Ÿ
+2
+DocumentTest.php"…
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÍ Í(
+implicit return*Ö
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÊ Ê(,ÄÁ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÊ Ê(+
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
+‹
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÊ Ê(+
+	$document"__id*
+
+%1©¦
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÌ% Ì(M
+%2*
+
+	$document*
+
+2014-10-172setmodifieddate×Ô
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÌ Ì(N
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest*
+
+	$document*
+
+%22
+assertsame*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

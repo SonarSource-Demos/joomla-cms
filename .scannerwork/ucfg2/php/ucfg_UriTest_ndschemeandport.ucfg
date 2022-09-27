@@ -1,0 +1,53 @@
+
+ajoomla\tests\unit\libraries\cms\uri\uritest::testisinternalwheninternalwithdomainandschemeandportd
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpñ ñ(H"1*è
+2
+UriTest.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpú ú(
+implicit return*ä	
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpò õ(
+°
+û
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ô('
+%1"joomla\cms\uri\uri::base*"
+joomla\cms\uri\uri•
+¢
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ô(J
+%2"__concat*
+
+%1*" 
+index.php?option=com_somethingØ
+¨
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ô(K
+%3"joomla\cms\uri\uri::isinternal*"
+joomla\cms\uri\uri*
+
+%2°
+û
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpö ö(
+%4"joomla\cms\uri\uri::base*"
+joomla\cms\uri\uri∏
+µ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpö ö(M
+%5"__concat*
+
+%4*53
+1index.php?option=com_something should be internalºπ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpò õ(	
+%6*/-
++joomla\tests\unit\libraries\cms\uri\uritest*
+
+%3*
+
+%52
+asserttrue*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

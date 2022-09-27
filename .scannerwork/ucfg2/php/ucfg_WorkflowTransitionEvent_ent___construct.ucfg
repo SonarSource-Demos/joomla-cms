@@ -1,0 +1,42 @@
+
+>joomla\cms\event\workflow\workflowtransitionevent::__constructr
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php ("1*®
+2
+WorkflowTransitionEvent.php"‰
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php$ $(
+implicit return*â
+1r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php! !(-¢
+Ÿ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php (
+
+$arguments"__id*
+
+
+$argumentsarray¶
+³
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php! !($
+%1"__mapSet*
+
+
+$arguments*
+stopTransition*	
+false…
+‚
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php# #(.
+%2"4joomla\cms\event\workflow\abstractevent::__construct*53
+1joomla\cms\event\workflow\workflowtransitionevent*	
+
+$name*
+
+
+$arguments*
+2:
+$name:
+
+$argumentsarrayB53
+1joomla\cms\event\workflow\workflowtransitionevent

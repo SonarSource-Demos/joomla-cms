@@ -1,0 +1,96 @@
+
+Djoomla\component\newsfeeds\site\model\categoriesmodel::populatestatep
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpD D($"1*§
+2
+CategoriesModel.php"á
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpR R(
+implicit return*€
+1p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpF F()∑
+¥
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpF F((
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factoryã
+à
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpF F((
+$app"__id*
+
+%1Ã
+…
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpG, G(=
+%2"__id*I*G7
+5joomla\component\newsfeeds\site\model\categoriesmodel"
+
+_extensionﬁ€
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpG G(>
+%3*97
+5joomla\component\newsfeeds\site\model\categoriesmodel*
+filter.extension*
+
+%22setstateñ
+ì
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpJ J(
+%4"__id**
+
+$app"
+inputìê
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpJ J(-
+%5*
+
+%4*
+id2getintê
+ç
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpJ J(-
+	$parentId"__id*
+
+%5‰·
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpK K(5
+%6*97
+5joomla\component\newsfeeds\site\model\categoriesmodel*
+filter.parentId*
+
+	$parentId2setstateêç
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpM M(#
+%7*
+
+$app2	getparamsé
+ã
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpM M(#	
+$params"__id*
+
+%7Ÿ÷
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpN N(*
+%8*97
+5joomla\component\newsfeeds\site\model\categoriesmodel*
+
+params*
+	
+$params2setstate‹Ÿ
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpP P(.
+%9*97
+5joomla\component\newsfeeds\site\model\categoriesmodel*
+filter.published*22setstateﬁ€
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Model/CategoriesModel.phpQ Q(.
+%10*97
+5joomla\component\newsfeeds\site\model\categoriesmodel*
+filter.access*
+true2setstate*
+2:
+	$ordering:
+
+$directionB97
+5joomla\component\newsfeeds\site\model\categoriesmodel

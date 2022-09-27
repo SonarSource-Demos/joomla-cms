@@ -1,0 +1,36 @@
+
+?joomla\component\users\administrator\model\groupmodel::gettableu
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/GroupModel.phpD D("1*¡
+1u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/GroupModel.phpF F(>Ê
+„
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/GroupModel.phpF F(=
+%1"#joomla\cms\table\table::getinstance*"
+joomla\cms\table\table*	
+
+$type*
+	
+$prefix*
+	
+$configì
+ê
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/GroupModel.phpF F(=	
+$return"__id*
+
+%1´
+®
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/GroupModel.phpH H(
+%2joomla\cms\table\table"__id*
+	
+$return"ó
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/GroupModel.phpH H(
+
+%2joomla\cms\table\table:
+$type:	
+$prefix:	
+$configB97
+5joomla\component\users\administrator\model\groupmodel

@@ -1,0 +1,28 @@
+
+Fjoomla\component\languages\administrator\model\languagemodel::gettable|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Model/LanguageModel.phpC C("1*Å
+1|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Model/LanguageModel.phpE E(Fð
+í
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Model/LanguageModel.phpE E(E
+%1"#joomla\cms\table\table::getinstance*"
+joomla\cms\table\table*
+
+Language*
+Joomla\\CMS\\Table\\­
+ª
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Model/LanguageModel.phpE E(F
+%2joomla\cms\table\table"__id*
+
+%1"ž
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Model/LanguageModel.phpE E(F
+
+%2joomla\cms\table\table:
+$name:	
+$prefix:
+
+$optionsB@>
+<joomla\component\languages\administrator\model\languagemodel

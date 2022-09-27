@@ -1,0 +1,30 @@
+
+Jjoomla\component\contenthistory\administrator\model\historymodel::gettable‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpÜ Ü("1*Þ
+1‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpÞ Þ(;ô
+ñ
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpÞ Þ(:
+%1"#joomla\cms\table\table::getinstance*"
+joomla\cms\table\table*	
+
+$type*
+	
+$prefix*
+	
+$config´
+±
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpÞ Þ(;
+%2joomla\cms\table\table"__id*
+
+%1"¥
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpÞ Þ(;
+
+%2joomla\cms\table\table:
+$type:	
+$prefix:	
+$configBDB
+@joomla\component\contenthistory\administrator\model\historymodel

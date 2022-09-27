@@ -1,0 +1,78 @@
+
+:joomla\plugin\editors\tinymce\field\uploaddirsfield::setupo
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php* *("1*Ö
+1o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php, ,(:¶
+£
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php* *(
+
+$element"__id*
+
+$elementsimplexmlelementá
+Ñ
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php, ,(9
+%1",joomla\cms\form\field\folderlistfield::setup*75
+3joomla\plugin\editors\tinymce\field\uploaddirsfield*
+
+
+$element*
+
+
+$value*
+
+
+$groupç
+ä
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php, ,(9	
+$return"__id*
+
+%1‰
+·
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php/ /(D
+%2"/joomla\cms\component\componenthelper::getparams*("&
+$joomla\cms\component\componenthelper*
+	com_mediaóî
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php/ /(W
+%3*
+
+%2*
+
+image_path2get»
+≈
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php/ /(WD5
+3joomla\plugin\editors\tinymce\field\uploaddirsfield"
+	directory"__id*
+
+%3 
+«
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php0 0(!D5
+3joomla\plugin\editors\tinymce\field\uploaddirsfield"
+	recursive"__id*
+trueÃ
+…
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php1 1(!F5
+3joomla\plugin\editors\tinymce\field\uploaddirsfield"
+hideDefault"__id*
+true∫
+∑
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php3 3(1
+%4+joomla\plugin\editors\tinymce\field\boolean"__id*
+	
+$return"¶
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/UploaddirsField.php3 3(3
+1
+%4+joomla\plugin\editors\tinymce\field\boolean:
+$elementsimplexmlelement:
+$value:
+$groupB75
+3joomla\plugin\editors\tinymce\field\uploaddirsfield

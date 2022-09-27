@@ -1,0 +1,70 @@
+
+!medialistcest::selectsinglefolderé
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php≤ ≤(#"1*¡
+2
+MediaListCest.php"¶
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpπ π(
+implicit return*å
+1é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php¥ ¥(BÕ
+ 
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php≤ ≤(#
+$I"__id*+
+)
+$I#step\acceptance\administrator\media·ﬁ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php¥ ¥(A
+%1*
+
+$I*1/
+-that it is possible to select a single folder2
+wanttotest€
+ÿ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpµ µ("
+%2"__id*9*7-
++page\acceptance\administrator\medialistpage"
+$url¥±
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpµ µ(#
+%3*
+
+$I*
+
+%22amonpage∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php∂ ∂(
+%4*
+
+$I2waitformedialoadedã
+à
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php∑ ∑(*
+%5"1page\acceptance\administrator\medialistpage::item*/"-
++page\acceptance\administrator\medialistpage*	
+banners±Æ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php∑ ∑(+
+%6*
+
+$I*
+
+%52click‰
+·
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php∏ ∏(6
+%7"__id*B*@-
++page\acceptance\administrator\medialistpage"
+$itemSelected≈¬
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php∏ ∏(:
+%8*
+
+$I*
+
+%7*22seenumberofelements*
+2:)
+$I#step\acceptance\administrator\mediaB
+medialistcest

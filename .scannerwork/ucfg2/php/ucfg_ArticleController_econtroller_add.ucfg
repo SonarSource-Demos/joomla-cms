@@ -1,0 +1,78 @@
+
+?joomla\component\content\site\controller\articlecontroller::addu
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.php> >("1*¨
+2u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpB B(7ÏÌ
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpB B(5
+%2*><
+:joomla\component\content\site\controller\articlecontroller2getreturnpageÕÒ
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpB B(6
+%3*><
+:joomla\component\content\site\controller\articlecontroller*
+
+%22setredirect"
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpD D(
+void*ƒ
+3u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpH N(
+Ò
+Ï
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpJ& J(3
+%4"__id*J*H<
+:joomla\component\content\site\controller\articlecontroller"
+optionÕ
+Ò
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpJA J(Q
+%5"__id*M*K<
+:joomla\component\content\site\controller\articlecontroller"
+	view_itemÙÖ
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpK K(2
+%6*><
+:joomla\component\content\site\controller\articlecontroller2getredirecttoitemappendÒ
+Ï
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpJ K(2
+%7"__concat*
+index.php?option=*
+
+%4*
+
+&view=*
+
+%5*	
+&a_id=0*
+
+%6Ì
+É
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpI M(
+%8"joomla\cms\router\route::_*"
+joomla\cms\router\route*
+
+%7*	
+falseÕÒ
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpH N(	
+%9*><
+:joomla\component\content\site\controller\articlecontroller*
+
+%82setredirect"
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.phpP P(
+true*ô
+1u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.php@ @(ï
+ì
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Controller/ArticleController.php@ @(
+%1"-joomla\cms\mvc\controller\formcontroller::add*><
+:joomla\component\content\site\controller\articlecontroller*
+2
+3B><
+:joomla\component\content\site\controller\articlecontroller

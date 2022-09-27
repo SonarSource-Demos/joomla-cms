@@ -1,0 +1,48 @@
+
+Ojoomla\component\installer\administrator\controller\discovercontroller::install†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php6 6("1*¾
+2
+DiscoverController.php"ž
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php> >(
+implicit return*Ò
+1†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php8 8(êç
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php8 8(
+%1*JH
+Fjoomla\component\installer\administrator\controller\discovercontroller2
+checktokenöó
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php; ;(,
+%2*JH
+Fjoomla\component\installer\administrator\controller\discovercontroller*
+
+discover2getmodel¤
+¡
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php; ;(,
+$model"__id*
+
+%2°­
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php< <("
+%3*
+
+
+$model2discover_installˆ
+…
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php= =(Z
+%4"joomla\cms\router\route::_*"
+joomla\cms\router\route*0.
+,index.php?option=com_installer&view=discover*	
+falseóð
+†
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php= =([
+%5*JH
+Fjoomla\component\installer\administrator\controller\discovercontroller*
+
+%42setredirect*
+2BJH
+Fjoomla\component\installer\administrator\controller\discovercontroller

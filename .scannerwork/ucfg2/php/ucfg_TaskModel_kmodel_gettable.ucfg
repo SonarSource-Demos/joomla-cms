@@ -1,0 +1,32 @@
+
+Bjoomla\component\scheduler\administrator\model\taskmodel::gettablez
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Model/TaskModel.phpý ý("1*ã
+1z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Model/TaskModel.phpÿ ÿ(:”
+‘
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Model/TaskModel.phpÿ ÿ(9
+%1")joomla\cms\mvc\model\adminmodel::gettable*<:
+8joomla\component\scheduler\administrator\model\taskmodel*	
+
+$name*
+	
+$prefix*
+
+
+$options«
+¨
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Model/TaskModel.phpÿ ÿ(:
+%2joomla\cms\table\table"__id*
+
+%1"œ
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Model/TaskModel.phpÿ ÿ(:
+
+%2joomla\cms\table\table:
+$name:	
+$prefix:
+
+$optionsB<:
+8joomla\component\scheduler\administrator\model\taskmodel

@@ -1,0 +1,47 @@
+
+-joomla\cms\log\loggerregistry::getloggerclass^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php. .(""1*˚
+3^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php4 4(&°
+û
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php4 4(
+%2"__id*0*.
+joomla\cms\log\loggerregistry"
+	loggerMapá
+Ñ
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php4 4(%
+%3"
+__arrayGet*
+
+%2*
+
+$key"h
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php4 4(&
+
+%3*ê
+4
+LoggerRegistry.php"u
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php5 5(
+implicit return*ï
+1^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php0 0(#É
+Ä
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php. .("
+$key"__id*
+
+$keystring°û
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/LoggerRegistry.php0 0(#
+%1*!
+joomla\cms\log\loggerregistry*
+
+$key2	haslogger*
+3
+4:
+$keystringB!
+joomla\cms\log\loggerregistry

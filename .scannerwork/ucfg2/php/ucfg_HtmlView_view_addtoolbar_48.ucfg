@@ -1,0 +1,23 @@
+
+Kjoomla\component\installer\administrator\view\warnings\htmlview::addtoolbar
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Warnings/HtmlView.php2 2(!"1*¨
+2
+HtmlView.php"ñ
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Warnings/HtmlView.php7 7(
+implicit return*ü
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Warnings/HtmlView.php4 4(ù
+ö
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Warnings/HtmlView.php4 4(
+%1"Ljoomla\component\installer\administrator\view\installer\htmlview::addtoolbar*CA
+?joomla\component\installer\administrator\view\warnings\htmlviewÛ
+
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Warnings/HtmlView.php6 6(4
+%2"&joomla\cms\toolbar\toolbarhelper::help*$""
+ joomla\cms\toolbar\toolbarhelper*
+Information:_Warnings*
+2BCA
+?joomla\component\installer\administrator\view\warnings\htmlview

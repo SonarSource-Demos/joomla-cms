@@ -1,0 +1,28 @@
+
+5joomla\tests\unit\libraries\cms\uri\uritest::testrootb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpi i("1*ç
+2
+UriTest.php"y
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpo o(
+implicit return*ê
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpk n(
+æ
+ª
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpl l(.
+%1"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri*	
+false*
+/administrator‡›
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpk n(	
+%2*/-
++joomla\tests\unit\libraries\cms\uri\uritest*
+
+%1*,*
+(http://www.example.com:80/administrator/2
+assertsame*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

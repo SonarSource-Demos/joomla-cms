@@ -1,0 +1,44 @@
+
+8joomla\tests\unit\libraries\cms\uri\uritest::testsetpathd
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÆ Æ("1*è
+2
+UriTest.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php∑ ∑(
+implicit return*é
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php∞ ∞(@≤
+Ø
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php∞ ∞(
+%1"__id*;*9-
++joomla\tests\unit\libraries\cms\uri\uritest"
+object£†
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php∞ ∞(?
+%2*
+
+%1*!
+/this/is/a/path/to/a/file.htm2setpath≤
+Ø
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php¥ ¥(
+%3"__id*;*9-
++joomla\tests\unit\libraries\cms\uri\uritest"
+object}
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php¥ ¥($
+%4*
+
+%32getpathåâ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php≤ ∂(	
+%5*/-
++joomla\tests\unit\libraries\cms\uri\uritest*!
+/this/is/a/path/to/a/file.htm*
+
+%4*31
+/The URI's path attribute was not set correctly.2
+assertsame*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

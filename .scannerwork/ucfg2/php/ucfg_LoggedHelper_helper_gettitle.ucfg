@@ -1,0 +1,31 @@
+
+@joomla\module\logged\administrator\helper\loggedhelper::gettitlev
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_logged/src/Helper/LoggedHelper.phpQ Q(#"1*½
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_logged/src/Helper/LoggedHelper.phpS S(J³
+°
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_logged/src/Helper/LoggedHelper.phpQ Q(#	
+$params"__id*%
+#
+$paramsjoomla\registry\registry¤¡
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_logged/src/Helper/LoggedHelper.phpS0 S(H
+%1*
+	
+$params*	
+count*22getß
+Ü
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_logged/src/Helper/LoggedHelper.phpS S(I
+%2" joomla\cms\language\text::plural*"
+joomla\cms\language\text*
+MOD_LOGGED_TITLE*
+
+%1"€
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_logged/src/Helper/LoggedHelper.phpS S(J
+
+%2:#
+$paramsjoomla\registry\registryB:8
+6joomla\module\logged\administrator\helper\loggedhelper

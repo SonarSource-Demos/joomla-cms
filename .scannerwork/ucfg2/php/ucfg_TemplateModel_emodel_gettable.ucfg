@@ -1,0 +1,32 @@
+
+Bjoomla\component\mails\administrator\model\templatemodel::gettablez
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplateModel.phpï ï("1*ã
+1z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplateModel.phpñ ñ(:”
+‘
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplateModel.phpñ ñ(9
+%1")joomla\cms\mvc\model\adminmodel::gettable*<:
+8joomla\component\mails\administrator\model\templatemodel*	
+
+$name*
+	
+$prefix*
+
+
+$options«
+¨
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplateModel.phpñ ñ(:
+%2joomla\cms\table\table"__id*
+
+%1"œ
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplateModel.phpñ ñ(:
+
+%2joomla\cms\table\table:
+$name:	
+$prefix:
+
+$optionsB<:
+8joomla\component\mails\administrator\model\templatemodel

@@ -1,0 +1,62 @@
+
+)joomla\cms\mail\mailtemplate::__construct]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php[ [("1*ã
+2]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpa a($°
+û
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpa a(#*
+joomla\cms\mail\mailtemplate"
+mailer"__id*
+	
+$mailer*
+4*®
+3]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpc c(1ü
+ú
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpc c(0
+%1"joomla\cms\factory::getmailer*"
+joomla\cms\factoryú
+ô
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpc c(0*
+joomla\cms\mail\mailtemplate"
+mailer"__id*
+
+%1*
+4*ç
+4
+MailTemplate.php"t
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpe e(
+implicit return*ÿ
+1]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php] ]()ñ
+ì
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php[ [(	
+$mailer"__id*!
+
+$mailerjoomla\cms\mail\mail™
+ß
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php] ]((/
+joomla\cms\mail\mailtemplate"
+template_id"__id*
+
+$templateId•
+¢
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php^ ^(#,
+joomla\cms\mail\mailtemplate"
+
+language"__id*
+
+	$language*
+2
+3:
+$templateId:
+	$language:
+$mailerjoomla\cms\mail\mailB 
+joomla\cms\mail\mailtemplate

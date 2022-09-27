@@ -1,0 +1,185 @@
+
+@joomla\component\tags\site\controller\displaycontroller::displayr
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php! !("1*‡
+2r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php)  )([À
+»
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php)! )(-
+%8"__id*F*D9
+7joomla\component\tags\site\controller\displaycontroller"
+inputêç
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php)! )(:
+%9*
+
+%82	getmethod*
+5
+6*î
+5r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php* *(ï
+í
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php* *(
+	$cachable"__id*	
+false*
+6*À
+6r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(
+ÜÉ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%10"$Array§
+°
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%11"__mapSet*
+
+%10*
+id*	
+ARRAY¶
+£
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%12"__mapSet*
+
+%10*
+type*	
+ARRAY¶
+£
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%13"__mapSet*
+
+%10*	
+limit*
+UINT´
+®
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%14"__mapSet*
+
+%10*
+
+limitstart*
+UINT¨
+©
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%15"__mapSet*
+
+%10*
+filter_order*
+CMD∞
+≠
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%16"__mapSet*
+
+%10*
+filter_order_Dir*
+CMD§
+°
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+%17"__mapSet*
+
+%10*
+lang*
+CMDò
+ï
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php- 5(	
+$safeurlparams"__id*
+
+%10ë
+é
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php7 7(9
+%18"1joomla\cms\mvc\controller\basecontroller::display*;9
+7joomla\component\tags\site\controller\displaycontroller*
+
+	$cachable*
+
+$safeurlparamsª
+∏
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php7 7(:3
+%19,joomla\component\tags\site\controller\static"__id*
+
+%18"´
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php7 7(:5
+3
+%19,joomla\component\tags\site\controller\static*∆
+1r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php# #(*»
+≈
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php! !(
+	$cachable"__id*<
+:
+	$cachable-joomla\component\tags\site\controller\boolean…
+∆
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php# #(
+%1"__id*D*B9
+7joomla\component\tags\site\controller\displaycontroller"
+appíè
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php# #()
+%2*
+
+%12getidentityé
+ã
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php# #()
+$user"__id*
+
+%2À
+»
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php& &(
+%3"__id*F*D9
+7joomla\component\tags\site\controller\displaycontroller"
+inputûõ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php& &(2
+%4*
+
+%3*
+view*
+tags2getè
+å
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php& &(2
+$vName"__id*
+
+%4À
+»
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php' '(
+%5"__id*F*D9
+7joomla\component\tags\site\controller\displaycontroller"
+input†ù
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php' '()
+%6*
+
+%5*
+view*
+
+
+$vName2setïí
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Controller/DisplayController.php) )(
+%7*	
+
+$user*
+id2get*
+2
+5::
+	$cachable-joomla\component\tags\site\controller\boolean:
+
+$urlparamsB;9
+7joomla\component\tags\site\controller\displaycontroller

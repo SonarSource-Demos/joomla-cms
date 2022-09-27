@@ -1,0 +1,44 @@
+
+Ejoomla\component\config\site\controller\configcontroller::__constructs
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/ConfigController.php& &("1*¨
+2
+ConfigController.php"Š
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/ConfigController.php+ +(
+implicit return*Í
+1s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/ConfigController.php( ((=Ä
+Á
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/ConfigController.php& &(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface¤
+¡
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/ConfigController.php( ((<
+%1"5joomla\cms\mvc\controller\basecontroller::__construct*<:
+8joomla\component\config\site\controller\configcontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$inputßÜ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/ConfigController.php* *(,
+%2*<:
+8joomla\component\config\site\controller\configcontroller*	
+apply*
+save2registertask*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputB<:
+8joomla\component\config\site\controller\configcontroller

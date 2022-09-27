@@ -1,0 +1,27 @@
+
+%joomla\cms\menu\abstractmenu::setuser_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpä ä("1*è
+2
+AbstractMenu.php"v
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpç ç(
+implicit return*®
+1_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpå å("î
+ë
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpä ä(
+$user"__id*
+
+$userjoomla\cms\user\user•
+¢
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpå å(!.
+joomla\cms\menu\abstractmenu"
+
+storedUser"__id*	
+
+$user*
+2:
+$userjoomla\cms\user\userB 
+joomla\cms\menu\abstractmenu

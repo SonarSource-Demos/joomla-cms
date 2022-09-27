@@ -1,0 +1,28 @@
+
+Djoomla\component\redirect\administrator\table\linktable::__constructw
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Table/LinkTable.php! !("1*¥
+2
+LinkTable.php"Ž
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Table/LinkTable.php$ $(
+implicit return*Å
+1w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Table/LinkTable.php# #(<²
+¯
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Table/LinkTable.php! !(
+$db"__id*'
+%
+$dbjoomla\database\databasedriverŒ
+‰
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Table/LinkTable.php# #(;
+%1"#joomla\cms\table\table::__construct*;9
+7joomla\component\redirect\administrator\table\linktable*
+#__redirect_links*
+id*
+
+$db*
+2:%
+$dbjoomla\database\databasedriverB;9
+7joomla\component\redirect\administrator\table\linktable

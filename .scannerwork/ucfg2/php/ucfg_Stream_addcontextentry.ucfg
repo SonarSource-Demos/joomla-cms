@@ -1,0 +1,67 @@
+
+-joomla\cms\filesystem\stream::addcontextentry_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpõ õ(#"1*‰
+2
+
+Stream.php"v
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpù ù(
+implicit return*—
+1_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php÷ ÷(8¦
+£
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php÷ ÷(
+%1"__id*4*2
+joomla\cms\filesystem\stream"
+contextOptionsŒ
+‰
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php÷ ÷('
+%2"
+__arrayGet*
+
+%1*
+
+
+$wrapper•
+’
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php÷ ÷(.
+%3"
+__arraySet*
+
+%2*	
+
+$name*
+
+
+$value¦
+£
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php÷ ÷(
+%4"__id*4*2
+joomla\cms\filesystem\stream"
+contextOptions”
+‘
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php÷ ÷('
+%5"
+__arraySet*
+
+%4*
+
+
+$wrapper*
+
+%2›˜
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpø ø(
+%6* 
+joomla\cms\filesystem\stream2_buildcontext*
+2:
+
+$wrapper:
+$name:
+$valueB 
+joomla\cms\filesystem\stream

@@ -1,0 +1,34 @@
+
+6step\acceptance\administrator\media::clickonlinkintree~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php¶ ¶(%"1*¨
+2
+	Media.php"•
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpº º(
+implicit return*Ä
+1~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php¸ ¸(¸
+µ
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php¸ ¸(
+$I"__id*'%
+#step\acceptance\administrator\mediaÐ
+Í
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php¹ ¹(2
+%1"__id*?*=-
++page\acceptance\administrator\medialistpage"
+
+$mediaTree«¨
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php¹ ¹(3
+%2*
+
+$I*	
+
+$link*
+
+%12click*
+2:
+$linkB'%
+#step\acceptance\administrator\media

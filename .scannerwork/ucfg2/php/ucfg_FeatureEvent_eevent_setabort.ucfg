@@ -1,0 +1,48 @@
+
+Ijoomla\component\content\administrator\event\model\featureevent::setabort
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpO O("1*°
+2
+FeatureEvent.php"–
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpS S(
+implicit return*õ
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpQ Q()ª
+§
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpO O(	
+$reason"__id*
+
+$reasonstringä
+á
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpQ Q(
+%1"__id*R*PA
+?joomla\component\content\administrator\event\model\featureevent"
+	arguments±
+®
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpQ Q(!
+%2"__mapSet*
+
+%1*	
+abort*
+trueä
+á
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpR R(
+%3"__id*R*PA
+?joomla\component\content\administrator\event\model\featureevent"
+	argumentsº
+·
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Event/Model/FeatureEvent.phpR R('
+%4"__mapSet*
+
+%3*
+abortReason*
+	
+$reason*
+2:
+$reasonstringBCA
+?joomla\component\content\administrator\event\model\featureevent

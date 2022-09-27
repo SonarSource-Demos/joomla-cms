@@ -1,0 +1,87 @@
+
+*plgworkflowpublishing::getsubscribedeventsd
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpH H(."1*þ
+1d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(
+vt
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%1"$Array©
+¦
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%2"__mapSet*
+
+%1*
+onAfterDisplay*
+onAfterDisplayÁ
+¾
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%3"__mapSet*
+
+%1*
+onContentBeforeChangeState*
+onContentBeforeChangeState³
+°
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%4"__mapSet*
+
+%1*
+onContentBeforeSave*
+onContentBeforeSaveµ
+²
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%5"__mapSet*
+
+%1*
+onContentPrepareForm*
+onContentPrepareFormË
+È
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%6"__mapSet*
+
+%1*#!
+onContentVersioningPrepareTable*#!
+onContentVersioningPrepareTable±
+®
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%7"__mapSet*
+
+%1*
+onTableBeforeStore*
+onTableBeforeStore¿
+¼
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%8"__mapSet*
+
+%1*
+onWorkflowAfterTransition*
+onWorkflowAfterTransitionÁ
+¾
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%9"__mapSet*
+
+%1*
+onWorkflowBeforeTransition*
+onWorkflowBeforeTransitionÄ
+Á
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(	
+%10"__mapSet*
+
+%1*
+onWorkflowFunctionalityUsed*
+onWorkflowFunctionalityUsed"n
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpJ T(
+
+
+%1B
+plgworkflowpublishing

@@ -1,0 +1,153 @@
+
+)joomla\cms\mvc\view\categoryview::addfeedc
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php¨ ¨("1*⁄
+2c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.phpØ Ø(2ï
+í
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.phpØ Ø(1
+$link"__id*
+&format=feed&limitstart=us
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php∞ ∞(S
+%3"$Array£
+†
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php∞ ∞(S
+%4"__mapSet*
+
+%3*
+type*
+application/rss+xmlò
+ï
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php∞ ∞(S
+%5"__mapSet*
+
+%3*	
+title*	
+RSS 2.0Å
+
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php∞ ∞(S
+
+$attribs"__id*
+
+%3®
+•
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php± ±(
+%6"__id*2*0"
+ joomla\cms\mvc\view\categoryview"
+
+documentí
+è
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php±2 ±(E
+%7"__concat*	
+
+$link*
+	&type=rssØ
+¨
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php±) ±(F
+%8"joomla\cms\router\route::_*"
+joomla\cms\router\route*
+
+%7±Æ
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php± ±(e
+%9*
+
+%6*
+
+%8*
+	alternate*
+rel*
+
+
+$attribs2addheadlinkvt
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≤ ≤(U
+%10"$Array¶
+£
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≤ ≤(U
+%11"__mapSet*
+
+%10*
+type*
+application/atom+xmlõ
+ò
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≤ ≤(U
+%12"__mapSet*
+
+%10*	
+title*
+
+Atom 1.0É
+Ä
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≤ ≤(U
+
+$attribs"__id*
+
+%10©
+¶
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≥ ≥(
+%13"__id*2*0"
+ joomla\cms\mvc\view\categoryview"
+
+documentî
+ë
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≥2 ≥(F
+%14"__concat*	
+
+$link*
+
+&type=atom±
+Æ
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≥) ≥(G
+%15"joomla\cms\router\route::_*"
+joomla\cms\router\route*
+
+%14¥±
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.php≥ ≥(f
+%16*
+
+%13*
+
+%15*
+	alternate*
+rel*
+
+
+$attribs2addheadlink*
+3*ì
+3
+CategoryView.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.phpµ µ(
+implicit return*±
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.phpÆ Æ(8¶
+£
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.phpÆ Æ(
+%1"__id*0*."
+ joomla\cms\mvc\view\categoryview"
+paramsïí
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/View/CategoryView.phpÆ Æ(3
+%2*
+
+%1*
+show_feed_link*22get*
+2
+3B$"
+ joomla\cms\mvc\view\categoryview

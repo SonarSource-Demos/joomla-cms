@@ -1,0 +1,153 @@
+
+-joomla\cms\feed\parser\rssparser::handleclouda
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpC C(""1*é
+2
+RssParser.php"x
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpM M(
+implicit return*Ö
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpE E(!ñ
+ì
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpC C("
+$feed"__id*
+
+$feedjoomla\cms\feed\feedé
+ã
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpC C("
+$el"__id*
+
+$elsimplexmlelementyw
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpE E( 
+$cloud"stdclassè
+å
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpE E( 
+%1"stdclass::__construct*
+
+
+$cloudã
+à
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpF- F(:
+%2"__mapGet*
+
+$el*
+
+domainà
+Ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpF$ F(:
+%3"__passthrough_cast*
+
+%2ä
+á
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpF F(:
+
+$cloud"
+domain"__id*
+
+%3â
+Ü
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpG- G(8
+%4"__mapGet*
+
+$el*
+portà
+Ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpG$ G(8
+%5"__passthrough_cast*
+
+%4à
+Ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpG G(8
+
+$cloud"
+port"__id*
+
+%5â
+Ü
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpH- H(8
+%6"__mapGet*
+
+$el*
+pathà
+Ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpH$ H(8
+%7"__passthrough_cast*
+
+%6à
+Ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpH H(8
+
+$cloud"
+path"__id*
+
+%7ç
+ä
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpI- I(<
+%8"__mapGet*
+
+$el*
+
+protocolà
+Ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpI$ I(<
+%9"__passthrough_cast*
+
+%8å
+â
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpI I(<
+
+$cloud"
+
+protocol"__id*
+
+%9ó
+î
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpJ- J(E
+%10"__mapGet*
+
+$el*
+registerProcedureä
+á
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpJ$ J(E
+%11"__passthrough_cast*
+
+%10ñ
+ì
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpJ J(E
+
+$cloud"
+registerProcedure"__id*
+
+%11å
+â
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpL L(
+
+$feed"
+cloud"__id*
+
+
+$cloud*
+2:
+$feedjoomla\cms\feed\feed:
+$elsimplexmlelementB$"
+ joomla\cms\feed\parser\rssparser

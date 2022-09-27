@@ -1,0 +1,53 @@
+
+Ijoomla\component\joomlaupdate\administrator\view\update\htmlview::displayÄ
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php   ("1*Æ
+2
+HtmlView.php"ò
+Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php) )(
+implicit return*ù
+1Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php" "(D»
+≈
+Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php" "(!
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory•
+¢
+Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php" "((
+%2"__id**
+
+%1"
+inputµ≤
+Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php" "(C
+%3*
+
+%2*
+hidemainmenu*
+true2setÊ
+„
+Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php% %(A
+%4"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+COM_JOOMLAUPDATE_OVERVIEWı
+Ú
+Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php% %(R
+%5"'joomla\cms\toolbar\toolbarhelper::title*$""
+ joomla\cms\toolbar\toolbarhelper*
+
+%4*
+sync installÉ
+Ä
+Ä
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/src/View/Update/HtmlView.php( ((
+%6"%joomla\cms\mvc\view\htmlview::display*DB
+@joomla\component\joomlaupdate\administrator\view\update\htmlview*
+
+$tpl*
+2:
+$tplBDB
+@joomla\component\joomlaupdate\administrator\view\update\htmlview

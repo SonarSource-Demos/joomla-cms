@@ -1,0 +1,43 @@
+
+Kjoomla\component\templates\administrator\extension\templatescomponent::bootÖ
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php) )("1*Ω
+2
+TemplatesComponent.php"ù
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php, ,(
+implicit return*Ã	
+1Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php+ +(E—
+Œ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php) )(
+
+$container"__id*0
+.
+
+$container psr\container\containerinterfaceÈÊ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php+ +(
+%1*IG
+Ejoomla\component\templates\administrator\extension\templatescomponent2getregistry“œ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php+4 +(C
+%2"?joomla\component\templates\administrator\service\html\templatesÁ
+‰
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php+4 +(C
+%3"Ljoomla\component\templates\administrator\service\html\templates::__construct*
+
+%2∫∑
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Extension/TemplatesComponent.php+ +(D
+%4*
+
+%1*
+	templates*
+
+%22register*
+2:.
+
+$container psr\container\containerinterfaceBIG
+Ejoomla\component\templates\administrator\extension\templatescomponent

@@ -1,0 +1,26 @@
+
+Cjoomla\component\admin\administrator\view\help\htmlview::addtoolbarw
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/View/Help/HtmlView.phpZ Z(!"1*¤
+2
+HtmlView.php"Ž
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/View/Help/HtmlView.php] ](
+implicit return*Ê
+1w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/View/Help/HtmlView.php\ \(OÑ
+Î
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/View/Help/HtmlView.php\ \(6
+%1"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+COM_ADMIN_HELPò
+ï
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/View/Help/HtmlView.php\ \(N
+%2"'joomla\cms\toolbar\toolbarhelper::title*$""
+ joomla\cms\toolbar\toolbarhelper*
+
+%1*
+support help_header*
+2B;9
+7joomla\component\admin\administrator\view\help\htmlview

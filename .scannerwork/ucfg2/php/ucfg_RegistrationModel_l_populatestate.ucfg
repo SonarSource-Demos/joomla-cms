@@ -1,0 +1,43 @@
+
+Bjoomla\component\users\site\model\registrationmodel::populatestatep
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpä ä($"1*¶
+2
+RegistrationModel.php"á
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpí í(
+implicit return*œ
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpç ç()∑
+¥
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpç ç((
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factoryã
+à
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpç ç((
+$app"__id*
+
+%1üú
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpé é(.
+%2*
+
+$app*
+	com_users2	getparamsé
+ã
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpé é(.	
+$params"__id*
+
+%2◊‘
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/RegistrationModel.phpë ë(*
+%3*75
+3joomla\component\users\site\model\registrationmodel*
+
+params*
+	
+$params2setstate*
+2B75
+3joomla\component\users\site\model\registrationmodel

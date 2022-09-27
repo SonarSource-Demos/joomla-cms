@@ -1,0 +1,52 @@
+
+,joomla\cms\toolbar\toolbarhelper::inlinehelpc
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpª ª(%"1*î
+2
+ToolbarHelper.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php√ √(
+implicit return*ã
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpΩ Ω(/å
+â
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpª ª(%
+$class"__id*
+
+$classstringƒ
+¡
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpΩ Ω(.
+%1"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbar}
+{
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpΩ Ω(.
+$bar"__id*
+
+%1öó
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¿ ¿(,
+%2*
+
+$bar*
+
+inlinehelp2inlinehelpbuttonèå
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¿ ¡(!
+%3*
+
+%2*
+
+
+$class2targetclassóî
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¿ ¬(+
+%4*
+
+%3*
+fa fa-question-circle2icon*
+2:
+$classstringB$"
+ joomla\cms\toolbar\toolbarhelper

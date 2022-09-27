@@ -1,0 +1,219 @@
+
+1joomla\cms\application\siteapplication::authoriseg
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.php_ _( "1*Å
+2g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpe e(%äá
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpe e( 
+%4*	
+
+$user*
+id2get*
+3
+4*»
+3g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpg g(pyw
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpg= g(n
+%5"$Array´
+®
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpgO g(a
+%6"joomla\cms\uri\uri::getinstance*"
+joomla\cms\uri\uriÑÅ
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpgO g(m
+%7*
+
+%62tostringò
+ï
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpg= g(n
+%8"__mapSet*
+
+%5*
+
+return*
+
+%7œÃ
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpg g(o
+%9**(
+&joomla\cms\application\siteapplication*
+users.login.form.data*
+
+%52setuserstate‚
+ﬂ
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpi i(O
+%10"joomla\cms\router\route::_*"
+joomla\cms\router\route*)'
+%index.php?option=com_users&view=login*	
+falseÉ
+Ä
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpi i(O
+$url"__id*
+
+%10–
+Õ
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpk& k(M
+%11"joomla\cms\language\text::_*"
+joomla\cms\language\text* 
+JGLOBAL_YOU_MUST_LOGIN_FIRST√¿
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpk k(W
+%12**(
+&joomla\cms\application\siteapplication*
+
+%11*	
+error2enqueuemessage≥∞
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpl l(%
+%13**(
+&joomla\cms\application\siteapplication*
+
+$url2redirect*
+7*˚
+4g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpo o(P¨©
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpo0 o(D
+%14**(
+&joomla\cms\application\siteapplication2getlanguageÑÅ
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpo0 o(N
+%15*
+
+%142gettagîë
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpo o(O
+%16*
+
+
+$menus*
+
+%152
+getdefaultâ
+Ü
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpo o(O
+
+$home_item"__id*
+
+%16äá
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpr r('
+%17*
+
+
+$menus2	getactiveä
+á
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpr r(+
+%18"__id**
+
+%17"
+idë
+é
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpr/ r(=
+%19"__id**
+
+
+$home_item"
+id*
+6
+7*Æ	
+6g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpw w(P»
+≈
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpw& w(E
+%20"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JERROR_ALERTNOAUTHOR√¿
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpw w(O
+%21**(
+&joomla\cms\application\siteapplication*
+
+%20*	
+error2enqueuemessageë
+é
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpx? x(M
+%22"__id**
+
+
+$home_item"
+idù
+ö
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpx) x(M
+%23"__concat*
+index.php?Itemid=*
+
+%22¿
+Ω
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpx  x(U
+%24"joomla\cms\router\route::_*"
+joomla\cms\router\route*
+
+%23*	
+false≤Ø
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpx x(V
+%25**(
+&joomla\cms\application\siteapplication*
+
+%242redirect*
+7*ö
+7
+SiteApplication.php"~
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.php{ {(
+implicit return*õ
+1g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpa a("™
+ß
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.php_ _( 	
+$itemid"__id*+
+)
+$itemidjoomla\cms\application\integerß§
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpa a(!
+%1**(
+&joomla\cms\application\siteapplication2getmenuÑ
+Å
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpa a(!
+$menus"__id*
+
+%1ß
+§
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpb b("
+%2"joomla\cms\factory::getuser*"
+joomla\cms\factoryÉ
+Ä
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpb b("
+$user"__id*
+
+%2ñì
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpd d('
+%3*
+
+
+$menus*
+	
+$itemid2	authorise*
+2
+7:)
+$itemidjoomla\cms\application\integerB*(
+&joomla\cms\application\siteapplication

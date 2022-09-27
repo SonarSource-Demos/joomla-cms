@@ -1,0 +1,91 @@
+
+Cjoomla\cms\installer\adapter\componentadapter::removeextensionfilesp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.php   (+"1*•
+2
+ComponentAdapter.php"á
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.php– –(
+implicit return*»
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpÕ Õ(@¿
+Ω
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpÕ Õ(
+%1"__id*=*;/
+-joomla\cms\installer\adapter\componentadapter"
+parentª∏
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpÕ# Õ(7
+%2*1/
+-joomla\cms\installer\adapter\componentadapter2getmanifestî
+ë
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpÕ# Õ(>
+%3"__id**
+
+%2"
+mediaòï
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpÕ Õ(?
+%4*
+
+%1*
+
+%32removefiles¿
+Ω
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpŒ Œ(
+%5"__id*=*;/
+-joomla\cms\installer\adapter\componentadapter"
+parentª∏
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpŒ# Œ(7
+%6*1/
+-joomla\cms\installer\adapter\componentadapter2getmanifestò
+ï
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpŒ# Œ(B
+%7"__id**
+
+%6"
+	languagesòï
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpŒ Œ(C
+%8*
+
+%5*
+
+%72removefiles¿
+Ω
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpœ œ(
+%9"__id*=*;/
+-joomla\cms\installer\adapter\componentadapter"
+parentºπ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpœ# œ(7
+%10*1/
+-joomla\cms\installer\adapter\componentadapter2getmanifestü
+ú
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpœ# œ(G
+%11"__id**
+
+%10"
+administrationö
+ó
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpœ# œ(R
+%12"__id**
+
+%11"
+	languages†ù
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ComponentAdapter.phpœ œ(V
+%13*
+
+%9*
+
+%12*22removefiles*
+2B1/
+-joomla\cms\installer\adapter\componentadapter

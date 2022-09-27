@@ -1,0 +1,29 @@
+
+Njoomla\component\content\administrator\extension\contentcomponent::prepareformƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.phpØ Ø("1*¹
+2
+ContentComponent.php"›
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.phpÛ Û(
+implicit return*ÿ
+1ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.phpÚ Ú(3¹
+¶
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.phpØ Ø(
+$form"__id*
+
+$formjoomla\cms\form\form²
+¯
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Extension/ContentComponent.phpÚ Ú(2
+%1"Jjoomla\component\content\administrator\helper\contenthelper::onprepareform*?"=
+;joomla\component\content\administrator\helper\contenthelper*	
+
+$form*	
+
+$data*
+2:
+$formjoomla\cms\form\form:
+$dataBEC
+Ajoomla\component\content\administrator\extension\contentcomponent

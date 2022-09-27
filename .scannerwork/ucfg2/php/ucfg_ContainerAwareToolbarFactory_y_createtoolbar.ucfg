@@ -1,0 +1,35 @@
+
+>joomla\cms\toolbar\containerawaretoolbarfactory::createtoolbarp
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ContainerAwareToolbarFactory.phpR R(!"1*Ù
+1p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ContainerAwareToolbarFactory.phpT T()—
+”
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ContainerAwareToolbarFactory.phpR R(!
+$name"__id*
+
+$namestring—”
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ContainerAwareToolbarFactory.phpT T((
+%1"joomla\cms\toolbar\toolbarì
+é
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ContainerAwareToolbarFactory.phpT T((
+%2"'joomla\cms\toolbar\toolbar::__construct*
+
+%1*	
+
+$name*31
+/joomla\cms\toolbar\containerawaretoolbarfactory¥
+¢
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ContainerAwareToolbarFactory.phpT T() 
+%3joomla\cms\toolbar\toolbar"__id*
+
+%1"–
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ContainerAwareToolbarFactory.phpT T()"
+ 
+%3joomla\cms\toolbar\toolbar:
+$namestringB31
+/joomla\cms\toolbar\containerawaretoolbarfactory

@@ -1,0 +1,30 @@
+
+.joomla\cms\console\addusercommand::__constructb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpl l("1*î
+2
+AddUserCommand.php"y
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpq q(
+implicit return*à
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpn n(†
+ù
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpl l(
+$db"__id**
+(
+$db!joomla\database\databaseinterface…
+∆
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpn n(
+%1"3joomla\console\command\abstractcommand::__construct*%#
+!joomla\cms\console\addusercommand™ß
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpp p(
+%2*%#
+!joomla\cms\console\addusercommand*
+
+$db2setdatabase*
+2:(
+$db!joomla\database\databaseinterfaceB%#
+!joomla\cms\console\addusercommand

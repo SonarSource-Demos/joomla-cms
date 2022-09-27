@@ -1,0 +1,129 @@
+
+Gjoomla\component\actionlogs\administrator\model\actionlogsmodel::deleteÅ
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php… …("1*ß
+2Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php’ ’(.¢ü
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php’ ’(,
+%10*
+
+$e2
+getmessageÊ„
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php’ ’(-
+%11*CA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel*
+
+%102seterror"è
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php◊ ◊(	
+false*ƒ
+3Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php⁄ ⁄(L 
+«
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php⁄ ⁄(!
+%12""joomla\cms\factory::getapplication*"
+joomla\cms\factoryñì
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php⁄C ⁄(J
+%13"$Array√¿
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php⁄ ⁄(K
+%14*
+
+%12*
+onAfterLogPurge*
+
+%132triggerevent"é
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php‹ ‹(
+true*∂
+5
+ActionlogsModel.php"ô
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php› ›(
+implicit return*˘
+1Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÀ À(.‚
+ﬂ
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÀ À(-
+%1"'joomla\utilities\arrayhelper::tointeger* "
+joomla\utilities\arrayhelper*
+
+$pksû
+õ
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÀ À(-
+$keys"__id*
+
+%1ﬂ‹
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÃ Ã(%
+%2*CA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel2getdatabaseú
+ô
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÃ Ã(%
+$db"__id*
+
+%2™ß
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÕ Õ($
+%3*
+
+$db*
+true2getqueryµ≤
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpŒ Œ(5
+%4*
+
+$db*
+#__action_logs2	quotename•¢
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÕ Œ(6
+%5*
+
+%3*
+
+%42delete©¶
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpœ œ(*
+%6*
+
+$db*
+id2	quotename±Æ
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÕ œ(2
+%7*
+
+%5*
+
+%6*	
+
+$keys2whereinü
+ú
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÕ œ(2
+$query"__id*
+
+%7¨©
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php– –(
+%8*
+
+$db*
+
+
+$query2setqueryüú
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php” ”(
+%9*
+
+$db2execute*	
+2
+3
+5:
+$pksBCA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel

@@ -1,0 +1,37 @@
+
+Zjoomla\tests\unit\libraries\cms\document\documenttest::testensuresettitlereturnsthisobjectn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÐ Ð(7"1*Ÿ
+2
+DocumentTest.php"…
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÕ Õ(
+implicit return*Ò
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÒ Ò(,ÄÁ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÒ Ò(+
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
+‹
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÒ Ò(+
+	$document"__id*
+
+%1¥¢
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÔ% Ô(I
+%2*
+
+	$document*
+Joomla! Rocks2settitle×Ô
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÔ Ô(J
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest*
+
+	$document*
+
+%22
+assertsame*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

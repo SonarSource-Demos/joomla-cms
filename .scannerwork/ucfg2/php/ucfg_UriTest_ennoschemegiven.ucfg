@@ -1,0 +1,36 @@
+
+Gjoomla\tests\unit\libraries\cms\uri\uritest::testparsewhennoschemegivend
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÀ À(."1*
+2
+UriTest.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÄ Ä(
+implicit return*¾
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÂ Â(7²
+¯
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÂ Â(
+%1"__id*;*9-
++joomla\tests\unit\libraries\cms\uri\uritest"
+objectš—
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÂ Â(6
+%2*
+
+%1*
+www.myotherexample.com2parseÃ
+À
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÃ Ã(D
+%3"joomla\cms\uri\uri::isinternal*"
+joomla\cms\uri\uri*
+www.myotherexample.comµ²
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÃ Ã(E
+%4*/-
++joomla\tests\unit\libraries\cms\uri\uritest*
+
+%32assertfalse*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

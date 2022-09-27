@@ -1,0 +1,115 @@
+
+Pjoomla\tests\unit\libraries\cms\microdata\microdatatest::testdisplayresetsparamsp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpª ª(+"1*¢
+2
+MicrodataTest.php"á
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php   (
+implicit return*Ò
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpΩ Ω($ô
+ñ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpΩ Ω(#
+
+$content"__id*
+Some Contentºπ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpæ æ((
+
+$microdata"7joomla\tests\unit\libraries\cms\microdata\microdatastub—
+Œ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpæ æ((
+%1"Djoomla\tests\unit\libraries\cms\microdata\microdatastub::__construct*
+
+
+$microdata°û
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¿ ¿(&
+%2*
+
+
+$microdata*	
+Article2settypeöó
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¿ ¡(
+%3*
+
+%2*
+
+
+$content2contentóî
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¿ ¬(
+%4*
+
+%3*
+name2property°û
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¿ √(&
+%5*
+
+%4*	
+Thing*
+url2fallbackåâ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¿ ƒ(
+%6*
+
+%52display†ù
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php∆ ∆(;
+%7*
+
+
+$microdata2getfallbackpropertyÃ…
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php∆ ∆(<
+%8*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%72
+assertnullúô
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php« «(7
+%9*
+
+
+$microdata2getfallbacktypeÕ 
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php« «(8
+%10*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%92
+assertnullôñ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php» »(3
+%11*
+
+
+$microdata2getpropertyŒÀ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php» »(4
+%12*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%112
+assertnullòï
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php… …(2
+%13*
+
+
+$microdata2
+getcontentŒÀ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php… …(3
+%14*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%132
+assertnull*
+2B;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest

@@ -1,0 +1,28 @@
+
+'joomla\cms\table\viewlevel::__construct[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ViewLevel.php ("1*ˆ
+2
+ViewLevel.php"r
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ViewLevel.php! !(
+implicit return*Ð
+1[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ViewLevel.php   (8–
+“
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ViewLevel.php (
+$db"__id*'
+%
+$dbjoomla\database\databasedriverÏ
+Ì
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ViewLevel.php   (7
+%1"#joomla\cms\table\table::__construct*
+joomla\cms\table\viewlevel*
+#__viewlevels*
+id*
+
+$db*
+2:%
+$dbjoomla\database\databasedriverB
+joomla\cms\table\viewlevel

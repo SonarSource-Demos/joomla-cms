@@ -1,0 +1,82 @@
+
+Hjoomla\component\menus\administrator\view\menutypes\htmlview::addtoolbar|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.php[ [(!"1*©
+2
+HtmlView.php"ì
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phpi i(
+implicit return*˜
+1|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.php^ ^(C—
+Œ
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.php^ ^(1
+%1"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+	COM_MENUS
+Ì
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.php^ ^(B
+%2"'joomla\cms\toolbar\toolbarhelper::title*$""
+ joomla\cms\toolbar\toolbarhelper*
+
+%1*
+list menumgr›
+⁄
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phpa a(.
+%3"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbaró
+î
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phpa a(.
+$bar"__id*
+
+%3◊
+‘
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phpd d(+
+%4"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JTOOLBAR_CANCELô
+ñ
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phpd d(+
+$title"__id*
+
+%4ÿ
+’
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phpe g(
+%5"__concat*áÑ
+Å<button onClick=\"location.href='index.php?option=com_menus&view=items'\" class=\"btn\">
+					<span class=\"icon-times\" title=\"*
+\"></span>
+					*
+	</button>*
+
+
+$title*
+
+
+$titleô
+ñ
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phpe g(
+$dhtml"__id*
+
+%5¿Ω
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/View/Menutypes/HtmlView.phph h(3
+%6*
+
+$bar*
+
+Custom*
+
+
+$dhtml*
+new2appendbutton*
+2B@>
+<joomla\component\menus\administrator\view\menutypes\htmlview

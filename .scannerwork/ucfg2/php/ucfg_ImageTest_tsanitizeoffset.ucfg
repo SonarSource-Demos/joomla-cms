@@ -1,0 +1,41 @@
+
+Cjoomla\tests\unit\libraries\cms\image\imagetest::testsanitizeoffseth
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Image/ImageTest.phpŽ Ž(&"1*•
+2
+ImageTest.php"
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Image/ImageTest.php• •(
+implicit return*Û
+1h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Image/ImageTest.php‘ ”(
+¼
+¹
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Image/ImageTest.php“ “(.
+%1"__id*A*?1
+/joomla\tests\unit\libraries\cms\image\imagetest"
+
+instance×
+Ô
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Image/ImageTest.php“ “(I
+%2"joomla\test\testhelper::invoke*"
+joomla\test\testhelper*
+
+%1*
+sanitizeOffset*
+
+
+$inputÍÊ
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Image/ImageTest.php‘ ”(	
+%3*31
+/joomla\tests\unit\libraries\cms\image\imagetest*
+
+	$expected*
+
+%22assertequals*
+2:
+$input:
+	$expectedB31
+/joomla\tests\unit\libraries\cms\image\imagetest

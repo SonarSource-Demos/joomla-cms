@@ -1,0 +1,68 @@
+
+:joomla\component\tags\administrator\table\tagtable::deletet
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÑ Ñ("1*‰
+2t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÖ Ö('¢Ÿ
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÖ Ö(&	
+$helper"joomla\cms\helper\tagshelper·
+´
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÖ Ö(&
+%2")joomla\cms\helper\tagshelper::__construct*
+	
+$helper©¦
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.php× ×(,
+%3*
+	
+$helper*
+
+$pk2tagdeleteinstances*
+3*õ
+3t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÚ Ú(Å
+Â
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÚ Ú(7
+%41joomla\component\tags\administrator\table\boolean"__id*
+	
+$return"±
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÚ Ú(9
+7
+%41joomla\component\tags\administrator\table\boolean*Ÿ
+1t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÓ Ó(1Â
+¿
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÑ Ñ(
+$pk"__id*:
+8
+$pk1joomla\component\tags\administrator\table\integerÎ
+Ë
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÑ Ñ(
+	$children"__id*@
+>
+	$children1joomla\component\tags\administrator\table\booleanð
+í
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÓ Ó(0
+%1"joomla\cms\table\nested::delete*64
+2joomla\component\tags\administrator\table\tagtable*
+
+$pk*
+
+	$children’
+
+t
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.phpÓ Ó(0	
+$return"__id*
+
+%1*
+2
+3:8
+$pk1joomla\component\tags\administrator\table\integer:>
+	$children1joomla\component\tags\administrator\table\booleanB64
+2joomla\component\tags\administrator\table\tagtable

@@ -1,0 +1,41 @@
+
+(joomla\cms\extension\module::__construct\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php4 4("1*†
+2
+
+Module.php"s
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php8 8(
+implicit return*Ø
+1\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php6 6(6Í
+Ê
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php4 4(
+$dispatcherFactory"__id*N
+L
+$dispatcherFactory6joomla\cms\dispatcher\moduledispatcherfactoryinterface·
+´
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php4 4(
+$helperFactory"__id*<
+:
+$helperFactory(joomla\cms\helper\helperfactoryinterfaceµ
+²
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php6 6(54
+joomla\cms\extension\module"
+dispatcherFactory"__id*
+
+$dispatcherFactory­
+ª
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php7 7(10
+joomla\cms\extension\module"
+helperFactory"__id*
+
+$helperFactory*
+2:L
+$dispatcherFactory6joomla\cms\dispatcher\moduledispatcherfactoryinterface::
+$helperFactory(joomla\cms\helper\helperfactoryinterfaceB
+joomla\cms\extension\module

@@ -1,0 +1,52 @@
+
+helper\joomladb::seenumrecordsh
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php (!"1*ó
+2
+JoomlaDb.php"Å
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpÑ Ñ(
+implicit return*Ã
+1j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpÅ Å(*´
+®
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php (!
+$expectedNumber"__id*#
+!
+$expectedNumberhelper\integerñ
+ì
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php (!
+	$criteria"__id*
+
+	$criteriaarray°û
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpÅ Å()
+%1*
+helper\joomladb*
+
+
+$table2	addprefixá
+Ñ
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpÅ Å()
+$table"__id*
+
+%1‡
+›
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpÉ É(A
+%2"$codeception\module\db::seenumrecords*
+helper\joomladb*
+
+$expectedNumber*
+
+
+$table*
+
+	$criteria*
+2:!
+$expectedNumberhelper\integer:
+$table:
+	$criteriaarrayB
+helper\joomladb

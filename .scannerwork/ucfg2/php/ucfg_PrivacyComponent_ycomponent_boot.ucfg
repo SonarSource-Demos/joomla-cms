@@ -1,0 +1,43 @@
+
+Gjoomla\component\privacy\administrator\extension\privacycomponent::bootÅ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php, ,("1*∑
+2
+PrivacyComponent.php"ô
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php/ /(
+implicit return*¶	
+1Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php. .(AÕ
+ 
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php, ,(
+
+$container"__id*0
+.
+
+$container psr\container\containerinterface·ﬁ
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php. .(
+%1*EC
+Ajoomla\component\privacy\administrator\extension\privacycomponent2getregistry «
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php.2 .(?
+%2";joomla\component\privacy\administrator\service\html\privacyﬂ
+‹
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php.2 .(?
+%3"Hjoomla\component\privacy\administrator\service\html\privacy::__construct*
+
+%2¥±
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Extension/PrivacyComponent.php. .(@
+%4*
+
+%1*	
+privacy*
+
+%22register*
+2:.
+
+$container psr\container\containerinterfaceBEC
+Ajoomla\component\privacy\administrator\extension\privacycomponent

@@ -1,0 +1,55 @@
+
+4joomla\cms\event\abstractimmutableevent::__constructh
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php' '("1*ô
+3h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php/ /("π
+∂
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php/ /(!:)
+'joomla\cms\event\abstractimmutableevent"
+constructed"__id*
+trueË
+Â
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php1 1(.
+%2"+joomla\cms\event\abstractevent::__construct*+)
+'joomla\cms\event\abstractimmutableevent*	
+
+$name*
+
+
+$arguments*
+4*¢
+4
+AbstractImmutableEvent.php"
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php2 2(
+implicit return*‹
+1h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php) )(è
+å
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php' '(
+$name"__id*
+
+$namestringò
+ï
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php' '(
+
+$arguments"__id*
+
+
+$argumentsarray∑
+¥
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AbstractImmutableEvent.php) )(
+%1"__id*<*:)
+'joomla\cms\event\abstractimmutableevent"
+constructed*
+3
+4:
+$namestring:
+
+$argumentsarrayB+)
+'joomla\cms\event\abstractimmutableevent

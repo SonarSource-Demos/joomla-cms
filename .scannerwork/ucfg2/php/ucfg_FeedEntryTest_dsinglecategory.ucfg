@@ -1,0 +1,89 @@
+
+Ijoomla\tests\unit\libraries\cms\feed\feedentrytest::testaddsinglecategoryk
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.phpÀ À()"1*ù
+2
+FeedEntryTest.php"Ç
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php’ ’(
+implicit return*ü
+1k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.phpÕ Õ(ç
+ä
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.phpÕ Õ(
+$name"__id*
+
+categoryö
+ó
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.phpŒ Œ('
+$uri"__id*
+http://www.example.com√
+¿
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.phpœ œ(
+%1"__id*E*C4
+2joomla\tests\unit\libraries\cms\feed\feedentrytest"
+	feedEntry†ù
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.phpœ œ(2
+%2*
+
+%1*	
+
+$name*
+
+$uri2addcategory√
+¿
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php— —(&
+%3"__id*E*C4
+2joomla\tests\unit\libraries\cms\feed\feedentrytest"
+	feedEntryî
+ë
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php— —(2
+%4"__id**
+
+%3"
+
+categoriesç
+ä
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php— —(2
+$categories"__id*
+
+%4“œ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php“ “(*
+%5*64
+2joomla\tests\unit\libraries\cms\feed\feedentrytest*2*
+
+$categories2assertcount›⁄
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php” ”(4
+%6*64
+2joomla\tests\unit\libraries\cms\feed\feedentrytest*	
+
+$name*
+
+$categories2assertarrayhaskeyû
+õ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php‘" ‘(4
+%7"
+__arrayGet*
+
+$categories*	
+
+$nameŒÀ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedEntryTest.php‘ ‘(5
+%8*64
+2joomla\tests\unit\libraries\cms\feed\feedentrytest*
+
+$uri*
+
+%72assertequals*
+2B64
+2joomla\tests\unit\libraries\cms\feed\feedentrytest

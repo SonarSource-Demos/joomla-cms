@@ -1,0 +1,75 @@
+
+Tjoomla\component\contenthistory\api\controller\historycontroller::gettypeidfrominput€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpn n('"1*·
+2€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpq q((ã
+à
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpq q(
+%4"__id*O*MB
+@joomla\component\contenthistory\api\controller\historycontroller"
+input¦£
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpq q((
+%5*
+
+%4*	
+type_id2getš
+—
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpp q(M
+%3"__id*
+
+%5*
+4*Þ
+3€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpq+ q(Mã
+à
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpq+ q(7
+%6"__id*O*MB
+@joomla\component\contenthistory\api\controller\historycontroller"
+input¤
+¡
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpq+ q(=
+%7"__id**
+
+%6"
+post¦£
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpq+ q(M
+%8*
+
+%7*	
+type_id2getš
+—
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpp q(M
+%3"__id*
+
+%8*
+4*”
+4€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpqM q(M"‹
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpp q(N
+
+%3* 
+1€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpp q(Nã
+à
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpp p(
+%1"__id*O*MB
+@joomla\component\contenthistory\api\controller\historycontroller"
+input©¦
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contenthistory/src/Controller/HistoryController.phpp p(.
+%2*
+
+%1*	
+type_id2exists*
+2
+3BDB
+@joomla\component\contenthistory\api\controller\historycontroller

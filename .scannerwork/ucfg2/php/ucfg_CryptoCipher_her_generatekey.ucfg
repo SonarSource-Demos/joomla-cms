@@ -1,0 +1,68 @@
+
+1joomla\cms\crypt\cipher\cryptocipher::generatekeye
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.php[ [("1*—
+4e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.phpg g(à
+Ö
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.phpg g(
+
+$private"__id*
+
+unusedÅ
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.phpi i(3
+%2"joomla\crypt\keyæ
+ª
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.phpi i(3
+%3"joomla\crypt\key::__construct*
+
+%2*
+
+crypto*
+
+
+$private*
+	
+$publicê
+ç
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.phpi i(4
+%4joomla\crypt\key"__id*
+
+%2"Å
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.phpi i(4
+
+%4joomla\crypt\key*ï
+6
+CryptoCipher.php"|
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.phpj j(
+implicit return*ß
+1e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.php_ _(4ë
+é
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.php[ [(
+
+$options"__id*
+
+$optionsarrayò
+ï
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.php_ _(3
+%1"crypto::createnewrandomkey*
+"
+cryptoÉ
+Ä
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Crypt/Cipher/CryptoCipher.php_ _(3	
+$public"__id*
+
+%1*
+4
+6:
+$optionsarrayB(&
+$joomla\cms\crypt\cipher\cryptocipher

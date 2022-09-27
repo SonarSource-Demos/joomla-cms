@@ -1,0 +1,110 @@
+
+-joomla\cms\console\addusercommand::getgroupidd
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php∑ ∑(!"1*Ú
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpπ π(&£†
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpπ π(%
+%1*%#
+!joomla\cms\console\addusercommand2getdatabase}
+{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpπ π(%
+$db"__id*
+
+%1åâ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php∫ ∫($
+%2*
+
+$db*
+true2getqueryãà
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpª ª()
+%3*
+
+$db*
+id2	quotenameáÑ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php∫ ª(*
+%4*
+
+%2*
+
+%32selectñì
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpº º(2
+%5*
+
+$db*
+#__usergroups2	quotenameÖÇ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php∫ º(3
+%6*
+
+%4*
+
+%52froméã
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpΩ Ω(+
+%7*
+
+$db*	
+title2	quotenameî
+ë
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpΩ Ω(=
+%8"__concat*
+
+%7*
+ = :groupNameÜÉ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php∫ Ω(>
+%9*
+
+%6*
+
+%82whereûõ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php∫ æ(,
+%10*
+
+%9*
+
+:groupName*
+
+
+$groupName2bindÅ
+
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php∫ æ(,
+$query"__id*
+
+%10èå
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpø ø(
+%11*
+
+$db*
+
+
+$query2setqueryÖÇ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php¡ ¡( 
+%12*
+
+$db2
+loadresultõ
+ò
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php¡ ¡(!!
+%13joomla\cms\console\integer"__id*
+
+%12"ã
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.php¡ ¡(!#
+!
+%13joomla\cms\console\integer:
+
+$groupNameB%#
+!joomla\cms\console\addusercommand

@@ -1,0 +1,96 @@
+
+@joomla\component\fields\api\view\fields\jsonapiview::displayitems
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpj j("1*À
+2s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpn n('¡æ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpn n(&
+%1*75
+3joomla\component\fields\api\view\fields\jsonapiview2getmodelê
+ç
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpn n(&
+$model"__id*
+
+%1ìê
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpo( o(9
+%2*
+
+
+$model2getitemÃ…
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpo o(:
+%3*75
+3joomla\component\fields\api\view\fields\jsonapiview*
+
+%22prepareitemè
+å
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpo o(:
+$item"__id*
+
+%3*
+3*ö
+3s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpr r(ó
+î
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpr r(
+%4"__id**
+
+$item"
+id*
+5
+8*ä
+5s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpv v(Kú
+ô
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpv v(
+%5"__id**
+
+$item"	
+context¡æ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpv v(/
+%6*75
+3joomla\component\fields\api\view\fields\jsonapiview2getmodel§°
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpv v(K
+%7*
+
+%6*
+filter.context2getstate*
+7
+8*Í
+7s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpz z(*
+Ì
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpz z()
+%8",joomla\cms\mvc\view\jsonapiview::displayitem*75
+3joomla\component\fields\api\view\fields\jsonapiview*	
+
+$item"}
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpz z(*
+
+%8*£
+8
+JsonapiView.php"ä
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.php{ {(
+implicit return*≈
+1s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpl l(¬
+ø
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Fields/JsonapiView.phpj j(
+$item"__id*9
+7
+$item.joomla\component\fields\api\view\fields\object*
+2
+3:7
+$item.joomla\component\fields\api\view\fields\objectB75
+3joomla\component\fields\api\view\fields\jsonapiview

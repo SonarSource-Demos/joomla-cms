@@ -1,0 +1,56 @@
+
+Pjoomla\plugin\system\webauthn\hotfix\server::enforceandroidsafetynetverificationi
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpÿ ÿ(7"1*”
+2
+
+Server.php"€
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.php‡ ‡(
+implicit return*Ú	
+1i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.php„ „((­
+ª
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpÿ ÿ(7	
+$client"__id*,
+*
+$clientpsr\http\client\clientinterface”
+‘
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpÿ ÿ(7	
+$apiKey"__id*
+
+$apiKeystringÆ
+Ã
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpÿ ÿ(7
+$requestFactory"__id*=
+;
+$requestFactory(psr\http\message\requestfactoryinterfaceÀ
+½
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.php„ „('=-
++joomla\plugin\system\webauthn\hotfix\server"
+
+httpClient"__id*
+	
+$clientÂ
+¿
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.php… …('?-
++joomla\plugin\system\webauthn\hotfix\server"
+googleApiKey"__id*
+	
+$apiKeyÌ
+É
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.php† †(/A-
++joomla\plugin\system\webauthn\hotfix\server"
+requestFactory"__id*
+
+$requestFactory*
+2:*
+$clientpsr\http\client\clientinterface:
+$apiKeystring:;
+$requestFactory(psr\http\message\requestfactoryinterfaceB/-
++joomla\plugin\system\webauthn\hotfix\server

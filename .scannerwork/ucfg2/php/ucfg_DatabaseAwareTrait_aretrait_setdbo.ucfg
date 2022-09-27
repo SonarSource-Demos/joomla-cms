@@ -1,0 +1,26 @@
+
+/joomla\cms\mvc\model\databaseawaretrait::setdboh
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/DatabaseAwareTrait.php? ?("1*ž
+2
+DatabaseAwareTrait.php"
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/DatabaseAwareTrait.phpB B(
+implicit return*Î
+1h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/DatabaseAwareTrait.phpA A(¦
+£
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/DatabaseAwareTrait.php? ?(
+$db"__id**
+(
+$db!joomla\database\databaseinterface°
+­
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/DatabaseAwareTrait.phpA A(2)
+'joomla\cms\mvc\model\databaseawaretrait"
+_db"__id*
+
+$db*
+2:(
+$db!joomla\database\databaseinterfaceB+)
+'joomla\cms\mvc\model\databaseawaretrait

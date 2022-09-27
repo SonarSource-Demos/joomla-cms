@@ -1,0 +1,57 @@
+
+6joomla\component\tags\site\service\router::__constructd
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php. .("1*Ž
+2
+
+Router.php"{
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php3 3(
+implicit return*Ê	
+1d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php0 0(©
+¦
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php. .(
+$app"__id*0
+.
+$app&joomla\cms\application\siteapplication¡
+ž
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php. .(
+$menu"__id*'
+%
+$menujoomla\cms\menu\abstractmenuÉ
+Æ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php. .(
+$categoryFactory"__id*D
+B
+$categoryFactory.joomla\cms\categories\categoryfactoryinterface¢
+Ÿ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php. .(
+$db"__id**
+(
+$db!joomla\database\databaseinterface­
+ª
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php0 0(3+
+)joomla\component\tags\site\service\router"
+db"__id*
+
+$dbè
+å
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_tags/src/Service/Router.php2 2((
+%1"3joomla\cms\component\router\routerbase::__construct*-+
+)joomla\component\tags\site\service\router*
+
+$app*	
+
+$menu*
+2:.
+$app&joomla\cms\application\siteapplication:%
+$menujoomla\cms\menu\abstractmenu:B
+$categoryFactory.joomla\cms\categories\categoryfactoryinterface:(
+$db!joomla\database\databaseinterfaceB-+
+)joomla\component\tags\site\service\router

@@ -1,0 +1,84 @@
+
+'joomla\cms\toolbar\toolbarhelper::modalc
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpé é( "1*”
+2
+ToolbarHelper.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpò ò(
+implicit return*›
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpë ë(³
+°
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpë ë(
+%1"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+
+$alt
+}
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpë ë(
+$title"__id*
+
+%1‚
+ÿ
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpí î(v
+%2"__concat*KI
+G<joomla-toolbar-button><button data-bs-toggle="modal" data-bs-target="#*
+
+$targetModalId*
+" class="btn *
+
+
+$class*
+">
+			<span class="*	
+
+$icon*
+ icon-fw" title="*
+
+
+$title*
+
+"></span> *
+
+
+$title*%#
+!</button></joomla-toolbar-button>
+}
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpí î(v
+$dhtml"__id*
+
+%2Ä
+Á
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpð ð(.
+%3"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbar}
+{
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpð ð(.
+$bar"__id*
+
+%3¨¥
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpñ ñ(2
+%4*
+
+$bar*
+
+Custom*
+
+
+$dhtml*
+
+$alt2appendbutton*
+2:
+$targetModalId:
+$icon:
+$alt:
+$classB$"
+ joomla\cms\toolbar\toolbarhelper

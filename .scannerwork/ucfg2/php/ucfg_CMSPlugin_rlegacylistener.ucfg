@@ -1,0 +1,38 @@
+
+3joomla\cms\plugin\cmsplugin::registerlegacylistener^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpˇ ˇ(3"1*ã
+2
+CMSPlugin.php"u
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpü ü(
+implicit return*ü
+1^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpÅ û(
+ë
+é
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpˇ ˇ(3
+$methodName"__id*
+
+$methodNamestringôñ
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpÅ Å(
+%1*
+joomla\cms\plugin\cmsplugin2getdispatcherÍ
+Á
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpÉ ù(
+%2"__declareFunction*lj
+h__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.php_259_12óî
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpÅ û(	
+%3*
+
+%1*
+
+$methodName*
+
+%22addlistener*
+2:
+$methodNamestringB
+joomla\cms\plugin\cmsplugin

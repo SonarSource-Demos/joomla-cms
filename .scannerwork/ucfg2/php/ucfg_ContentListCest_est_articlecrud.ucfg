@@ -1,0 +1,149 @@
+
+contentlistcest::articlecrudê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpC C("1*≈
+2
+ContentListCest.php"®
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpR R(
+implicit return*¥ 
+1ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpE I(
+—
+Œ
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpC C(
+$I"__id*-
++
+$I%step\acceptance\administrator\content§°
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpE I(	
+%1"$ArrayÀ
+»
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpE I(	
+%2"__mapSet*
+
+%1*	
+title*
+Test ArticleÀ
+»
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpE I(	
+%3"__mapSet*
+
+%1*	
+alias*
+test-articleø
+º
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpE I(	
+%4"__mapSet*
+
+%1*	
+state*2¥
+±
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpE I(	
+$testArticle"__id*
+
+%1˛˚
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpJ J(b
+%5*
+
+$I*LJ
+Hthat it is possible to create a new articles using "new" toolbar button.2
+wanttotestﬂ
+‹
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpK K(*
+%6"__id*;*9/
+-page\acceptance\administrator\contentlistpage"
+$url∂≥
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpK K(+
+%7*
+
+$I*
+
+%62amonpage≈¬
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpL L('
+%8*
+
+$I*
+
+$testArticle2createarticle√
+¿
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpM M(0
+%9"__mapGet*
+
+$testArticle*	
+titleΩ∫
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpM M(1
+%10*
+
+$I*
+
+%92featurearticleƒ
+¡
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpN N(0
+%11"__mapGet*
+
+$testArticle*	
+titleæª
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpN N(1
+%12*
+
+$I*
+
+%112publisharticleƒ
+¡
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpO O(2
+%13"__mapGet*
+
+$testArticle*	
+title¿Ω
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpO O(3
+%14*
+
+$I*
+
+%132unpublisharticleƒ
+¡
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpP P(.
+%15"__mapGet*
+
+$testArticle*	
+titleºπ
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpP P(/
+%16*
+
+$I*
+
+%152trasharticleƒ
+¡
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpQ Q(/
+%17"__mapGet*
+
+$testArticle*	
+titleΩ∫
+ê
+Ö/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_content/ContentListCest.phpQ Q(0
+%18*
+
+$I*
+
+%172deletearticle*
+2:+
+$I%step\acceptance\administrator\contentB
+contentlistcest

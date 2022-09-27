@@ -1,0 +1,61 @@
+
+Fjoomla\component\fields\administrator\model\groupsmodel::populatestatew
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpS S($"1*§
+2
+GroupsModel.php"Ž
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpZ Z(
+implicit return*–
+1w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpV V(3‡
+„
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpV V(2
+%1"-joomla\cms\mvc\model\listmodel::populatestate*;9
+7joomla\component\fields\administrator\model\groupsmodel*
+
+a.ordering*
+ascÒ
+Ï
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpX2 X(@
+%2"__id*H*F9
+7joomla\component\fields\administrator\model\groupsmodel"	
+context¢
+Ÿ
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpX2 X(M
+%3"__concat*
+
+%2*
+
+.context‡„
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpX X(o
+%4*;9
+7joomla\component\fields\administrator\model\groupsmodel*
+
+%3*	
+context*
+com_content*
+CMD2getuserstatefromrequest–
+“
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpX X(o
+
+$context"__id*
+
+%4ëè
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupsModel.phpY Y(3
+%5*;9
+7joomla\component\fields\administrator\model\groupsmodel*
+filter.context*
+
+
+$context2setstate*
+2:
+	$ordering:
+
+$directionB;9
+7joomla\component\fields\administrator\model\groupsmodel

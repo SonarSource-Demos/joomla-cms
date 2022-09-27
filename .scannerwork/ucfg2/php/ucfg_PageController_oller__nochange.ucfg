@@ -1,0 +1,41 @@
+
+5joomla\cms\cache\controller\pagecontroller::_nochangem
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.phpŒ Œ("1*†
+2
+PageController.php"Ñ
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.php÷ ÷(
+implicit return*Ñ
+1m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.php– –(#¥
+±
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.php–	 –("
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factoryà
+Ö
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.php– –("
+$app"__id*
+
+%1™ß
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.php” ”(&
+%2*
+
+$app*
+
+Status*2∞*
+true2	setheaderèå
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.php‘ ‘(
+%3*
+
+$app2sendheadersâÜ
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.php’ ’(
+%4*
+
+$app2close*
+2B.,
+*joomla\cms\cache\controller\pagecontroller

@@ -1,0 +1,28 @@
+
+*joomla\cms\html\helpers\behavior::comboboxa
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Behavior.phpR R(#"1*ç
+2
+Behavior.php"x
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Behavior.phpU U(
+implicit return*±
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Behavior.phpT T(O•
+¢
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Behavior.phpT T(
+%1"joomla\cms\factory::getdocument*"
+joomla\cms\factoryàÖ
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Behavior.phpT T(4
+%2*
+
+%12getwebassetmanagerêç
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Behavior.phpT T(N
+%3*
+
+%2*
+awesomplete2	usepreset*
+2B$"
+ joomla\cms\html\helpers\behavior

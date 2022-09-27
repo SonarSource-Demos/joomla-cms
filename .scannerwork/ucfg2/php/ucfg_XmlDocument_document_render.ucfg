@@ -1,0 +1,89 @@
+
+'joomla\cms\document\xmldocument::render`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpA A("1*¯
+2`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpE+ E(7ã
+à
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpE E(B
+$disposition"__id*
+
+attachment*
+4*Ù
+3`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpE: E(Bá
+Ñ
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpE E(B
+$disposition"__id*
+
+inline*
+4*í
+4`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpEB E(Bß
+§
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpG G($
+%3""joomla\cms\factory::getapplication*"
+joomla\cms\factoryôñ
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpGg G(w
+%4*#!
+joomla\cms\document\xmldocument2getname≠
+™
+a
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpGG G(Å
+%5"__concat*
+
+$disposition*
+; filename="*
+
+%4*	
+.xml"™ß
+a
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpG G(à
+%6*
+
+%3*
+Content-disposition*
+
+%5*
+true2	setheaderõò
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpI I(!
+%7*#!
+joomla\cms\document\xmldocument2	getbuffer"j
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpI I("
+
+%7*â
+1`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpC C((û
+õ
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpA A(
+$cache"__id*'
+%
+$cachejoomla\cms\document\booleanœ
+Ã
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpC C('
+%1"$joomla\cms\document\document::render*#!
+joomla\cms\document\xmldocument*
+
+
+$cache*
+	
+$params¶
+£
+`
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/XmlDocument.phpE E((
+%2"__id*3*1!
+joomla\cms\document\xmldocument"
+
+isDownload*
+2
+3:%
+$cachejoomla\cms\document\boolean:	
+$paramsB#!
+joomla\cms\document\xmldocument

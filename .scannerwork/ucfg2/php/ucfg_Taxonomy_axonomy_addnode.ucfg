@@ -1,0 +1,96 @@
+
+?joomla\component\finder\administrator\indexer\taxonomy::addnodev
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpV V(""1*Þ
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpY Y(/­
+ª
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpY Y(.
+%1"static::addbranch*
+"
+static*
+	
+$branch–
+“
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpY Y(.
+	$branchId"__id*
+
+%1Ž‹
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php[ [(
+$node"stdclass£
+ 
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php[ [(
+%2"stdclass::__construct*	
+
+$node¡
+ž
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php\ \(
+
+$node"
+title"__id*
+
+
+$title¡
+ž
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php] ](
+
+$node"
+state"__id*
+
+
+$state£
+ 
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php^ ^(
+
+$node"
+access"__id*
+	
+$access¨
+¥
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php_ _($
+
+$node"
+	parent_id"__id*
+
+	$branchId§
+¤
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php` `(#
+
+$node"
+
+language"__id*
+
+	$languageš
+—
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpb b(0
+%3"Ajoomla\component\finder\administrator\indexer\taxonomy::storenode*:"8
+6joomla\component\finder\administrator\indexer\taxonomy*	
+
+$node*
+
+	$branchIdÆ
+Ã
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpb b(1;
+%45joomla\component\finder\administrator\indexer\integer"__id*
+
+%3"·
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpb b(1=
+;
+%45joomla\component\finder\administrator\indexer\integer:	
+$branch:
+$title:
+$state:	
+$access:
+	$languageB:8
+6joomla\component\finder\administrator\indexer\taxonomy

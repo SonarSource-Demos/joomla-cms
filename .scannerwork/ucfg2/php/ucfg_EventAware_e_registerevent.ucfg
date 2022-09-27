@@ -1,0 +1,42 @@
+
+0joomla\cms\application\eventaware::registereventb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php7 7(!"1*ı
+2b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php? ?("ã
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php? ?(%#
+!joomla\cms\application\eventaware*ê
+4
+EventAware.php"y
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php@ @(
+implicit return*»
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php: :(Bë
+é
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php7 7(!
+
+$handler"__id*
+
+$handlercallable£†
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php: :("
+%1*%#
+!joomla\cms\application\eventaware2getdispatcherúô
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/EventAware.php: :(A
+%2*
+
+%1*
+
+
+$event*
+
+
+$handler2addlistener*
+2
+4:
+$event:
+$handlercallableB%#
+!joomla\cms\application\eventaware

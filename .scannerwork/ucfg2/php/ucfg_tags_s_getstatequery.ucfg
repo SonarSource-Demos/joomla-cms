@@ -1,0 +1,144 @@
+
+plgfindertags::getstatequeryX
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php¡ ¡($"1*˜
+1X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php√ √(+Ñ
+Å
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php√ √(
+%1"__id**
+plgfindertags"
+db~|
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php√ √(*
+%2*
+
+%1*
+true2getqueryt
+r
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php√ √(*
+$query"__id*
+
+%2Ñ
+Å
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.phpƒ ƒ( 
+%3"__id**
+plgfindertags"
+db}
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.phpƒ ƒ(3
+%4*
+
+%3*
+a.id2	quotename~|
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.phpƒ ƒ(4
+%5*
+
+
+$query*
+
+%42selectÑ
+Å
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php≈ ≈(
+%6"__id**
+plgfindertags"
+dbç
+ä
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php≈1 ≈(C
+%7"__id*"* 
+plgfindertags"
+state_field|
+z
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php≈* ≈(C
+%8"__concat*
+a.*
+
+%7âÜ
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php≈ ≈(M
+%9*
+
+%6*
+
+%8*	
+state2	quotenameÖ
+Ç
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php≈W ≈(`
+%10"__id**
+plgfindertags"
+dbÜÉ
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php≈W ≈(w
+%11*
+
+%10*
+
+a.access2	quotenameá
+Ñ
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php≈ ≈(w
+%12"__concat*
+
+%9*
+, *
+
+%11|z
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.phpƒ ≈(x
+%13*
+
+%5*
+
+%122select†ù
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.phpƒ ∆(=
+%14*
+
+%13*)'
+%NULL AS cat_state, NULL AS cat_access2selectÖ
+Ç
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php« «(
+%15"__id**
+plgfindertags"
+dbà
+Ö
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php«( «(4
+%16"__id**
+plgfindertags"
+tableàÖ
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php« «(:
+%17*
+
+%15*
+
+%16*
+a2	quotename{y
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.phpƒ «(;
+%18*
+
+%14*
+
+%172fromï
+í
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php… …($
+%19joomla\database\databasequery"__id*
+
+
+$query"Ç
+X
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/tags/tags.php… …(&
+$
+%19joomla\database\databasequeryB
+plgfindertags

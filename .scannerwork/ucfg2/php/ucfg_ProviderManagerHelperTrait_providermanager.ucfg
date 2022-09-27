@@ -1,0 +1,117 @@
+
+\joomla\component\media\administrator\provider\providermanagerhelpertrait::getprovidermanagerˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php4 4(&"1*€
+2ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php8 8(kœ™
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php8 8(j
+%2"$ArrayÇ
+Ä
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php8 8(j
+%3"__mapSet*
+
+%2*	
+context*
+AdapterManagerÓÐ
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php8T 8(i
+%4"=joomla\component\media\administrator\provider\providermanagerè
+å
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php8T 8(i
+%5"Jjoomla\component\media\administrator\provider\providermanager::__construct*
+
+%4Ã
+À
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php8 8(j
+%6"__mapSet*
+
+%2*
+providerManager*
+
+%4°
+­
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php8 8(j
+$eventParameters"__id*
+
+%2×Ô
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php9 9([
+$event"=joomla\component\media\administrator\event\mediaproviderevent˜
+•
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php9 9([
+%7"Jjoomla\component\media\administrator\event\mediaproviderevent::__construct*
+
+
+$event*
+onSetupProviders*
+
+$eventParametersö
+ó
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php: :(4
+%8",joomla\cms\plugin\pluginhelper::importplugin*"" 
+joomla\cms\plugin\pluginhelper*
+
+filesystemÐ
+Í
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php; ;(%
+%9""joomla\cms\factory::getapplication*"
+joomla\cms\factoryÍÊ
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php; ;(O
+%10*
+
+%9*
+onSetupProviders*
+
+
+$event2triggereventµ²
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php<% <(A
+%11*
+
+
+$event2getprovidermanagerþ
+û
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php< <(A_J
+Hjoomla\component\media\administrator\provider\providermanagerhelpertrait"
+providerManager"__id*
+
+%11*
+3*Ë
+3ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php? ?(&þ
+û
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php? ?(%
+%12"__id*a*_J
+Hjoomla\component\media\administrator\provider\providermanagerhelpertrait"
+providerManagerã
+à
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php? ?(&D
+%13=joomla\component\media\administrator\provider\providermanager"__id*
+
+%12"Ó
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php? ?(&F
+D
+%13=joomla\component\media\administrator\provider\providermanager*–
+1ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php6 6(#ý
+ú
+ˆ
+~/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_media/src/Provider/ProviderManagerHelperTrait.php6 6(#
+%1"__id*a*_J
+Hjoomla\component\media\administrator\provider\providermanagerhelpertrait"
+providerManager*
+2
+3BLJ
+Hjoomla\component\media\administrator\provider\providermanagerhelpertrait

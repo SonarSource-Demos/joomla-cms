@@ -1,0 +1,35 @@
+
++joomla\cms\toolbar\toolbarhelper::save2copyc
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÇ Ç($"1*”
+2
+ToolbarHelper.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÍ Í(
+implicit return*Î
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÉ É(/Ä
+Á
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÉ É(.
+%1"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbar}
+{
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÉ É(.
+$bar"__id*
+
+%1˜•
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÌ Ì($
+%2*
+
+$bar*	
+
+$task*
+
+$alt2	save2copy*
+2:
+$task:
+$altB$"
+ joomla\cms\toolbar\toolbarhelper

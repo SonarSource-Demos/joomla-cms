@@ -1,0 +1,48 @@
+
+4joomla\module\login\site\helper\loginhelper::gettypef
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php9 9(""1*ˆ
+2f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php=( =(0É
+Ä
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php= =(:
+%3"__id*
+
+logout*
+4*Ù
+3f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php=3 =(:Å
+
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php= =(:
+%3"__id*	
+login*
+4*›
+4f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php=: =(:"p
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php= =(;
+
+%3*Ø
+1f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php; ;(#¶
+£
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php; ;("
+%1"joomla\cms\factory::getuser*"
+joomla\cms\factoryÅ
+
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php; ;("
+$user"__id*
+
+%1åâ
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_login/src/Helper/LoginHelper.php= =($
+%2*	
+
+$user*	
+guest2get*
+2
+3B/-
++joomla\module\login\site\helper\loginhelper

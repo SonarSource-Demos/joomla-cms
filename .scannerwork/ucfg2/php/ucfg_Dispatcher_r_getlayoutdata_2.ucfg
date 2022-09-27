@@ -1,0 +1,61 @@
+
+Djoomla\module\articlesnews\site\dispatcher\dispatcher::getlayoutdataq
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php! !($"1*´
+1q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php# #((ˆ
+Û
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php# #('
+%1"=joomla\cms\dispatcher\abstractmoduledispatcher::getlayoutdata*97
+5joomla\module\articlesnews\site\dispatcher\dispatcherç
+ä
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php# #('
+$data"__id*
+
+%1…∆
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php% %(1
+%2*97
+5joomla\module\articlesnews\site\dispatcher\dispatcher2gethelperfactoryß§
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php% %(R
+%3*
+
+%2*
+ArticlesNewsHelper2	gethelperù
+ö
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php%` %(o
+%4"__mapGet*	
+
+$data*
+
+params»≈
+r
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php%q %(à
+%5*97
+5joomla\module\articlesnews\site\dispatcher\dispatcher2getapplication¢ü
+r
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php% %(â
+%6*
+
+%3*
+
+%4*
+
+%52getarticles£
+†
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php% %(
+%7"__mapSet*	
+
+$data*
+list*
+
+%6"~
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_news/src/Dispatcher/Dispatcher.php' '(	
+
+$dataB97
+5joomla\module\articlesnews\site\dispatcher\dispatcher

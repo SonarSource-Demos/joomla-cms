@@ -1,0 +1,51 @@
+
+Ojoomla\component\mails\administrator\controller\templatecontroller::__construct‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Controller/TemplateController.php* *("1*º
+2
+TemplateController.php"š
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Controller/TemplateController.php0 0(
+implicit return*Ž	
+1‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Controller/TemplateController.php, ,(=Ô
+Ñ
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Controller/TemplateController.php* *(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface¾
+»
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Controller/TemplateController.php, ,(<
+%1"5joomla\cms\mvc\controller\formcontroller::__construct*FD
+Bjoomla\component\mails\administrator\controller\templatecontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$inputñ
+î
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Controller/TemplateController.php. .(%SD
+Bjoomla\component\mails\administrator\controller\templatecontroller"
+	view_item"__id*
+
+templateò
+ï
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Controller/TemplateController.php/ /(&SD
+Bjoomla\component\mails\administrator\controller\templatecontroller"
+	view_list"__id*
+	templates*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputBFD
+Bjoomla\component\mails\administrator\controller\templatecontroller

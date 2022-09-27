@@ -1,0 +1,202 @@
+
+-medialistcest::createfolderusingtoolbarbutton
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpú ú(/"1*Á
+2
+MediaListCest.php"¦
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php“ “(
+implicit return*ù1
+1
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpü ü("Í
+Ê
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpú ú(/
+$I"__id*+
+)
+$I#step\acceptance\administrator\media¾
+»
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpü ü(!
+$testFolderName"__id*
+test-folderøõ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpş ş(X
+%1*
+
+$I*HF
+Dthat it is possible to create a new folder using the toolbar button.2
+wanttotestÛ
+Ø
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÿ ÿ("
+%2"__id*9*7-
++page\acceptance\administrator\medialistpage"
+$urlÆ
+Ã
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÿ% ÿ(9
+%3"__id*$*"
+medialistcest"
+testDirectory´
+±
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÿ ÿ(9
+%4"__concat*
+
+%2*
+
+%3´±
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÿ ÿ(:
+%5*
+
+$I*
+
+%42amonpage·´
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php€ €(
+%6*
+
+$I2waitforjsonpageloadñ
+î
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php (5
+%7"__id*O*M-
++page\acceptance\administrator\medialistpage"
+$toolbarCreateFolderButton±®
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php (6
+%8*
+
+$I*
+
+%72click·´
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‚ ‚(
+%9*
+
+$I2waitforjsonpageload¯¬
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php… …(
+%10*
+
+$I*22waitì
+é
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php† †(4
+%11"__id*I*G-
++page\acceptance\administrator\medialistpage"
+$newFolderInputField¸µ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php† †(5
+%12*
+
+$I*
+
+%112
+seeelementó
+ğ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‡ ‡(;
+%13"__id*P*N-
++page\acceptance\administrator\medialistpage"
+$modalConfirmButtonDisabled¸µ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‡ ‡(<
+%14*
+
+$I*
+
+%132
+seeelementì
+é
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpˆ ˆ(3
+%15"__id*I*G-
++page\acceptance\administrator\medialistpage"
+$newFolderInputFieldÌÉ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpˆ ˆ(E
+%16*
+
+$I*
+
+%15*
+
+$testFolderName2	fillfieldë
+è
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‰ ‰(=
+%17"__id*H*F-
++page\acceptance\administrator\medialistpage"
+$modalConfirmButtonÎ
+Ë
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‰? ‹(
+%18"__declareFunction*š
+—__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php_393_63ËÈ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‰ ‹(
+%19*
+
+$I*
+
+%17*
+
+%182waitforelementchangeë
+è
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpŒ Œ(.
+%20"__id*H*F-
++page\acceptance\administrator\medialistpage"
+$modalConfirmButton³°
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpŒ Œ(/
+%21*
+
+$I*
+
+%202click¯¬
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php (
+%22*
+
+$I*22waitÊÇ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php ()
+%23*
+
+$I*
+Folder created.2seesystemmessage”
+‘
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‘ ‘(9
+%24"1page\acceptance\administrator\medialistpage::item*/"-
++page\acceptance\administrator\medialistpage*
+
+$testFolderName¼¹
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‘ ‘(:
+%25*
+
+$I*
+
+%242waitforelement”
+‘
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php’ ’(5
+%26"1page\acceptance\administrator\medialistpage::item*/"-
++page\acceptance\administrator\medialistpage*
+
+$testFolderName¸µ
+
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php’ ’(6
+%27*
+
+$I*
+
+%262
+seeelement*
+2:)
+$I#step\acceptance\administrator\mediaB
+medialistcest

@@ -1,0 +1,30 @@
+
+Ijoomla\component\finder\administrator\controller\mapscontroller::getmodel
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/MapsController.php) )("1*§
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/MapsController.php+ +(9©
+¦
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/MapsController.php+ +(8
+%1"3joomla\cms\mvc\controller\admincontroller::getmodel*CA
+?joomla\component\finder\administrator\controller\mapscontroller*	
+
+$name*
+	
+$prefix*
+	
+$configÀ
+½
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/MapsController.php+ +(9,
+%2&joomla\cms\mvc\model\basedatabasemodel"__id*
+
+%1"±
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/MapsController.php+ +(9.
+,
+%2&joomla\cms\mvc\model\basedatabasemodel:
+$name:	
+$prefix:	
+$configBCA
+?joomla\component\finder\administrator\controller\mapscontroller

@@ -1,0 +1,59 @@
+
+Ajoomla\plugin\system\debug\datacollector\infocollector::getassetsr
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phpf f("1*œ
+1r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phph k(
+ÖÇ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phph k(	
+%1"$Arrayπ
+∂
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phpi i(#
+%2"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri*
+true«
+ƒ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phpi i(Z
+%3"__concat*
+
+%2*64
+2/media/plg_system_debug/widgets/info/widget.min.jsü
+ú
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phph k(	
+%4"__mapSet*
+
+%1*
+js*
+
+%3π
+∂
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phpj j($
+%5"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri*
+true»
+≈
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phpj j(\
+%6"__concat*
+
+%5*75
+3/media/plg_system_debug/widgets/info/widget.min.css†
+ù
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phph k(	
+%7"__mapSet*
+
+%1*
+css*
+
+%6"|
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.phph k(
+
+
+%1B:8
+6joomla\plugin\system\debug\datacollector\infocollector

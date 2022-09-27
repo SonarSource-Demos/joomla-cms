@@ -1,0 +1,33 @@
+
+@joomla\component\menus\administrator\model\itemmodel::cleancachev
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/ItemModel.phpÕ Õ(!"1*¤
+2
+ItemModel.php"
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/ItemModel.phpÚ Ú(
+implicit return*ï
+1v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/ItemModel.php× ×((÷
+ô
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/ItemModel.php× ×('
+%1"+joomla\cms\mvc\model\adminmodel::cleancache*86
+4joomla\component\menus\administrator\model\itemmodel*
+	com_menusù
+ö
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/ItemModel.phpØ Ø()
+%2"+joomla\cms\mvc\model\adminmodel::cleancache*86
+4joomla\component\menus\administrator\model\itemmodel*
+com_modulesö
+ó
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/ItemModel.phpÙ Ù(&
+%3"+joomla\cms\mvc\model\adminmodel::cleancache*86
+4joomla\component\menus\administrator\model\itemmodel*
+
+mod_menu*
+2:
+$group:
+	$clientIdB86
+4joomla\component\menus\administrator\model\itemmodel

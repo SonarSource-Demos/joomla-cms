@@ -1,0 +1,44 @@
+
+Djoomla\tests\unit\libraries\cms\form\rule\filepathruletest::testruleq
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FilePathRuleTest.phpT T("1*¦
+2
+FilePathRuleTest.php"ˆ
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FilePathRuleTest.phpW W(
+implicit return*ß
+1q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FilePathRuleTest.phpV V(UŸœ
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FilePathRuleTest.phpV' V(;
+%1"!joomla\cms\form\rule\filepathrule´
+±
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FilePathRuleTest.phpV' V(;
+%2".joomla\cms\form\rule\filepathrule::__construct*
+
+%1¤¡
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FilePathRuleTest.phpV' V(S
+%3*
+
+%1*
+
+
+$element*
+
+
+$value2testáÞ
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FilePathRuleTest.phpV V(T
+%4*><
+:joomla\tests\unit\libraries\cms\form\rule\filepathruletest*
+
+	$expected*
+
+%32assertequals*
+2:
+	$expected:
+
+$element:
+$valueB><
+:joomla\tests\unit\libraries\cms\form\rule\filepathruletest

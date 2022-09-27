@@ -1,0 +1,134 @@
+
+-joomla\cms\log\logger\databaselogger::connectg
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpñ ñ("1*ô
+2
+DatabaseLogger.php"~
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.php£ £(
+implicit return*∆
+1g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(
+yw
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+%1"$ArrayÆ
+´
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpö ö(%
+%2"__id*4*2&
+$joomla\cms\log\logger\databaselogger"
+driverò
+ï
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+%3"__mapSet*
+
+%1*
+
+driver*
+
+%2¨
+©
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpõ õ(!
+%4"__id*2*0&
+$joomla\cms\log\logger\databaselogger"
+hostñ
+ì
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+%5"__mapSet*
+
+%1*
+host*
+
+%4¨
+©
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpú ú(!
+%6"__id*2*0&
+$joomla\cms\log\logger\databaselogger"
+userñ
+ì
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+%7"__mapSet*
+
+%1*
+user*
+
+%6∞
+≠
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpù ù()
+%8"__id*6*4&
+$joomla\cms\log\logger\databaselogger"
+
+passwordö
+ó
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+%9"__mapSet*
+
+%1*
+
+password*
+
+%8±
+Æ
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpû û()
+%10"__id*6*4&
+$joomla\cms\log\logger\databaselogger"
+
+databaseú
+ô
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+%11"__mapSet*
+
+%1*
+
+database*
+
+%10Ø
+¨
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpü ü(%
+%12"__id*4*2&
+$joomla\cms\log\logger\databaselogger"
+prefixö
+ó
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+%13"__mapSet*
+
+%1*
+
+prefix*
+
+%12Ü
+É
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.phpô †(	
+
+$options"__id*
+
+%1“
+œ
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.php¢ ¢(9
+%14"+joomla\database\databasedriver::getinstance*"" 
+joomla\database\databasedriver*
+
+
+$options´
+®
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/Logger/DatabaseLogger.php¢ ¢(9.&
+$joomla\cms\log\logger\databaselogger"
+db"__id*
+
+%14*
+2B(&
+$joomla\cms\log\logger\databaselogger

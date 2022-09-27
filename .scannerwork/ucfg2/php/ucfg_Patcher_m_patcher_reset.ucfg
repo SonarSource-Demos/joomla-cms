@@ -1,0 +1,56 @@
+
+$joomla\cms\filesystem\patcher::reset^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpj j("1*˜
+1^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpl l(!pn
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpl l( 
+%1"$Arrayü
+ú
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpl l( ,
+joomla\cms\filesystem\patcher"	
+sources"__id*
+
+%1pn
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpm m(%
+%2"$Array§
+°
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpm m(%1
+joomla\cms\filesystem\patcher"
+destinations"__id*
+
+%2pn
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpn n(!
+%3"$Array†
+ù
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpn n(!-
+joomla\cms\filesystem\patcher"
+
+removals"__id*
+
+%3pn
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpo o( 
+%4"$Arrayü
+ú
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpo o( ,
+joomla\cms\filesystem\patcher"	
+patches"__id*
+
+%4±
+Æ
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpq q(#
+%5joomla\cms\filesystem\patcher"__id*!
+joomla\cms\filesystem\patcher"á
+^
+T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Patcher.phpq q(%
+#
+%5joomla\cms\filesystem\patcherB!
+joomla\cms\filesystem\patcher

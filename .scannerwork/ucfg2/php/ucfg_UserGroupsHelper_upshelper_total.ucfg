@@ -1,0 +1,120 @@
+
+)joomla\cms\helper\usergroupshelper::totale
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php¿ ¿("1*◊
+2e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php√ √($§
+°
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php√ √(#
+%2"joomla\cms\factory::getdbo*"
+joomla\cms\factory~
+|
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php√ √(#
+$db"__id*
+
+%2çä
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php≈ ≈((
+%3*
+
+$db*
+true2getqueryåâ
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php∆$ ∆(8
+%4*
+
+$db*
+id2	quotenameï
+í
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php∆ ∆(>
+%5"__concat*
+
+COUNT(*
+
+%4*
+)àÖ
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php≈ ∆(?
+%6*
+
+%3*
+
+%52selectóî
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php« «(6
+%7*
+
+$db*
+#__usergroups2	quotenameÜÉ
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php≈ «(7
+%8*
+
+%6*
+
+%72fromÅ
+
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php≈ «(7
+$query"__id*
+
+%8èå
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php… …(!
+%9*
+
+$db*
+
+
+$query2setqueryÜÉ
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpÀ! À(2
+%10*
+
+$db2
+loadresultç
+ä
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpÀ À(2
+%11"__sanitizing_cast*
+
+%10™
+ß
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpÀ À(2/$
+"joomla\cms\helper\usergroupshelper"
+total"__id*
+
+%11*
+3*√
+3e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpŒ Œ(™
+ß
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpŒ Œ(
+%12"__id*1*/$
+"joomla\cms\helper\usergroupshelper"
+totalõ
+ò
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpŒ Œ( 
+%13joomla\cms\helper\integer"__id*
+
+%12"ã
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.phpŒ Œ("
+ 
+%13joomla\cms\helper\integer*û
+1e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php¬ ¬(!©
+¶
+e
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/UserGroupsHelper.php¬ ¬(
+%1"__id*1*/$
+"joomla\cms\helper\usergroupshelper"
+total*
+2
+3B&$
+"joomla\cms\helper\usergroupshelper

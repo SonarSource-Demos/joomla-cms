@@ -1,0 +1,40 @@
+
+Ejoomla\component\banners\administrator\table\clienttable::__constructx
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/ClientTable.php( (("1*®
+2
+ClientTable.php"è
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/ClientTable.php/ /(
+implicit return*†
+1x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/ClientTable.php* *(0≥
+∞
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/ClientTable.php( ((
+$db"__id*'
+%
+$dbjoomla\database\databasedriverÊ
+„
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/ClientTable.php* *(/I:
+8joomla\component\banners\administrator\table\clienttable"
+	typeAlias"__id*
+com_banners.clientÎË
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/ClientTable.php, ,(3
+%1*<:
+8joomla\component\banners\administrator\table\clienttable*
+	published*	
+state2setcolumnaliasé
+ã
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/ClientTable.php. .(;
+%2"#joomla\cms\table\table::__construct*<:
+8joomla\component\banners\administrator\table\clienttable*
+#__banner_clients*
+id*
+
+$db*
+2:%
+$dbjoomla\database\databasedriverB<:
+8joomla\component\banners\administrator\table\clienttable

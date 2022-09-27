@@ -1,0 +1,76 @@
+
+Jjoomla\component\users\administrator\controller\groupcontroller::allowedit
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php: :( "1*¿
+2
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php? ?(CÞ
+Û
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php? ?(
+%3"__id*L*JA
+?joomla\component\users\administrator\controller\groupcontroller"
+appŸœ
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php? ?(*
+%4*
+
+%32getidentity­ª
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php? ?(C
+%5*
+
+%4*
+
+core.admin2	authorise*
+3
+4*“
+3
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php@ @("Œ
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php@ @(	
+false*¹
+4
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.phpD D(.™
+–
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.phpD D(-
+%6"3joomla\cms\mvc\controller\formcontroller::allowedit*CA
+?joomla\component\users\administrator\controller\groupcontroller*	
+
+$data*
+
+$keyÑ
+Î
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.phpD D(.=
+%77joomla\component\users\administrator\controller\boolean"__id*
+
+%6"Â
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.phpD D(.?
+=
+%77joomla\component\users\administrator\controller\boolean*£
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php= =(9«
+¨
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php= =(*
+%1"
+__arrayGet*	
+
+$data*
+
+$keyæ
+ã
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupController.php= =(9
+%2"$joomla\cms\access\access::checkgroup*"
+joomla\cms\access\access*
+
+%1*
+
+core.admin*
+2
+4:
+$data:
+$keyBCA
+?joomla\component\users\administrator\controller\groupcontroller

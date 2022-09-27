@@ -1,0 +1,121 @@
+
+Ajoomla\component\content\administrator\model\articlemodel::delete{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.php¾ ¾("1*´
+2{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÄ Ä('ÒÏ
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÄ Ä(&
+%2*=;
+9joomla\component\content\administrator\model\articlemodel2getdatabase•
+’
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÄ Ä(&
+$db"__id*
+
+%2£ 
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÅ Å((
+%3*
+
+$db*
+true2getquery´±
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÆ Æ(?
+%4*
+
+$db*
+#__content_frontpage2	quotenamež›
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÅ Æ(@
+%5*
+
+%3*
+
+%42deleteª§
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÇ Ç(6
+%6*
+
+$db*
+
+content_id2	quotename©¦
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÅ Ç(=
+%7*
+
+%5*
+
+%6*
+
+$pks2wherein˜
+•
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÅ Ç(=
+$query"__id*
+
+%7¥¢
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÈ È(!
+%8*
+
+$db*
+
+
+$query2setquery˜•
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÉ É(
+%9*
+
+$db2executeÚ
+×
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpË Ë(
+%10"__id*K*I;
+9joomla\component\content\administrator\model\articlemodel"
+
+workflow­ª
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpË Ë(4
+%11*
+
+%10*
+
+$pks2deleteassociation*
+3*’
+3{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÎ Î(Ð
+Í
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÎ Î(;
+%124joomla\component\content\administrator\model\boolean"__id*
+	
+$return"¼
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÎ Î(=
+;
+%124joomla\component\content\administrator\model\boolean*ï
+1{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÀ À('Í
+Ê
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.php¾ ¾(
+$pks"__id*=
+;
+$pks3joomla\component\content\administrator\model\objectø
+õ
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÀ À(&
+%1"'joomla\cms\mvc\model\adminmodel::delete*=;
+9joomla\component\content\administrator\model\articlemodel*
+
+$pks™
+–
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpÀ À(&	
+$return"__id*
+
+%1*
+2
+3:;
+$pks3joomla\component\content\administrator\model\objectB=;
+9joomla\component\content\administrator\model\articlemodel

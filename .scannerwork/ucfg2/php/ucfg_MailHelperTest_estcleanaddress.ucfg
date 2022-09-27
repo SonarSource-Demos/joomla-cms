@@ -1,0 +1,30 @@
+
+Ejoomla\tests\unit\libraries\cms\mail\mailhelpertest::testcleanaddressl
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpê ê($"1*Ÿ
+2
+MailHelperTest.php"ƒ
+l
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpí í(
+implicit return*ž
+1l
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpì ì(IÍ
+Ê
+l
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpì' ì(G
+%1"(joomla\cms\mail\mailhelper::cleanaddress*"
+joomla\cms\mail\mailhelper*
+
+
+$inputÕÒ
+l
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpì ì(H
+%2*75
+3joomla\tests\unit\libraries\cms\mail\mailhelpertest*
+
+	$expected*
+
+%12assertequals*
+2:
+$input:
+	$expectedB75
+3joomla\tests\unit\libraries\cms\mail\mailhelpertest

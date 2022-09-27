@@ -1,0 +1,109 @@
+
+Gjoomla\component\newsfeeds\api\serializer\newsfeedserializer::createdby|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpS S("1*
+1|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpU U(4§
+¤
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpS S(
+$model"__id*
+
+$modelstdclass¸µ
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpU U(3
+$serializer"&joomla\cms\serializer\joomlaserializerØ
+Õ
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpU U(3
+%1"3joomla\cms\serializer\joomlaserializer::__construct*
+
+$serializer*	
+users©
+¦
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpW" W(4
+%3"__id**
+
+$model"
+
+created_by¢Ÿ
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpW W(C
+%2"tobscure\jsonapi\resourceÐ
+Í
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpW W(C
+%4"&tobscure\jsonapi\resource::__construct*
+
+%2*
+
+%3*
+
+$serializer¹
+¶
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpX2 X(=
+%5"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri©
+¦
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpX\ X(n
+%6"__id**
+
+$model"
+
+created_by¾
+»
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpX2 X(n
+%7"__concat*
+
+%5*
+api/index.php/v1/users/*
+
+%6Õ
+Ò
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpX X(o
+%8"joomla\cms\router\route::link*"
+joomla\cms\router\route*
+site*
+
+%7ª§
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpW X(p
+%9*
+
+%2*
+self*
+
+%82addlinkœ
+™
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpW X(p
+	$resource"__id*
+
+%9§¤
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpZ Z(*
+%10"tobscure\jsonapi\relationshipÌ
+É
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpZ Z(*
+%11"*tobscure\jsonapi\relationship::__construct*
+
+%10*
+
+	$resource¶
+³
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpZ Z(+$
+%12tobscure\jsonapi\relationship"__id*
+
+%10"¦
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_newsfeeds/src/Serializer/NewsfeedSerializer.phpZ Z(+&
+$
+%12tobscure\jsonapi\relationship:
+$modelstdclassB@>
+<joomla\component\newsfeeds\api\serializer\newsfeedserializer

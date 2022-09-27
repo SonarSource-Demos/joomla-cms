@@ -1,0 +1,31 @@
+
+Ejoomla\component\users\administrator\model\levelmodel::preprocessformw
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php× ×(%"1*¦
+2
+LevelModel.php"Ž
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.phpÛ Û(
+implicit return*Á
+1w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.phpÚ Ú(5¬
+©
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php× ×(%
+$form"__id*
+
+$formjoomla\cms\form\formŽ
+‹
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.phpÚ Ú(4
+%1"/joomla\cms\mvc\model\adminmodel::preprocessform*97
+5joomla\component\users\administrator\model\levelmodel*	
+
+$form*	
+
+$data*
+user*
+2:
+$formjoomla\cms\form\form:
+$data:
+$groupB97
+5joomla\component\users\administrator\model\levelmodel

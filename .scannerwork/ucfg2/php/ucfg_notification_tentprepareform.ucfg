@@ -1,0 +1,69 @@
+
+-plgworkflownotification::oncontentprepareformh
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpU U(("1*∫
+2h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.php^ ^(?≈¬
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.php^ ^(>
+%4*
+plgworkflownotification*	
+
+$form*	
+
+$data2enhanceworkflowtransitionform*
+3*„
+3h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpa a("t
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpa a(
+true*Ï
+1h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpW W()¶
+£
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpU U((
+$event"__id*'
+%
+$eventjoomla\event\eventinterfaceìê
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpW W((
+%1*
+
+
+$event*
+02getargumentÑ
+Å
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpW W((
+$form"__id*
+
+%1ìê
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpX X((
+%2*
+
+
+$event*
+12getargumentÑ
+Å
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpX X((
+$data"__id*
+
+%2áÑ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpZ Z(#
+%3*	
+
+$form2getnameá
+Ñ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/notification/notification.phpZ Z(#
+
+$context"__id*
+
+%3*
+2
+3:%
+$eventjoomla\event\eventinterfaceB
+plgworkflownotification

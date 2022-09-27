@@ -1,0 +1,59 @@
+
+Jjoomla\plugin\system\debug\datacollector\languagefilescollector::getassets{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpw w("1*³
+1{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpy |(
+Ž‹
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpy |(	
+%1"$ArrayÂ
+¿
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpz z(#
+%2"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri*
+trueÙ
+Ö
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpz z(c
+%3"__concat*
+
+%2*?=
+;/media/plg_system_debug/widgets/languageFiles/widget.min.js¨
+¥
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpy |(	
+%4"__mapSet*
+
+%1*
+js*
+
+%3Â
+¿
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.php{ {($
+%5"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri*
+trueÚ
+×
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.php{ {(e
+%6"__concat*
+
+%5*@>
+</media/plg_system_debug/widgets/languageFiles/widget.min.css©
+¦
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpy |(	
+%7"__mapSet*
+
+%1*
+css*
+
+%6"…
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/LanguageFilesCollector.phpy |(
+
+
+%1BCA
+?joomla\plugin\system\debug\datacollector\languagefilescollector

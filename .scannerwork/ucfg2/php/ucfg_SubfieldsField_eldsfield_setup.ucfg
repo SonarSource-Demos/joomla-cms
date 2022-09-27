@@ -1,0 +1,79 @@
+
+Ajoomla\component\fields\administrator\field\subfieldsfield::setupz
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpr r("1*…
+2z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpw w(@Ø
+Õ
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpw& w(4
+%2"__id*K*I<
+:joomla\component\fields\administrator\field\subfieldsfield"	
+element¤
+¡
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpw& w(?
+%3"__mapGet*
+
+%2*	
+context¡
+ž
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpw w(?
+%4"__passthrough_cast*
+
+%3Ø
+Õ
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpw w(?I<
+:joomla\component\fields\administrator\field\subfieldsfield"	
+context"__id*
+
+%4*
+3*‹
+3z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpz z(Í
+Ê
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpz z(9
+%53joomla\component\fields\administrator\field\boolean"__id*
+	
+$return"¹
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpz z(;
+9
+%53joomla\component\fields\administrator\field\boolean*ì
+1z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpt t(:±
+®
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpr r(
+
+$element"__id*
+
+$elementsimplexmlelement“
+
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpt t(9
+%1"&joomla\cms\form\field\listfield::setup*><
+:joomla\component\fields\administrator\field\subfieldsfield*
+
+
+$element*
+
+
+$value*
+
+
+$group˜
+•
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SubfieldsField.phpt t(9	
+$return"__id*
+
+%1*
+2
+3:
+$elementsimplexmlelement:
+$value:
+$groupB><
+:joomla\component\fields\administrator\field\subfieldsfield

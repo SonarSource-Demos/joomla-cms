@@ -1,0 +1,40 @@
+
+Fjoomla\component\contact\administrator\table\contacttable::__constructy
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Table/ContactTable.php9 9("1*™
+2
+ContactTable.php"ê
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Table/ContactTable.php@ @(
+implicit return*•
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Table/ContactTable.php; ;(1¥
+±
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Table/ContactTable.php9 9(
+$db"__id*'
+%
+$dbjoomla\database\databasedriverÈ
+Ê
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Table/ContactTable.php; ;(0J;
+9joomla\component\contact\administrator\table\contacttable"
+	typeAlias"__id*
+com_contact.contactë
+é
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Table/ContactTable.php= =(<
+%1"#joomla\cms\table\table::__construct*=;
+9joomla\component\contact\administrator\table\contacttable*
+#__contact_details*
+id*
+
+$dbËÂ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Table/ContactTable.php? ?(.
+%2*=;
+9joomla\component\contact\administrator\table\contacttable*	
+title*
+name2setcolumnalias*
+2:%
+$dbjoomla\database\databasedriverB=;
+9joomla\component\contact\administrator\table\contacttable

@@ -1,0 +1,65 @@
+
+'joomla\cms\menu\abstractmenu::getparams_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.php¨ ¨("1*Ä
+2_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpØ Ø(&}
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpØ Ø(%
+%2*	
+
+$menu2	getparamsí
+è
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpØ Ø(&
+%3joomla\registry\registry"__id*
+
+%2"É
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpØ Ø(& 
+
+%3joomla\registry\registry*¢
+3_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.php≤ ≤(ÑÅ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.php≤ ≤(
+%4"joomla\registry\registryô
+ñ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.php≤ ≤(
+%5"%joomla\registry\registry::__construct*
+
+%4í
+è
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.php≤ ≤(
+%6joomla\registry\registry"__id*
+
+%4"É
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.php≤ ≤( 
+
+%6joomla\registry\registry*ü
+1_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpÆ Æ('ì
+ê
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.php¨ ¨(
+$id"__id* 
+
+$idjoomla\cms\menu\integerûõ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpÆ Æ('
+%1* 
+joomla\cms\menu\abstractmenu*
+
+$id2getitemz
+x
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Menu/AbstractMenu.phpÆ Æ('
+$menu"__id*
+
+%1*
+2
+3:
+$idjoomla\cms\menu\integerB 
+joomla\cms\menu\abstractmenu

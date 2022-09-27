@@ -1,0 +1,102 @@
+
+1step\acceptance\administrator\banner::trashbanner
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php± ±("1*ª
+2
+
+Banner.php"–
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php» »(
+implicit return*˜
+1
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php³ ³(º
+·
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php³ ³(
+$I"__id*(&
+$step\acceptance\administrator\bannerÌ
+É
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php´ ´()
+%1"__id*:*8.
+,page\acceptance\administrator\bannerlistpage"
+$url¤¡
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php´ ´(*
+%2*
+
+$I*
+
+%12amonpageÔ
+Ñ
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpµ µ(7
+%3"__id*B*@.
+,page\acceptance\administrator\bannerlistpage"
+$searchFieldª§
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpµ9 µ(Q
+%4*
+
+$I*	
+timeout2	getconfig²¯
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpµ µ(R
+%5*
+
+$I*
+
+%3*
+
+%42waitforelementÔ
+Ñ
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php¶ ¶(2
+%6"__id*B*@.
+,page\acceptance\administrator\bannerlistpage"
+$searchField·´
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php¶ ¶(A
+%7*
+
+$I*
+
+%6*
+
+$bannerTitle2	fillfieldÕ
+Ò
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php· ·(/
+%8"__id*C*A.
+,page\acceptance\administrator\bannerlistpage"
+$filterSearch¡ž
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php· ·(0
+%9*
+
+$I*
+
+%82click¤¡
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php¸ ¸(
+%10*
+
+$I2checkallresults²¯
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php¹ ¹('
+%11*
+
+$I*	
+Trash2clicktoolbarbutton·´
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpº º(*
+%12*
+
+$I*
+
+
+$message2assertsuccessmessage*
+2:
+$bannerTitle:
+
+$messageB(&
+$step\acceptance\administrator\banner

@@ -1,0 +1,110 @@
+
+4joomla\cms\console\addusertogroupcommand::getgroupidk
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php÷ ÷(!"1*Ú
+1k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpÿ ÿ(&±Æ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpÿ ÿ(%
+%1*,*
+(joomla\cms\console\addusertogroupcommand2getdatabaseÖ
+Ç
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpÿ ÿ(%
+$db"__id*
+
+%1ìê
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpŸ Ÿ($
+%2*
+
+$db*
+true2getqueryíè
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php⁄ ⁄()
+%3*
+
+$db*
+id2	quotenameéã
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpŸ ⁄(*
+%4*
+
+%2*
+
+%32selectùö
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php€ €(2
+%5*
+
+$db*
+#__usergroups2	quotenameåâ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpŸ €(3
+%6*
+
+%4*
+
+%52fromïí
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php‹ ‹(+
+%7*
+
+$db*	
+title2	quotenameö
+ó
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php‹ ‹(<
+%8"__concat*
+
+%7*
+= :groupNameçä
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpŸ ‹(=
+%9*
+
+%6*
+
+%82where•¢
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpŸ ›(,
+%10*
+
+%9*
+
+:groupName*
+
+
+$groupName2bindâ
+Ü
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpŸ ›(,
+$query"__id*
+
+%10ñì
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpﬁ ﬁ(
+%11*
+
+$db*
+
+
+$query2setqueryåâ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php‡ ‡( 
+%12*
+
+$db2
+loadresult¢
+ü
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php‡ ‡(!!
+%13joomla\cms\console\integer"__id*
+
+%12"í
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.php‡ ‡(!#
+!
+%13joomla\cms\console\integer:
+
+$groupNameB,*
+(joomla\cms\console\addusertogroupcommand

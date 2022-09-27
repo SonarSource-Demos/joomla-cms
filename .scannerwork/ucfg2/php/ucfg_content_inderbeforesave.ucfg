@@ -1,0 +1,32 @@
+
+$plgfindercontent::onfinderbeforesave^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/content/content.php¼ ¼(&"4"7"8*ˆ
+4^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/content/content.phpÂ Â(-š—
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/content/content.phpÂ Â(,
+%1*
+plgfindercontent*
+
+$row2checkitemaccess*
+7
+8*‰
+7^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/content/content.phpÊ Ê(1ž›
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/content/content.phpÊ Ê(0
+%2*
+plgfindercontent*
+
+$row2checkcategoryaccess*
+8*Ï
+8^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/content/content.phpÎ Î("j
+^
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/finder/content/content.phpÎ Î(
+true:
+
+$context:
+$row:
+$isNewB
+plgfindercontent

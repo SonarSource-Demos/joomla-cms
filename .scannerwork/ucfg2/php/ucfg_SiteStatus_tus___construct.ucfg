@@ -1,0 +1,68 @@
+
+?joomla\plugin\task\sitestatus\extension\sitestatus::__constructn
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpi i("1*ù
+2
+SiteStatus.php"Ö
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpo o(
+implicit return*∂
+1n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpk k(2ª
+∏
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpi i(
+$dispatcher"__id*1
+/
+$dispatcher joomla\event\dispatcherinterfaceò
+ï
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpi i(	
+$config"__id*
+
+$configarrayû
+õ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpi i(
+
+$oldConfig"__id*
+
+
+$oldConfigarray°
+û
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpi i(
+$configFile"__id*
+
+$configFilestring˘
+ˆ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpk k(1
+%1"(joomla\cms\plugin\cmsplugin::__construct*64
+2joomla\plugin\task\sitestatus\extension\sitestatus*
+
+$dispatcher*
+	
+$configŒ
+À
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpm m(&C4
+2joomla\plugin\task\sitestatus\extension\sitestatus"
+	oldConfig"__id*
+
+
+$oldConfig–
+Õ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/sitestatus/src/Extension/SiteStatus.phpn n('D4
+2joomla\plugin\task\sitestatus\extension\sitestatus"
+
+configFile"__id*
+
+$configFile*
+2:/
+$dispatcher joomla\event\dispatcherinterface:
+$configarray:
+
+$oldConfigarray:
+$configFilestringB64
+2joomla\plugin\task\sitestatus\extension\sitestatus

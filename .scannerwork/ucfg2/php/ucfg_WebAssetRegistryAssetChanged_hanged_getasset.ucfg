@@ -1,0 +1,29 @@
+
+@joomla\cms\event\webasset\webassetregistryassetchanged::getassetw
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/WebAsset/WebAssetRegistryAssetChanged.phpN N("1*á
+1w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/WebAsset/WebAssetRegistryAssetChanged.phpP P()Ó
+Ð
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/WebAsset/WebAssetRegistryAssetChanged.phpP P(
+%1"__id*I*G8
+6joomla\cms\event\webasset\webassetregistryassetchanged"
+	argumentsŸ
+œ
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/WebAsset/WebAssetRegistryAssetChanged.phpP P((
+%2"__mapGet*
+
+%1*	
+asset»
+¸
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/WebAsset/WebAssetRegistryAssetChanged.phpP P()/
+%3)joomla\cms\webasset\webassetiteminterface"__id*
+
+%2"¬
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/WebAsset/WebAssetRegistryAssetChanged.phpP P()1
+/
+%3)joomla\cms\webasset\webassetiteminterfaceB:8
+6joomla\cms\event\webasset\webassetregistryassetchanged

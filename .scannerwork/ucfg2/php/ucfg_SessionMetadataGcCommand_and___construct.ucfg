@@ -1,0 +1,47 @@
+
+8joomla\cms\console\sessionmetadatagccommand::__constructl
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.php; ;("1*©
+2
+SessionMetadataGcCommand.php"ƒ
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.phpA A(
+implicit return*ë
+1l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.php= =(*²
+¯
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.php; ;(
+
+$session"__id*-
++
+$sessionjoomla\session\sessioninterfaceÅ
+Â
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.php; ;(
+$metadataManager"__id*8
+6
+$metadataManager"joomla\cms\session\metadatamanagerÁ
+¾
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.php= =():-
++joomla\cms\console\sessionmetadatagccommand"	
+session"__id*
+
+
+$sessionÑ
+Î
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.php> >(1B-
++joomla\cms\console\sessionmetadatagccommand"
+metadataManager"__id*
+
+$metadataManagerÝ
+Ú
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SessionMetadataGcCommand.php@ @(
+%1"3joomla\console\command\abstractcommand::__construct*/-
++joomla\cms\console\sessionmetadatagccommand*
+2:+
+$sessionjoomla\session\sessioninterface:6
+$metadataManager"joomla\cms\session\metadatamanagerB/-
++joomla\cms\console\sessionmetadatagccommand

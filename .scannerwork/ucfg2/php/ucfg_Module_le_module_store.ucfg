@@ -1,0 +1,100 @@
+
+joomla\cms\table\module::storeZ
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÉ É("1*ï	
+2[
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ Ì(‚‘
+Ž
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ2 Ì(<
+%2"__id*$*"
+joomla\cms\table\module"
+_db†ƒ
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ2 Ì(S
+%3*
+
+%2*
+
+position2	quotename‘
+Ž
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ^ Ì(h
+%4"__id*$*"
+joomla\cms\table\module"
+_db–
+“
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌp Ì(
+%5"__id*)*'
+joomla\cms\table\module"
+
+position|z
+[
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ^ Ì(€
+%6*
+
+%4*
+
+%52quote‰
+†
+[
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ2 Ì(€
+%7"__concat*
+
+%3*
+ = *
+
+%6™–
+[
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ Ì(
+%8*
+joomla\cms\table\module*
+
+%72getnextorder—
+”
+[
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÌ Ì('
+joomla\cms\table\module"
+
+ordering"__id*
+
+%8*
+3*§
+3Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÏ Ï(+³
+°
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÏ Ï(*
+%9"joomla\cms\table\table::store*
+joomla\cms\table\module*
+
+$updateNullsŽ
+‹
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÏ Ï(+
+%10joomla\cms\table\boolean"__id*
+
+%9"
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÏ Ï(+!
+
+%10joomla\cms\table\boolean*¤
+1Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpË Ë(¡
+ž
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpÉ É(
+$updateNulls"__id**
+(
+$updateNullsjoomla\cms\table\boolean–
+“
+Z
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.phpË Ë(
+%1"__id*)*'
+joomla\cms\table\module"
+
+ordering*
+2
+3:(
+$updateNullsjoomla\cms\table\booleanB
+joomla\cms\table\module

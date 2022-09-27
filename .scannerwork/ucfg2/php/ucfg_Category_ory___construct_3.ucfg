@@ -1,0 +1,50 @@
+
+=joomla\component\newsfeeds\site\service\category::__constructk
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Service/Category.php ("1*˜
+2
+Category.php"‚
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Service/Category.php! !(
+implicit return*ò
+1k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Service/Category.php (+«
+¨
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Service/Category.php (
+%1"__mapSet*
+
+
+$options*	
+table*
+#__newsfeeds°
+­
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Service/Category.php (
+%2"__mapSet*
+
+
+$options*
+	extension*
+com_newsfeeds­
+ª
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Service/Category.php (
+%3"__mapSet*
+
+
+$options*
+
+statefield*
+	publishedé
+æ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Service/Category.php   (%
+%4"-joomla\cms\categories\categories::__construct*42
+0joomla\component\newsfeeds\site\service\category*
+
+
+$options*
+2:
+
+$optionsB42
+0joomla\component\newsfeeds\site\service\category

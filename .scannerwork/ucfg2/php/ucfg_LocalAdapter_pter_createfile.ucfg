@@ -1,0 +1,78 @@
+
+?joomla\plugin\filesystem\local\adapter\localadapter::createfileq
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php⁄ ⁄("1*”
+1q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php‹ ‹(*ò
+ï
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php⁄ ⁄(
+$name"__id*
+
+$namestringò
+ï
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php⁄ ⁄(
+$path"__id*
+
+$pathstringÕ 
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php‹ ‹()
+%1*75
+3joomla\plugin\filesystem\local\adapter\localadapter*	
+
+$name2getsafenameç
+ä
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php‹ ‹()
+$name"__id*
+
+%1£
+†
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpﬁ) ﬁ(<
+%2"__concat*	
+
+$path*
+/*	
+
+$nameÀ»
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpﬁ ﬁ(=
+%3*75
+3joomla\plugin\filesystem\local\adapter\localadapter*
+
+%22getlocalpathí
+è
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpﬁ ﬁ(=
+
+$localPath"__id*
+
+%3ﬁ€
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php‡ ‡(.
+%4*75
+3joomla\plugin\filesystem\local\adapter\localadapter*
+
+
+$localPath*	
+
+$data2checkcontent⁄
+◊
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php‚ ‚(&
+%5"!joomla\cms\filesystem\file::write*"
+joomla\cms\filesystem\file*
+
+
+$localPath*	
+
+$data"~
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php‰ ‰(	
+
+$name:
+$namestring:
+$pathstring:
+$dataB75
+3joomla\plugin\filesystem\local\adapter\localadapter

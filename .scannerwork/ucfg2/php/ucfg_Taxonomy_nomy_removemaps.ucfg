@@ -1,0 +1,93 @@
+
+Bjoomla\component\finder\administrator\indexer\taxonomy::removemapsx
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpè è(%"1*ˆ
+1x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpë ë( Ò
+Ï
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpè è(%	
+$linkId"__id*B
+@
+$linkId5joomla\component\finder\administrator\indexer\integer·
+´
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpë ë(
+%1"joomla\cms\factory::getdbo*"
+joomla\cms\factory’
+
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpë ë(
+$db"__id*
+
+%1 
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpì ì($
+%2*
+
+$db*
+true2getquery³°
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpí í(=
+%3*
+
+$db*
+#__finder_taxonomy_map2	quotename›˜
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpì í(>
+%4*
+
+%2*
+
+%32delete¤¡
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpî î(-
+%5*
+
+$db*	
+link_id2	quotename£
+ 
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpî8 î(E
+%6"__sanitizing_cast*
+	
+$linkId¦
+£
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpî î(E
+%7"__concat*
+
+%5*
+ = *
+
+%6š—
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpì î(F
+%8*
+
+%4*
+
+%72where•
+’
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpì î(F
+$query"__id*
+
+%8¢Ÿ
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpï ï(
+%9*
+
+$db*
+
+
+$query2setquery–“
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpð ð(
+%10*
+
+$db2execute"„
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpò ò(
+true:@
+$linkId5joomla\component\finder\administrator\indexer\integerB:8
+6joomla\component\finder\administrator\indexer\taxonomy

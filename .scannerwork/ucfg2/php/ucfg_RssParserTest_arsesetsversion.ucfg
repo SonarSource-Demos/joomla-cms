@@ -1,0 +1,129 @@
+
+Ojoomla\tests\unit\libraries\cms\feed\parser\rssparsertest::testparsesetsversionr
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php« «(("1*ï
+2r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php÷ ÷("êç
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php÷ ÷("
+%3*
+	
+$reader2read*	
+3
+6
+9*£
+3r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php◊ ◊(<û
+õ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php◊ ◊(%
+%4"__id**
+	
+$reader"
+
+nodeType*	
+2
+6
+9*Ó
+6r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.phpﬂ ﬂ(îë
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.phpﬂ ﬂ(
+%5*
+
+
+$rssParser2parseúô
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php‚ ‚(:
+$reflectionClass"reflectionclass¡
+æ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php‚ ‚(:
+%6"reflectionclass::__construct*
+
+$reflectionClass*
+
+
+$rssParser≠™
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php„ „(=
+%7*
+
+$reflectionClass*	
+version2getpropertyì
+ê
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php„ „(=
+
+$attribute"__id*
+
+%7¶£
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.phpÂ Â('
+%8*
+
+
+$attribute*
+true2setaccessibleß§
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.phpÊ# Ê(C
+%9*
+
+
+$attribute*
+
+
+$rssParser2getvalue‹Ÿ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.phpÊ Ê(D
+%10*=;
+9joomla\tests\unit\libraries\cms\feed\parser\rssparsertest*
+2.0*
+
+%92assertequals*
+9*§
+9
+RssParserTest.php"â
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.phpÁ Á(
+implicit return*Ê
+1r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php… œ(∞
+≠
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php… œ(
+	$dummyXml"__id*£†
+ù<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! Unit Test" -->
+<rss version="2.0">
+	<channel>
+		<title>Test Channel</title>
+	</channel>
+</rss>´
+®
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php– –(/
+%1"xmlreader::xml*"
+	xmlreader*
+
+	$dummyXmlê
+ç
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php– –(/	
+$reader"__id*
+
+%1ß§
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php— —(+
+
+$rssParser" joomla\cms\feed\parser\rssparser…
+∆
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/RssParserTest.php— —(+
+%2"-joomla\cms\feed\parser\rssparser::__construct*
+
+
+$rssParser*
+	
+$reader*
+2B=;
+9joomla\tests\unit\libraries\cms\feed\parser\rssparsertest

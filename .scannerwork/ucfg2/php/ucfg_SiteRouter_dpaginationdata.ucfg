@@ -1,0 +1,59 @@
+
+1joomla\cms\router\siterouter::buildpaginationdata_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpŸ Ÿ('"1*°
+2_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpﬁ ﬁ(Dåâ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpﬁ( ﬁ(B
+%2*
+
+$uri*
+
+limitstart2getvarÖ
+Ç
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpﬁ" ﬁ(B
+%3"__sanitizing_cast*
+
+%2èå
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpﬁ ﬁ(C
+%4*
+
+$uri*	
+start*
+
+%32setvaråâ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpﬂ ﬂ(&
+%5*
+
+$uri*
+
+limitstart2delvar*
+3*ç
+3
+SiteRouter.php"v
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.php· ·(
+implicit return*˛
+1_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.php€ €(1åâ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.php€ €(0
+%1*
+
+$uri*
+
+limitstart2getvarÄ
+~
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.php€ €(0
+$limitstart"__id*
+
+%1*
+2
+3:	
+$router:
+$uriB 
+joomla\cms\router\siterouter

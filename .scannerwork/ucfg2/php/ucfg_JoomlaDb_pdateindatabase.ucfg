@@ -1,0 +1,52 @@
+
+!helper\joomladb::updateindatabasej
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php¢ ¢($"1*ó
+2
+JoomlaDb.php"Å
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpß ß(
+implicit return*¨
+1j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php§ §(*ê
+ç
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php¢ ¢($
+$data"__id*
+
+$dataarrayò
+ï
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php¢ ¢($
+	$criteria"__id*
+
+	$criteriaarray°û
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php§ §()
+%1*
+helper\joomladb*
+
+
+$table2	addprefixá
+Ñ
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php§ §()
+$table"__id*
+
+%1Ÿ
+÷
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php¶ ¶(:
+%2"'codeception\module\db::updateindatabase*
+helper\joomladb*
+
+
+$table*	
+
+$data*
+
+	$criteria*
+2:
+$table:
+$dataarray:
+	$criteriaarrayB
+helper\joomladb

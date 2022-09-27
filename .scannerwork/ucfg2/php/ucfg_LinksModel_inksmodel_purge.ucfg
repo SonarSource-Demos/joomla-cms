@@ -1,0 +1,86 @@
+
+?joomla\component\redirect\administrator\model\linksmodel::purgex
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php; ;("1*Ö
+2x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpH H("Ö
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpH H(	
+false*Ñ
+3x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpK K("Ñ
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpK K(
+true*ß
+5
+LinksModel.php"è
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpL L(
+implicit return*˛
+1x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php= =(#ŒÀ
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php= =("
+%1*<:
+8joomla\component\redirect\administrator\model\linksmodel2getdatabaseí
+è
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php= =("
+$db"__id*
+
+%1†ù
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php? ?($
+%2*
+
+$db*
+true2getqueryï
+í
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php? ?($
+$query"__id*
+
+%2Æ´
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpA A(+
+%3*
+
+
+$query*
+#__redirect_links2delete¶£
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpA3 A(N
+%4*
+
+$db*
+	published2	quotenameû
+õ
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpA3 A(V
+%5"__concat*
+
+%4*
+= 0öó
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpA A(W
+%6*
+
+%3*
+
+%52where¢ü
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpC C(
+%7*
+
+$db*
+
+
+$query2setqueryïí
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpF F(
+%8*
+
+$db2execute*	
+2
+3
+5B<:
+8joomla\component\redirect\administrator\model\linksmodel

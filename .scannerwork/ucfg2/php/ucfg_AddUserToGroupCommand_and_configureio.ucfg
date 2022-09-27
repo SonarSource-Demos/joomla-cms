@@ -1,0 +1,56 @@
+
+5joomla\cms\console\addusertogroupcommand::configureiok
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpô ô( "1*•
+2
+AddUserToGroupCommand.php"Ç
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpù ù(
+implicit return*Ï	
+1k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpõ õ(!º
+π
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpô ô( 
+$input"__id*:
+8
+$input.symfony\component\console\input\inputinterface¿
+Ω
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpô ô( 	
+$output"__id*=
+;
+$output0symfony\component\console\output\outputinterfaceº
+π
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpõ õ( 8*
+(joomla\cms\console\addusertogroupcommand"
+
+cliInput"__id*
+
+
+$input§°
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpú ú(:
+%1",symfony\component\console\style\symfonystyle“
+œ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpú ú(:
+%2"9symfony\component\console\style\symfonystyle::__construct*
+
+%1*
+
+
+$input*
+	
+$output∑
+¥
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserToGroupCommand.phpú ú(:7*
+(joomla\cms\console\addusertogroupcommand"	
+ioStyle"__id*
+
+%1*
+2:8
+$input.symfony\component\console\input\inputinterface:;
+$output0symfony\component\console\output\outputinterfaceB,*
+(joomla\cms\console\addusertogroupcommand

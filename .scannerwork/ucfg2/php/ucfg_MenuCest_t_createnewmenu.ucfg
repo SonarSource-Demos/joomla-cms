@@ -1,0 +1,128 @@
+
+menucest::createnewmenuÖ
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php" "(!"1*≥
+2
+MenuCest.php"ù
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php7 7(
+implicit return*«
+1Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php$ $(3±
+Æ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php" "(!
+$I"__id*
+
+$Iacceptancetester√¿
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php$ $(2
+%1*
+
+$I*
+I am going to create a menu2commentØ¨
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php% %("
+%2*
+
+$I2doadministratorlogin—
+Œ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php' '('
+%3"__id*8*6,
+*page\acceptance\administrator\menulistpage"
+$url´®
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php' '((
+%4*
+
+$I*
+
+%32amonpage∑¥
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php( ((*
+%5*
+
+$I2checkforphpnoticesorwarnings€
+ÿ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php* *(4
+%6"__id*B*@,
+*page\acceptance\administrator\menulistpage"
+$pageTitleTextÆ´
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php* *(5
+%7*
+
+$I*
+
+%62waitfortextÆ´
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php+ +(!
+%8*
+
+$I2waitforjsonpageload∂≥
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php- -(%
+%9*
+
+$I*
+new2clicktoolbarbutton‹
+Ÿ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php. .(4
+%10"__id*B*@,
+*page\acceptance\administrator\menuformpage"
+$pageTitleText∞≠
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php. .(5
+%11*
+
+$I*
+
+%102waitfortext∏µ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php/ /(*
+%12*
+
+$I2checkforphpnoticesorwarningsØ¨
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php0 0(!
+%13*
+
+$I2waitforjsonpageloadÃ…
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php2 2(3
+%14*
+
+menucest*
+
+$I*
+	Test Menu2fillmenuinformation∏µ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php4 4(&
+%15*
+
+$I*
+save2clicktoolbarbutton‹
+Ÿ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php5 5(4
+%16"__id*B*@,
+*page\acceptance\administrator\menulistpage"
+$pageTitleText∞≠
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php5 5(5
+%17*
+
+$I*
+
+%162waitfortext∏µ
+Ö
+{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.php6 6(*
+%18*
+
+$I2checkforphpnoticesorwarnings*
+2:
+$IacceptancetesterB
+
+menucest

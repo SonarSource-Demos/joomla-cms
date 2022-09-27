@@ -1,0 +1,61 @@
+
+=joomla\cms\installer\adapter\pluginadapter::parseoptionaltagsm
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpº º(("1*Ÿ
+2
+PluginAdapter.php"„
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php¿ ¿(
+implicit return*Ë
+1m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php½ ½(Bº
+·
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php½ ½(
+%1"__id*:*8,
+*joomla\cms\installer\adapter\pluginadapter"
+parentµ²
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php½" ½(6
+%2*.,
+*joomla\cms\installer\adapter\pluginadapter2getmanifest‘
+Ž
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php½" ½(=
+%3"__id**
+
+%2"
+mediaš—
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php½ ½(A
+%4*
+
+%1*
+
+%3*22
+parsemediaº
+·
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php¾ ¾(
+%5"__id*:*8,
+*joomla\cms\installer\adapter\pluginadapter"
+parentµ²
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php¾& ¾(:
+%6*.,
+*joomla\cms\installer\adapter\pluginadapter2getmanifest•
+’
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php¾& ¾(E
+%7"__id**
+
+%6"
+	languagesž›
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php¾ ¾(I
+%8*
+
+%5*
+
+%7*22parselanguages*
+2B.,
+*joomla\cms\installer\adapter\pluginadapter

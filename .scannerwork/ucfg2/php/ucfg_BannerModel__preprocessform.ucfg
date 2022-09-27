@@ -1,0 +1,61 @@
+
+Hjoomla\component\banners\administrator\model\bannermodel::preprocessformz
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.phpﬁ ﬁ(%"1*õ
+2z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.php· ·(B∆√
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.php· ·(A
+%2*	
+
+$form*	
+catid*
+
+allowAdd*
+true2setfieldattributeÀ»
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.php‰ ‰(F
+%3*	
+
+$form*	
+catid*
+customPrefix*	
+#new#2setfieldattribute*
+3*ù
+3z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.phpÁ Á(5ñ
+ì
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.phpÁ Á(4
+%4"/joomla\cms\mvc\model\adminmodel::preprocessform*<:
+8joomla\component\banners\administrator\model\bannermodel*	
+
+$form*	
+
+$data*
+
+
+$group*
+4*™
+4
+BannerModel.php"ë
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.phpË Ë(
+implicit return*í
+1z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.php‡ ‡(&Ø
+¨
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.phpﬁ ﬁ(%
+$form"__id*
+
+$formjoomla\cms\form\form÷”
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannerModel.php‡ ‡(&
+%1*<:
+8joomla\component\banners\administrator\model\bannermodel2cancreatecategory*
+2
+3:
+$formjoomla\cms\form\form:
+$data:
+$groupB<:
+8joomla\component\banners\administrator\model\bannermodel

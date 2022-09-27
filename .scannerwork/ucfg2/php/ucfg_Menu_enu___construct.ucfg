@@ -1,0 +1,54 @@
+
+"joomla\cms\table\menu::__constructV
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php+ +("1*~
+2
+
+Menu.php"m
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php1 1(
+implicit return*‡
+1V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php- -(2ë
+é
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php+ +(
+$db"__id*'
+%
+$dbjoomla\database\databasedriver¿
+Ω
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php- -(1
+%1"$joomla\cms\table\nested::__construct*
+joomla\cms\table\menu*	
+#__menu*
+id*
+
+$dbù
+ö
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php0 0(7
+%2""joomla\cms\factory::getapplication*"
+joomla\cms\factoryyw
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php0 0(F
+%3*
+
+%2*
+
+access2get{
+y
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php0 0(F
+%4"__sanitizing_cast*
+
+%3é
+ã
+V
+L/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Menu.php0 0(F#
+joomla\cms\table\menu"
+access"__id*
+
+%4*
+2:%
+$dbjoomla\database\databasedriverB
+joomla\cms\table\menu

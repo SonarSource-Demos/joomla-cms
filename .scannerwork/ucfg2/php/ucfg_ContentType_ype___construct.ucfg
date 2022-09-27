@@ -1,0 +1,28 @@
+
+)joomla\cms\table\contenttype::__construct]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ContentType.php ("1*Œ
+2
+ContentType.php"t
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ContentType.php   (
+implicit return*à
+1]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ContentType.php (@˜
+•
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ContentType.php (
+$db"__id*'
+%
+$dbjoomla\database\databasedriverÛ
+Ø
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/ContentType.php (?
+%1"#joomla\cms\table\table::__construct* 
+joomla\cms\table\contenttype*
+#__content_types*	
+type_id*
+
+$db*
+2:%
+$dbjoomla\database\databasedriverB 
+joomla\cms\table\contenttype

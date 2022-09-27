@@ -1,0 +1,41 @@
+
+?joomla\tests\unit\libraries\cms\html\jhtmlnumbertest::testbytesm
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlNumberTest.phpö ö("1*¡
+2
+JHtmlNumberTest.php"„
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlNumberTest.phpù ù(
+implicit return* 
+1m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlNumberTest.phpø ø(ZÎ
+Ë
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlNumberTest.phpø% ø(X
+%1"jhtmlnumber::bytes*"
+jhtmlnumber*
+
+
+$bytes*	
+
+$unit*
+
+
+$precision*
+
+$iecÕÒ
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlNumberTest.phpø ø(Y
+%2*86
+4joomla\tests\unit\libraries\cms\html\jhtmlnumbertest*
+	
+$result*
+
+%12assertequals*
+2:	
+$result:
+$bytes:
+$unit:
+
+$precision:
+$iecB86
+4joomla\tests\unit\libraries\cms\html\jhtmlnumbertest

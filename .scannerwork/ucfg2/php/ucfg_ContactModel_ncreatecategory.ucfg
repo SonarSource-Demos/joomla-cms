@@ -1,0 +1,28 @@
+
+Ljoomla\component\contact\administrator\model\contactmodel::cancreatecategory{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Model/ContactModel.phpü ü(&"1*‡
+1{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Model/ContactModel.phpþ þ(K»
+¸
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Model/ContactModel.phpþ þ(!
+%1"joomla\cms\factory::getuser*"
+joomla\cms\factory»¸
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Model/ContactModel.phpþ þ(J
+%2*
+
+%1*
+core.create*
+com_contact2	authoriseÊ
+Ç
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Model/ContactModel.phpþ þ(K:
+%34joomla\component\contact\administrator\model\boolean"__id*
+
+%2"»
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Model/ContactModel.phpþ þ(K<
+:
+%34joomla\component\contact\administrator\model\booleanB=;
+9joomla\component\contact\administrator\model\contactmodel

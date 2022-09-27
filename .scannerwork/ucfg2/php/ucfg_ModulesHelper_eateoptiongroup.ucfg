@@ -1,0 +1,56 @@
+
+Njoomla\component\modules\administrator\helper\moduleshelper::createoptiongroup}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.php´ ´(,"1*È
+1}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.php≠ ≠(êç
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.php≠ ≠(
+%1"$Arrayö
+ó
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.php≠ ≠(
+$group"__id*
+
+%1µ
+≤
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.phpÆ Æ(
+%2"__mapSet*
+
+
+$group*	
+value*
+
+
+$label¥
+±
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.phpØ Ø(
+%3"__mapSet*
+
+
+$group*
+text*
+
+
+$label∑
+¥
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.php∞ ∞(
+%4"__mapSet*
+
+
+$group*	
+items*
+
+
+$options"ã
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Helper/ModulesHelper.php≤ ≤(
+
+
+$group:
+$label:
+
+$optionsB?=
+;joomla\component\modules\administrator\helper\moduleshelper

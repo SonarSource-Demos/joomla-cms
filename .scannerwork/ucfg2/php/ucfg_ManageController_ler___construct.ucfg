@@ -1,0 +1,50 @@
+
+Qjoomla\component\installer\administrator\controller\managecontroller::__construct„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/ManageController.php( (("1*º
+2
+ManageController.php"œ
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/ManageController.php. .(
+implicit return*¹	
+1„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/ManageController.php* *(=Ö
+Ó
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/ManageController.php( ((
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÂ
+¿
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/ManageController.php* *(<
+%1"5joomla\cms\mvc\controller\basecontroller::__construct*HF
+Djoomla\component\installer\administrator\controller\managecontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$input„
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/ManageController.php, ,(3
+%2*HF
+Djoomla\component\installer\administrator\controller\managecontroller*
+	unpublish*	
+publish2registertask‚ÿ
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/ManageController.php- -(1
+%3*HF
+Djoomla\component\installer\administrator\controller\managecontroller*	
+publish*	
+publish2registertask*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputBHF
+Djoomla\component\installer\administrator\controller\managecontroller

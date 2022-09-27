@@ -1,0 +1,28 @@
+
+Fjoomla\component\templates\administrator\table\styletable::__constructy
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Table/StyleTable.php! !("1*®
+2
+StyleTable.php"ê
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Table/StyleTable.php$ $(
+implicit return*Œ
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Table/StyleTable.php# #(=¥
+±
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Table/StyleTable.php! !(
+$db"__id*'
+%
+$dbjoomla\database\databasedriverë
+é
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Table/StyleTable.php# #(<
+%1"#joomla\cms\table\table::__construct*=;
+9joomla\component\templates\administrator\table\styletable*
+#__template_styles*
+id*
+
+$db*
+2:%
+$dbjoomla\database\databasedriverB=;
+9joomla\component\templates\administrator\table\styletable

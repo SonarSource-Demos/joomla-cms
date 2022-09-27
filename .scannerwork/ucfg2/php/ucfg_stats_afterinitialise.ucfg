@@ -1,0 +1,99 @@
+
+!plgsystemstats::onafterinitialiseX
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php[ [(%"1*î
+2X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php]6 ](M†ƒ
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php]7 ](M
+%3*
+plgsystemstats2isalloweduser*
+3
+4*Ã
+3X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php^ ^("d
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php^ ^(
+void*í
+4X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpa a(!…‚
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpa a(!
+%4*
+plgsystemstats2iscaptivemfa*
+5
+6*Ã
+5X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpb b("d
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpb b(
+void*ï
+6X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpe e(B‡„
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpe e($
+%5*
+plgsystemstats2isdebugenabled*
+7
+9*ñ
+7X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpe( e(B‰†
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpe) e(B
+%6*
+plgsystemstats2isupdaterequired*
+8
+9*Ã
+8X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpf f("d
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpf f(
+void*„
+9X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpi i(>œ
+™
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpi i(
+%7"joomla\cms\uri\uri::getinstance*"
+joomla\cms\uri\uri|z
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpi i(.
+%8*
+
+%7*
+tmpl2getvar*
+10
+11*Ä
+10X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpj j("d
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpj j(
+void*ì
+11X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpn n(…‚
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpn n(
+%9*
+plgsystemstats2loadlanguage*
+12*ù
+1X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php] ](M†
+ƒ
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php] ](
+%1"__id**
+plgsystemstats"
+appˆ…
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php] ](2
+%2*
+
+%1*
+administrator2isclient*
+2
+3*‚
+12
+	stats.php"o
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpo o(
+implicit returnB
+plgsystemstats

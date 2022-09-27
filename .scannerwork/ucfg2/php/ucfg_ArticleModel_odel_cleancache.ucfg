@@ -1,0 +1,56 @@
+
+Ejoomla\component\content\administrator\model\articlemodel::cleancache{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpì ì(!"1*¨
+2
+ArticleModel.php"í
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpú ú(
+implicit return*Â
+1{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpï ï(*É
+Ä
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpï ï()
+%1"+joomla\cms\mvc\model\adminmodel::cleancache*=;
+9joomla\component\content\administrator\model\articlemodel*
+com_contentå
+â
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpñ ñ(2
+%2"+joomla\cms\mvc\model\adminmodel::cleancache*=;
+9joomla\component\content\administrator\model\articlemodel*
+mod_articles_archiveè
+å
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpó ó(5
+%3"+joomla\cms\mvc\model\adminmodel::cleancache*=;
+9joomla\component\content\administrator\model\articlemodel*
+mod_articles_categoriesç
+ä
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpò ò(3
+%4"+joomla\cms\mvc\model\adminmodel::cleancache*=;
+9joomla\component\content\administrator\model\articlemodel*
+mod_articles_categoryã
+à
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpô ô(1
+%5"+joomla\cms\mvc\model\adminmodel::cleancache*=;
+9joomla\component\content\administrator\model\articlemodel*
+mod_articles_latestâ
+Ü
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpö ö(/
+%6"+joomla\cms\mvc\model\adminmodel::cleancache*=;
+9joomla\component\content\administrator\model\articlemodel*
+mod_articles_newså
+â
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticleModel.phpõ õ(2
+%7"+joomla\cms\mvc\model\adminmodel::cleancache*=;
+9joomla\component\content\administrator\model\articlemodel*
+mod_articles_popular*
+2:
+$group:
+	$clientIdB=;
+9joomla\component\content\administrator\model\articlemodel

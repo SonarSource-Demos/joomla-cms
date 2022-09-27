@@ -1,0 +1,29 @@
+
+/joomla\cms\console\updatecorecommand::configureg
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/UpdateCoreCommand.php¼ ¼( "1*œ
+2
+UpdateCoreCommand.php"~
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/UpdateCoreCommand.phpÃ Ã(
+implicit return*Î
+1g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/UpdateCoreCommand.php¾ ¿(1å
+â
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/UpdateCoreCommand.php¾ ¿(0
+$help"__id*hf
+d<info>%command.name%</info> is used to update Joomla
+		\nUsage: <info>php %command.full_name%</info>¿¼
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/UpdateCoreCommand.phpÁ Á(.
+%1*(&
+$joomla\cms\console\updatecorecommand*
+Update Joomla2setdescription°­
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/UpdateCoreCommand.phpÂ Â(
+%2*(&
+$joomla\cms\console\updatecorecommand*	
+
+$help2sethelp*
+2B(&
+$joomla\cms\console\updatecorecommand

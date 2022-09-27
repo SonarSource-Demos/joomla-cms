@@ -1,0 +1,75 @@
+
+Kjoomla\component\menus\api\controller\menuscontroller::getclientidfrominputu
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpK K()"1*þ
+2u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpN N(*Ì
+É
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpN N(
+%4"__id*D*B7
+5joomla\component\menus\api\controller\menuscontroller"
+inputœ™
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpN N(*
+%5*
+
+%4*
+	client_id2getŽ
+‹
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpM N(Q
+%3"__id*
+
+%5*
+4*™
+3u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpN- N(QÌ
+É
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpN- N(9
+%6"__id*D*B7
+5joomla\component\menus\api\controller\menuscontroller"
+input˜
+•
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpN- N(?
+%7"__id**
+
+%6"
+postœ™
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpN- N(Q
+%8*
+
+%7*
+	client_id2getŽ
+‹
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpM N(Q
+%3"__id*
+
+%8*
+4*û
+4u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpNQ N(Q"
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpM N(R
+
+%3*ó
+1u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpM N(RÌ
+É
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpM M(
+%1"__id*D*B7
+5joomla\component\menus\api\controller\menuscontroller"
+inputŸœ
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_menus/src/Controller/MenusController.phpM M(0
+%2*
+
+%1*
+	client_id2exists*
+2
+3B97
+5joomla\component\menus\api\controller\menuscontroller

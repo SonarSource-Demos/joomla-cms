@@ -1,0 +1,60 @@
+
+"plgsystemfields::onuserafterdelete\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php‡ ‡(%"1*Ü
+2
+
+fields.php"s
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.phpÊ Ê(
+implicit return*∏
+1\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php‚ ‚(#Ö
+Ç
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php‡ ‡(%
+$user"__id*
+
+$userstdclassä
+á
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php‡ ‡(%
+
+$success"__id*
+
+$successbooleansq
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php‚ ‚("
+$item"stdclassâ
+Ü
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php‚ ‚("
+%1"stdclass::__construct*	
+
+$itemÑ
+Å
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php„ „(
+%2"__mapGet*	
+
+$user*
+id
+}
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.php„ „(
+
+$item"
+id"__id*
+
+%2±Æ
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/fields/fields.phpÂ Â(<
+%3*
+plgsystemfields*
+com_users.user*	
+
+$item2oncontentafterdelete*
+2:
+$userstdclass:
+$successboolean:
+$msgB
+plgsystemfields

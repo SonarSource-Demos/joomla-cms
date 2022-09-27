@@ -1,0 +1,140 @@
+
+2step\acceptance\administrator\banner::modifybanner}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpN N( "1*¨
+2
+
+Banner.php"”
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php[ [(
+implicit return*Ð
+1}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpP P(¸
+µ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpP P(
+$I"__id*(&
+$step\acceptance\administrator\bannerÊ
+Ç
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpQ Q()
+%1"__id*:*8.
+,page\acceptance\administrator\bannerlistpage"
+$url¢Ÿ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpQ Q(*
+%2*
+
+$I*
+
+%12amonpageÒ
+Ï
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpR R(2
+%3"__id*B*@.
+,page\acceptance\administrator\bannerlistpage"
+$searchFieldµ²
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpR R(A
+%4*
+
+$I*
+
+%3*
+
+$bannerTitle2	fillfieldÓ
+Ð
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpS S(/
+%5"__id*C*A.
+,page\acceptance\administrator\bannerlistpage"
+$filterSearchŸœ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpS S(0
+%6*
+
+$I*
+
+%52click¡ž
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpT T(
+%7*
+
+$I2checkallresults©¦
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpU U(
+%8*
+
+$I*
+
+$bannerTitle2clickÑ
+Î
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpV V(6
+%9"__id*A*?.
+,page\acceptance\administrator\bannerlistpage"
+$titleField©¦
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpV8 V(P
+%10*
+
+$I*	
+timeout2	getconfig²¯
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpV V(Q
+%11*
+
+$I*
+
+%9*
+
+%102waitforelementÒ
+Ï
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpW W(1
+%12"__id*A*?.
+,page\acceptance\administrator\bannerlistpage"
+$titleField¸µ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpW W(A
+%13*
+
+$I*
+
+%12*
+
+$updatedTitle2	fillfieldÒ
+Ï
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpX X(1
+%14"__id*A*?.
+,page\acceptance\administrator\bannerlistpage"
+$aliasField¸µ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpX X(A
+%15*
+
+$I*
+
+%14*
+
+$updatedTitle2	fillfield·´
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpY Y(.
+%16*
+
+$I*
+Save & Close2clicktoolbarbuttonµ²
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.phpZ Z(*
+%17*
+
+$I*
+
+
+$message2assertsuccessmessage*
+2:
+$bannerTitle:
+$updatedTitle:
+
+$messageB(&
+$step\acceptance\administrator\banner

@@ -1,0 +1,52 @@
+
+3joomla\cms\pagination\paginationobject::__constructg
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.php< <("1*›
+2
+PaginationObject.php"~
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.phpC C(
+implicit return*ý
+1g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.php> >(±
+®
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.php> >(2(
+&joomla\cms\pagination\paginationobject"
+text"__id*	
+
+$textµ
+²
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.php? ?(4(
+&joomla\cms\pagination\paginationobject"
+prefix"__id*
+	
+$prefix±
+®
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.php@ @(2(
+&joomla\cms\pagination\paginationobject"
+base"__id*	
+
+$base±
+®
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.phpA A(2(
+&joomla\cms\pagination\paginationobject"
+link"__id*	
+
+$linkµ
+²
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Pagination/PaginationObject.phpB B(4(
+&joomla\cms\pagination\paginationobject"
+active"__id*
+	
+$active*
+2:
+$text:	
+$prefix:
+$base:
+$link:	
+$activeB*(
+&joomla\cms\pagination\paginationobject

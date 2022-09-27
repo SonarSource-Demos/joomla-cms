@@ -1,0 +1,27 @@
+
+Vjoomla\plugin\multifactorauth\webauthn\hotfix\server::setextensionoutputcheckerhandlerr
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpË Ë(4"1*ù
+2
+
+Server.php"â
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpÎ Î(
+implicit return*Ç
+1r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpÍ Í(NÑ
+Å
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpË Ë(4 
+$extensionOutputCheckerHandler"__id*c
+a
+$extensionOutputCheckerHandler?webauthn\authenticationextensions\extensionoutputcheckerhandler¸
+˘
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpÍ Í(MY6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+extensionOutputCheckerHandler"__id*"
+ 
+$extensionOutputCheckerHandler*
+2:a
+$extensionOutputCheckerHandler?webauthn\authenticationextensions\extensionoutputcheckerhandlerB86
+4joomla\plugin\multifactorauth\webauthn\hotfix\server

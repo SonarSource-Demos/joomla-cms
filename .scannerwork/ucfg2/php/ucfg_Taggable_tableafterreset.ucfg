@@ -1,0 +1,73 @@
+
+Fjoomla\plugin\behaviour\taggable\extension\taggable::ontableafterresetq
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpÖ Ö(%"1*ı
+2q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpç ç("}
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpç ç(
+void*≈
+3q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpë ë('£†
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpë ë(&
+$tagsHelper"joomla\cms\helper\tagshelper∏
+µ
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpë ë(&
+%2")joomla\cms\helper\tagshelper::__construct*
+
+$tagsHelperñì
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpí! í(7
+%3*
+
+
+$table2gettypealias¢
+ü
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpí í(7
+
+$tagsHelper"
+	typeAlias"__id*
+
+%3®•
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpì ì(*
+%4*
+
+
+$table*
+
+$tagsHelper2settagshelper*
+4*û
+4
+Taggable.php"à
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpî î(
+implicit return*Ó
+1q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpâ â(#∫
+∑
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpÖ Ö(%
+$event"__id*2
+0
+$event&joomla\cms\event\table\afterreseteventü
+ú
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpâ â("
+%1"__mapGet*
+
+
+$event*	
+subjecté
+ã
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpâ â("
+$table"__id*
+
+%1*
+2
+3:0
+$event&joomla\cms\event\table\afterreseteventB75
+3joomla\plugin\behaviour\taggable\extension\taggable

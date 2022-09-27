@@ -1,0 +1,54 @@
+
+p__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.php_234_16f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpê ê("1*Æ
+3f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpñ ñ(R›˜
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpñ. ñ(P
+%3*
+
+
+$container*
+session.handler2get”‘
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpñ ñ(Q
+%2"!joomla\cms\session\sessionmanager±
+®
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpñ ñ(Q
+%4".joomla\cms\session\sessionmanager::__construct*
+
+%2*
+
+%3"p
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpñ ñ(R
+
+%2*‘
+4
+Session.php"}
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpò ò(
+implicit return*¸
+1f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpë ë(;¤
+¡
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpê ê(
+
+$container"__id*#
+!
+
+$containerjoomla\di\container›˜
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Session.phpë ë(;
+%1*
+
+
+$container*
+session.handler2has*
+3
+4:!
+
+$containerjoomla\di\containerB'%
+#joomla\cms\service\provider\session

@@ -1,0 +1,31 @@
+
+)joomla\cms\toolbar\toolbarhelper::dividera
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpN N(""1*í
+2
+ToolbarHelper.php"x
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpT T(
+implicit return*–
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpP P(/¬
+ø
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpP P(.
+%1"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbar{
+y
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpP P(.
+$bar"__id*
+
+%1†ù
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpS S(2
+%2*
+
+$bar*
+	Separator*	
+divider2appendbutton*
+2B$"
+ joomla\cms\toolbar\toolbarhelper

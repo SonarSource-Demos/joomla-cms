@@ -1,0 +1,83 @@
+
+Gjoomla\tests\unit\libraries\cms\filter\outputfiltertest::testampreplacen
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpQ Q(""1*£
+2
+OutputFilterTest.php"Ö
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpp p(
+implicit return*”
+1n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpS W(
+‚
+ﬂ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpU U(;
+%1"*joomla\cms\filter\outputfilter::ampreplace*"" 
+joomla\cms\filter\outputfilter*
+&&george&mary&#3son†ù
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpS W(	
+%2*;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest*
+&&george&amp;mary&#3son*
+
+%1*53
+1Should replace single ampersands with HTML entity2assertequalsˆ
+Û
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php[ [(O
+%3"*joomla\cms\filter\outputfilter::ampreplace*"" 
+joomla\cms\filter\outputfilter*+)
+'index.php?&&george&mary&#3son&this=that∏µ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpY ](	
+%4*;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest*31
+/index.php?&&george&amp;mary&#3son&amp;this=that*
+
+%3*53
+1Should replace single ampersands with HTML entity2assertequals¯
+ı
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpa a(Q
+%5"*joomla\cms\filter\outputfilter::ampreplace*"" 
+joomla\cms\filter\outputfilter*-+
+)index.php?&&george&mary&#3son&&&this=that∂≥
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php_ c(	
+%6*;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest*1/
+-index.php?&&george&amp;mary&#3son&&&this=that*
+
+%5*53
+1Should replace single ampersands with HTML entity2assertequals
+Ì
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpg g(I
+%7"*joomla\cms\filter\outputfilter::ampreplace*"" 
+joomla\cms\filter\outputfilter*%#
+!index.php?&this="this & and that"≤Ø
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpe i(	
+%8*;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest*-+
+)index.php?&amp;this="this &amp; and that"*
+
+%7*53
+1Should replace single ampersands with HTML entity2assertequals˝
+˙
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpm m(V
+%9"*joomla\cms\filter\outputfilter::ampreplace*"" 
+joomla\cms\filter\outputfilter*20
+.index.php?&this="this &amp; & &&amp; and that"¿Ω
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.phpk o(	
+%10*;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest*:8
+6index.php?&amp;this="this &amp; &amp; &&amp; and that"*
+
+%9*53
+1Should replace single ampersands with HTML entity2assertequals*
+2B;9
+7joomla\tests\unit\libraries\cms\filter\outputfiltertest

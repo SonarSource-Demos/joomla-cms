@@ -1,0 +1,144 @@
+
+&joomla\cms\ucm\ucmtype::gettypebyaliasY
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpá á(""1*Ü
+1Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ ç()é
+ã
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ â(
+%1"__id*"* 
+joomla\cms\ucm\ucmtype"
+db}
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ â(*
+%2*
+
+%1*
+true2getqueryé
+ã
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpä ä(
+%3"__id*"* 
+joomla\cms\ucm\ucmtype"
+db~|
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpä ä(/
+%4*
+
+%3*
+ct2	quotename}
+{
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpä ä(6
+%5"__concat*
+
+%4*
+.*{y
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ ä(7
+%6*
+
+%2*
+
+%52selecté
+ã
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpã ã(
+%7"__id*"* 
+joomla\cms\ucm\ucmtype"
+dbïí
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpã ã(A
+%8*
+
+%7*
+#__content_types*
+ct2	quotenameyw
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ ã(B
+%9*
+
+%6*
+
+%82fromè
+å
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpå å(
+%10"__id*"* 
+joomla\cms\ucm\ucmtype"
+dbåâ
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpå å(9
+%11*
+
+%10*
+ct.type_alias2	quotenameá
+Ñ
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpå å(G
+%12"__concat*
+
+%11*
+	 = :alias|z
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ å(H
+%13*
+
+%9*
+
+%122whereêç
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ ç((
+%14*
+
+%13*
+
+:alias*
+
+
+$typeAlias2bindv
+t
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpâ ç((
+$query"__id*
+
+%14è
+å
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpè è(
+%15"__id*"* 
+joomla\cms\ucm\ucmtype"
+dbÑÅ
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpè è(#
+%16*
+
+%15*
+
+
+$query2setqueryè
+å
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpë ë(
+%17"__id*"* 
+joomla\cms\ucm\ucmtype"
+dbyw
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpë ë(&
+%18*
+
+%172
+loadobjectã
+à
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpë ë('
+%19joomla\cms\ucm\object"__id*
+
+%18"{
+Y
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMType.phpë ë('
+
+%19joomla\cms\ucm\object:
+
+$typeAliasB
+joomla\cms\ucm\ucmtype

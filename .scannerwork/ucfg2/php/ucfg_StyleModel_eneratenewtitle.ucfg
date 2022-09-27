@@ -1,0 +1,75 @@
+
+Kjoomla\component\templates\administrator\model\stylemodel::generatenewtitle{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÔ Ô('"1*Ó
+2{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÙ Ù(5éã
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÙ Ù(4
+%2"$ArrayØ
+¨
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÙ Ù(4
+%3"__mapSet*
+
+%2*	
+title*
+
+
+$title†ù
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÙ Ù(5
+%4*
+
+
+$table*
+
+%22load*
+3
+4*¸
+3{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpı ı(5Ÿ
+÷
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpı ı(4
+%5"%joomla\string\stringhelper::increment*"
+joomla\string\stringhelper*
+
+
+$titleò
+ï
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpı ı(4
+$title"__id*
+
+%5*
+2*å
+4{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.php¯ ¯("â
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.php¯ ¯(
+
+
+$title*”
+1{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÚ Ú(#ﬁ
+€
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÔ Ô('
+$categoryId"__id*G
+E
+$categoryId6joomla\component\templates\administrator\model\integerœÃ
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÚ Ú("
+%1*=;
+9joomla\component\templates\administrator\model\stylemodel2gettableò
+ï
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Model/StyleModel.phpÚ Ú("
+$table"__id*
+
+%1*
+2:E
+$categoryId6joomla\component\templates\administrator\model\integer:
+$alias:
+$titleB=;
+9joomla\component\templates\administrator\model\stylemodel

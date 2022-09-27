@@ -1,0 +1,178 @@
+
+userlistcest::togglesendmailç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpî î(%"1*ø
+2
+UserListCest.php"•
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php¢ ¢(
+implicit return*Ä+
+1ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpñ ñ(Cπ
+∂
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpî î(%
+$I"__id*
+
+$Iacceptancetester€ÿ
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpñ ñ(B
+%1*
+
+$I*.,
+*/administrator/index.php?option=com_config2amonpageπ∂
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpó0 ó(H
+%2*
+
+$I*	
+timeout2	getconfig°û
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpóJ ó(b
+%3"$Array≈
+¬
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpóJ ó(b
+%4"__mapSet*
+
+%3*
+css*
+.page-titleÿ’
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpó ó(c
+%5*
+
+$I*
+Global Configuration*
+
+%2*
+
+%32waitfortext≈¬
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpò ò(,
+%6*
+
+$I*
+I open the Server Tab2comment°û
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpô ô(y
+%7"$Arrayî
+ë
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpô ô(y
+%8"__mapSet*
+
+%7*	
+xpath*\Z
+X//joomla-tab[@id='configTabs']/div[@role='tablist']/button[@aria-controls='page-server']∞≠
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpô ô(z
+%9*
+
+$I*
+
+%72click·ﬁ
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpö ö(G
+%10*
+
+$I*42
+0I click on the switcher to disable sending mails2commentÒÓ
+é
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpõ õ(”
+%11*
+
+$I*¿Ω
+∫document.evaluate("//input[@type=\'radio\' and @value=0 and @name=\'jform[mailonline]\']", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue.click();return true;2	waitforjs¿Ω
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpú ú(&
+%12*
+
+$I*
+I click on save2comment¿Ω
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpù ù(&
+%13*
+
+$I*
+Save2clicktoolbarbutton‹Ÿ
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpû û(B
+%14*
+
+$I*/-
++I wait for global configuration being saved2comment∫∑
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpü0 ü(H
+%15*
+
+$I*	
+timeout2	getconfig¢ü
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpüJ ü(b
+%16"$Array«
+ƒ
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpüJ ü(b
+%17"__mapSet*
+
+%16*
+css*
+.page-title€ÿ
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpü ü(c
+%18*
+
+$I*
+Global Configuration*
+
+%15*
+
+%162waitfortext¢ü
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php†" †(F
+%19"$Array”
+–
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php†" †(F
+%20"__mapSet*
+
+%19*
+id*
+system-message-container∫∑
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php†H †(`
+%21*
+
+$I*	
+timeout2	getconfigÀ»
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php† †(a
+%22*
+
+$I*
+
+%19*
+
+%212waitforelementvisible¢ü
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php°( °(L
+%23"$Array”
+–
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php°( °(L
+%24"__mapSet*
+
+%23*
+id*
+system-message-container «
+ç
+Ä/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php° °(M
+%25*
+
+$I*
+Configuration saved.*
+
+%232see*
+2:
+$IacceptancetesterB
+userlistcest

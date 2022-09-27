@@ -1,0 +1,52 @@
+
+=joomla\tests\unit\libraries\cms\mail\mailtest::testaddreplytof
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.phpÕ Õ(""1*’
+2
+MailTest.php"}
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.phpÚ Ú(
+implicit return*Ş
+1f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.php× ×(3´
+±
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.php× ×(
+%1"__id*;*9/
+-joomla\tests\unit\libraries\cms\mail\mailtest"
+mail 
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.php× ×(2
+%2*
+
+%1*
+
+
+$recipient*	
+
+$name2
+addreplyto´
+±
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.phpÙ' Ù(2
+%3"__id*;*9/
+-joomla\tests\unit\libraries\cms\mail\mailtest"
+mail‹
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.phpÙ' Ù(I
+%4*
+
+%32getreplytoaddressesÉÆ
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailTest.phpÙ Ù(J
+%5*1/
+-joomla\tests\unit\libraries\cms\mail\mailtest*
+
+	$expected*
+
+%42assertequals*
+2:
+
+$recipient:
+$name:
+	$expectedB1/
+-joomla\tests\unit\libraries\cms\mail\mailtest

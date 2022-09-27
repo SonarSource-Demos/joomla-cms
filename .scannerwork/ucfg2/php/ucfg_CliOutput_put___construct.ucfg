@@ -1,0 +1,44 @@
+
+1joomla\cms\application\cli\clioutput::__constructe
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php% %("1*â
+3e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php'* '(O¬©
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php' '(O
+%1":joomla\cms\application\cli\output\processor\colorprocessorÁ
+¾
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php' '(O
+%2"Gjoomla\cms\application\cli\output\processor\colorprocessor::__construct*
+
+%1*
+4*¢
+4e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php'O '(O°­
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php' '(P
+%3*(&
+$joomla\cms\application\cli\clioutput*
+
+%12setprocessor*
+5*’
+5
+CliOutput.php"|
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php( ((
+implicit return*Ã
+1e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php' '(QÎ
+Ë
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CLI/CliOutput.php% %(
+
+$processor"__id*N
+L
+
+$processor>joomla\cms\application\cli\output\processor\processorinterface*
+3
+4:L
+
+$processor>joomla\cms\application\cli\output\processor\processorinterfaceB(&
+$joomla\cms\application\cli\clioutput

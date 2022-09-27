@@ -1,0 +1,56 @@
+
+Ajoomla\component\content\administrator\field\votelistfield::setupz
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php, ,("1*‰
+2z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php0 0("‡
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php0 0(	
+false*ž
+3z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php3 3(7“
+
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php3 3(6
+%2"&joomla\cms\form\field\listfield::setup*><
+:joomla\component\content\administrator\field\votelistfield*
+
+
+$element*
+
+
+$value*
+
+
+$groupÉ
+Æ
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php3 3(7:
+%34joomla\component\content\administrator\field\boolean"__id*
+
+%2"º
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php3 3(7<
+:
+%34joomla\component\content\administrator\field\boolean*©
+1z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php/ /(7±
+®
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php, ,(
+
+$element"__id*
+
+$elementsimplexmlelementë
+è
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VotelistField.php/ /(7
+%1")joomla\cms\plugin\pluginhelper::isenabled*"" 
+joomla\cms\plugin\pluginhelper*	
+content*
+vote*
+2
+3:
+$elementsimplexmlelement:
+$value:
+$groupB><
+:joomla\component\content\administrator\field\votelistfield

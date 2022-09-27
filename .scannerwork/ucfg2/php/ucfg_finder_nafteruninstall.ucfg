@@ -1,0 +1,75 @@
+
+-plgextensionfinder::onextensionafteruninstall]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpU U(-"1*˚
+3]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpX  X(Jç
+ä
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpX  X(5
+%1"__id**
+
+
+$installer"
+	extension
+}
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpX  X(;
+%2"__id**
+
+%1"
+type*
+4
+5*ï
+4]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpY Y(<ç
+ä
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpY% Y(:
+%3"__id**
+
+
+$installer"
+	extensionõò
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpY Y(;
+%4*
+plgextensionfinder*
+
+%32removecommonwords*
+5*á
+5
+
+finder.php"t
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php[ [(
+implicit return*ß
+1]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpX X(J¶
+£
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpU U(-
+
+$installer"__id*.
+,
+
+$installerjoomla\cms\installer\installerÉ
+Ä
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpU U(-
+$eid"__id*
+
+$eidintegerã
+à
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpU U(-
+
+$removed"__id*
+
+$removedboolean*
+3
+5:,
+
+$installerjoomla\cms\installer\installer:
+$eidinteger:
+$removedbooleanB
+plgextensionfinder

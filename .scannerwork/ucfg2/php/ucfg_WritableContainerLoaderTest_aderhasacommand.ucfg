@@ -1,0 +1,109 @@
+
+djoomla\tests\unit\libraries\cms\console\loader\writablecontainerloadertest::testtheloaderhasacommand
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php} }(,"1*Ä
+2!
+WritableContainerLoaderTest.php"›
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.phpŠ Š(
+implicit return*·
+1
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php (%®
+«
+
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php ($
+$commandName"__id*
+test:loader®
+«
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php€ €($
+
+$serviceId"__id*
+test.loaderô
+ñ
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php‚ ‚(
+%1"__id*]*[L
+Jjoomla\tests\unit\libraries\cms\console\loader\writablecontainerloadertest"
+	containeråâ
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php‚" ‚(/
+%2*NL
+Jjoomla\tests\unit\libraries\cms\console\loader\writablecontainerloadertest2once¨¥
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php‚ ‚(0
+%3*
+
+%1*
+
+%22expects¨¥
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php‚ ƒ(
+%4*
+
+%3*
+has2method­ª
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php‚ „(
+%5*
+
+%4*
+
+
+$serviceId2with­ª
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php‚ …(
+%6*
+
+%5*
+true2
+willreturnô
+ñ
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.phpˆ) ˆ(9
+%8"__id*]*[L
+Jjoomla\tests\unit\libraries\cms\console\loader\writablecontainerloadertest"
+	container—”
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.phpˆ; ˆ(W
+%9"$ArrayÆ
+Ã
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.phpˆ; ˆ(W
+%10"
+__arraySet*
+
+%9*
+
+$commandName*
+
+
+$serviceIdÂ¿
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.phpˆ ˆ(Y
+%7"1joomla\cms\console\loader\writablecontainerloaderè
+å
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.phpˆ ˆ(Y
+%11">joomla\cms\console\loader\writablecontainerloader::__construct*
+
+%7*
+
+%8*
+
+%9¯¬
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.phpˆ ˆ(l
+%12*
+
+%7*
+
+$commandName2hasõò
+ƒ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Console/Loader/WritableContainerLoaderTest.php‡ ‰(	
+%13*NL
+Jjoomla\tests\unit\libraries\cms\console\loader\writablecontainerloadertest*
+
+%122
+asserttrue*
+2BNL
+Jjoomla\tests\unit\libraries\cms\console\loader\writablecontainerloadertest

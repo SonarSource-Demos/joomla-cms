@@ -1,0 +1,82 @@
+
+>joomla\component\users\site\model\profilemodel::preprocessformk
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.phpº º(%"1*Ô
+2k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.phpø ø(/§°
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.phpø ø(.
+%3*	
+
+$form*
+
+frontend*	
+false2loadfile´
+®
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.php¡ ¡("
+%4"joomla\cms\factory::getuser*"
+joomla\cms\factoryüú
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.php¡ ¡(A
+%5*
+
+%4*
+core.login.admin2	authorise*
+3
+4*¢
+3k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.php¬ ¬(9™ß
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.php¬ ¬(8
+%6*	
+
+$form*
+frontend_admin*	
+false2loadfile*
+4*Ù
+4k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.php∆ ∆(5¸
+˘
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.php∆ ∆(4
+%7".joomla\cms\mvc\model\formmodel::preprocessform*20
+.joomla\component\users\site\model\profilemodel*	
+
+$form*	
+
+$data*
+
+
+$group*
+5*ú
+5
+ProfileModel.php"Ç
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.php« «(
+implicit return*ù
+1k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.phpæ æ(O†
+ù
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.phpº º(%
+$form"__id*
+
+$formjoomla\cms\form\form‡
+›
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.phpæ æ(3
+%1"/joomla\cms\component\componenthelper::getparams*("&
+$joomla\cms\component\componenthelper*
+	com_usersúô
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_users/src/Model/ProfileModel.phpæ æ(O
+%2*
+
+%1*
+frontend_userparams2get*
+2
+4:
+$formjoomla\cms\form\form:
+$data:
+$groupB20
+.joomla\component\users\site\model\profilemodel

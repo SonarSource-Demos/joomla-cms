@@ -1,0 +1,35 @@
+
+4joomla\cms\cache\controller\pagecontroller::_setetagm
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.phpá á("1* 
+2
+PageController.php"„
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.phpä ä(
+implicit return*ö
+1m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.phpã ã(H´
+±
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.phpã ã(
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory›
+˜
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.phpã/ ã(@
+%2"__concat*
+"*	
+
+$etag*
+"§¤
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Controller/PageController.phpã ã(G
+%3*
+
+%1*
+ETag*
+
+%2*
+true2	setheader*
+2:
+$etagB.,
+*joomla\cms\cache\controller\pagecontroller

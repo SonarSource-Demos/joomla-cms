@@ -1,0 +1,49 @@
+
+>joomla\component\config\site\model\modulesmodel::populatestatej
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php# #($"1*õ
+2
+ModulesModel.php"Å
+j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php+ +(
+implicit return*©
+1j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php% %()±
+Æ
+j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php% %((
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factoryÖ
+Ç
+j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php% %((
+$app"__id*
+
+%1ê
+ç
+j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php( ((
+%2"__id**
+
+$app"
+inputçä
+j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php( (('
+%3*
+
+%2*
+id2getintÑ
+Å
+j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php( (('
+$pk"__id*
+
+%3Ã…
+j
+`/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Model/ModulesModel.php* *()
+%4*31
+/joomla\component\config\site\model\modulesmodel*
+	module.id*
+
+$pk2setstate*
+2B31
+/joomla\component\config\site\model\modulesmodel

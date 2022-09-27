@@ -1,0 +1,56 @@
+
+)joomla\cms\html\helpers\dropdown::archivec
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpﬁ ﬁ(""1*è
+2
+Dropdown.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.php‚ ‚(
+implicit return*Œ
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.php‡ ‡($í
+è
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.php‡ ‡(#
+%1"__concat*
+	
+$prefix*	
+archive~
+|
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.php‡ ‡(#
+$task"__id*
+
+%1ø
+º
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.php· ·(9
+%2"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JTOOLBAR_ARCHIVE 
+«
+d
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.php·Q ·(ñ
+%3"__concat*
+onclick="contextAction(\'*
+
+$checkboxId*
+
+\', \'*	
+
+$task*
+\')"∫
+∑
+d
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.php· ·(ó
+%4"static::addcustomitem*
+"
+static*
+
+%2*
+javascript:void(0)*
+
+%3*
+2:
+$checkboxId:	
+$prefixB$"
+ joomla\cms\html\helpers\dropdown

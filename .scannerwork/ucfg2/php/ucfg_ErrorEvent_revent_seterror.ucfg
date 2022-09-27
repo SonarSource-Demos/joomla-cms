@@ -1,0 +1,27 @@
+
+%joomla\cms\event\errorevent::seterror\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php6 6("1*Š
+2
+ErrorEvent.php"s
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php9 9(
+implicit return*¢
+1\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php8 8(.ˆ
+…
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php6 6(
+$error"__id*
+
+$error	throwable®«
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php8 8(-
+%1*
+joomla\cms\event\errorevent*	
+subject*
+
+
+$error2setargument*
+2:
+$error	throwableB
+joomla\cms\event\errorevent

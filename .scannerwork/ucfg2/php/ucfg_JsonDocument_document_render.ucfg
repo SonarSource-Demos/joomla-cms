@@ -1,0 +1,87 @@
+
+(joomla\cms\document\jsondocument::rendera
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpC C("1*·
+2a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpL L(qõò
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpLN L(^
+%4*$"
+ joomla\cms\document\jsondocument2getname¶
+£
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpL3 L(i
+%5"__concat*
+attachment; filename="*
+
+%4*
+
+.json"¨©
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpL L(p
+%6*
+
+$app*
+Content-Disposition*
+
+%5*
+true2	setheader*
+3*«
+3a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpO O((—
+Œ
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpO O('
+%7"$joomla\cms\document\document::render*$"
+ joomla\cms\document\jsondocument*
+
+
+$cache*
+	
+$paramsùö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpQ Q(!
+%8*$"
+ joomla\cms\document\jsondocument2	getbuffer"k
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpQ Q("
+
+%8*Ô
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpF F(,ü
+ú
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpC C(
+$cache"__id*'
+%
+$cachejoomla\cms\document\boolean®
+•
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpF F(+
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory{
+y
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpF F(+
+$app"__id*
+
+%1éã
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpH H( 
+%2*
+
+$app*
+
+
+$cache2
+allowcache£
+†
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/JsonDocument.phpJ J(
+%3"__id*/*-"
+ joomla\cms\document\jsondocument"
+_mime*
+2
+3:%
+$cachejoomla\cms\document\boolean:	
+$paramsB$"
+ joomla\cms\document\jsondocument

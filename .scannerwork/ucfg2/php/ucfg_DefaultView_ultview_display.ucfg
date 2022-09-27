@@ -1,0 +1,32 @@
+
+1joomla\cms\installation\view\defaultview::display_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/View/DefaultView.php( (("1*Ž
+2
+DefaultView.php"v
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/View/DefaultView.php- -(
+implicit return*Š
+1_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/View/DefaultView.php* *()§¤
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/View/DefaultView.php* *((
+%1*,*
+(joomla\cms\installation\view\defaultview*
+Form2get¨
+¥
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/View/DefaultView.php* *((4*
+(joomla\cms\installation\view\defaultview"
+form"__id*
+
+%1É
+Æ
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/View/DefaultView.php, ,(
+%2"%joomla\cms\mvc\view\htmlview::display*,*
+(joomla\cms\installation\view\defaultview*
+
+$tpl*
+2:
+$tplB,*
+(joomla\cms\installation\view\defaultview

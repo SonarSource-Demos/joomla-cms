@@ -1,0 +1,29 @@
+
+Yjoomla\tests\unit\libraries\cms\document\documenttest::testthedefaultreturnforgetlanguagen
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php­ ­(6"1*Ÿ
+2
+DocumentTest.php"…
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php° °(
+implicit return*¦
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¯ ¯(KÄÁ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¯# ¯(:
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ‹
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¯# ¯(I
+%2*
+
+%12getlanguageÓÐ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¯ ¯(J
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest*	
+en-gb*
+
+%22
+assertsame*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

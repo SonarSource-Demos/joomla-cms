@@ -1,0 +1,44 @@
+
+4joomla\cms\toolbar\button\linkbutton::prepareoptionse
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/Button/LinkButton.php, ,(%"1*ì
+2
+LinkButton.php"|
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/Button/LinkButton.php1 1(
+implicit return*ç
+1e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/Button/LinkButton.php. .()ë
+é
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/Button/LinkButton.php, ,(%
+
+$options"__id*
+
+$optionsarray⁄
+◊
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/Button/LinkButton.php. .((
+%1"0joomla\cms\toolbar\toolbarbutton::prepareoptions*(&
+$joomla\cms\toolbar\button\linkbutton*
+
+
+$optionsò
+ï
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/Button/LinkButton.php0 0($
+%2"__mapGet*
+
+
+$options*
+
+attributesè
+å
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/Button/LinkButton.php0 0(,
+%3"__mapRemove*
+
+%2*
+type*
+2:
+$optionsarrayB(&
+$joomla\cms\toolbar\button\linkbutton

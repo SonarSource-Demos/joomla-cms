@@ -1,0 +1,155 @@
+
+Rjoomla\component\config\administrator\controller\applicationcontroller::removerootà
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php∆ ∆("1*ü
+2à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php   (P„
+‡
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php ,  (E
+%2"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JINVALID_TOKENèå
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php   (O
+%3*JH
+Fjoomla\component\config\administrator\controller\applicationcontroller*
+	index.php*
+
+%2*	
+error2setredirect"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpÃ Ã(	
+false*Ó
+3à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php– –(?Ô
+Ï
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php– –(
+%4"__id*S*QH
+Fjoomla\component\config\administrator\controller\applicationcontroller"
+app©¶
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php– –(&
+%5*
+
+%42getidentity∑¥
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php– –(?
+%6*
+
+%5*
+
+core.admin2	authorise*
+4
+5*•
+4à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php— —(VÈ
+Ê
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php—, —(K
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JERROR_ALERTNOAUTHORèå
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php— —(U
+%8*JH
+Fjoomla\component\config\administrator\controller\applicationcontroller*
+	index.php*
+
+%7*	
+error2setredirect"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php” ”(	
+false*É
+5à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpŸ Ÿ(Aéã
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpŸ Ÿ(@
+%9*JH
+Fjoomla\component\config\administrator\controller\applicationcontroller*
+Application*
+Administrator2getmodel¶
+£
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpŸ Ÿ(@
+$model"__id*
+
+%9≠™
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php› ›( 
+%10*
+
+
+$model2
+removeroot*	
+6
+7
+9*€
+6à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php‡ ‡(f©¶
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php‡J ‡(Z
+%11*
+
+$e2
+getmessageÒ
+Ó
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php‡, ‡([
+%12"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JERROR_SAVE_FAILED*
+
+%11ëé
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php‡ ‡(e
+%13*JH
+Fjoomla\component\config\administrator\controller\applicationcontroller*
+	index.php*
+
+%12*	
+error2setredirect"ñ
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php‚ ‚(	
+false*˘
+7à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpÊ Ê(V›
+⁄
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpÊ Ê(0
+%14"joomla\cms\router\route::_*"
+joomla\cms\router\route*
+	index.phpÌ
+Í
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpÊ2 Ê(T
+%15"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+COM_CONFIG_SAVE_SUCCESSÄ˝
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpÊ Ê(U
+%16*JH
+Fjoomla\component\config\administrator\controller\applicationcontroller*
+
+%14*
+
+%152setredirect"ï
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpË Ë(
+true*√
+9
+ApplicationController.php"†
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.phpÈ È(
+implicit return*˛
+1à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php… …('Â
+‚
+à
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/Controller/ApplicationController.php… …('
+%1"&joomla\cms\session\session::checktoken*"
+joomla\cms\session\session*
+get*
+2
+3BJH
+Fjoomla\component\config\administrator\controller\applicationcontroller

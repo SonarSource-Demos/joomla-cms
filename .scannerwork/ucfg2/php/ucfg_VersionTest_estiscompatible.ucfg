@@ -1,0 +1,31 @@
+
+=joomla\tests\unit\libraries\cms\versiontest::testiscompatibleb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/VersionTest.phpA A($"1*‘
+2
+VersionTest.php"y
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/VersionTest.phpD D(
+implicit return*ä
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/VersionTest.phpC C(?±
+®
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/VersionTest.phpC C((
+%1"__id*<*:-
++joomla\tests\unit\libraries\cms\versiontest"	
+versionŒ‰
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/VersionTest.phpC C(=
+%2*
+
+%1*
+2.52iscompatible²¯
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/VersionTest.phpC C(>
+%3*/-
++joomla\tests\unit\libraries\cms\versiontest*
+
+%22
+asserttrue*
+2B/-
++joomla\tests\unit\libraries\cms\versiontest

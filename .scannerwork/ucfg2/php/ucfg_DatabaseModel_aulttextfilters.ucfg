@@ -1,0 +1,61 @@
+
+Sjoomla\component\installer\administrator\model\databasemodel::getdefaulttextfilters~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpø ø()"1* 
+1~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpú ú(5ØÕ
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpú ú(3
+%1*@>
+<joomla\component\installer\administrator\model\databasemodel2getdatabase©¦
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpú ú(4
+$table"joomla\cms\table\extensionÆ
+Ã
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpú ú(4
+%2"'joomla\cms\table\extension::__construct*
+
+
+$table*
+
+%1‘Ž
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpû" û(?
+%3"$Arrayµ
+²
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpû" û(?
+%4"__mapSet*
+
+%3*
+name*
+
+com_config£ 
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpû û(@
+%5*
+
+
+$table*
+
+%32find£ 
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpû û(A
+%6*
+
+
+$table*
+
+%52load§
+¤
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpý ý(
+%7"__id**
+
+$table"
+params"ˆ
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpý ý(
+
+%7B@>
+<joomla\component\installer\administrator\model\databasemodel

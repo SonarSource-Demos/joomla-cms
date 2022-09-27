@@ -1,0 +1,127 @@
+
+0medialistcest::showpreviewusingclickonactionmenué
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÀ À(2"1*¡
+2
+MediaListCest.php"¶
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php÷ ÷(
+implicit return*≈
+1é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÕ Õ(cÕ
+ 
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÀ À(2
+$I"__id*+
+)
+$I#step\acceptance\administrator\mediaÇˇ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÕ Õ(b
+%1*
+
+$I*RP
+Nthat it is possible to show a preview of an image using button in action menu.2
+wanttotest€
+ÿ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpŒ Œ("
+%2"__id*9*7-
++page\acceptance\administrator\medialistpage"
+$url¥±
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpŒ Œ(#
+%3*
+
+$I*
+
+%22amonpage∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpœ œ(
+%4*
+
+$I2waitformedialoadedÂ
+‚
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php–. –(K
+%5"__id*C*A-
++page\acceptance\administrator\medialistpage"
+$previewAction’“
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php– –(L
+%6*
+
+$I*
+powered_by.png*
+
+%52clickonactioninmenuof‰
+·
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php— —(1
+%7"__id*B*@-
++page\acceptance\administrator\medialistpage"
+$previewModal∫∑
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php— —(2
+%8*
+
+$I*
+
+%72waitforelement‰
+·
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php“ “(-
+%9"__id*B*@-
++page\acceptance\administrator\medialistpage"
+$previewModal∑¥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php“ “(.
+%10*
+
+$I*
+
+%92
+seeelementÂ
+‚
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php” ”(8
+%11"__id*B*@-
++page\acceptance\administrator\medialistpage"
+$previewModal≈¬
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php” ”(9
+%12*
+
+$I*
+powered_by.png*
+
+%112seeË
+Â
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‘ ‘(0
+%13"__id*E*C-
++page\acceptance\administrator\medialistpage"
+$previewModalImg∏µ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php‘ ‘(1
+%14*
+
+$I*
+
+%132
+seeelement
+Ì
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php’ ’(8
+%15"__id*M*K-
++page\acceptance\administrator\medialistpage"
+$previewModalCloseButton∏µ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php’ ’(9
+%16*
+
+$I*
+
+%152
+seeelement*
+2:)
+$I#step\acceptance\administrator\mediaB
+medialistcest

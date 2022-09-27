@@ -1,0 +1,30 @@
+
+?joomla\cms\console\extensiondiscoverinstallcommand::__constructs
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionDiscoverInstallCommand.php> >("1*·
+2%
+#ExtensionDiscoverInstallCommand.php"Š
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionDiscoverInstallCommand.phpC C(
+implicit return*î
+1s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionDiscoverInstallCommand.php@ @(±
+®
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionDiscoverInstallCommand.php> >(
+$db"__id**
+(
+$db!joomla\database\databaseinterfaceë
+è
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionDiscoverInstallCommand.php@ @(
+%1"3joomla\console\command\abstractcommand::__construct*64
+2joomla\cms\console\extensiondiscoverinstallcommandÌÉ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionDiscoverInstallCommand.phpB B(
+%2*64
+2joomla\cms\console\extensiondiscoverinstallcommand*
+
+$db2setdatabase*
+2:(
+$db!joomla\database\databaseinterfaceB64
+2joomla\cms\console\extensiondiscoverinstallcommand

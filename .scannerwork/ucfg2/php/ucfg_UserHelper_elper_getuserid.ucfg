@@ -1,0 +1,115 @@
+
+%joomla\cms\user\userhelper::getuserid]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpÜ Ü($"1*Î
+1]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpâ â( ú
+ô
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpâ â(
+%1"joomla\cms\factory::getdbo*"
+joomla\cms\factoryv
+t
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpâ â(
+$db"__id*
+
+%1ÖÇ
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpä ä($
+%2*
+
+$db*
+true2getqueryÑÅ
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpã ã()
+%3*
+
+$db*
+id2	quotename}
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpä ã(*
+%4*
+
+%2*
+
+%32selectäá
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpå å(-
+%5*
+
+$db*
+
+#__users2	quotename}{
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpä å(.
+%6*
+
+%4*
+
+%52fromäá
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpç ç(.
+%7*
+
+$db*
+
+username2	quotenameå
+â
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpç ç(?
+%8"__concat*
+
+%7*
+ = :username~|
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpä ç(@
+%9*
+
+%6*
+
+%82whereïí
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpä é(*
+%10*
+
+%9*
+	:username*
+
+	$username2bindÅ
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpä è(
+%11*
+
+%10*22setlimitz
+x
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpä è(
+$query"__id*
+
+%11àÖ
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpê ê(
+%12*
+
+$db*
+
+
+$query2setquery}{
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpí í( 
+%13*
+
+$db2
+loadresultë
+é
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpí í(!
+%14joomla\cms\user\integer"__id*
+
+%13"Å
+]
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserHelper.phpí í(! 
+
+%14joomla\cms\user\integer:
+	$usernameB
+joomla\cms\user\userhelper

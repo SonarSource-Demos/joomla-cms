@@ -1,0 +1,146 @@
+
+Ajoomla\component\content\site\helper\routehelper::getarticleroutek
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php# #(*"1*∑
+2k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php) )((ô
+ñ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php) )('
+%3"__concat*	
+&catid=*
+
+
+$catidì
+ê
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php) )('
+%4"__concat*	
+
+$link*
+
+%3á
+Ñ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php) )('
+$link"__id*
+
+%4*	
+5
+8
+9*…
+5k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php,. ,(HÀ
+»
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php,. ,(H
+%5",joomla\cms\language\multilanguage::isenabled*%"#
+!joomla\cms\language\multilanguage*	
+6
+8
+9*∂
+6k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php- -(*õ
+ò
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php- -()
+%6"__concat*
+
+&lang=*
+
+	$languageì
+ê
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php- -()
+%7"__concat*	
+
+$link*
+
+%6á
+Ñ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php- -()
+$link"__id*
+
+%7*
+8
+9*≥
+8k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php1 1(*õ
+ò
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php1 1()
+%8"__concat*
+
+&layout=*
+	
+$layoutì
+ê
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php1 1()
+%9"__concat*	
+
+$link*
+
+%8á
+Ñ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php1 1()
+$link"__id*
+
+%9*
+9*Í
+9k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php4 4("x
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php4 4(	
+
+$link*ñ	
+1k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php& &(F¥
+±
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php# #(*
+$id"__id*5
+3
+$id,joomla\component\content\site\helper\integer∫
+∑
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php# #(*
+$catid"__id*8
+6
+$catid,joomla\component\content\site\helper\integer¿
+Ω
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php# #(*
+	$language"__id*;
+9
+	$language,joomla\component\content\site\helper\integerº
+π
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php& &(E
+%1"__concat*1/
+-index.php?option=com_content&view=article&id=*
+
+$idá
+Ñ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php& &(E
+$link"__id*
+
+%1ï
+í
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Helper/RouteHelper.php( ((
+%2"__sanitizing_cast*
+
+
+$catid*
+2
+5
+8
+9:3
+$id,joomla\component\content\site\helper\integer:6
+$catid,joomla\component\content\site\helper\integer:9
+	$language,joomla\component\content\site\helper\integer:	
+$layoutB42
+0joomla\component\content\site\helper\routehelper

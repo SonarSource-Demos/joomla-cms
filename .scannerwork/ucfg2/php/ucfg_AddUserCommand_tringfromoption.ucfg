@@ -1,0 +1,85 @@
+
+6joomla\cms\console\addusercommand::getstringfromoptiond
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÎ Î('"1*Ç
+4d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÔ Ô(H©
+¦
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÔ# Ô(1
+%3"__id*2*0#
+!joomla\cms\console\addusercommand"	
+ioStyle‘Ž
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÔ# Ô(G
+%4*
+
+%3*
+
+	$question2	askhidden
+
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÔ Ô(G	
+$answer"__passthrough_cast*
+
+%4*	
+4
+5
+6*Á
+5d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÖ Ö(B©
+¦
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÖ# Ö(1
+%5"__id*2*0#
+!joomla\cms\console\addusercommand"	
+ioStyle‹ˆ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÖ# Ö(A
+%6*
+
+%5*
+
+	$question2ask
+
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÖ Ö(A	
+$answer"__passthrough_cast*
+
+%6*	
+4
+5
+6*Þ
+6d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÚ Ú("s
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÚ Ú(
+	
+$answer*Æ
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÐ Ð(?ª
+§
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÐ Ð(*
+%1"__id*3*1#
+!joomla\cms\console\addusercommand"
+
+cliInputŒ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÐ Ð(>
+%2*
+
+%1*
+	
+$option2	getoption
+
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/AddUserCommand.phpÐ Ð(>	
+$answer"__passthrough_cast*
+
+%2*	
+4
+5
+6:	
+$option:
+	$questionB%#
+!joomla\cms\console\addusercommand

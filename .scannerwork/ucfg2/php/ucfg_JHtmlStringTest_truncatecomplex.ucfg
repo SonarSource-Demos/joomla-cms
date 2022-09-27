@@ -1,0 +1,39 @@
+
+Ijoomla\tests\unit\libraries\cms\html\jhtmlstringtest::testtruncatecomplexm
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.phpÕ Õ('"1*¡
+2
+JHtmlStringTest.php"„
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.phpØ Ø(
+implicit return*¤
+1m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.php× ×(bÐ
+Í
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.php×' ×(`
+%1"jhtmlstring::truncatecomplex*"
+jhtmlstring*	
+
+$html*
+
+
+$maxLength*
+
+
+$noSplit×Ô
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.php× ×(a
+%2*86
+4joomla\tests\unit\libraries\cms\html\jhtmlstringtest*
+
+	$expected*
+
+%12assertequals*
+2:
+$html:
+
+$maxLength:
+
+$noSplit:
+	$expectedB86
+4joomla\tests\unit\libraries\cms\html\jhtmlstringtest

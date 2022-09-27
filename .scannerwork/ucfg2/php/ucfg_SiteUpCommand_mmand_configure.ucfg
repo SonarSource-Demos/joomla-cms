@@ -1,0 +1,29 @@
+
++joomla\cms\console\siteupcommand::configurea
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SiteUpCommand.phpK K( "1*’
+2
+SiteUpCommand.php"x
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SiteUpCommand.phpR R(
+implicit return*Æ
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SiteUpCommand.phpM N(3ç
+ä
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SiteUpCommand.phpM N(2
+$help"__id*pn
+l<info>%command.name%</info> puts the site into online mode
+				\nUsage: <info>php %command.full_name%</info>ÅÂ
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SiteUpCommand.phpP P(>
+%1*$"
+ joomla\cms\console\siteupcommand*!
+Put the site into online mode2setdescription¦£
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SiteUpCommand.phpQ Q(
+%2*$"
+ joomla\cms\console\siteupcommand*	
+
+$help2sethelp*
+2B$"
+ joomla\cms\console\siteupcommand

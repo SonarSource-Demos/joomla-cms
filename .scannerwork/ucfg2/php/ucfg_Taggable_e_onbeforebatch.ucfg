@@ -1,0 +1,82 @@
+
+Bjoomla\plugin\behaviour\taggable\extension\taggable::onbeforebatchq
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php¡ ¡(!"1*ı
+2q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php« «("}
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php« «(
+void*ù
+3q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php   (%ú
+ô
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php   (
+%2"__mapGet*
+
+
+$event*
+type*
+4
+5*÷
+4q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpÀ À(Hùö
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpÀ$ À(A
+%3*
+
+$sourceTable2gettagshelperî
+ë
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpÀ$ À(G
+%4"__id**
+
+%3"
+tags°
+û
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpÀ À(G
+
+$sourceTable"	
+newTags"__id*
+
+%4*
+6*ù
+5q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php— —(,üú
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php— —(+
+%5*
+
+$sourceTable2cleartagshelper*
+6*û
+6
+Taggable.php"à
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php” ”(
+implicit return*Ò
+1q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpƒ ƒ(%ª
+∏
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.php¡ ¡(!
+$event"__id*3
+1
+$event'joomla\cms\event\model\beforebatcheventõ
+ò
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpƒ ƒ($
+%1"__mapGet*
+
+
+$event*
+srcî
+ë
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/taggable/src/Extension/Taggable.phpƒ ƒ($
+$sourceTable"__id*
+
+%1*
+2
+3:1
+$event'joomla\cms\event\model\beforebatcheventB75
+3joomla\plugin\behaviour\taggable\extension\taggable

@@ -1,0 +1,103 @@
+
+Sjoomla\plugin\multifactorauth\yubikey\extension\yubikey::onusermultifactorgetmethods
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.php] ](."1*Ÿ
+2
+Yubikey.php"Š
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpj j(
+implicit return*µ
+1s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.php_ i(
+¼
+¹
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.php] ](.
+$event"__id*2
+0
+$event&joomla\cms\event\multifactor\getmethod†ƒ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpa g(
+%2"$ArrayÔ
+Ñ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpb, b(@
+%3"__id*N*L9
+7joomla\plugin\multifactorauth\yubikey\extension\yubikey"
+mfaMethodName¢
+Ÿ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpa g(
+%4"__mapSet*
+
+%2*
+name*
+
+%3ç
+ä
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpc, c(_
+%5"joomla\cms\language\text::_*"
+joomla\cms\language\text*,*
+(PLG_MULTIFACTORAUTH_YUBIKEY_METHOD_TITLE¥
+¢
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpa g(
+%6"__mapSet*
+
+%2*	
+display*
+
+%5ä
+á
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpd, d(\
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*)'
+%PLG_MULTIFACTORAUTH_YUBIKEY_SHORTINFO§
+¤
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpa g(
+%8"__mapSet*
+
+%2*
+	shortinfo*
+
+%7Õ
+Ò
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpa g(
+%9"__mapSet*
+
+%2*	
+image*86
+4media/plg_multifactorauth_yubikey/images/yubikey.svg³
+°
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.phpa g(
+%10"__mapSet*
+
+%2*
+allowEntryBatching*
+true¿¼
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.php` h(
+%1"?joomla\component\users\administrator\datashape\methoddescriptorÝ
+Ú
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.php` h(
+%11"Ljoomla\component\users\administrator\datashape\methoddescriptor::__construct*
+
+%1*
+
+%2ž›
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/yubikey/src/Extension/Yubikey.php_ i(	
+%12*
+
+
+$event*
+
+%12	addresult*
+2:0
+$event&joomla\cms\event\multifactor\getmethodB;9
+7joomla\plugin\multifactorauth\yubikey\extension\yubikey

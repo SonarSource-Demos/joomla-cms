@@ -1,0 +1,95 @@
+
+,joomla\cms\mail\mailtemplate::deletetemplate_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php¹ ¹()"1*ı
+1_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php» »( 
+›
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php» »(
+%1"joomla\cms\factory::getdbo*"
+joomla\cms\factoryx
+v
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php» »(
+$db"__id*
+
+%1‡„
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php¼ ¼($
+%2*
+
+$db*
+true2getquery{
+y
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php¼ ¼($
+$query"__id*
+
+%2•’
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php½ ½(:
+%3*
+
+$db*
+#__mail_templates2	quotename†ƒ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php½ ½(;
+%4*
+
+
+$query*
+
+%32deleteŒ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php¾ ¾(1
+%5*
+
+$db*
+template_id2	quotename‰
+†
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php¾ ¾(=
+%6"__concat*
+
+%5*	
+ = :key€~
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php½ ¾(>
+%7*
+
+%4*
+
+%62whereŒ‰
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.php½ ¿( 
+%8*
+
+%7*
+:key*
+
+$key2bind‰†
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpÀ À(
+%9*
+
+$db*
+
+
+$query2setquery|z
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpÂ Â(
+%10*
+
+$db2execute“
+
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpÂ Â(
+%11joomla\cms\mail\boolean"__id*
+
+%10"ƒ
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpÂ Â( 
+
+%11joomla\cms\mail\boolean:
+$keyB 
+joomla\cms\mail\mailtemplate

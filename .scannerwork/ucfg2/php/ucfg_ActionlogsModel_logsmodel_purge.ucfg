@@ -1,0 +1,50 @@
+
+Fjoomla\component\actionlogs\administrator\model\actionlogsmodel::purgeÅ
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÊ Ê("1*ô
+2Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÎ Î("è
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÎ Î(	
+false*ø
+3Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÓ Ó(L…
+∆
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÓ Ó(!
+%3""joomla\cms\factory::getapplication*"
+joomla\cms\factoryïí
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÓC Ó(J
+%4"$Array¿Ω
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÓ Ó(K
+%5*
+
+%3*
+onAfterLogPurge*
+
+%42triggerevent"é
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.php (
+true*∂
+5
+ActionlogsModel.php"ô
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÒ Ò(
+implicit return*Ø
+1Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÈ È(Bﬂ‹
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÈ È( 
+%1*CA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel2getdatabase∏µ
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpÈ È(A
+%2*
+
+%1*
+#__action_logs2truncatetable*	
+2
+3
+5BCA
+?joomla\component\actionlogs\administrator\model\actionlogsmodel

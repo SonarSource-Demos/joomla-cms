@@ -1,0 +1,71 @@
+
+Jjoomla\component\finder\administrator\controller\indexcontroller::optimise€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php0 0("1*‘
+1€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php2 2(ÞÛ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php2 2(
+%1*DB
+@joomla\component\finder\administrator\controller\indexcontroller2
+checktokenê
+ç
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php5 5(,
+%2",joomla\cms\plugin\pluginhelper::importplugin*"" 
+joomla\cms\plugin\pluginhelper*
+
+finderá
+Þ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php6 6(
+%3"__id*M*KB
+@joomla\component\finder\administrator\controller\indexcontroller"
+appÁ¾
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php6 6(=
+%4*
+
+%3*
+onFinderGarbageCollection2triggereventÉÆ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php9 9( 
+
+$indexer"5joomla\component\finder\administrator\indexer\indexerÞ
+Û
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php9 9( 
+%5"Bjoomla\component\finder\administrator\indexer\indexer::__construct*
+
+
+$indexer¤¡
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php: :(
+%6*
+
+
+$indexer2optimizeï
+ì
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php< <(@
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*&$
+"COM_FINDER_INDEX_OPTIMISE_FINISHED 
+
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php< <(@
+
+$message"__id*
+
+%7™–
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php= =(N
+%8*DB
+@joomla\component\finder\administrator\controller\indexcontroller**(
+&index.php?option=com_finder&view=index*
+
+
+$message2setredirect"
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Controller/IndexController.php? ?(
+trueBDB
+@joomla\component\finder\administrator\controller\indexcontroller

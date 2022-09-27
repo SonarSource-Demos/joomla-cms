@@ -1,0 +1,147 @@
+
+-joomla\cms\document\htmldocument::addheadlinkc
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.phpß ß("1*è
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php© ©(5¶
+£
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php© ©(
+%1"__id*0*."
+ joomla\cms\document\htmldocument"
+_linksç
+ä
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php© ©(
+%2"
+__arrayGet*
+
+%1*	
+
+$hrefù
+ö
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php© ©((
+%3"__mapSet*
+
+%2*
+
+relation*
+
+	$relation¶
+£
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php© ©(
+%4"__id*0*."
+ joomla\cms\document\htmldocument"
+_linksï
+í
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php© ©(
+%5"
+__arraySet*
+
+%4*	
+
+$href*
+
+%2¶
+£
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php™ ™(
+%6"__id*0*."
+ joomla\cms\document\htmldocument"
+_linksç
+ä
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php™ ™(
+%7"
+__arrayGet*
+
+%6*	
+
+$hrefõ
+ò
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php™ ™('
+%8"__mapSet*
+
+%7*	
+relType*
+
+
+$relType¶
+£
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php™ ™(
+%9"__id*0*."
+ joomla\cms\document\htmldocument"
+_linksñ
+ì
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php™ ™(
+%10"
+__arraySet*
+
+%9*	
+
+$href*
+
+%7ß
+§
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php´ ´(
+%11"__id*0*."
+ joomla\cms\document\htmldocument"
+_linksè
+å
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php´ ´(
+%12"
+__arrayGet*
+
+%11*	
+
+$hrefù
+ö
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php´ ´('
+%13"__mapSet*
+
+%12*	
+attribs*
+
+
+$attribsß
+§
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php´ ´(
+%14"__id*0*."
+ joomla\cms\document\htmldocument"
+_linksò
+ï
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php´ ´(
+%15"
+__arraySet*
+
+%14*	
+
+$href*
+
+%12Ω
+∫
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php≠ ≠('
+%16 joomla\cms\document\htmldocument"__id*$"
+ joomla\cms\document\htmldocument"ê
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php≠ ≠()
+'
+%16 joomla\cms\document\htmldocument:
+$href:
+	$relation:
+
+$relType:
+
+$attribsB$"
+ joomla\cms\document\htmldocument

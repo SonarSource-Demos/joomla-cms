@@ -1,0 +1,58 @@
+
+@joomla\plugin\editors\tinymce\field\templateslistfield::getinputr
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.phpS S("1*á
+1r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.phpU ^(
+ÅÂ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.phpW W('
+%1*:8
+6joomla\plugin\editors\tinymce\field\templateslistfield2
+getoptions™
+–
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.phpW W('
+%2"__passthrough_cast*
+
+%1É
+Æ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.phpX X(
+%3"__id*D*B8
+6joomla\plugin\editors\tinymce\field\templateslistfield"
+nameÊ
+Ç
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.php\ \(
+%4"__id*E*C8
+6joomla\plugin\editors\tinymce\field\templateslistfield"
+valueÇ
+Ä
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.php] ](
+%5"__id*B*@8
+6joomla\plugin\editors\tinymce\field\templateslistfield"
+id¢
+Ÿ
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.phpU ^(	
+%6"joomla\cms\html\htmlhelper::_*"
+joomla\cms\html\htmlhelper*
+select.genericlist*
+
+%2*
+
+%3*
+class="form-select"*	
+value*
+text*
+
+%4*
+
+%5"|
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors/tinymce/src/Field/TemplateslistField.phpU ^(
+
+
+%6B:8
+6joomla\plugin\editors\tinymce\field\templateslistfield

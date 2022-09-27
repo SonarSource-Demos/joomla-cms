@@ -1,0 +1,36 @@
+
+(joomla\cms\toolbar\toolbarhelper::spacera
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php? ?(!"1*’
+2
+ToolbarHelper.php"x
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpE E(
+implicit return*Û
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpA A(/Â
+¿
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpA A(.
+%1"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbar{
+y
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpA A(.
+$bar"__id*
+
+%1«¨
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpD D(9
+%2*
+
+$bar*
+	Separator*
+
+spacer*
+
+
+$width2appendbutton*
+2:
+$widthB$"
+ joomla\cms\toolbar\toolbarhelper

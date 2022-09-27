@@ -1,0 +1,102 @@
+
+4joomla\cms\mvc\controller\basecontroller::createviewk
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php´ ´(!"1*¼
+2k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpº5 º(N³
+°
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpº5 º(?
+%6"__id*5*3*
+(joomla\cms\mvc\controller\basecontroller"
+app‹ˆ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpº5 º(N
+%7*
+
+%62getidentity*
+3
+4*Ö
+3k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php» »(=³
+°
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php»" »(,
+%8"__id*5*3*
+(joomla\cms\mvc\controller\basecontroller"
+app‹ˆ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php»" »(;
+%9*
+
+%82getidentityš—
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php» »(<
+%10*	
+
+$view*
+
+%92setcurrentuser*
+4*ê
+4k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¾ ¾("x
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¾ ¾(	
+
+$view*é
+1k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¶ ¶(0µ
+²
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¶ ¶('
+%1"__id*7*5*
+(joomla\cms\mvc\controller\basecontroller"
+paths’
+
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¶ ¶(/
+%2"__mapGet*
+
+%1*
+view 
+
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¶ ¶(
+%3"__mapSet*
+	
+$config*	
+paths*
+
+%2·
+´
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¸ ¸(
+%4"__id*9*7*
+(joomla\cms\mvc\controller\basecontroller"	
+factoryº·
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¸ ¸(J
+%5*
+
+%4*	
+
+$name*
+	
+$prefix*	
+
+$type*
+	
+$config2
+createview‡
+„
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php¸ ¸(J
+$view"__id*
+
+%5*
+2
+4:
+$name:	
+$prefix:
+$type:	
+$configB,*
+(joomla\cms\mvc\controller\basecontroller

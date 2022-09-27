@@ -1,0 +1,49 @@
+
+Ljoomla\component\categories\api\controller\categoriescontroller::displayitem
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpl l("1*ü
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpn n(SÎ
+Ë
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpl l(
+$id"__id*;
+9
+$id2joomla\component\categories\api\controller\integerå
+â
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpn n(
+%1"__id*S*QA
+?joomla\component\categories\api\controller\categoriescontroller"
+
+modelStateæã
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpn3 n(Q
+%2*CA
+?joomla\component\categories\api\controller\categoriescontroller2getextensionfrominputµ²
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpn n(R
+%3*
+
+%1*
+filter.extension*
+
+%22setŽ
+‹
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpp p('
+%4"4joomla\cms\mvc\controller\apicontroller::displayitem*CA
+?joomla\component\categories\api\controller\categoriescontroller*
+
+$idË
+È
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpp p((7
+%51joomla\component\categories\api\controller\static"__id*
+
+%4"¼
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.phpp p((9
+7
+%51joomla\component\categories\api\controller\static:9
+$id2joomla\component\categories\api\controller\integerBCA
+?joomla\component\categories\api\controller\categoriescontroller

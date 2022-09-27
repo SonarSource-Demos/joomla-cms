@@ -1,0 +1,30 @@
+
+>joomla\component\menus\administrator\model\menumodel::gettablet
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/MenuModel.phpT T("1*¢
+1t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/MenuModel.phpV V(;å
+â
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/MenuModel.phpV V(:
+%1"#joomla\cms\table\table::getinstance*"
+joomla\cms\table\table*	
+
+$type*
+	
+$prefix*
+	
+$config¥
+¢
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/MenuModel.phpV V(;
+%2joomla\cms\table\table"__id*
+
+%1"–
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Model/MenuModel.phpV V(;
+
+%2joomla\cms\table\table:
+$type:	
+$prefix:	
+$configB86
+4joomla\component\menus\administrator\model\menumodel

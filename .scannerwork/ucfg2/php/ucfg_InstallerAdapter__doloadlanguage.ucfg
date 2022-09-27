@@ -1,0 +1,65 @@
+
+5joomla\cms\installer\installeradapter::doloadlanguageh
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.php (%"1*¶
+2h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÛ5 Û(\ó
+î
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÛA Û(T
+%4"__concat*
+
+
+$extension*
+.sysóî
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÛ5 Û(\
+%5*	
+
+$lang*
+
+%4*	
+
+$base2load*
+4*ú
+4
+InstallerAdapter.php"
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÙ Ù(
+implicit return*·
+1h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÚ Ú('¨
+©
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÚ Ú(&
+%1"joomla\cms\factory::getlanguage*"
+joomla\cms\factoryÑ
+Å
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÚ Ú(&
+$lang"__id*
+
+%1ó
+î
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÛ Û('
+%2"__concat*
+
+
+$extension*
+.sysôñ
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/InstallerAdapter.phpÛ Û(1
+%3*	
+
+$lang*
+
+%2*
+	
+$source2load*
+2
+4:
+
+$extension:	
+$source:
+$baseB)'
+%joomla\cms\installer\installeradapter

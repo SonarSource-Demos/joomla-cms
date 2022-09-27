@@ -1,0 +1,51 @@
+
+1joomla\cms\router\siterouter::parsepaginationdata_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpÒ Ò('"1*”
+2_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpØ Ø(>‡„
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpØ' Ø(<
+%2*
+
+$uri*	
+start2getvar”‘
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpØ Ø(=
+%3*
+
+$uri*
+
+limitstart*
+
+%22setvar‡„
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpÙ Ù(!
+%4*
+
+$uri*	
+start2delvar*
+3*
+3
+SiteRouter.php"v
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpÛ Û(
+implicit return*ó
+1_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpÕ Õ('‡„
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpÕ Õ(&
+%1*
+
+$uri*	
+start2getvar{
+y
+_
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/SiteRouter.phpÕ Õ(&
+$start"__id*
+
+%1*
+2
+3:	
+$router:
+$uriB 
+joomla\cms\router\siterouter

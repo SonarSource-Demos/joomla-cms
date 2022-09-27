@@ -1,0 +1,447 @@
+
+Ajoomla\plugin\multifactorauth\webauthn\hotfix\server::__constructr
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¢ ¢("1*ù
+2
+
+Server.php"â
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpº º(
+implicit return*Îk
+1r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpß ß()…
+∆
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¢ ¢(
+$relayingParty"__id*8
+6
+$relayingParty$webauthn\publickeycredentialrpentity˝
+˙
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¢ ¢(&
+$$publicKeyCredentialSourceRepository"__id*V
+T
+$$publicKeyCredentialSourceRepository,webauthn\publickeycredentialsourcerepositoryı
+Ú
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¢ ¢(
+$metadataStatementRepository"__id*V
+T
+$metadataStatementRepository4webauthn\metadataservice\metadatastatementrepository◊
+‘
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpß ß((D6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+
+rpEntity"__id*
+
+$relayingPartyúô
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php©- ©(A
+%1"cose\algorithm\managerfactory±
+Æ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php©- ©(A
+%2"*cose\algorithm\managerfactory::__construct*
+
+%1ﬁ
+€
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php© ©(AW6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory"__id*
+
+%1ﬁ
+€
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php™ ™(*
+%3"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactoryüú
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php™7 ™(D
+%4" cose\algorithm\signature\rsa\rs1¥
+±
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php™7 ™(D
+%5"-cose\algorithm\signature\rsa\rs1::__construct*
+
+%4õò
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php™ ™(E
+%6*
+
+%3*
+RS1*
+
+%42addﬁ
+€
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php´ ´(*
+%7"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory°û
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php´9 ´(H
+%8""cose\algorithm\signature\rsa\rs256∂
+≥
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php´9 ´(H
+%9"/cose\algorithm\signature\rsa\rs256::__construct*
+
+%8ûõ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php´ ´(I
+%10*
+
+%7*	
+RS256*
+
+%82addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¨ ¨(*
+%11"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory¢ü
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¨9 ¨(H
+%12""cose\algorithm\signature\rsa\rs384∏
+µ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¨9 ¨(H
+%13"/cose\algorithm\signature\rsa\rs384::__construct*
+
+%12†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¨ ¨(I
+%14*
+
+%11*	
+RS384*
+
+%122addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≠ ≠(*
+%15"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory¢ü
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≠9 ≠(H
+%16""cose\algorithm\signature\rsa\rs512∏
+µ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≠9 ≠(H
+%17"/cose\algorithm\signature\rsa\rs512::__construct*
+
+%16†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≠ ≠(I
+%18*
+
+%15*	
+RS512*
+
+%162addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpÆ Æ(*
+%19"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory¢ü
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpÆ9 Æ(H
+%20""cose\algorithm\signature\rsa\ps256∏
+µ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpÆ9 Æ(H
+%21"/cose\algorithm\signature\rsa\ps256::__construct*
+
+%20†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpÆ Æ(I
+%22*
+
+%19*	
+PS256*
+
+%202addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpØ Ø(*
+%23"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory¢ü
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpØ9 Ø(H
+%24""cose\algorithm\signature\rsa\ps384∏
+µ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpØ9 Ø(H
+%25"/cose\algorithm\signature\rsa\ps384::__construct*
+
+%24†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpØ Ø(I
+%26*
+
+%23*	
+PS384*
+
+%242addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∞ ∞(*
+%27"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory¢ü
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∞9 ∞(H
+%28""cose\algorithm\signature\rsa\ps512∏
+µ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∞9 ∞(H
+%29"/cose\algorithm\signature\rsa\ps512::__construct*
+
+%28†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∞ ∞(I
+%30*
+
+%27*	
+PS512*
+
+%282addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php± ±(*
+%31"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory§°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php±9 ±(J
+%32"$cose\algorithm\signature\ecdsa\es256∫
+∑
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php±9 ±(J
+%33"1cose\algorithm\signature\ecdsa\es256::__construct*
+
+%32†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php± ±(K
+%34*
+
+%31*	
+ES256*
+
+%322addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≤ ≤(*
+%35"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory•¢
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≤: ≤(L
+%36"%cose\algorithm\signature\ecdsa\es256kª
+∏
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≤: ≤(L
+%37"2cose\algorithm\signature\ecdsa\es256k::__construct*
+
+%36°û
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≤ ≤(M
+%38*
+
+%35*
+
+ES256K*
+
+%362addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≥ ≥(*
+%39"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory§°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≥9 ≥(J
+%40"$cose\algorithm\signature\ecdsa\es384∫
+∑
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≥9 ≥(J
+%41"1cose\algorithm\signature\ecdsa\es384::__construct*
+
+%40†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php≥ ≥(K
+%42*
+
+%39*	
+ES384*
+
+%402addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¥ ¥(*
+%43"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory§°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¥9 ¥(J
+%44"$cose\algorithm\signature\ecdsa\es512∫
+∑
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¥9 ¥(J
+%45"1cose\algorithm\signature\ecdsa\es512::__construct*
+
+%44†ù
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php¥ ¥(K
+%46*
+
+%43*	
+ES512*
+
+%442addﬂ
+‹
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpµ µ(*
+%47"__id*Y*W6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+coseAlgorithmManagerFactory¶£
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpµ; µ(N
+%48"&cose\algorithm\signature\eddsa\ed25519º
+π
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpµ; µ(N
+%49"3cose\algorithm\signature\eddsa\ed25519::__construct*
+
+%48¢ü
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpµ µ(O
+%50*
+
+%47*	
+Ed25519*
+
+%482addÜÉ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%51"$Array¢
+ü
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%52"
+__arraySet*
+
+%51*2 *	
+RS256§
+°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%53"
+__arraySet*
+
+%51*2*	
+RS512§
+°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%54"
+__arraySet*
+
+%51*2*	
+PS256§
+°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%55"
+__arraySet*
+
+%51*2*	
+PS512§
+°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%56"
+__arraySet*
+
+%51*2*	
+ES256§
+°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%57"
+__arraySet*
+
+%51*2*	
+ES512¶
+£
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑$ ∑(e
+%58"
+__arraySet*
+
+%51*2*	
+Ed25519÷
+”
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∑ ∑(eN6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+selectedAlgorithms"__id*
+
+%51à
+Ö
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∏ ∏(Y_6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"%
+#publicKeyCredentialSourceRepository"__id*(
+&
+$$publicKeyCredentialSourceRepositoryµ≤
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpπ% π(J
+%59"5webauthn\tokenbinding\tokenbindingnotsupportedhandlerÀ
+»
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpπ% π(J
+%60"Bwebauthn\tokenbinding\tokenbindingnotsupportedhandler::__construct*
+
+%59◊
+‘
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpπ π(JO6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+tokenBindingHandler"__id*
+
+%59øº
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∫/ ∫(R
+%61"?webauthn\authenticationextensions\extensionoutputcheckerhandler’
+“
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∫/ ∫(R
+%62"Lwebauthn\authenticationextensions\extensionoutputcheckerhandler::__construct*
+
+%61·
+ﬁ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∫ ∫(RY6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+extensionOutputCheckerHandler"__id*
+
+%61¯
+ı
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpª ª(IW6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+metadataStatementRepository"__id* 
+
+$metadataStatementRepository*
+2:6
+$relayingParty$webauthn\publickeycredentialrpentity:T
+$$publicKeyCredentialSourceRepository,webauthn\publickeycredentialsourcerepository:T
+$metadataStatementRepository4webauthn\metadataservice\metadatastatementrepositoryB86
+4joomla\plugin\multifactorauth\webauthn\hotfix\server

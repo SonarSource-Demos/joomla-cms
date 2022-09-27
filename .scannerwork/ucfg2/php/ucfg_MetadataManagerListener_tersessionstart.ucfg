@@ -1,0 +1,132 @@
+
+Mjoomla\cms\session\eventlistener\metadatamanagerlistener::onaftersessionstarty
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.php> >('"1*Ã
+2y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpA= A(_œ™
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpA> A(R
+%3*
+
+
+$event2
+getsession›˜
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpA> A(_
+%4*
+
+%3*
+user2has*
+3
+4*†
+3y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpB B("…
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpB B(
+void*ð
+4y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpE E(2œ™
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpE E($
+%5*
+
+
+$event2
+getsession›˜
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpE E(1
+%6*
+
+%5*
+user2get•
+’
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpE E(1
+$user"__id*
+
+%6Ô
+Ñ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpH H(
+%7"__id*H*F:
+8joomla\cms\session\eventlistener\metadatamanagerlistener"
+config»¸
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpH H(C
+%8*
+
+%7*
+session_metadata_for_guest*
+true2get*
+5
+7*¦
+5y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpHG H(Q
+š
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpHH H(Q
+%9"__id**
+
+$user"
+id*
+6
+7*†
+6y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpI I("…
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpI I(
+void*¿
+7y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpL L(RÞ
+Û
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpL L(
+%10"__id*Q*O:
+8joomla\cms\session\eventlistener\metadatamanagerlistener"
+metadataManagerš
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpL5 L(I
+%11*
+
+
+$event2
+getsession¸µ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpL L(Q
+%12*
+
+%10*
+
+%11*	
+
+$user2createorupdaterecord*
+8*µ
+8
+MetadataManagerListener.php"
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpM M(
+implicit return*Ë
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpA A(_·
+´
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.php> >('
+$event"__id*'
+%
+$eventjoomla\session\sessioneventÔ
+Ñ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpA A(
+%1"__id*H*F:
+8joomla\cms\session\eventlistener\metadatamanagerlistener"
+config±®
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/EventListener/MetadataManagerListener.phpA A(9
+%2*
+
+%1*
+session_metadata*
+true2get*
+2
+3:%
+$eventjoomla\session\sessioneventB<:
+8joomla\cms\session\eventlistener\metadatamanagerlistener

@@ -1,0 +1,30 @@
+
+Sjoomla\component\installer\administrator\controller\updatesitescontroller::getmodel‰
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/UpdatesitesController.phpE E("1*Ý
+1‰
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/UpdatesitesController.phpG G(9¾
+»
+‰
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/UpdatesitesController.phpG G(8
+%1"3joomla\cms\mvc\controller\admincontroller::getmodel*MK
+Ijoomla\component\installer\administrator\controller\updatesitescontroller*	
+
+$name*
+	
+$prefix*
+	
+$configË
+È
+‰
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/UpdatesitesController.phpG G(9,
+%2&joomla\cms\mvc\model\basedatabasemodel"__id*
+
+%1"¼
+‰
+/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/UpdatesitesController.phpG G(9.
+,
+%2&joomla\cms\mvc\model\basedatabasemodel:
+$name:	
+$prefix:	
+$configBMK
+Ijoomla\component\installer\administrator\controller\updatesitescontroller

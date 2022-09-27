@@ -1,0 +1,81 @@
+
+Bjoomla\cms\installer\adapter\moduleadapter::checkexistingextensionk
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php5 5(-"1*ù
+4
+ModuleAdapter.php"Ç
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.phpK K(
+implicit return*ô
+1k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php8 >(ª
+∏
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php8( 8(8
+%1"__id*=*;,
+*joomla\cms\installer\adapter\moduleadapter"
+	extension}{
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php9 =(
+%2"$Arrayπ
+∂
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php:# :(1
+%3"__id*;*9,
+*joomla\cms\installer\adapter\moduleadapter"	
+elementù
+ö
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php9 =(
+%4"__mapSet*
+
+%2*	
+element*
+
+%3∂
+≥
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php;# ;(.
+%5"__id*8*6,
+*joomla\cms\installer\adapter\moduleadapter"
+typeö
+ó
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php9 =(
+%6"__mapSet*
+
+%2*
+type*
+
+%5∫
+∑
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php<# <(2
+%7"__id*<*:,
+*joomla\cms\installer\adapter\moduleadapter"
+
+clientIdü
+ú
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php9 =(
+%8"__mapSet*
+
+%2*
+	client_id*
+
+%7åâ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php8( >(
+%9*
+
+%1*
+
+%22findƒ
+¡
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/ModuleAdapter.php8 >(D,
+*joomla\cms\installer\adapter\moduleadapter"
+currentExtensionId"__id*
+
+%9*
+4B.,
+*joomla\cms\installer\adapter\moduleadapter

@@ -1,0 +1,40 @@
+
+Ijoomla\component\newsfeeds\administrator\table\newsfeedtable::__construct|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_newsfeeds/src/Table/NewsfeedTable.php6 6("1*®
+2
+NewsfeedTable.php"“
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_newsfeeds/src/Table/NewsfeedTable.php; ;(
+implicit return*º
+1|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_newsfeeds/src/Table/NewsfeedTable.php8 8(4·
+´
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_newsfeeds/src/Table/NewsfeedTable.php6 6(
+$db"__id*'
+%
+$dbjoomla\database\databasedriverò
+ï
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_newsfeeds/src/Table/NewsfeedTable.php8 8(3M>
+<joomla\component\newsfeeds\administrator\table\newsfeedtable"
+	typeAlias"__id*
+com_newsfeeds.newsfeed‘
+Ž
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_newsfeeds/src/Table/NewsfeedTable.php9 9(6
+%1"#joomla\cms\table\table::__construct*@>
+<joomla\component\newsfeeds\administrator\table\newsfeedtable*
+#__newsfeeds*
+id*
+
+$dbîë
+|
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_newsfeeds/src/Table/NewsfeedTable.php: :(.
+%2*@>
+<joomla\component\newsfeeds\administrator\table\newsfeedtable*	
+title*
+name2setcolumnalias*
+2:%
+$dbjoomla\database\databasedriverB@>
+<joomla\component\newsfeeds\administrator\table\newsfeedtable

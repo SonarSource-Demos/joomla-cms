@@ -1,0 +1,54 @@
+
+joomla\cms\feed\feed::setauthorW
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpÛ Û("1*â
+1W
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpÝ Ý(=ƒ€
+W
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpÝ Ý(<	
+$author"joomla\cms\feed\feedpersonÄ
+Á
+W
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpÝ Ý(<
+%1"'joomla\cms\feed\feedperson::__construct*
+	
+$author*	
+
+$name*
+
+
+$email*
+
+$uri*	
+
+$type’
+
+W
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpß ß(
+%2"__id*(*&
+joomla\cms\feed\feed"
+
+properties
+Š
+W
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpß ß(#
+%3"__mapSet*
+
+%2*
+
+author*
+	
+$author˜
+•
+W
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpá á(
+%4joomla\cms\feed\feed"__id*
+joomla\cms\feed\feed"w
+W
+K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Feed.phpá á(
+
+%4joomla\cms\feed\feed:
+$name:
+$email:
+$uri:
+$typeB
+joomla\cms\feed\feed

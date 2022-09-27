@@ -1,0 +1,43 @@
+
+9page\acceptance\administrator\adminpage::waitforpagetitle‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.php¤ ¤($"1*±
+2
+AdminPage.php"š
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.php¨ ¨(
+implicit return*˜
+1‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.php¦ ¦(Á
+¾
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.php¦ ¦(
+$I"__id*+)
+'page\acceptance\administrator\adminpage®«
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.php§  §(8
+%1*
+
+$I*	
+timeout2	getconfigÑ
+Î
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.php§: §(J
+%2"__id*;*9)
+'page\acceptance\administrator\adminpage"
+
+$pageTitle¿¼
+‚
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.php§ §(K
+%3*
+
+$I*
+
+
+$title*
+
+%1*
+
+%22waitfortext*
+2:
+$titleB+)
+'page\acceptance\administrator\adminpage

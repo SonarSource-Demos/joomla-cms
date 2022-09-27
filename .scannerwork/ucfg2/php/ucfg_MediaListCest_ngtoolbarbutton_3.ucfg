@@ -1,0 +1,152 @@
+
+/medialistcest::togglelistviewusingtoolbarbuttoné
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php˚ ˚(1"1*¡
+2
+MediaListCest.php"¶
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpà à(
+implicit return*ë$
+1é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php˝ ˝(gÕ
+ 
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php˚ ˚(1
+$I"__id*+
+)
+$I#step\acceptance\administrator\mediaÜÉ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php˝ ˝(f
+%1*
+
+$I*VT
+Rthat it is possible to toggle the list view (grid/table) using the toolbar button.2
+wanttotest€
+ÿ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php˛ ˛("
+%2"__id*9*7-
++page\acceptance\administrator\medialistpage"
+$url¥±
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.php˛ ˛(#
+%3*
+
+$I*
+
+%22amonpage∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpˇ ˇ(
+%4*
+
+$I2waitformedialoadedË
+Â
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÄ Ä(1
+%5"__id*F*D-
++page\acceptance\administrator\medialistpage"
+$mediaBrowserGrid∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÄ Ä(2
+%6*
+
+$I*
+
+%52
+seeelementÏ
+È
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÅ Å(5
+%7"__id*J*H-
++page\acceptance\administrator\medialistpage"
+$toggleListViewButton∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÅ Å(6
+%8*
+
+$I*
+
+%72
+seeelementÏ
+È
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÇ Ç(0
+%9"__id*J*H-
++page\acceptance\administrator\medialistpage"
+$toggleListViewButton≤Ø
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÇ Ç(1
+%10*
+
+$I*
+
+%92clickÙ
+Ò
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÉ É(@
+%11"__id*Q*O-
++page\acceptance\administrator\medialistpage"
+$increaseThumbnailSizeButtonºπ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÉ É(A
+%12*
+
+$I*
+
+%112dontseeelementÙ
+Ò
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÑ Ñ(@
+%13"__id*Q*O-
++page\acceptance\administrator\medialistpage"
+$decreaseThumbnailSizeButtonºπ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÑ Ñ(A
+%14*
+
+$I*
+
+%132dontseeelementÍ
+Á
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÖ Ö(2
+%15"__id*G*E-
++page\acceptance\administrator\medialistpage"
+$mediaBrowserTable∏µ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÖ Ö(3
+%16*
+
+$I*
+
+%152
+seeelementÌ
+Í
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÜ Ü(0
+%17"__id*J*H-
++page\acceptance\administrator\medialistpage"
+$toggleListViewButton≥∞
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpÜ Ü(1
+%18*
+
+$I*
+
+%172clickÈ
+Ê
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpá á(1
+%19"__id*F*D-
++page\acceptance\administrator\medialistpage"
+$mediaBrowserGrid∏µ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpá á(2
+%20*
+
+$I*
+
+%192
+seeelement*
+2:)
+$I#step\acceptance\administrator\mediaB
+medialistcest

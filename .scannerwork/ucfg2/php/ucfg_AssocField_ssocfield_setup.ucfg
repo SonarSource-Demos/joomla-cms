@@ -1,0 +1,54 @@
+
+>joomla\component\content\administrator\field\assocfield::setupw
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php/ /("1*É
+2w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php2 2("Ñ
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php2 2(	
+false*è
+3w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php5 5(7ç
+ä
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php5 5(6
+%2"&joomla\cms\form\field\listfield::setup*;9
+7joomla\component\content\administrator\field\assocfield*
+
+
+$element*
+
+
+$value*
+
+
+$group∆
+√
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php5 5(7:
+%34joomla\component\content\administrator\field\boolean"__id*
+
+%2"∑
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php5 5(7<
+:
+%34joomla\component\content\administrator\field\boolean*ç
+1w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php1 1(&Æ
+´
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php/ /(
+
+$element"__id*
+
+$elementsimplexmlelement’
+“
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/AssocField.php1 1(&
+%1"+joomla\cms\language\associations::isenabled*$""
+ joomla\cms\language\associations*
+2
+3:
+$elementsimplexmlelement:
+$value:
+$groupB;9
+7joomla\component\content\administrator\field\assocfield

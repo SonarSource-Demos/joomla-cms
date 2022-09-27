@@ -1,0 +1,54 @@
+
+?joomla\component\fields\administrator\field\sectionfield::setupx
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php+ +("1*ﬂ
+
+1x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php- -(:Ø
+¨
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php+ +(
+
+$element"__id*
+
+$elementsimplexmlelementè
+å
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php- -(9
+%1"&joomla\cms\form\field\listfield::setup*<:
+8joomla\component\fields\administrator\field\sectionfield*
+
+
+$element*
+
+
+$value*
+
+
+$groupñ
+ì
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php- -(9	
+$return"__id*
+
+%1˙
+˜
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php0 0(CH:
+8joomla\component\fields\administrator\field\sectionfield"
+
+onchange"__id*+)
+'Joomla.fieldsChangeContext(this.value);À
+»
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php2 2(9
+%23joomla\component\fields\administrator\field\boolean"__id*
+	
+$return"∑
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php2 2(;
+9
+%23joomla\component\fields\administrator\field\boolean:
+$elementsimplexmlelement:
+$value:
+$groupB<:
+8joomla\component\fields\administrator\field\sectionfield

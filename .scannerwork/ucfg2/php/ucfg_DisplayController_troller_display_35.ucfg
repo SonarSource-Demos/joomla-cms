@@ -1,0 +1,94 @@
+
+Jjoomla\component\admin\administrator\controller\displaycontroller::displayÅ
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php   ("1*¯
+5Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php( ((%ÈÊ
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php( (($
+%6*EC
+Ajoomla\component\admin\administrator\controller\displaycontroller*
+GET2
+checktoken*
+6*Õ
+6Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php+ +(6¶
+£
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php+ +(5
+%7"1joomla\cms\mvc\controller\basecontroller::display*EC
+Ajoomla\component\admin\administrator\controller\displaycontroller*
+
+	$cachable*
+
+
+$urlparams”
+–
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php+ +(6<
+%86joomla\component\admin\administrator\controller\static"__id*
+
+%7"ƒ
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php+ +(6>
+<
+%86joomla\component\admin\administrator\controller\static*›
+1Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php" "(C‚
+ﬂ
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php   (
+	$cachable"__id*F
+D
+	$cachable7joomla\component\admin\administrator\controller\booleanÂ
+‚
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php" "( 
+%1"__id*P*NC
+Ajoomla\component\admin\administrator\controller\displaycontroller"
+inputÏ
+È
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php". "(A
+%2"__id*W*UC
+Ajoomla\component\admin\administrator\controller\displaycontroller"
+default_view¨©
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php" "(B
+%3*
+
+%1*
+view*
+
+%22get¢
+ü
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php" "(B
+	$viewName"__id*
+
+%3Â
+‚
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php# #( 
+%4"__id*P*NC
+Ajoomla\component\admin\administrator\controller\displaycontroller"
+input∞≠
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php# #(7
+%5*
+
+%4*
+
+format*
+html2get†
+ù
+Å
+w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_admin/src/Controller/DisplayController.php# #(7	
+$format"__id*
+
+%5*
+5
+6:D
+	$cachable7joomla\component\admin\administrator\controller\boolean:
+
+$urlparamsBEC
+Ajoomla\component\admin\administrator\controller\displaycontroller

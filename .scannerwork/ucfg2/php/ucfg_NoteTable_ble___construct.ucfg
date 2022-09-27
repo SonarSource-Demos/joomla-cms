@@ -1,0 +1,40 @@
+
+Ajoomla\component\users\administrator\table\notetable::__constructt
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/NoteTable.php( (("1*¢
+2
+NoteTable.php"‹
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/NoteTable.php. .(
+implicit return*ø
+1t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/NoteTable.php* *(,¯
+¬
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/NoteTable.php( ((
+$db"__id*'
+%
+$dbjoomla\database\databasedriverÚ
+×
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/NoteTable.php* *(+E6
+4joomla\component\users\administrator\table\notetable"
+	typeAlias"__id*
+com_users.note‚
+ÿ
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/NoteTable.php+ +(7
+%1"#joomla\cms\table\table::__construct*86
+4joomla\component\users\administrator\table\notetable*
+#__user_notes*
+id*
+
+$dbãà
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/NoteTable.php- -(3
+%2*86
+4joomla\component\users\administrator\table\notetable*
+	published*	
+state2setcolumnalias*
+2:%
+$dbjoomla\database\databasedriverB86
+4joomla\component\users\administrator\table\notetable

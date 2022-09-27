@@ -1,0 +1,63 @@
+
+Bjoomla\plugin\apiauthentication\token\extension\token::__constructr
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpJ J("1*œ
+2
+	Token.php"‰
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpP P(
+implicit return*‰
+1r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpL L(2¿
+¼
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpJ J(
+$dispatcher"__id*1
+/
+$dispatcher joomla\event\dispatcherinterfaceœ
+™
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpJ J(	
+$config"__id*
+
+$configarrayÅ
+Â
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpJ J(
+$userFactory"__id*6
+4
+$userFactory$joomla\cms\user\userfactoryinterface°
+­
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpJ J(	
+$filter"__id*&
+$
+$filterjoomla\filter\inputfilter€
+ý
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpL L(1
+%1"(joomla\cms\plugin\cmsplugin::__construct*97
+5joomla\plugin\apiauthentication\token\extension\token*
+
+$dispatcher*
+	
+$configÙ
+Ö
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpN N()H7
+5joomla\plugin\apiauthentication\token\extension\token"
+userFactory"__id*
+
+$userFactoryÏ
+Ì
+r
+h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/token/src/Extension/Token.phpO O($C7
+5joomla\plugin\apiauthentication\token\extension\token"
+filter"__id*
+	
+$filter*
+2:/
+$dispatcher joomla\event\dispatcherinterface:
+$configarray:4
+$userFactory$joomla\cms\user\userfactoryinterface:$
+$filterjoomla\filter\inputfilterB97
+5joomla\plugin\apiauthentication\token\extension\token

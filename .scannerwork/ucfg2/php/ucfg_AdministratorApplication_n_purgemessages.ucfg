@@ -1,0 +1,57 @@
+
+>joomla\cms\application\administratorapplication::purgemessagesr
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpç ç(("1*¯
+2
+AdministratorApplication.php"‰
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpë ë(
+implicit return*Œ
+
+1r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpé ê(V¹
+¶
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpé é(!
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory¢Ÿ
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpé é(<
+%2*
+
+%1*
+
+messages2bootcomponent”‘
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpé é(M
+%3*
+
+%22getmvcfactory³°
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpé ê(6
+%4*
+
+%3*
+
+Messages*
+Administrator2createmodel²
+¯
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpê> ê(P
+%5"joomla\cms\factory::getuser*"
+joomla\cms\factory“
+
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpê> ê(T
+%6"__id**
+
+%5"
+id”‘
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpé ê(U
+%7*
+
+%4*
+
+%62purge*
+2B31
+/joomla\cms\application\administratorapplication

@@ -1,0 +1,337 @@
+
+#joomla\cms\factory::createcontainerU
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php° °(-"1*ñG
+1U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ∂(Otr
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ £(&
+%1"joomla\di\containerä
+á
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ £(&
+%2" joomla\di\container::__construct*
+
+%1âÜ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php§& §(T
+%3"'joomla\cms\service\provider\applicationû
+õ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php§& §(T
+%4"4joomla\cms\service\provider\application::__construct*
+
+%3âÜ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ §(U
+%5*
+
+%1*
+
+%32registerserviceprovideråâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php•& •(W
+%6"*joomla\cms\service\provider\authentication°
+û
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php•& •(W
+%7"7joomla\cms\service\provider\authentication::__construct*
+
+%6âÜ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ •(X
+%8*
+
+%5*
+
+%62registerserviceproviderçä
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php¶& ¶(X
+%9"+joomla\cms\service\provider\cachecontroller£
+†
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php¶& ¶(X
+%10"8joomla\cms\service\provider\cachecontroller::__construct*
+
+%9äá
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ¶(Y
+%11*
+
+%8*
+
+%92registerserviceproviderÖÇ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpß& ß(O
+%12""joomla\cms\service\provider\configõ
+ò
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpß& ß(O
+%13"/joomla\cms\service\provider\config::__construct*
+
+%12åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ß(P
+%14*
+
+%11*
+
+%122registerserviceproviderÜÉ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php®& ®(P
+%15"#joomla\cms\service\provider\consoleú
+ô
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php®& ®(P
+%16"0joomla\cms\service\provider\console::__construct*
+
+%15åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ®(Q
+%17*
+
+%14*
+
+%152registerserviceprovideráÑ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php©& ©(Q
+%18"$joomla\cms\service\provider\databaseù
+ö
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php©& ©(Q
+%19"1joomla\cms\service\provider\database::__construct*
+
+%18åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ©(R
+%20*
+
+%17*
+
+%182registerserviceproviderâÜ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php™& ™(S
+%21"&joomla\cms\service\provider\dispatcherü
+ú
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php™& ™(S
+%22"3joomla\cms\service\provider\dispatcher::__construct*
+
+%21åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ™(T
+%23*
+
+%20*
+
+%212registerserviceprovideráÑ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php´& ´(Q
+%24"$joomla\cms\service\provider\documentù
+ö
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php´& ´(Q
+%25"1joomla\cms\service\provider\document::__construct*
+
+%24åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ´(R
+%26*
+
+%23*
+
+%242registerserviceproviderÉÄ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php¨& ¨(M
+%27" joomla\cms\service\provider\formô
+ñ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php¨& ¨(M
+%28"-joomla\cms\service\provider\form::__construct*
+
+%27åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ¨(N
+%29*
+
+%26*
+
+%272registerserviceproviderÖÇ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php≠& ≠(O
+%30""joomla\cms\service\provider\loggerõ
+ò
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php≠& ≠(O
+%31"/joomla\cms\service\provider\logger::__construct*
+
+%30åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ≠(P
+%32*
+
+%29*
+
+%302registerserviceprovideráÑ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpÆ& Æ(Q
+%33"$joomla\cms\service\provider\languageù
+ö
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpÆ& Æ(Q
+%34"1joomla\cms\service\provider\language::__construct*
+
+%33åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ Æ(R
+%35*
+
+%32*
+
+%332registerserviceproviderÉÄ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpØ& Ø(M
+%36" joomla\cms\service\provider\menuô
+ñ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpØ& Ø(M
+%37"-joomla\cms\service\provider\menu::__construct*
+
+%36åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ Ø(N
+%38*
+
+%35*
+
+%362registerserviceproviderÜÉ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php∞& ∞(P
+%39"#joomla\cms\service\provider\pathwayú
+ô
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php∞& ∞(P
+%40"0joomla\cms\service\provider\pathway::__construct*
+
+%39åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ∞(Q
+%41*
+
+%38*
+
+%392registerserviceproviderãà
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php±& ±(U
+%42"(joomla\cms\service\provider\htmlregistry°
+û
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php±& ±(U
+%43"5joomla\cms\service\provider\htmlregistry::__construct*
+
+%42åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ±(V
+%44*
+
+%41*
+
+%422registerserviceproviderÜÉ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php≤& ≤(P
+%45"#joomla\cms\service\provider\sessionú
+ô
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php≤& ≤(P
+%46"0joomla\cms\service\provider\session::__construct*
+
+%45åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ≤(Q
+%47*
+
+%44*
+
+%452registerserviceproviderÜÉ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php≥& ≥(P
+%48"#joomla\cms\service\provider\toolbarú
+ô
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php≥& ≥(P
+%49"0joomla\cms\service\provider\toolbar::__construct*
+
+%48åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ≥(Q
+%50*
+
+%47*
+
+%482registerserviceproviderèå
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php¥& ¥(Y
+%51",joomla\cms\service\provider\webassetregistry•
+¢
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php¥& ¥(Y
+%52"9joomla\cms\service\provider\webassetregistry::__construct*
+
+%51åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ¥(Z
+%53*
+
+%50*
+
+%512registerserviceproviderÖÇ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpµ& µ(O
+%54""joomla\cms\service\provider\routerõ
+ò
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.phpµ& µ(O
+%55"/joomla\cms\service\provider\router::__construct*
+
+%54åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ µ(P
+%56*
+
+%53*
+
+%542registerserviceproviderÉÄ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php∂& ∂(M
+%57" joomla\cms\service\provider\userô
+ñ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php∂& ∂(M
+%58"-joomla\cms\service\provider\user::__construct*
+
+%57åâ
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ∂(N
+%59*
+
+%56*
+
+%572registerserviceproviderv
+t
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php£ ∂(N
+
+$container"__id*
+
+%59å
+â
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php∏ ∏(
+%60joomla\di\container"__id*
+
+
+$container"u
+U
+I/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Factory.php∏ ∏(
+
+%60joomla\di\containerB
+joomla\cms\factory

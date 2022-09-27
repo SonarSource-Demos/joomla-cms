@@ -1,0 +1,39 @@
+
+*joomla\cms\toolbar\toolbarhelper::editlistc
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¬ ¬(#"1*”
+2
+ToolbarHelper.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php² ²(
+implicit return*ó
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php® ®(/Ä
+Á
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php® ®(.
+%1"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbar*	
+toolbar}
+{
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php® ®(.
+$bar"__id*
+
+%1½º
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php± ±(A
+%2*
+
+$bar*
+
+Standard*
+edit*
+
+$alt*	
+
+$task*
+true2appendbutton*
+2:
+$task:
+$altB$"
+ joomla\cms\toolbar\toolbarhelper

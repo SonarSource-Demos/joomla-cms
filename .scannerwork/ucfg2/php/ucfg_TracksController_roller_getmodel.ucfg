@@ -1,0 +1,30 @@
+
+Ljoomla\component\banners\administrator\controller\trackscontroller::getmodel‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Controller/TracksController.php+ +("1*¹
+1‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Controller/TracksController.php- -(9¯
+¬
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Controller/TracksController.php- -(8
+%1"2joomla\cms\mvc\controller\basecontroller::getmodel*FD
+Bjoomla\component\banners\administrator\controller\trackscontroller*	
+
+$name*
+	
+$prefix*
+	
+$configÄ
+Á
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Controller/TracksController.php- -(9,
+%2&joomla\cms\mvc\model\basedatabasemodel"__id*
+
+%1"µ
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Controller/TracksController.php- -(9.
+,
+%2&joomla\cms\mvc\model\basedatabasemodel:
+$name:	
+$prefix:	
+$configBFD
+Bjoomla\component\banners\administrator\controller\trackscontroller

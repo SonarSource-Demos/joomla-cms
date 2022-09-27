@@ -1,0 +1,56 @@
+
+Bjoomla\component\content\administrator\field\voteradiofield::setup{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php, ,("1*‹
+2{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php0 0("ˆ
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php0 0(	
+false*¤
+3{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php3 3(7–
+“
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php3 3(6
+%2"'joomla\cms\form\field\radiofield::setup*?=
+;joomla\component\content\administrator\field\voteradiofield*
+
+
+$element*
+
+
+$value*
+
+
+$groupÊ
+Ç
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php3 3(7:
+%34joomla\component\content\administrator\field\boolean"__id*
+
+%2"»
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php3 3(7<
+:
+%34joomla\component\content\administrator\field\boolean*¬
+1{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php/ /(7²
+¯
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php, ,(
+
+$element"__id*
+
+$elementsimplexmlelementì
+é
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Field/VoteradioField.php/ /(7
+%1")joomla\cms\plugin\pluginhelper::isenabled*"" 
+joomla\cms\plugin\pluginhelper*	
+content*
+vote*
+2
+3:
+$elementsimplexmlelement:
+$value:
+$groupB?=
+;joomla\component\content\administrator\field\voteradiofield

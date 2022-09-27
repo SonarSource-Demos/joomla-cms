@@ -1,0 +1,36 @@
+
+Bjoomla\component\fields\administrator\field\sectionfield::getinputx
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php= =("1*³	
+1x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php? @(@¿
+¼
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php? ?(!
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory˜•
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php? ?(0
+%2*
+
+%12getdocumentŸœ
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php? ?(F
+%3*
+
+%22getwebassetmanagerÀ½
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.php? @(?
+%4*
+
+%3*(&
+$com_fields.admin-field-changecontext2	usescriptì
+é
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.phpB B(!
+%5")joomla\cms\form\field\listfield::getinput*<:
+8joomla\component\fields\administrator\field\sectionfield"‚
+x
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/SectionField.phpB B("
+
+%5B<:
+8joomla\component\fields\administrator\field\sectionfield

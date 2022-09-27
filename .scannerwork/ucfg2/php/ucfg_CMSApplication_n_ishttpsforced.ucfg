@@ -1,0 +1,75 @@
+
+4joomla\cms\application\cmsapplication::ishttpsforcedh
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpë ë(!"1*ý
+2h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpí0 í(9ˆ
+…
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpí í(Q
+%1"__id*
+
+	$clientId*
+4*£
+3h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpí< í(P«¨
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpí< í(P
+%2*)'
+%joomla\cms\application\cmsapplication2getclientid€
+~
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpí í(Q
+%1"__id*
+
+%2*
+4*Þ
+4h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpíP í(P•
+’
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpí í(Q
+	$clientId"__sanitizing_cast*
+
+%1²¯
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpî î(1
+%3*)'
+%joomla\cms\application\cmsapplication*
+	force_ssl2get•
+’
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpî î(1
+	$forceSsl"__sanitizing_cast*
+
+%3*
+
+6
+9
+10*ã
+6h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpñ ñ("t
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpñ ñ(
+true*ã
+9h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpõ õ("t
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpõ õ(
+true*å
+10h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpø ø("u
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpø ø(	
+false*§
+1h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpí í(R¯
+¬
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpë ë(!
+	$clientId"__id*-
++
+	$clientIdjoomla\cms\application\integer*
+2
+3:+
+	$clientIdjoomla\cms\application\integerB)'
+%joomla\cms\application\cmsapplication

@@ -1,0 +1,215 @@
+
+plgbuttonmenu::ondisplay[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php* *("1*Ö
+2[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php4 4(9öó
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php4 4(9
+%3*	
+
+$user*
+	core.edit*
+	com_menus2	authorise*
+3
+4*ƒ!
+3[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php6 7(A∞
+≠
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php7 7(%
+%4"(joomla\cms\session\session::getformtoken*"
+joomla\cms\session\sessionÔ
+Ï
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php6 7(@
+%5"__concat*VT
+Rindex.php?option=com_menus&amp;view=items&amp;layout=modal&amp;tmpl=component&amp;*
+
+%4*
+=1&amp;editor=*	
+
+$namev
+t
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php6 7(@
+$link"__id*
+
+%5àÖ
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php9 9(%	
+$button"joomla\cms\object\cmsobjectù
+ö
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php9 9(%
+%6"(joomla\cms\object\cmsobject::__construct*
+	
+$buttonÜ
+É
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php: :(#
+	
+$button"
+modal"__id*
+trueÜ
+É
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php; ;($
+	
+$button"
+link"__id*	
+
+$link«
+ƒ
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php< <(J
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*$"
+ PLG_EDITORS-XTD_MENU_BUTTON_MENUÉ
+Ä
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php< <(J
+	
+$button"
+text"__id*
+
+%7ä
+á
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php= =(+
+%8"__id**
+plgbuttonmenu"
+_typeä
+á
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php=4 =(@
+%9"__id**
+plgbuttonmenu"
+_nameà
+Ö
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php= =(@
+%10"__concat*
+
+%8*
+_*
+
+%9Ñ
+Å
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php= =(@
+	
+$button"
+name"__id*
+
+%10Ö
+Ç
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php> >(%
+	
+$button"
+icon"__id*
+listé
+ã
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php? D(\
+%11"__concat*yw
+u<svg viewBox="0 0 512 512"  width="24" height="24"><path d="M80 368H16a16 16 0 0 0-16 16v64a16 16 0 0 0 16 16h64a16 1*vt
+r6 0 0 0 16-16v-64a16 16 0 0 0-16-16zm0-320H16A16 16 0 0 0 0 64v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16V64a16 16 *vt
+r0 0 0-16-16zm0 160H16a16 16 0 0 0-16 16v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16v-64a16 16 0 0 0-16-16zm416 176H1*vt
+r76a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H176a16 16 0 0 0-16 16*vt
+rv32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 160H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16*@>
+<h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"></path></svg>á
+Ñ
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php? D(\
+	
+$button"	
+iconSVG"__id*
+
+%11nl
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpF K(
+%12"$Arrayë
+é
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpF K(
+%13"__mapSet*
+
+%12*
+
+height*	
+300pxê
+ç
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpF K(
+%14"__mapSet*
+
+%12*	
+width*	
+800pxí
+è
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpF K(
+%15"__mapSet*
+
+%12*
+
+bodyHeight*
+70í
+è
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpF K(
+%16"__mapSet*
+
+%12*
+
+modalWidth*
+80á
+Ñ
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpF K(
+	
+$button"	
+options"__id*
+
+%12ó
+î
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpM M("
+%17joomla\cms\object\cmsobject"__id*
+	
+$button"É
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpM M($
+"
+%17joomla\cms\object\cmsobject*É
+4
+
+menu.php"r
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.phpO O(
+implicit return*ù
+1[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php0 0($õ
+ò
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php0 0(#
+%1"joomla\cms\factory::getuser*"
+joomla\cms\factoryv
+t
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php0 0(#
+$user"__id*
+
+%1úô
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/editors-xtd/menu/menu.php3 3(8
+%2*	
+
+$user*
+core.create*
+	com_menus2	authorise*
+2
+3:
+$nameB
+plgbuttonmenu

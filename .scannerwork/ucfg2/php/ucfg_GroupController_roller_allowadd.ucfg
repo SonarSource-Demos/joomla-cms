@@ -1,0 +1,43 @@
+
+Jjoomla\component\fields\administrator\controller\groupcontroller::allowadd€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpc c("1*Ò
+
+1€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpe e(Uá
+Þ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpe e(
+%1"__id*M*KB
+@joomla\component\fields\administrator\controller\groupcontroller"
+app¡ž
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpe e((
+%2*
+
+%12getidentityç
+ä
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpeC e(S
+%3"__id*S*QB
+@joomla\component\fields\administrator\controller\groupcontroller"
+	component¸µ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpe e(T
+%4*
+
+%2*
+core.create*
+
+%32	authoriseÔ
+Ñ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpe e(U>
+%58joomla\component\fields\administrator\controller\boolean"__id*
+
+%4"Å
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/GroupController.phpe e(U@
+>
+%58joomla\component\fields\administrator\controller\boolean:
+$dataBDB
+@joomla\component\fields\administrator\controller\groupcontroller

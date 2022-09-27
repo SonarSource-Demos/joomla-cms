@@ -1,0 +1,116 @@
+
+'plgquickiconphpversioncheck::ongeticonso
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpI I("1*Û
+2o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpL L(Å
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpL L(
+%2"$Array"y
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpL L(
+
+%2*Á
+3o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpO O(0™ß
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpO O(/
+%3*
+plgquickiconphpversioncheck2getphpsupportî
+ë
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpO O(/
+$supportStatus"__id*
+
+%3§
+°
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpQ Q($
+%4"__mapGet*
+
+$supportStatus*
+
+status*
+4
+9*¶
+4o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpS S(-§
+°
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpS S(,
+%5"__mapGet*
+
+$supportStatus*
+
+status*	
+6
+8
+9*¯
+6o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpU U(U™
+ß
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpU U(
+%6"__id*(*&
+plgquickiconphpversioncheck"
+app•
+¢
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpU/ U(H
+%7"__mapGet*
+
+$supportStatus*	
+messageß§
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpU U(T
+%8*
+
+%6*
+
+%7*	
+warning2enqueuemessage*
+9*˙
+8o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpZ Z(T™
+ß
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpZ Z(
+%9"__id*(*&
+plgquickiconphpversioncheck"
+app¶
+£
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpZ/ Z(H
+%10"__mapGet*
+
+$supportStatus*	
+message®•
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpZ Z(S
+%11*
+
+%9*
+
+%10*
+
+danger2enqueuemessage*
+9*ˆ
+9o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.php` `(ÉÄ
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.php` `(
+%12"$Array"z
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.php` `(
+
+%12*∞
+1o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpK K(*±Æ
+o
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/phpversioncheck/phpversioncheck.phpK K(*
+%1*
+plgquickiconphpversioncheck2shoulddisplaymessage*
+2
+3:
+
+$contextB
+plgquickiconphpversioncheck

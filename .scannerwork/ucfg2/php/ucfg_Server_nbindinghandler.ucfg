@@ -1,0 +1,27 @@
+
+Ljoomla\plugin\multifactorauth\webauthn\hotfix\server::settokenbindinghandlerr
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpœ œ(*"1*ù
+2
+
+Server.php"â
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php“ “(
+implicit return*–
+1r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php— —(:Ê
+„
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpœ œ(*
+$tokenBindingHandler"__id*O
+M
+$tokenBindingHandler5webauthn\tokenbinding\tokenbindingnotsupportedhandlerË
+Â
+r
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php— —(9O6
+4joomla\plugin\multifactorauth\webauthn\hotfix\server"
+tokenBindingHandler"__id*
+
+$tokenBindingHandler*
+2:M
+$tokenBindingHandler5webauthn\tokenbinding\tokenbindingnotsupportedhandlerB86
+4joomla\plugin\multifactorauth\webauthn\hotfix\server

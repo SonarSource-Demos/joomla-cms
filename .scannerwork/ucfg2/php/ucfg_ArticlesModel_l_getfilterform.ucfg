@@ -1,0 +1,115 @@
+
+Ijoomla\component\content\administrator\model\articlesmodel::getfilterformz
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.php\ \(!"1*»
+2z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpc c(2´±
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpc c(1
+%4*	
+
+$form*	
+stage*
+
+filter2removefield*
+4*à
+3z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpe e(@¶³
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpe e(?
+%5*	
+
+$form*
+fullordering*
+list2getfieldš
+—
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpe e(?
+	$ordering"__id*
+
+%5Š
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpg/ g(J
+%6"$Array´
+±
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpg/ g(J
+%7"__mapSet*
+
+%6*	
+value*
+ws.title ASC·´
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpg g(K
+%8*
+
+	$ordering*
+
+JSTAGE_ASC*
+
+%62	addoptionŠ
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phph0 h(L
+%9"$Array¶
+³
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phph0 h(L
+%10"__mapSet*
+
+%9*	
+value*
+ws.title DESC¹¶
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phph h(M
+%11*
+
+	$ordering*
+JSTAGE_DESC*
+
+%92	addoption*
+4*‰
+4z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpk k("‡
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpk k(	
+
+$form*ð
+1z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.php^ ^(8Ž
+‹
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.php^ ^(7
+%1"-joomla\cms\mvc\model\listmodel::getfilterform*><
+:joomla\component\content\administrator\model\articlesmodel*	
+
+$data*
+
+	$loadData–
+“
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.php^ ^(7
+$form"__id*
+
+%1ñ
+î
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.php` `(;
+%2"/joomla\cms\component\componenthelper::getparams*("&
+$joomla\cms\component\componenthelper*
+com_content˜
+•
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.php` `(;	
+$params"__id*
+
+%2­ª
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/ArticlesModel.phpb b(-
+%3*
+	
+$params*
+workflow_enabled2get*
+2
+3:
+$data:
+	$loadDataB><
+:joomla\component\content\administrator\model\articlesmodel

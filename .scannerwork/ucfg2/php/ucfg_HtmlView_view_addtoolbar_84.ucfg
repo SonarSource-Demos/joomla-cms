@@ -1,0 +1,106 @@
+
+Gjoomla\component\mails\administrator\view\template\htmlview::addtoolbar{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.php (!"1*™
+2
+HtmlView.php"î
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpñ ñ(
+implicit return*÷
+1}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÅ Å(Dƒ
+¡
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÅ Å(!
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory°
+û
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÅ Å((
+%2"__id**
+
+%1"
+input±Æ
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÅ Å(C
+%3*
+
+%2*
+hidemainmenu*
+true2set—
+Œ
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÇ Ç()
+%4"'joomla\cms\toolbar\toolbar::getinstance*"
+joomla\cms\toolbar\toolbarú
+ô
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÇ Ç()
+
+$toolbar"__id*
+
+%4·
+ﬁ
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÖ Ö(/
+%5"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+COM_MAILS_PAGE_EDIT_MAIL˘
+ˆ
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpÑ á(	
+%6"'joomla\cms\toolbar\toolbarhelper::title*$""
+ joomla\cms\toolbar\toolbarhelper*
+
+%5*
+pencil-2 article-add∂≥
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpâ â(;
+%7*
+
+
+$toolbar*
+
+save-group2dropdownbuttonû
+õ
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpâ â(;
+
+$saveGroup"__id*
+
+%7´
+®
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpå è(
+%8"__declareFunction*çä
+á__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.php_140_12´®
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpã ê(	
+%9*
+
+
+$saveGroup*
+
+%82	configure»≈
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpí í(=
+%10*
+
+
+$toolbar*
+template.cancel*
+JTOOLBAR_CLOSE2cancel†ù
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpî î(
+%11*
+
+
+$toolbar2divider∂≥
+}
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Template/HtmlView.phpï ï(-
+%12*
+
+
+$toolbar*
+Mail_Template:_Edit2help*
+2B?=
+;joomla\component\mails\administrator\view\template\htmlview

@@ -1,0 +1,47 @@
+
+Djoomla\component\messages\api\view\messages\jsonapiview::prepareitemw
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpC C(""1*‡
+
+1w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpE E(&Ê
+Ç
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpC C("
+$item"__id*=
+;
+$item2joomla\component\messages\api\view\messages\object£
+ 
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpE E(%
+%1"__id**
+
+$item"
+
+message_id›
+˜
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpE E(%
+
+$item"
+id"__id*
+
+%1ø
+õ
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpH H()
+%2",joomla\cms\mvc\view\jsonapiview::prepareitem*;9
+7joomla\component\messages\api\view\messages\jsonapiview*	
+
+$itemÄ
+Á
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpH H(*8
+%32joomla\component\messages\api\view\messages\object"__id*
+
+%2"µ
+w
+m/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_messages/src/View/Messages/JsonapiView.phpH H(*:
+8
+%32joomla\component\messages\api\view\messages\object:;
+$item2joomla\component\messages\api\view\messages\objectB;9
+7joomla\component\messages\api\view\messages\jsonapiview

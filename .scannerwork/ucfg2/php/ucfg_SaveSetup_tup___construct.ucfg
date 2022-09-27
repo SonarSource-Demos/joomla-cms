@@ -1,0 +1,65 @@
+
+3joomla\cms\event\multifactor\savesetup::__constructg
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php& &("1*”
+2
+SaveSetup.php"~
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php1 1(
+implicit return*É
+
+1g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php( .(
+¿
+¼
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php& &(	
+$record"__id*@
+>
+$record3joomla\component\users\administrator\table\mfatableœ
+™
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php& &(
+$input"__id*
+
+$inputjoomla\input\inputyw
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php* -(
+%1"$Array
+š
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php* -(
+%2"__mapSet*
+
+%1*
+
+record*
+	
+$record›
+˜
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php* -(
+%3"__mapSet*
+
+%1*	
+input*
+
+
+$inputü
+ù
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php( .(	
+%4"4joomla\cms\event\abstractimmutableevent::__construct**(
+&joomla\cms\event\multifactor\savesetup*
+onUserMultifactorSaveSetup*
+
+%1¼
+¹
+g
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/MultiFactor/SaveSetup.php0 0(&>(
+&joomla\cms\event\multifactor\savesetup"
+resultIsNullable"__id*
+true*
+2:>
+$record3joomla\component\users\administrator\table\mfatable:
+$inputjoomla\input\inputB*(
+&joomla\cms\event\multifactor\savesetup

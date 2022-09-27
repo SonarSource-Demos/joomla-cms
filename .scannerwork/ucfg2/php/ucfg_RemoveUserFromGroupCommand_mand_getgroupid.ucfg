@@ -1,0 +1,110 @@
+
+9joomla\cms\console\removeuserfromgroupcommand::getgroupidp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÓ Ó(!"1*Ã
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.php (&ª∏
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.php (%
+%1*1/
+-joomla\cms\console\removeuserfromgroupcommand2getdatabaseä
+á
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.php (%
+$db"__id*
+
+%1òï
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÒ Ò($
+%2*
+
+$db*
+true2getqueryóî
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÚ Ú()
+%3*
+
+$db*
+id2	quotenameìê
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÒ Ú(*
+%4*
+
+%2*
+
+%32select¢ü
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÛ Û(2
+%5*
+
+$db*
+#__usergroups2	quotenameëé
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÒ Û(3
+%6*
+
+%4*
+
+%52fromöó
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÙ Ù(+
+%7*
+
+$db*	
+title2	quotenameü
+ú
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÙ Ù(<
+%8"__concat*
+
+%7*
+= :groupNameíè
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÒ Ù(=
+%9*
+
+%6*
+
+%82where™ß
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÒ ı(,
+%10*
+
+%9*
+
+:groupName*
+
+
+$groupName2bindé
+ã
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpÒ ı(,
+$query"__id*
+
+%10õò
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.phpˆ ˆ(
+%11*
+
+$db*
+
+
+$query2setqueryëé
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.php¯ ¯( 
+%12*
+
+$db2
+loadresultß
+§
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.php¯ ¯(!!
+%13joomla\cms\console\integer"__id*
+
+%12"ó
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/RemoveUserFromGroupCommand.php¯ ¯(!#
+!
+%13joomla\cms\console\integer:
+
+$groupNameB1/
+-joomla\cms\console\removeuserfromgroupcommand

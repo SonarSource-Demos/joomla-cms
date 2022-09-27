@@ -1,0 +1,29 @@
+
+Kjoomla\component\contenthistory\administrator\model\historymodel::candelete€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpm m( "1*Þ
+1€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpo o('Å
+Â
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpm m( 	
+$record"__id*,
+*
+$recordjoomla\cms\table\contenthistoryèå
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpo o(&
+%1*DB
+@joomla\component\contenthistory\administrator\model\historymodel*
+	
+$record2canedit×
+Ô
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpo o('A
+%2;joomla\component\contenthistory\administrator\model\boolean"__id*
+
+%1"È
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/HistoryModel.phpo o('C
+A
+%2;joomla\component\contenthistory\administrator\model\boolean:*
+$recordjoomla\cms\table\contenthistoryBDB
+@joomla\component\contenthistory\administrator\model\historymodel

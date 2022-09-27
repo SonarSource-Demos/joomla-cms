@@ -1,0 +1,41 @@
+
+%joomla\cms\table\content::__constructY
+O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Content.php0 0("1*„
+2
+Content.php"p
+Y
+O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Content.php8 8(
+implicit return*Ÿ
+1Y
+O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Content.php2 2(1”
+‘
+Y
+O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Content.php0 0(
+$db"__id*'
+%
+$dbjoomla\database\databasedriver¨
+¥
+Y
+O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Content.php2 2(0)
+joomla\cms\table\content"
+	typeAlias"__id*
+com_content.articleÈ
+Å
+Y
+O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Content.php4 4(4
+%1"#joomla\cms\table\table::__construct*
+joomla\cms\table\content*
+
+#__content*
+id*
+
+$db¬©
+Y
+O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Content.php7 7(3
+%2*
+joomla\cms\table\content*
+	published*	
+state2setcolumnalias*
+2:%
+$dbjoomla\database\databasedriverB
+joomla\cms\table\content

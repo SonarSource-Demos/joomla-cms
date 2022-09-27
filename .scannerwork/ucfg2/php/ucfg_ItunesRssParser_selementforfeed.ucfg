@@ -1,0 +1,23 @@
+
+Ajoomla\cms\feed\parser\rss\itunesrssparser::processelementforfeedk
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/ItunesRssParser.php" "()"1*›
+1
+ItunesRssParser.php†
+ù
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/ItunesRssParser.php" "()
+$feed"__id*
+
+$feedjoomla\cms\feed\feedò
+ï
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/ItunesRssParser.php" "()
+$el"__id*
+
+$elsimplexmlelement"Ç
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/ItunesRssParser.php$ $(
+implicit return:
+$feedjoomla\cms\feed\feed:
+$elsimplexmlelementB.,
+*joomla\cms\feed\parser\rss\itunesrssparser

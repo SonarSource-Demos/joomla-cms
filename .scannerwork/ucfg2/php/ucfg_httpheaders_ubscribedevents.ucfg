@@ -1,0 +1,31 @@
+
+)plgsystemhttpheaders::getsubscribedeventsf
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/httpheaders/httpheaders.php   (."1*»
+1f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/httpheaders/httpheaders.php¢ ¥(
+xv
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/httpheaders/httpheaders.php¢ ¥(	
+%1"$Array®
+«
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/httpheaders/httpheaders.php¢ ¥(	
+%2"__mapSet*
+
+%1*
+onAfterInitialise*
+setHttpHeaders°
+­
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/httpheaders/httpheaders.php¢ ¥(	
+%3"__mapSet*
+
+%1*
+onAfterRender*
+applyHashesToCspRule"p
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/httpheaders/httpheaders.php¢ ¥(
+
+
+%1B
+plgsystemhttpheaders

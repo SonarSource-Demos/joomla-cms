@@ -1,0 +1,37 @@
+
+ plgsystemactionlogs::__constructb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/actionlogs/actionlogs.php5 5("1*ê
+2
+actionlogs.php"y
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/actionlogs/actionlogs.php; ;(
+implicit return*ù
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/actionlogs/actionlogs.php7 7()è
+å
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/actionlogs/actionlogs.php5 5(
+
+$subject"__id*
+
+$subjectobjectÀ
+»
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/actionlogs/actionlogs.php7 7((
+%1"(joomla\cms\plugin\cmsplugin::__construct*
+plgsystemactionlogs*
+
+
+$subject*
+	
+$configŒ
+À
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/actionlogs/actionlogs.php: :()
+%2",joomla\cms\plugin\pluginhelper::importplugin*"" 
+joomla\cms\plugin\pluginhelper*
+	actionlog*
+2:
+$subjectobject:	
+$configB
+plgsystemactionlogs

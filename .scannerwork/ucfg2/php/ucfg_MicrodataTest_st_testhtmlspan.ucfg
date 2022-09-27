@@ -1,0 +1,198 @@
+
+Ejoomla\tests\unit\libraries\cms\microdata\microdatatest::testhtmlspanp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php» »( "1*¢
+2
+MicrodataTest.php"á
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÏ Ï(
+implicit return*‘!
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÀ À(í
+è
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÀ À(
+$scope"__id*	
+Articleï
+í
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÃ Ã(
+
+$content"__id*
+
+anythingì
+ê
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÕ Õ(
+	$property"__id*	
+aboutà
+Ö
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php— —(g
+%1"__concat*1/
+-<span itemscope itemtype='https://schema.org/*
+' itemprop='*
+'>*	
+</span>*
+
+
+$scope*
+
+	$property*
+
+
+$content§
+°
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php“ “(@
+%2"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlspan*;"9
+7joomla\tests\unit\libraries\cms\microdata\microdatastub*
+
+
+$content*
+
+	$property*
+
+
+$scope÷”
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php– ”(	
+%3*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%1*
+
+%22assertequalsà
+Ö
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php◊ ◊(g
+%4"__concat*
+<span itemprop='*-+
+)' itemscope itemtype='https://schema.org/*
+'>*	
+</span>*
+
+	$property*
+
+
+$scope*
+
+
+$contentÆ
+´
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÿ ÿ(F
+%5"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlspan*;"9
+7joomla\tests\unit\libraries\cms\microdata\microdatastub*
+
+
+$content*
+
+	$property*
+
+
+$scope*
+true÷”
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php÷ Ÿ(	
+%6*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%4*
+
+%52assertequalsÕ
+ 
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php› ›(8
+%7"__concat*
+<span itemprop='*
+'>*	
+</span>*
+
+	$property*
+
+
+$contentò
+ï
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpﬁ ﬁ(8
+%8"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlspan*;"9
+7joomla\tests\unit\libraries\cms\microdata\microdatastub*
+
+
+$content*
+
+	$property÷”
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php‹ ﬂ(	
+%9*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%7*
+
+%82assertequalsâ
+Ü
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php„ „(g
+%10"__concat*
+<span itemprop='*-+
+)' itemscope itemtype='https://schema.org/*
+'>*	
+</span>*
+
+	$property*
+
+
+$scope*
+
+
+$contentØ
+¨
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php‰ ‰(F
+%11"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlspan*;"9
+7joomla\tests\unit\libraries\cms\microdata\microdatastub*
+
+
+$content*
+
+	$property*
+
+
+$scope*
+trueŸ÷
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php‚ Â(	
+%12*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%10*
+
+%112assertequals≠
+™
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÈ È(#
+%13"__concat*
+
+<span>*	
+</span>*
+
+
+$contentä
+á
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÍ Í(-
+%14"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlspan*;"9
+7joomla\tests\unit\libraries\cms\microdata\microdatastub*
+
+
+$contentŸ÷
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpË Î(	
+%15*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%13*
+
+%142assertequals*
+2B;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest

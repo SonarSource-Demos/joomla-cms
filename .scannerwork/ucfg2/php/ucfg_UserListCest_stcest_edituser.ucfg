@@ -1,0 +1,184 @@
+
+userlistcest::edituser‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpU U("1*½
+2
+UserListCest.php"£
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpm m(
+implicit return*è*
+1‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpW W(1Ê
+Ç
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpU U(
+$I"__id*+
+)
+$I#step\acceptance\administrator\adminÇÄ
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpW W(0
+%1*
+
+$I*
+I am going to edit a user2commentµ²
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpX X("
+%2*
+
+$I2doadministratorlogin×
+Ô
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpZ Z('
+%3"__id*8*6,
+*page\acceptance\administrator\userlistpage"
+$url±®
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpZ Z((
+%4*
+
+$I*
+
+%32amonpageá
+Þ
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php[ [(4
+%5"__id*B*@,
+*page\acceptance\administrator\userlistpage"
+$pageTitleText´±
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php[ [(5
+%6*
+
+$I*
+
+%52waitfortext´±
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php\ \(!
+%7*
+
+$I2waitforjsonpageload¹
+¶
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php^ ^(
+%8"__id**
+userlistcest"
+name®«
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php^ ^(
+%9*
+
+$I*
+
+%82clickæ
+ã
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php` `(;
+%10"__id*F*D,
+*page\acceptance\administrator\userlistpage"
+$accountDetailsTab¹¶
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.php` `(<
+%11*
+
+$I*
+
+%102waitforelementµ²
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpa a(!
+%12*
+
+$I2waitforjsonpageload¾»
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpb b(*
+%13*
+
+$I2checkforphpnoticesorwarningsµ²
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpc c(!
+%14*
+
+$I2waitforjsonpageloadº
+·
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpe  e(+
+%15"__id**
+userlistcest"
+name¾
+»
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpe- e(<
+%16"__id**
+userlistcest"
+
+username¾
+»
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpe> e(M
+%17"__id**
+userlistcest"
+
+password»
+¸
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpeO e([
+%18"__id**
+userlistcest"
+emailäá
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpe e(\
+%19*
+userlistcest*
+
+$I*
+
+%15*
+
+%16*
+
+%17*
+
+%182filluserform¾»
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpg g(&
+%20*
+
+$I*
+Save2clicktoolbarbuttonâ
+ß
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phph h(4
+%21"__id*B*@,
+*page\acceptance\administrator\userlistpage"
+$pageTitleText¶³
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phph h(5
+%22*
+
+$I*
+
+%212waitfortextµ²
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpi i(!
+%23*
+
+$I2waitforjsonpageloadã
+à
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpk k(:
+%24"__id*C*A,
+*page\acceptance\administrator\userlistpage"
+$successMessage»¸
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpk k(;
+%25*
+
+$I*
+
+%242seesystemmessage¾»
+‹
+€/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_users/UserListCest.phpl l(*
+%26*
+
+$I2checkforphpnoticesorwarnings*
+2:)
+$I#step\acceptance\administrator\adminB
+userlistcest

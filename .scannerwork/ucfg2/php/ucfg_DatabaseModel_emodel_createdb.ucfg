@@ -1,0 +1,56 @@
+
+5joomla\cms\installation\model\databasemodel::createdbd
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpá á("1*‹
+2d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpè è("q
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpè è(	
+false*€
+3d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpí í("p
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpí í(
+true*ï
+5
+DatabaseModel.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpì ì(
+implicit return*ç
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpå å(0ü
+ú
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpá á(
+$db"__id*'
+%
+$dbjoomla\database\databasedriver¶
+£
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpá á(
+
+$options"__id*)
+'
+$optionsjoomla\cms\object\cmsobject®
+•
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpá á(
+$utf"__id*/
+-
+$utf%joomla\cms\installation\model\boolean†ù
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/DatabaseModel.phpå å(/
+%1*
+
+$db*
+
+
+$options*
+
+$utf2createdatabase*	
+2
+3
+5:%
+$dbjoomla\database\databasedriver:'
+$optionsjoomla\cms\object\cmsobject:-
+$utf%joomla\cms\installation\model\booleanB/-
++joomla\cms\installation\model\databasemodel

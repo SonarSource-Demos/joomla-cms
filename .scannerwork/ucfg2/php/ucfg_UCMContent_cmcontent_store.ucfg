@@ -1,0 +1,221 @@
+
+ joomla\cms\ucm\ucmcontent::store\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php³ ³("1*ä
+2\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpµ µ(|
+z
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpµ µ(<
+$table"__id*
+
+
+$table*
+4*œ
+3\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpµ µ(<¹
+¶
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpµ µ(<
+%1"#joomla\cms\table\table::getinstance*"
+joomla\cms\table\table*
+Corecontentx
+v
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpµ µ(<
+$table"__id*
+
+%1*
+4*ú
+4\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpµ< µ(<Œ
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php· ·(&
+%2*
+joomla\cms\ucm\ucmcontent2gettype~
+|
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php· ·(,
+%3"__id**
+
+%2"
+type
+
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php· ·(5
+%4"__id**
+
+%3"	
+type_idy
+w
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php· ·(5	
+$typeId"__id*
+
+%4*
+5
+6*ô
+5\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¸# ¸($‡
+„
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¸ ¸(a
+$primaryKey"__id*
+
+$primaryKey*
+8
+10*¯
+6\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¸% ¸(a–
+“
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¸C ¸(`
+%5"__mapGet*	
+
+$data*
+core_content_item_idª§
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¸% ¸(a
+%6*
+joomla\cms\ucm\ucmcontent*
+	
+$typeId*
+
+%52getprimarykey}
+{
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¸ ¸(a
+$primaryKey"__id*
+
+%6*
+8
+10*ä
+8\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¼ ¼( nl
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¼ ¼(
+%7"$Array{
+y
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¼ ¼(
+	$baseData"__id*
+
+%7ž
+›
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php½ ½($
+%8"__mapSet*
+
+	$baseData*
+ucm_type_id*
+	
+$typeId–
+“
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¾+ ¾(H
+%9"__mapGet*	
+
+$data*
+core_content_item_idš
+—
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¾ ¾($
+%10"__mapSet*
+
+	$baseData*
+ucm_item_id*
+
+%9
+
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¿H ¿(^
+%11"__mapGet*	
+
+$data*
+core_languageÆ
+Ã
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¿+ ¿(_
+%12".joomla\cms\helper\contenthelper::getlanguageid*#"!
+joomla\cms\helper\contenthelper*
+
+%11Ÿ
+œ
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php¿ ¿((
+%13"__mapSet*
+
+	$baseData*
+ucm_language_id*
+
+%12µ
+²
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÁ Á((
+%14"joomla\cms\ucm\ucmbase::store*
+joomla\cms\ucm\ucmcontent*
+
+	$baseData*
+9
+10*°
+9\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÂ Â([—
+”
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÂ< Â(Y
+%15"__mapGet*	
+
+$data*
+core_content_item_id¬©
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÂ Â(Z
+%16*
+joomla\cms\ucm\ucmcontent*
+	
+$typeId*
+
+%152getprimarykey~
+|
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÂ Â(Z
+$primaryKey"__id*
+
+%16*
+10*Æ
+10\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÆ Æ(9Î
+Ë
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÆ Æ(8
+%17"joomla\cms\ucm\ucmbase::store*
+joomla\cms\ucm\ucmcontent*	
+
+$data*
+
+
+$table*
+
+$primaryKey
+Œ
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÆ Æ(9
+%18joomla\cms\ucm\boolean"__id*
+
+%17"
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpÆ Æ(9
+
+%18joomla\cms\ucm\boolean*Š
+1\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.phpµ µ(=ž
+›
+\
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/UCM/UCMContent.php³ ³(
+$table"__id*+
+)
+$tablejoomla\cms\table\tableinterface*
+2
+3:
+$data:)
+$tablejoomla\cms\table\tableinterface:
+$primaryKeyB
+joomla\cms\ucm\ucmcontent

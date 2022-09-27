@@ -1,0 +1,93 @@
+
+jjoomla\tests\unit\libraries\cms\feed\parser\atomparsertest::testinitialisesetsdefaultversionwithxmldoctypes
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÉ É(B"1*¦
+2
+AtomParserTest.php"Š
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.php× ×(
+implicit return*¡
+1s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpË Ì(.å
+â
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpË Ì(-
+	$dummyXml"__id*XV
+T<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" />¬
+©
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÍ Í(0
+%1"xmlreader::xml*"
+	xmlreader*
+
+	$dummyXml‘
+Ž
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÍ Í(0	
+$reader"__id*
+
+%1ª§
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÎ Î(-
+$atomParser"!joomla\cms\feed\parser\atomparserÌ
+É
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÎ Î(-
+%2".joomla\cms\feed\parser\atomparser::__construct*
+
+$atomParser*
+	
+$reader–“
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÏ Ï(
+%3*
+
+$atomParser2parseš
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÒ Ò(;
+$reflectionClass"reflectionclassÃ
+À
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÒ Ò(;
+%4"reflectionclass::__construct*
+
+$reflectionClass*
+
+$atomParser®«
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÓ Ó(=
+%5*
+
+$reflectionClass*	
+version2getproperty”
+‘
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÓ Ó(=
+
+$attribute"__id*
+
+%5§¤
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÔ Ô('
+%6*
+
+
+$attribute*
+true2setaccessible©¦
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÖ# Ö(D
+%7*
+
+
+$attribute*
+
+$atomParser2getvalueÝÚ
+s
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/Parser/AtomParserTest.phpÖ Ö(E
+%8*><
+:joomla\tests\unit\libraries\cms\feed\parser\atomparsertest*
+1.0*
+
+%72assertequals*
+2B><
+:joomla\tests\unit\libraries\cms\feed\parser\atomparsertest

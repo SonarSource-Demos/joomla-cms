@@ -1,0 +1,45 @@
+
+Ejoomla\component\users\administrator\model\levelsmodel::populatestatev
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelsModel.php? ?($"1*¶
+2
+LevelsModel.php"ç
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelsModel.phpG G(
+implicit return*ˆ
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelsModel.phpB B(:Î
+Ë
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelsModel.phpB B(9
+%1"/joomla\cms\component\componenthelper::getparams*("&
+$joomla\cms\component\componenthelper*
+	com_usersî
+ë
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelsModel.phpB B(9	
+$params"__id*
+
+%1‡›
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelsModel.phpC C(*
+%2*:8
+6joomla\component\users\administrator\model\levelsmodel*
+
+params*
+	
+$params2setstateã
+à
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelsModel.phpF F(4
+%3"-joomla\cms\mvc\model\listmodel::populatestate*:8
+6joomla\component\users\administrator\model\levelsmodel*
+
+	$ordering*
+
+
+$direction*
+2:
+	$ordering:
+
+$directionB:8
+6joomla\component\users\administrator\model\levelsmodel

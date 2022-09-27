@@ -1,0 +1,28 @@
+
+Gjoomla\component\installer\administrator\model\updatemodel::findupdates|
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdateModel.php ("1*²
+1|
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdateModel.php‘ ‘(TÐ
+Í
+|
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdateModel.php‘ ‘(
+%1"'joomla\cms\updater\updater::getinstance*"
+joomla\cms\updater\updaterÐÍ
+|
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdateModel.php‘ ‘(S
+%2*
+
+%1*
+
+$eid*
+
+$cacheTimeout*
+
+$minimumStability2findupdates"ˆ
+|
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/UpdateModel.php“ “(
+true:
+$eid:
+$cacheTimeout:
+$minimumStabilityB><
+:joomla\component\installer\administrator\model\updatemodel

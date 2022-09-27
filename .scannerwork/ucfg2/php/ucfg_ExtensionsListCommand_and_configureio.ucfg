@@ -1,0 +1,56 @@
+
+5joomla\cms\console\extensionslistcommand::configureioi
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpT T(""1*£
+2
+ExtensionsListCommand.php"€
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpX X(
+implicit return*Þ	
+1i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpV V(!º
+·
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpT T("
+$input"__id*:
+8
+$input.symfony\component\console\input\inputinterface¾
+»
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpT T("	
+$output"__id*=
+;
+$output0symfony\component\console\output\outputinterfaceº
+·
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpV V( 8*
+(joomla\cms\console\extensionslistcommand"
+
+cliInput"__id*
+
+
+$input¢Ÿ
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpW W(:
+%1",symfony\component\console\style\symfonystyleÐ
+Í
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpW W(:
+%2"9symfony\component\console\style\symfonystyle::__construct*
+
+%1*
+
+
+$input*
+	
+$outputµ
+²
+i
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpW W(:7*
+(joomla\cms\console\extensionslistcommand"	
+ioStyle"__id*
+
+%1*
+2:8
+$input.symfony\component\console\input\inputinterface:;
+$output0symfony\component\console\output\outputinterfaceB,*
+(joomla\cms\console\extensionslistcommand

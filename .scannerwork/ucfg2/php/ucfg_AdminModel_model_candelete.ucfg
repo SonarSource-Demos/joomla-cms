@@ -1,0 +1,42 @@
+
+*joomla\cms\mvc\model\adminmodel::candeleteb
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.php› ›( "1*ù
+1b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpﬂ ﬂ(K¢
+ü
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.php› ›( 	
+$record"__id*(
+&
+$recordjoomla\cms\mvc\model\object¢
+ü
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpﬂ ﬂ(!
+%1"joomla\cms\factory::getuser*"
+joomla\cms\factory§
+°
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpﬂ< ﬂ(I
+%2"__id*/*-!
+joomla\cms\mvc\model\adminmodel"
+optionôñ
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpﬂ ﬂ(J
+%3*
+
+%1*
+core.delete*
+
+%22	authoriseô
+ñ
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpﬂ ﬂ(K"
+%4joomla\cms\mvc\model\boolean"__id*
+
+%3"ä
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpﬂ ﬂ(K$
+"
+%4joomla\cms\mvc\model\boolean:&
+$recordjoomla\cms\mvc\model\objectB#!
+joomla\cms\mvc\model\adminmodel

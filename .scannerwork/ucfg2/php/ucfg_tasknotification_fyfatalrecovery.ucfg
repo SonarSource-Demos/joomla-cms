@@ -1,0 +1,79 @@
+
+.plgsystemtasknotification::notifyfatalrecoveryp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÖ Ö('"1*ó
+2p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÜ Ü("|
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÜ Ü(
+void*Ê
+3p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpß ß(G¡ž
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpß' ß(E
+%4*
+
+
+$event*	
+subject2getargument³°
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpß ß(F
+%5*
+plgsystemtasknotification*
+
+%42getdatafromtaskŒ
+‰
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpß ß(F
+$data"__id*
+
+%5äá
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpà à(Q
+%6*
+plgsystemtasknotification*31
+/plg_system_tasknotification.fatal_recovery_mail*	
+
+$data2sendmail*
+4*¥
+4
+tasknotification.php"‡
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpá á(
+implicit return*²
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÙ Ù(/¥
+¢
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÖ Ö('
+$event"__id*
+
+$eventjoomla\event\event¡ž
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÙ Ù(.
+%1*
+
+
+$event*	
+subject2getargumentŒ
+‰
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÙ Ù(.
+$task"__id*
+
+%1¾»
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÛ Û(K
+%2*	
+
+$task*+)
+'params.notifications.fatal_failure_mail*22get–
+“
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpÛ Û(K
+%3"__sanitizing_cast*
+
+%2*
+2
+3:
+$eventjoomla\event\eventB
+plgsystemtasknotification

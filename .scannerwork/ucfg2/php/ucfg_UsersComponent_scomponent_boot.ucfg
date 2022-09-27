@@ -1,0 +1,43 @@
+
+Cjoomla\component\users\administrator\extension\userscomponent::boot}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php. .("1*°
+2
+UsersComponent.php"”
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php1 1(
+implicit return*ú
+1}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php0 0(=È
+Å
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php. .(
+
+$container"__id*0
+.
+
+$container psr\container\containerinterfaceØÕ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php0 0(
+%1*A?
+=joomla\component\users\administrator\extension\userscomponent2getregistryÁ¾
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php00 0(;
+%2"7joomla\component\users\administrator\service\html\usersÖ
+Ó
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php00 0(;
+%3"Djoomla\component\users\administrator\service\html\users::__construct*
+
+%2­ª
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Extension/UsersComponent.php0 0(<
+%4*
+
+%1*	
+users*
+
+%22register*
+2:.
+
+$container psr\container\containerinterfaceBA?
+=joomla\component\users\administrator\extension\userscomponent

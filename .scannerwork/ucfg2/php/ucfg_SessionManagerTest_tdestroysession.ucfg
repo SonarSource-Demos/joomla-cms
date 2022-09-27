@@ -1,0 +1,78 @@
+
+Njoomla\tests\unit\libraries\cms\session\sessionmanagertest::testdestroysessionq
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpG G(&"1*¨
+2
+SessionManagerTest.php"ˆ
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpQ Q(
+implicit return*ì
+1q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpI I(–
+“
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpI I(
+
+$sessionId"__id*
+
+a1b2c3Ö
+Ó
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpK K(
+%1"__id*R*P<
+:joomla\tests\unit\libraries\cms\session\sessionmanagertest"
+sessionHandlerÂ¿
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpK' K(4
+%2*><
+:joomla\tests\unit\libraries\cms\session\sessionmanagertest2once•’
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpK K(5
+%3*
+
+%1*
+
+%22expects™–
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpK L(
+%4*
+
+%3*	
+destroy2methodš—
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpK M(
+%5*
+
+%4*
+
+
+$sessionId2withš—
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpK N(
+%6*
+
+%5*
+true2
+willreturnÏ
+Ì
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpP P((
+%7"__id*K*I<
+:joomla\tests\unit\libraries\cms\session\sessionmanagertest"	
+manager¤¡
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpP P(D
+%8*
+
+%7*
+
+
+$sessionId2destroysessionÐÍ
+q
+g/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Session/SessionManagerTest.phpP P(E
+%9*><
+:joomla\tests\unit\libraries\cms\session\sessionmanagertest*
+
+%82
+asserttrue*
+2B><
+:joomla\tests\unit\libraries\cms\session\sessionmanagertest

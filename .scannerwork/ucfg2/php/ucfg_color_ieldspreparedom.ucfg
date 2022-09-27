@@ -1,0 +1,89 @@
+
+(plgfieldscolor::oncustomfieldspreparedomX
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php! !(,"1*’
+2X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php& &(Ö
+Ç
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php& &(
+%2
+domelement"__id*
+
+
+$fieldNode"n
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php& &(
+
+%2
+domelement*Ú
+3X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php) )(6öó
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php) )(5
+%3*
+
+
+$fieldNode*
+
+validate*	
+color2setattributeÖ
+Ç
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php+ +(
+%4
+domelement"__id*
+
+
+$fieldNode"n
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php+ +(
+
+%4
+domelement*Ú
+1X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php# #(NÉ
+Ä
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php! !(,
+$field"__id*
+
+$fieldstdclassá
+Ñ
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php! !(,	
+$parent"__id*
+
+$parent
+domelementç
+ä
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php! !(,
+$form"__id*
+
+$formjoomla\cms\form\form
+Ì
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php# #(M
+%1"Sjoomla\component\fields\administrator\plugin\fieldsplugin::oncustomfieldspreparedom*
+plgfieldscolor*
+
+
+$field*
+	
+$parent*	
+
+$formx
+v
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/color/color.php# #(M
+
+$fieldNode"__id*
+
+%1*
+2
+3:
+$fieldstdclass:
+$parent
+domelement:
+$formjoomla\cms\form\formB
+plgfieldscolor

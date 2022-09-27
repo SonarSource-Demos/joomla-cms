@@ -1,0 +1,39 @@
+
+Hjoomla\component\banners\administrator\model\bannersmodel::populatestate{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannersModel.phpë ë($"1*¨
+2
+BannersModel.php"í
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannersModel.phpò ò(
+implicit return*ˆ
+1{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannersModel.phpî î(MÚ
+Ô
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannersModel.phpî" î(K
+%1"/joomla\cms\component\componenthelper::getparams*("&
+$joomla\cms\component\componenthelper*
+com_banners„‡
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannersModel.phpî î(L
+%2*=;
+9joomla\component\banners\administrator\model\bannersmodel*
+
+params*
+
+%12setstateì
+ê
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/BannersModel.phpó ó(4
+%3"-joomla\cms\mvc\model\listmodel::populatestate*=;
+9joomla\component\banners\administrator\model\bannersmodel*
+
+	$ordering*
+
+
+$direction*
+2:
+	$ordering:
+
+$directionB=;
+9joomla\component\banners\administrator\model\bannersmodel

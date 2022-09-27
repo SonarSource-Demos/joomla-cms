@@ -1,0 +1,46 @@
+
+<joomla\tests\unit\libraries\cms\uri\uritest::testgetinstanceb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpU U(#"1*
+2
+UriTest.php"y
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php_ _(
+implicit return*¼
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpW W(wù
+ö
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpW W(v
+%1"joomla\cms\uri\uri::getinstance*"
+joomla\cms\uri\uri*QO
+Mhttp://someuser:somepass@www.example.com:80/path/file.html?var=value#fragmentƒ
+€
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpW W(v
+
+$customUri"__id*
+
+%1¦
+£
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpX X((
+%2"joomla\cms\uri\uri::getinstance*"
+joomla\cms\uri\uri„
+
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpX X((
+$defaultUri"__id*
+
+%2›˜
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpZ ^(	
+%3*/-
++joomla\tests\unit\libraries\cms\uri\uritest*
+
+
+$customUri*
+
+$defaultUri*KI
+GUri::getInstance() should not return the same object for different URIs2assertnotsame*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

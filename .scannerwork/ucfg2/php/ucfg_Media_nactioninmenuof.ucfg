@@ -1,0 +1,56 @@
+
+:step\acceptance\administrator\media::clickonactioninmenuof~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpË Ë()"1*®
+2
+	Media.php"ï
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÔ Ô(
+implicit return*é
+
+1~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÍ Í(∏
+µ
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÍ Í(
+$I"__id*'%
+#step\acceptance\administrator\mediaì
+ê
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÎ Î(C
+%1"7page\acceptance\administrator\medialistpage::itemaction*/"-
++page\acceptance\administrator\medialistpage*
+
+	$itemName*
+
+$actionNameú
+ô
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÎ Î(C	
+$action"__id*
+
+%1≥∞
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÏ Ï((
+%2*
+
+$I*
+
+	$itemName2openactionsmenuofµ≤
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÌ Ì(*
+%3*
+
+$I*
+	
+$action2waitforelementvisible•¢
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÓ Ó(
+%4*
+
+$I*
+	
+$action2click*
+2:
+	$itemName:
+$actionNameB'%
+#step\acceptance\administrator\media

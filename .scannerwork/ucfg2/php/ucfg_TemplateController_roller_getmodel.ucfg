@@ -1,0 +1,30 @@
+
+Pjoomla\component\templates\administrator\controller\templatecontroller::getmodelˆ
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpî î("1*Õ
+1ˆ
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpð ð(9¹
+¶
+ˆ
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpð ð(8
+%1"2joomla\cms\mvc\controller\basecontroller::getmodel*JH
+Fjoomla\component\templates\administrator\controller\templatecontroller*	
+
+$name*
+	
+$prefix*
+	
+$configÊ
+Ç
+ˆ
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpð ð(9,
+%2&joomla\cms\mvc\model\basedatabasemodel"__id*
+
+%1"»
+ˆ
+|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.phpð ð(9.
+,
+%2&joomla\cms\mvc\model\basedatabasemodel:
+$name:	
+$prefix:	
+$configBJH
+Fjoomla\component\templates\administrator\controller\templatecontroller

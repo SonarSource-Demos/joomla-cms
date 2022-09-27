@@ -1,0 +1,64 @@
+
+ljoomla\tests\unit\libraries\cms\document\documenttest::testensureloadrendererreturnscorrectobjectfromfactoryn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php“ “(I"1*ü
+2
+DocumentTest.php"Ö
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php‹ ‹(
+implicit return*ß
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php‘ ‘(G–Õ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php‘# ‘(F
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2getdocumentdependencymocksù
+ö
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php‘ ‘(F
+$documentDependencyMocks"__id*
+
+%1Æ
+´
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php’ ’(+
+%2"__mapGet*
+
+$documentDependencyMocks*	
+factory∫∑
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php÷ ÷(#
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest2onceíè
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php’ ÷($
+%4*
+
+%2*
+
+%32expectsùö
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php’ ◊(&
+%5*
+
+%4*
+createRenderer2method‚ﬂ
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpŸ Ÿ(C
+%6*97
+5joomla\tests\unit\libraries\cms\document\documenttest*
+
+$documentDependencyMocks2createdocumenté
+ã
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpŸ Ÿ(C
+	$document"__id*
+
+%6†ù
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php€ €('
+%7*
+
+	$document*
+head2loadrenderer*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

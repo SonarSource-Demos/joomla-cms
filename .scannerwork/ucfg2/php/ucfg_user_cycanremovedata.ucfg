@@ -1,0 +1,91 @@
+
+&plgprivacyuser::onprivacycanremovedataW
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php3 3(*"1*¦
+2W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php8 8(¬
+©
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php8 8(;
+%25joomla\component\privacy\administrator\removal\status"__id*
+	
+$status"˜
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php8 8(=
+;
+%25joomla\component\privacy\administrator\removal\status*ï
+3W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php; ;(*ˆ…
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php; ;(*
+%3*	
+
+$user*
+
+core.admin2	authorise*
+4
+5*Ã
+4W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php< <('‡
+„
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php< <(&
+	
+$status"
+	canRemove"__id*	
+falseÒ
+Ï
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php=! =([
+%4"joomla\cms\language\text::_*"
+joomla\cms\language\text*31
+/PLG_PRIVACY_USER_ERROR_CANNOT_REMOVE_SUPER_USER€
+~
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php= =([
+	
+$status"
+reason"__id*
+
+%4*
+5*¦
+5W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php@ @(¬
+©
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php@ @(;
+%55joomla\component\privacy\administrator\removal\status"__id*
+	
+$status"˜
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php@ @(=
+;
+%55joomla\component\privacy\administrator\removal\status*„
+1W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php5 5(·
+´
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php3 3(*
+
+$request"__id*G
+E
+$request9joomla\component\privacy\administrator\table\requesttableŒ
+‰
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php3 3(*
+$user"__id*
+
+$userjoomla\cms\user\userž›
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php5 5(	
+$status"5joomla\component\privacy\administrator\removal\status³
+°
+W
+M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php5 5(
+%1"Bjoomla\component\privacy\administrator\removal\status::__construct*
+	
+$status*
+2
+3:E
+$request9joomla\component\privacy\administrator\table\requesttable:
+$userjoomla\cms\user\userB
+plgprivacyuser

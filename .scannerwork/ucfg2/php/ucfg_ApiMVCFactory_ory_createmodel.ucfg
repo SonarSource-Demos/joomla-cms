@@ -1,0 +1,66 @@
+
+1joomla\cms\mvc\factory\apimvcfactory::createmodele
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php   ("1*Î
+2e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php% %(Jı
+Ú
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php% %(I
+%2".joomla\cms\mvc\factory\mvcfactory::createmodel*(&
+$joomla\cms\mvc\factory\apimvcfactory*	
+
+$name*
+Administrator*
+	
+$configÅ
+
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php% %(I
+$model"__id*
+
+%2*
+3*´
+3e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php( ((ß
+§
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php( (()
+%3#joomla\cms\mvc\model\modelinterface"__id*
+
+
+$model"î
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php( ((+
+)
+%3#joomla\cms\mvc\model\modelinterface*˙
+1e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php" "(>è
+å
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php   (	
+$config"__id*
+
+$configarrayÔ
+Ï
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php" "(=
+%1".joomla\cms\mvc\factory\mvcfactory::createmodel*(&
+$joomla\cms\mvc\factory\apimvcfactory*	
+
+$name*
+	
+$prefix*
+	
+$configÅ
+
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php" "(=
+$model"__id*
+
+%1*
+2
+3:
+$name:	
+$prefix:
+$configarrayB(&
+$joomla\cms\mvc\factory\apimvcfactory

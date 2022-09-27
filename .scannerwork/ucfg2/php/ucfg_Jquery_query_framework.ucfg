@@ -1,0 +1,72 @@
+
+)joomla\cms\html\helpers\jquery::framework_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php- -($"1*Ñ
+2_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php4 4(0ïí
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php4 4(/
+%5*
+
+$wa*
+jquery-noconflict2	usescript*
+4
+5*˛
+4_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php9 9(-íè
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php9 9(,
+%6*
+
+$wa*
+jquery-migrate2	usescript*
+5*â
+5
+
+Jquery.php"v
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php; ;(
+implicit return*÷
+1_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php/ /(M´
+®
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php- -($
+$noConflict"__id*0
+.
+$noConflictjoomla\cms\html\helpers\boolean¶
+£
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php/ /('
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory~|
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php/ /(6
+%2*
+
+%12getdocumentÜÉ
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php/ /(L
+%3*
+
+%22getwebassetmanagerx
+v
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php/ /(L
+$wa"__id*
+
+%3äá
+_
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Jquery.php0 0( 
+%4*
+
+$wa*
+
+jquery2	usescript*	
+2
+4
+5:.
+$noConflictjoomla\cms\html\helpers\boolean:
+$debug:
+
+$migrateB" 
+joomla\cms\html\helpers\jquery

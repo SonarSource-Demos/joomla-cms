@@ -1,0 +1,54 @@
+
+\joomla\component\modules\administrator\controller\modulescontroller::getredirecttolistappendƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phph h(."1*‹
+1ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpj j(4œ
+™
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpj j(3
+%1"Bjoomla\cms\mvc\controller\admincontroller::getredirecttolistappend*GE
+Cjoomla\component\modules\administrator\controller\modulescontroller¢
+Ÿ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpj j(3	
+$append"__id*
+
+%1é
+æ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpk# k(/
+%2"__id*R*PE
+Cjoomla\component\modules\administrator\controller\modulescontroller"
+input®«
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpk# k(D
+%3*
+
+%2*
+	client_id2getint²
+¯
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpk k(D
+%4"__concat*
+&client_id=*
+
+%3®
+«
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpk k(D
+%5"__concat*
+	
+$append*
+
+%4¢
+Ÿ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpk k(D	
+$append"__id*
+
+%5"“
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModulesController.phpm m(
+	
+$appendBGE
+Cjoomla\component\modules\administrator\controller\modulescontroller

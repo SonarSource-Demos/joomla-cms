@@ -1,0 +1,56 @@
+
+1joomla\cms\console\deleteusercommand::configureiog
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpª ª( "1*ú
+2
+DeleteUserCommand.php"~
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpø ø(
+implicit return*»	
+1g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpΩ Ω(!∏
+µ
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpª ª( 
+$input"__id*:
+8
+$input.symfony\component\console\input\inputinterfaceº
+π
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpª ª( 	
+$output"__id*=
+;
+$output0symfony\component\console\output\outputinterface¥
+±
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpΩ Ω( 4&
+$joomla\cms\console\deleteusercommand"
+
+cliInput"__id*
+
+
+$input†ù
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpæ æ(:
+%1",symfony\component\console\style\symfonystyleŒ
+À
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpæ æ(:
+%2"9symfony\component\console\style\symfonystyle::__construct*
+
+%1*
+
+
+$input*
+	
+$outputØ
+¨
+g
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpæ æ(:3&
+$joomla\cms\console\deleteusercommand"	
+ioStyle"__id*
+
+%1*
+2:8
+$input.symfony\component\console\input\inputinterface:;
+$output0symfony\component\console\output\outputinterfaceB(&
+$joomla\cms\console\deleteusercommand

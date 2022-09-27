@@ -1,0 +1,80 @@
+
+?joomla\plugin\filesystem\local\adapter\localadapter::updatefileq
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpó ó("1*¹
+3q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpû û(/ÞÛ
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpû û(.
+%4*75
+3joomla\plugin\filesystem\local\adapter\localadapter*
+
+
+$localPath*	
+
+$data2checkcontentÚ
+×
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpý ý(&
+%5"!joomla\cms\filesystem\file::write*"
+joomla\cms\filesystem\file*
+
+
+$localPath*	
+
+$data*
+4*¢
+4
+LocalAdapter.php"ˆ
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpþ þ(
+implicit return*	
+1q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpõ õ(>˜
+•
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpó ó(
+$name"__id*
+
+$namestring˜
+•
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpó ó(
+$path"__id*
+
+$pathstring£
+ 
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpõ) õ(<
+%1"__concat*	
+
+$path*
+/*	
+
+$nameËÈ
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpõ õ(=
+%2*75
+3joomla\plugin\filesystem\local\adapter\localadapter*
+
+%12getlocalpath’
+
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.phpõ õ(=
+
+$localPath"__id*
+
+%2Ð
+Í
+q
+e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/filesystem/local/src/Adapter/LocalAdapter.php÷ ÷(%
+%3""joomla\cms\filesystem\file::exists*"
+joomla\cms\filesystem\file*
+
+
+$localPath*
+3
+4:
+$namestring:
+$pathstring:
+$dataB75
+3joomla\plugin\filesystem\local\adapter\localadapter

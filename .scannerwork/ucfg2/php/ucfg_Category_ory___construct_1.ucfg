@@ -1,0 +1,59 @@
+
+&joomla\cms\table\category::__constructZ
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php/ /("1*†
+2
+Category.php"q
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php6 6(
+implicit return*¸	
+1Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php3 3(2•
+’
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php/ /(
+$db"__id*'
+%
+$dbjoomla\database\databasedriver«
+¨
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php3 3(1*
+joomla\cms\table\category"
+	typeAlias"__id*
+{extension}.categoryÎ
+Ë
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php4 4(7
+%1"$joomla\cms\table\nested::__construct*
+joomla\cms\table\category*
+#__categories*
+id*
+
+$db¡
+ž
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php5 5(7
+%2""joomla\cms\factory::getapplication*"
+joomla\cms\factory}{
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php5 5(F
+%3*
+
+%2*
+
+access2get
+}
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php5 5(F
+%4"__sanitizing_cast*
+
+%3–
+“
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Category.php5 5(F'
+joomla\cms\table\category"
+access"__id*
+
+%4*
+2:%
+$dbjoomla\database\databasedriverB
+joomla\cms\table\category

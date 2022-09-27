@@ -1,0 +1,33 @@
+
+-joomla\cms\document\htmldocument::__constructc
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php‚ ‚("1*“
+2
+HtmlDocument.php"z
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php‹ ‹(
+implicit return*ž
+1c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php„ „(&Í
+Ê
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php„ „(%
+%1")joomla\cms\document\document::__construct*$"
+ joomla\cms\document\htmldocument*
+
+
+$options§
+¤
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.php‡ ‡(-"
+ joomla\cms\document\htmldocument"
+_type"__id*
+html´±
+c
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/HtmlDocument.phpŠ Š(+
+%2*$"
+ joomla\cms\document\htmldocument*
+	text/html2setmimeencoding*
+2:
+
+$optionsB$"
+ joomla\cms\document\htmldocument

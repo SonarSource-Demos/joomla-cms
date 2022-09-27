@@ -1,0 +1,49 @@
+
+Gjoomla\component\templates\api\controller\stylescontroller::displayitemz
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php1 1("1*º
+1z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php3 3(KÈ
+Å
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php1 1(
+$id"__id*:
+8
+$id1joomla\component\templates\api\controller\integerÛ
+Ø
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php3 3(
+%1"__id*N*L<
+:joomla\component\templates\api\controller\stylescontroller"
+
+modelStateÛØ
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php3, 3(I
+%2*><
+:joomla\component\templates\api\controller\stylescontroller2getclientidfrominput©¦
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php3 3(J
+%3*
+
+%1*
+	client_id*
+
+%22set„
+
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php5 5('
+%4"4joomla\cms\mvc\controller\apicontroller::displayitem*><
+:joomla\component\templates\api\controller\stylescontroller*
+
+$idÅ
+Â
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php5 5((6
+%50joomla\component\templates\api\controller\static"__id*
+
+%4"¶
+z
+p/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/Controller/StylesController.php5 5((8
+6
+%50joomla\component\templates\api\controller\static:8
+$id1joomla\component\templates\api\controller\integerB><
+:joomla\component\templates\api\controller\stylescontroller

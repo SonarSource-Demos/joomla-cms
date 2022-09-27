@@ -1,0 +1,59 @@
+
+1step\acceptance\administrator\media::closeinfobar~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpç ç( "1*®
+3
+	Media.php"ï
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpò ò(
+implicit return*√
+1~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpè è(∏
+µ
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpè è(
+$I"__id*'%
+#step\acceptance\administrator\mediaŒ
+À
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpí í(2
+%1"__id*=*;-
++page\acceptance\administrator\medialistpage"
+
+$infoBar•¢
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpí í(3
+%2*
+
+$I*
+
+%12
+seeelement⁄
+◊
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpì ì(9
+%3"__id*I*G-
++page\acceptance\administrator\medialistpage"
+$toggleInfoBarButton†ù
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpì ì(:
+%4*
+
+$I*
+
+%32clickŒ
+À
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpî) î(@
+%5"__id*=*;-
++page\acceptance\administrator\medialistpage"
+
+$infoBar≥∞
+~
+r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpî î(A
+%6*
+
+$I*
+
+%52waitforelementnotvisible*
+3B'%
+#step\acceptance\administrator\media

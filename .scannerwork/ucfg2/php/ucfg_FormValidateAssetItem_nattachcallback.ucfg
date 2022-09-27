@@ -1,0 +1,43 @@
+
+Ejoomla\cms\webasset\assetitem\formvalidateassetitem::onattachcallbackt
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php" "($"1*®
+2
+FormValidateAssetItem.php"‹
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php) )(
+implicit return*Ê	
+1t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php% %(:¯
+¬
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php" "($
+$doc"__id*&
+$
+$docjoomla\cms\document\documentæ
+ã
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php% %(9
+%1" joomla\cms\language\text::script*"
+joomla\cms\language\text*%#
+!JLIB_FORM_CONTAINS_INVALID_FIELDSã
+à
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php& &(6
+%2" joomla\cms\language\text::script*"
+joomla\cms\language\text*" 
+JLIB_FORM_FIELD_REQUIRED_VALUEã
+à
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php' '(6
+%3" joomla\cms\language\text::script*"
+joomla\cms\language\text*" 
+JLIB_FORM_FIELD_REQUIRED_CHECKâ
+ß
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/FormValidateAssetItem.php( ((5
+%4" joomla\cms\language\text::script*"
+joomla\cms\language\text*!
+JLIB_FORM_FIELD_INVALID_VALUE*
+2:$
+$docjoomla\cms\document\documentB75
+3joomla\cms\webasset\assetitem\formvalidateassetitem

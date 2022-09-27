@@ -1,0 +1,114 @@
+
+>joomla\component\privacy\api\view\requests\jsonapiview::exportv
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php2 2("1*°
+3v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php= =(5≤Ø
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php= =(4
+$serializer"&joomla\cms\serializer\joomlaserializer”
+–
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php= =(4
+%3"3joomla\cms\serializer\joomlaserializer::__construct*
+
+$serializer*
+
+export¢ü
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php> >(;
+
+$element"tobscure\jsonapi\resourceŸ
+÷
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php> >(;
+%4"&tobscure\jsonapi\resource::__construct*
+
+
+$element*
+
+$exportData*
+
+$serializer—
+Œ
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php@ @(
+%5"__id*H*F8
+6joomla\component\privacy\api\view\requests\jsonapiview"
+
+document†ù
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php@ @(*
+%6*
+
+%5*
+
+
+$element2setdata—
+Œ
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.phpA A(
+%7"__id*H*F8
+6joomla\component\privacy\api\view\requests\jsonapiview"
+
+document∂
+≥
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.phpA) A(7
+%8"joomla\cms\uri\uri::current*"
+joomla\cms\uri\uri§°
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.phpA A(8
+%9*
+
+%7*
+self*
+
+%82addlink“
+œ
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.phpC C(
+%10"__id*H*F8
+6joomla\component\privacy\api\view\requests\jsonapiview"
+
+documentìê
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.phpC C((
+%11*
+
+%102render"Å
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.phpC C()
+
+%11*¶
+4
+JsonapiView.php"ç
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.phpD D(
+implicit return*´
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php5 5(#«ƒ
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php5 5("
+%1*:8
+6joomla\component\privacy\api\view\requests\jsonapiview2getmodelì
+ê
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php5 5("
+$model"__id*
+
+%1™ß
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php7 7(;
+%2*
+
+
+$model2collectdataforexportrequestò
+ï
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_privacy/src/View/Requests/JsonapiView.php7 7(;
+$exportData"__id*
+
+%2*
+3
+4B:8
+6joomla\component\privacy\api\view\requests\jsonapiview

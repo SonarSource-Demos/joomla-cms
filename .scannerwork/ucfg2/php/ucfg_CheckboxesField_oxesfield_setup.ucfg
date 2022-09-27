@@ -1,0 +1,79 @@
+
+,joomla\cms\form\field\checkboxesfield::setupf
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.php~ ~("1*à
+2h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÉ É(G±
+Æ
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÉ- É(;
+%2"__id*6*4'
+%joomla\cms\form\field\checkboxesfield"	
+elementí
+è
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÉ- É(F
+%3"__mapGet*
+
+%2*	
+checkedè
+å
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÉ$ É(F
+%4"__passthrough_cast*
+
+%3∏
+µ
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÉ É(F;'
+%joomla\cms\form\field\checkboxesfield"
+checkedOptions"__id*
+
+%4*
+3*©
+3h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÜ Ü(•
+¢
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÜ Ü(#
+%5joomla\cms\form\field\boolean"__id*
+	
+$return"ë
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÜ Ü(%
+#
+%5joomla\cms\form\field\boolean*ç
+1h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÄ Ä(:ù
+ö
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.php~ ~(
+
+$element"__id*
+
+$elementsimplexmlelementÏ
+È
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÄ Ä(9
+%1"&joomla\cms\form\field\listfield::setup*)'
+%joomla\cms\form\field\checkboxesfield*
+
+
+$element*
+
+
+$value*
+
+
+$groupÜ
+É
+h
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpÄ Ä(9	
+$return"__id*
+
+%1*
+2
+3:
+$elementsimplexmlelement:
+$value:
+$groupB)'
+%joomla\cms\form\field\checkboxesfield

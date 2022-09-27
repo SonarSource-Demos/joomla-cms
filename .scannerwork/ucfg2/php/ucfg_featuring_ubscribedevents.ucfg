@@ -1,0 +1,87 @@
+
+)plgworkflowfeaturing::getsubscribedeventsb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpJ J(."1*ì
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(
+tr
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%1"$Array§
+¤
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%2"__mapSet*
+
+%1*
+onAfterDisplay*
+onAfterDisplayÅ
+Â
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%3"__mapSet*
+
+%1*!
+onContentBeforeChangeFeatured*!
+onContentBeforeChangeFeatured±
+®
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%4"__mapSet*
+
+%1*
+onContentBeforeSave*
+onContentBeforeSave³
+°
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%5"__mapSet*
+
+%1*
+onContentPrepareForm*
+onContentPrepareFormÉ
+Æ
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%6"__mapSet*
+
+%1*#!
+onContentVersioningPrepareTable*#!
+onContentVersioningPrepareTable¯
+¬
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%7"__mapSet*
+
+%1*
+onTableBeforeStore*
+onTableBeforeStore½
+º
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%8"__mapSet*
+
+%1*
+onWorkflowAfterTransition*
+onWorkflowAfterTransition¿
+¼
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%9"__mapSet*
+
+%1*
+onWorkflowBeforeTransition*
+onWorkflowBeforeTransitionÂ
+¿
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(	
+%10"__mapSet*
+
+%1*
+onWorkflowFunctionalityUsed*
+onWorkflowFunctionalityUsed"l
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/featuring/featuring.phpL V(
+
+
+%1B
+plgworkflowfeaturing

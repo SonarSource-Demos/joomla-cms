@@ -1,0 +1,203 @@
+
+Qjoomla\component\content\administrator\controller\articlecontroller::postsavehookƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpB B(#"1*Ñ#
+2ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpE E(—”
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpE E(
+%2"$Array¥
+¢
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpE E(
+
+$editState"__id*
+
+%2µ²
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpG G(0
+%3*
+
+
+$model*
+
+article.id2getstatež
+›
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpG G(0
+$id"__id*
+
+%3Ç
+Ä
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpI I(?
+$link"__id*-+
+)index.php?option=com_content&view=article§
+¤
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpJ J(
+$type"__id*
+	componentº
+·
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpL L(
+%4"__mapSet*
+
+
+$editState*
+id*
+
+$id¾
+»
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpM M(
+%5"__mapSet*
+
+
+$editState*
+link*	
+
+$link­ª
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpN" N(6
+%6*
+
+
+$model*
+
+$id2getitem¨
+¥
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpN" N(=
+%7"__id**
+
+%6"
+title¼
+¹
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpN N(
+%8"__mapSet*
+
+
+$editState*	
+title*
+
+%7¾
+»
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpO O(
+%9"__mapSet*
+
+
+$editState*
+type*	
+
+$type·
+´
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpP P(!
+%10"__mapGet*
+
+
+$editState*	
+request´
+±
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpP P('
+%11"__mapSet*
+
+%10*
+id*
+
+$idÀ
+½
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpP P(!
+%12"__mapSet*
+
+
+$editState*	
+request*
+
+%10è
+å
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpR R(
+%13"__id*P*NE
+Cjoomla\component\content\administrator\controller\articlecontroller"
+app˜•
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpR< U( 
+%14"$Array½
+º
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpR< U( 
+%15"__mapSet*
+
+%14*
+data*
+
+
+$editState¸
+µ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpR< U( 
+%16"__mapSet*
+
+%14*
+type*	
+
+$type¸
+µ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpR< U( 
+%17"__mapSet*
+
+%14*
+link*	
+
+$linkÉÆ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpR U(!
+%18*
+
+%13*
+com_menus.edit.item*
+
+%142setuserstate©
+¦
+„
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpW W(€
+%19"joomla\cms\router\route::_*"
+joomla\cms\router\route*RP
+Nindex.php?option=com_menus&view=item&client_id=0&menutype=mainmenu&layout=edit*	
+falseðí
+„
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpW W(
+%20*GE
+Cjoomla\component\content\administrator\controller\articlecontroller*
+
+%192setredirect*
+3*º
+3
+ArticleController.php"›
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpY Y(
+implicit return*Å
+1ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpD D(,Í
+Ê
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpB B(#
+$model"__id*2
+0
+$model&joomla\cms\mvc\model\basedatabasemodeláÞ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.phpD D(
+%1*GE
+Cjoomla\component\content\administrator\controller\articlecontroller2gettask*
+2
+3:0
+$model&joomla\cms\mvc\model\basedatabasemodel:
+
+$validDataBGE
+Cjoomla\component\content\administrator\controller\articlecontroller

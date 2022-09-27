@@ -1,0 +1,30 @@
+
+1joomla\cms\console\deleteusercommand::__constructe
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpH H("1*š
+2
+DeleteUserCommand.php"|
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpM M(
+implicit return*š
+1e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpJ J(£
+ 
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpH H(
+$db"__id**
+(
+$db!joomla\database\databaseinterfaceÏ
+Ì
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpJ J(
+%1"3joomla\console\command\abstractcommand::__construct*(&
+$joomla\cms\console\deleteusercommand°­
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpL L(
+%2*(&
+$joomla\cms\console\deleteusercommand*
+
+$db2setdatabase*
+2:(
+$db!joomla\database\databaseinterfaceB(&
+$joomla\cms\console\deleteusercommand

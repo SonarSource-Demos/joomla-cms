@@ -1,0 +1,200 @@
+
+Tjoomla\plugin\multifactorauth\webauthn\extension\webauthn::onusermultifactorvalidatew
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpÖ Ö(-"1*•
+13
+Webauthn.php"é
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php≥ ≥(
+implicit return*©
+2w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpâ â(%§°
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpâ â($
+%3*
+
+
+$event*	
+false2	addresult"É
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpã ã(
+void*∫
+3w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpì ì(#§
+°
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpì ì("
+%4"__mapGet*
+
+
+$event*
+
+recordï
+í
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpì ì("	
+$record"__id*
+
+%4¢
+ü
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpî î( 
+%5"__mapGet*
+
+
+$event*
+userì
+ê
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpî î( 
+$user"__id*
+
+%5¢
+ü
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpï ï( 
+%6"__mapGet*
+
+
+$event*
+codeì
+ê
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpï ï( 
+$code"__id*
+
+%6°
+û
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpò ò(
+%7"__id**
+	
+$record"
+method⁄
+◊
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpò ò(3
+%8"__id*P*N;
+9joomla\plugin\multifactorauth\webauthn\extension\webauthn"
+mfaMethodName*
+4
+5*©
+4w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpô ô(%§°
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpô ô($
+%9*
+
+
+$event*	
+false2	addresult"É
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpõ õ(
+void*…
+5w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpü ü()ú
+ô
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpü ü(
+%10"__id**
+
+$user"
+id£
+†
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpü ü()
+%11"__id**
+	
+$record"	
+user_id*
+6
+7*™
+6w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php† †(%•¢
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php† †($
+%12*
+
+
+$event*	
+false2	addresult"É
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php¢ ¢(
+void*•
+7w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php¶ ¶(0ô
+ñ
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php¶ ¶(/
+%13"Jjoomla\plugin\multifactorauth\webauthn\helper\credentials::verifyassertion*=";
+9joomla\plugin\multifactorauth\webauthn\helper\credentials*	
+
+$code*
+13
+8
+10*ß
+8w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php© ©(S“œ
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php© ©('
+%14*=;
+9joomla\plugin\multifactorauth\webauthn\extension\webauthn2getapplicationóî
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php©8 ©(H
+%15*
+
+$e2
+getmessage∞≠
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php© ©(R
+%16*
+
+%14*
+
+%15*	
+error2enqueuemessage*
+13
+9*™
+9w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php≠ ≠(%•¢
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php≠ ≠($
+%17*
+
+
+$event*	
+false2	addresult"É
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpØ Ø(
+void*™
+10w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php≤ ≤( §°
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php≤ ≤(
+%18*
+
+
+$event*
+true2	addresult*
+13*ú
+1w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpà à(7ø
+º
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpÖ Ö(-
+$event"__id*1
+/
+$event%joomla\cms\event\multifactor\validateª
+∏
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpà à(
+%1"joomla\cms\uri\uri::getinstance*"
+joomla\cms\uri\uriïí
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpà à(+
+%2*
+
+%12	getscheme*
+2
+3:/
+$event%joomla\cms\event\multifactor\validateB=;
+9joomla\plugin\multifactorauth\webauthn\extension\webauthn

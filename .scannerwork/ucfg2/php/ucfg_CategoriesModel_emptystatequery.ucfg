@@ -1,0 +1,75 @@
+
+Sjoomla\component\categories\administrator\model\categoriesmodel::getemptystatequeryÅ
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.phpÿ ÿ()"1*Ó
+1Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.php⁄ ⁄(.Ü
+É
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.php⁄ ⁄(-
+%1"2joomla\cms\mvc\model\listmodel::getemptystatequery*CA
+?joomla\component\categories\administrator\model\categoriesmodelü
+ú
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.php⁄ ⁄(-
+$query"__id*
+
+%1ÚÔ
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.php› ›(8
+%2*CA
+?joomla\component\categories\administrator\model\categoriesmodel*
+filter.extension2getstate£
+†
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.php› ›(8
+
+$extension"__id*
+
+%2ﬂ‹
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.phpﬂ ﬂ(*
+%3*CA
+?joomla\component\categories\administrator\model\categoriesmodel2getdatabaseØ¨
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.phpﬂ ﬂ(B
+%4*
+
+%3*
+	extension2	quotename≤
+Ø
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.phpﬂ ﬂ(T
+%5"__concat*
+
+%4*
+ = :extension®•
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.phpﬂ ﬂ(U
+%6*
+
+
+$query*
+
+%52whereª∏
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.phpﬂ ‡(,
+%7*
+
+%6*
+
+:extension*
+
+
+$extension2bindæ
+ª
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.php‚ ‚(#
+%8joomla\database\databasequery"__id*
+
+
+$query"´
+Å
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoriesModel.php‚ ‚(%
+#
+%8joomla\database\databasequeryBCA
+?joomla\component\categories\administrator\model\categoriesmodel

@@ -1,0 +1,121 @@
+
+(plgfieldsmedia::oncustomfieldspreparedomX
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php! !()"1*’
+2X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php' '(Ö
+Ç
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php' '(
+%2
+domelement"__id*
+
+
+$fieldNode"n
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php' '(
+
+%2
+domelement*º
+3X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php* *(6†ù
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php* *(5
+%3*
+
+
+$fieldNode*
+type*
+accessiblemedia2setattributeü
+ú
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php, ,(
+%4""joomla\cms\factory::getapplication*"
+joomla\cms\factorywu
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php, ,(.
+%5*
+
+%42getidentityñì
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php, ,(U
+%6*
+
+%5*
+core.create*
+	com_media2	authorise*
+4
+5*ˇ
+4X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php. .(1öó
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php. .(0
+%7*
+
+
+$fieldNode*
+
+disabled*	
+false2setattribute*
+5*’
+5X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php1 1(Ö
+Ç
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php1 1(
+%8
+domelement"__id*
+
+
+$fieldNode"n
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php1 1(
+
+%8
+domelement*Ú
+1X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php# #(HÉ
+Ä
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php! !()
+$field"__id*
+
+$fieldstdclassá
+Ñ
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php! !()	
+$parent"__id*
+
+$parent
+domelementç
+ä
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php! !()
+$form"__id*
+
+$formjoomla\cms\form\form
+Ì
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php# #(G
+%1"Sjoomla\component\fields\administrator\plugin\fieldsplugin::oncustomfieldspreparedom*
+plgfieldsmedia*
+
+
+$field*
+	
+$parent*	
+
+$formx
+v
+X
+N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/media/media.php# #(G
+
+$fieldNode"__id*
+
+%1*
+2
+3:
+$fieldstdclass:
+$parent
+domelement:
+$formjoomla\cms\form\formB
+plgfieldsmedia

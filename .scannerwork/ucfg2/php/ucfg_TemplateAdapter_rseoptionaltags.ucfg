@@ -1,0 +1,70 @@
+
+?joomla\cms\installer\adapter\templateadapter::parseoptionaltagso
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.phpž ž(("1*£
+2
+TemplateAdapter.php"†
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php¢ ¢(
+implicit return*¤
+1o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php   (?¾
+»
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php   (
+%1"__id*<*:.
+,joomla\cms\installer\adapter\templateadapter"
+parent¹¶
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php "  (6
+%2*0.
+,joomla\cms\installer\adapter\templateadapter2getmanifest“
+
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php "  (=
+%3"__id**
+
+%2"
+media–“
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php   (>
+%4*
+
+%1*
+
+%32
+parsemedia¾
+»
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php¡ ¡(
+%5"__id*<*:.
+,joomla\cms\installer\adapter\templateadapter"
+parent¹¶
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php¡& ¡(:
+%6*0.
+,joomla\cms\installer\adapter\templateadapter2getmanifest—
+”
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php¡& ¡(E
+%7"__id**
+
+%6"
+	languagesÀ
+½
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php¡G ¡(V
+%8"__id*>*<.
+,joomla\cms\installer\adapter\templateadapter"
+
+clientId¢Ÿ
+o
+c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php¡ ¡(W
+%9*
+
+%5*
+
+%7*
+
+%82parselanguages*
+2B0.
+,joomla\cms\installer\adapter\templateadapter

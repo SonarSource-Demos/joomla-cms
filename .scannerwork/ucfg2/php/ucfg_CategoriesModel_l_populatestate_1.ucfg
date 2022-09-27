@@ -1,0 +1,96 @@
+
+Bjoomla\component\content\site\model\categoriesmodel::populatestaten
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.php; ;($"1*¢
+2
+CategoriesModel.php"…
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpI I(
+implicit return*³
+1n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.php= =()µ
+²
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.php= =((
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory‰
+†
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.php= =((
+$app"__id*
+
+%1È
+Å
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.php>, >(=
+%2"__id*G*E5
+3joomla\component\content\site\model\categoriesmodel"
+
+_extensionÚ×
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.php> >(>
+%3*75
+3joomla\component\content\site\model\categoriesmodel*
+filter.extension*
+
+%22setstate”
+‘
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpA A(
+%4"__id**
+
+$app"
+input‘Ž
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpA A(-
+%5*
+
+%4*
+id2getintŽ
+‹
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpA A(-
+	$parentId"__id*
+
+%5àÝ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpB B(5
+%6*75
+3joomla\component\content\site\model\categoriesmodel*
+filter.parentId*
+
+	$parentId2setstateŽ‹
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpD D(#
+%7*
+
+$app2	getparamsŒ
+‰
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpD D(#	
+$params"__id*
+
+%7ÕÒ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpE E(*
+%8*75
+3joomla\component\content\site\model\categoriesmodel*
+
+params*
+	
+$params2setstateØÕ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpG G(.
+%9*75
+3joomla\component\content\site\model\categoriesmodel*
+filter.published*22setstateÚ×
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_content/src/Model/CategoriesModel.phpH H(.
+%10*75
+3joomla\component\content\site\model\categoriesmodel*
+filter.access*
+true2setstate*
+2:
+	$ordering:
+
+$directionB75
+3joomla\component\content\site\model\categoriesmodel

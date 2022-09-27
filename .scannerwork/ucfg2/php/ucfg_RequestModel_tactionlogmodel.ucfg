@@ -1,0 +1,52 @@
+
+Ljoomla\component\privacy\administrator\model\requestmodel::getactionlogmodel{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php² ²(&"1*Ê
+1{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php´ µ(eÂ
+¿
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php´ ´((
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory±®
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php´ ´(I
+%2*
+
+%1*
+com_actionlogs2bootcomponentš
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php´ µ(
+%3*
+
+%22getmvcfactoryŽ‹
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.phpµI µ(c
+%4"$Array¶
+³
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.phpµI µ(c
+%5"__mapSet*
+
+%4*
+ignore_request*
+trueÅÂ
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php´ µ(d
+%6*
+
+%3*
+	Actionlog*
+Administrator*
+
+%42createmodelÔ
+Ñ
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php´ µ(eD
+%7>joomla\component\actionlogs\administrator\model\actionlogmodel"__id*
+
+%6"Å
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RequestModel.php´ µ(eF
+D
+%7>joomla\component\actionlogs\administrator\model\actionlogmodelB=;
+9joomla\component\privacy\administrator\model\requestmodel

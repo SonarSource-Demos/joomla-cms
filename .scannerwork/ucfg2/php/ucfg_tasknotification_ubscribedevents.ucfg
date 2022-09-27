@@ -1,0 +1,56 @@
+
+.plgsystemtasknotification::getsubscribedeventsn
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpO O(."1*®
+
+1n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(
+€~
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(	
+%1"$ArrayÉ
+Æ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(	
+%2"__mapSet*
+
+%1*
+onContentPrepareForm*" 
+injectTaskNotificationFieldset¸
+µ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(	
+%3"__mapSet*
+
+%1*
+onTaskExecuteSuccess*
+notifySuccess¸
+µ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(	
+%4"__mapSet*
+
+%1*
+onTaskExecuteFailure*
+notifyFailure¸
+µ
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(	
+%5"__mapSet*
+
+%1*
+onTaskRoutineNotFound*
+notifyOrphan¾
+»
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(	
+%6"__mapSet*
+
+%1*
+onTaskRecoverFailure*
+notifyFatalRecovery"x
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpQ W(
+
+
+%1B
+plgsystemtasknotification

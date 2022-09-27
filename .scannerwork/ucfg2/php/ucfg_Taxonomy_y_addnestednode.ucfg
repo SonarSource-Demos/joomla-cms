@@ -1,0 +1,178 @@
+
+Ejoomla\component\finder\administrator\indexer\taxonomy::addnestednodev
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phps s(("1*…
+2v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpw w(3≠
+™
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpw w(2
+%1"static::addbranch*
+"
+static*
+	
+$branchñ
+ì
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpw w(2
+	$branchId"__id*
+
+%1*
+3*¥
+3v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpz z(%óî
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpz z($
+%2*	
+
+$node2	getparentî
+ë
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpz z($	
+$parent"__id*
+
+%2*
+4
+6*•
+4v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php| |(/ü
+ú
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php| |(%
+%3"__id**
+	
+$parent"
+title*
+5
+6*Ò
+5v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php} }(e’
+“
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php} }(d
+%4"Ejoomla\component\finder\administrator\indexer\taxonomy::addnestednode*:"8
+6joomla\component\finder\administrator\indexer\taxonomy*
+	
+$branch*
+	
+$parent*
+
+
+$state*
+	
+$access*
+
+	$language*
+
+	$branchIdñ
+ì
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php} }(d
+	$parentId"__id*
+
+%4*
+7*†
+6v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php ("ù
+ö
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.php (!
+	$parentId"__id*
+
+	$branchId*
+7*…
+7x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÇ Ç( êç
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÇ Ç(
+$temp"stdclass•
+¢
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÇ Ç(
+%5"stdclass::__construct*	
+
+$tempü
+ú
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÉ É(#
+%6"__id**
+
+$node"
+titleü
+ú
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÉ É(#
+
+$temp"
+title"__id*
+
+%6£
+†
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÑ Ñ(
+
+$temp"
+state"__id*
+
+
+$state•
+¢
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÖ Ö(
+
+$temp"
+access"__id*
+	
+$access™
+ß
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpÜ Ü($
+
+$temp"
+	parent_id"__id*
+
+	$parentId©
+¶
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpá á(#
+
+$temp"
+
+language"__id*
+
+	$languageú
+ô
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpâ â(0
+%7"Ajoomla\component\finder\administrator\indexer\taxonomy::storenode*:"8
+6joomla\component\finder\administrator\indexer\taxonomy*	
+
+$temp*
+
+	$parentId»
+≈
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpâ â(1;
+%85joomla\component\finder\administrator\indexer\integer"__id*
+
+%7"π
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpâ â(1=
+;
+%85joomla\component\finder\administrator\indexer\integer*∫
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phpu u(¥
+±
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Taxonomy.phps s((
+$node"__id*(
+&
+$nodejoomla\cms\tree\nodeinterface*
+2
+3:	
+$branch:&
+$nodejoomla\cms\tree\nodeinterface:
+$state:	
+$access:
+	$language:
+	$branchIdB:8
+6joomla\component\finder\administrator\indexer\taxonomy

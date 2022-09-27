@@ -1,0 +1,96 @@
+
+;joomla\tests\unit\libraries\cms\uri\uritest::testbuildqueryd
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpñ ñ(""1*è
+2
+UriTest.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php§ §(
+implicit return*…
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpò †(vt
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpò †(
+%1"$Arrayvt
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ü(
+%2"$Arrayvt
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpö ù(
+%3"$Arrayë
+é
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpö ù(
+%4"__mapSet*
+
+%3*
+from*2è
+å
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpö ù(
+%5"__mapSet*
+
+%3*
+to*2
+î
+ë
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ü(
+%6"__mapSet*
+
+%2*	
+price*
+
+%3î
+ë
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ü(
+%7"__mapSet*
+
+%2*
+name*
+fooî
+ë
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpò †(
+%8"__mapSet*
+
+%1*	
+field*
+
+%2é
+ã
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpò †(
+%9"__mapSet*
+
+%1*
+v*2-Å
+
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpò †(	
+$params"__id*
+
+%1ø
+º
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php¢ ¢(S
+	$expected"__id*A?
+=field[price][from]=5&field[price][to]=10&field[name]=foo&v=45µ
+≤
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php£' £(?
+%10"joomla\cms\uri\uri::buildquery*"
+joomla\cms\uri\uri*
+	
+$paramsˆÛ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php£ £(m
+%11*/-
++joomla\tests\unit\libraries\cms\uri\uritest*
+
+	$expected*
+
+%10*-+
+)The query string was not built correctly.2assertequals*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

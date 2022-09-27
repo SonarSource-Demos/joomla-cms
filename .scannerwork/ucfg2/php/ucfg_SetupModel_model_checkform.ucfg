@@ -1,0 +1,106 @@
+
+3joomla\cms\installation\model\setupmodel::checkforma
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÄ Ä("1*÷
+2a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpé é("n
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpé é(	
+false*ç
+3a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpí í(,∂≥
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpí í(+
+%10*,*
+(joomla\cms\installation\model\setupmodel*
+	
+$return2storeoptions"l
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpí í(,
+
+%10*◊
+1a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÉ É(Y®
+•
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÉ É(+
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factoryÖ
+Ç
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÉ É(2
+%2"__id**
+
+%1"
+inputÑ
+Å
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÉ É(8
+%3"__id**
+
+%2"
+postsq
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÉG É(N
+%4"$Arrayóî
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÉ É(X
+%5*
+
+%3*	
+jform*
+
+%4*	
+array2get|
+z
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÉ É(X
+$data"__id*
+
+%5∫∑
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÑ Ñ(/
+%6*,*
+(joomla\cms\installation\model\setupmodel*	
+
+$data*	
+
+$page2validate~
+|
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpÑ Ñ(/	
+$return"__id*
+
+%6£†
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpá á( 
+%7*,*
+(joomla\cms\installation\model\setupmodel2getform|
+z
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpá á( 
+$form"__id*
+
+%7äá
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpà à($
+%8*	
+
+$form*	
+
+$data2filter|
+z
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpà à($
+$data"__id*
+
+%8≥∞
+a
+U/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Model/SetupModel.phpä ä("
+%9*,*
+(joomla\cms\installation\model\setupmodel*	
+
+$data2storeoptions*
+2
+3:
+$pageB,*
+(joomla\cms\installation\model\setupmodel

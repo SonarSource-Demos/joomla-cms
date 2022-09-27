@@ -1,0 +1,30 @@
+
+Xjoomla\tests\unit\libraries\cms\document\documenttest::testthedefaultreturnforgetcharsetn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpï ï(5"1*ü
+2
+DocumentTest.php"Ö
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpò ò(
+implicit return*•
+1n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpó ó(Jƒ¡
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpó# ó(:
+%1*97
+5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentçä
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpó# ó(H
+%2*
+
+%12
+getcharset”–
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpó ó(I
+%3*97
+5joomla\tests\unit\libraries\cms\document\documenttest*	
+utf-8*
+
+%22
+assertsame*
+2B97
+5joomla\tests\unit\libraries\cms\document\documenttest

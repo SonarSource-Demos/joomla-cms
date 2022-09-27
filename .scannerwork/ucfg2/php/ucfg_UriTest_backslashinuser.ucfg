@@ -1,0 +1,26 @@
+
+Njoomla\tests\unit\libraries\cms\uri\uritest::testisinternalwithbackslashinuserd
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpµ µ(5"1*
+2
+UriTest.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php» »(
+implicit return*½
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php· º(
+Ô
+Ñ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php¸ ¸(F
+%1"joomla\cms\uri\uri::isinternal*"
+joomla\cms\uri\uri*+)
+'http://someuser.com\@www.example.com:80õò
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php· º(	
+%2*/-
++joomla\tests\unit\libraries\cms\uri\uritest*
+
+%1*><
+:http://someuser\@www.example.com:80 should NOT be internal2assertfalse*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

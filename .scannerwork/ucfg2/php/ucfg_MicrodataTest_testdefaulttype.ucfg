@@ -1,0 +1,49 @@
+
+Hjoomla\tests\unit\libraries\cms\microdata\microdatatest::testdefaulttypen
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php" "(#"1*†
+2
+MicrodataTest.php"Ö
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php( ((
+implicit return*⁄	
+1n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php$ $()∫∑
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php$ $((
+
+$microdata"7joomla\tests\unit\libraries\cms\microdata\microdatastubœ
+Ã
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php$ $((
+%1"Djoomla\tests\unit\libraries\cms\microdata\microdatastub::__construct*
+
+
+$microdataíè
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php&% &(:
+%2*
+
+
+$microdata2gettype◊‘
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php& &(;
+%3*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*	
+Thing*
+
+%22assertequalsîë
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php' '(1
+%4*
+
+
+$microdata2	isenabled «
+n
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php' '(2
+%5*;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest*
+
+%42
+asserttrue*
+2B;9
+7joomla\tests\unit\libraries\cms\microdata\microdatatest

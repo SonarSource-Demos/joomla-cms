@@ -1,0 +1,116 @@
+
+4joomla\cms\mvc\controller\basecontroller::checktokenk
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpò ò("1*¯
+3k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php÷ ÷(Hµ
+²
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php÷ ÷($
+%2"__id*7*5*
+(joomla\cms\mvc\controller\basecontroller"
+input
+
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php÷ ÷(,
+%3"__id**
+
+%2"
+server›˜
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php÷ ÷(G
+%4*
+
+%3*
+HTTP_REFERER2	getstring‹
+ˆ
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php÷ ÷(G
+	$referrer"__id*
+
+%4½
+º
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpù ù(+
+%5"joomla\cms\uri\uri::isinternal*"
+joomla\cms\uri\uri*
+
+	$referrer*
+4
+5*Š
+4k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpú ú((’
+
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpú ú('
+	$referrer"__id*
+	index.php*
+5*ñ
+5k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpı ı(T³
+°
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpı ı(
+%6"__id*5*3*
+(joomla\cms\mvc\controller\basecontroller"
+appÌ
+É
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpı' ı(G
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JINVALID_TOKEN_NOTICE£ 
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpı ı(S
+%8*
+
+%6*
+
+%7*	
+warning2enqueuemessage³
+°
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpş ş(
+%9"__id*5*3*
+(joomla\cms\mvc\controller\basecontroller"
+app˜•
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpş ş(+
+%10*
+
+%9*
+
+	$referrer2redirect*
+6*»
+6k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php (¬
+©
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php ((
+%11!joomla\cms\mvc\controller\boolean"__id*
+
+
+$valid"™
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.php (*
+(
+%11!joomla\cms\mvc\controller\boolean*Ñ
+1k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpô ô(.Ë
+È
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpô ô(-
+%1"&joomla\cms\session\session::checktoken*"
+joomla\cms\session\session*
+	
+$methodˆ
+…
+k
+_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/BaseController.phpô ô(-
+$valid"__id*
+
+%1*
+3
+6:	
+$method:
+	$redirectB,*
+(joomla\cms\mvc\controller\basecontroller

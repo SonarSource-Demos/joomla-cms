@@ -1,0 +1,194 @@
+
+)plgwebservicescontact::createfieldsroutesa
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpO O('"1*å
+2
+contact.php"x
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpt t(
+implicit return*å
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpQ U(
+sq
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpT T(M
+%1"$Arrayù
+ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpT T(M
+%2"__mapSet*
+
+%1*
+	component*
+
+com_fields§
+°
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpT T(M
+%3"__mapSet*
+
+%1*	
+context*
+com_contact.contactøº
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpQ U(	
+%4*
+	
+$router*
+v1/fields/contacts/contact*
+
+fields*
+
+%12createcrudroutessq
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpZ Z(J
+%5"$Arrayù
+ö
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpZ Z(J
+%6"__mapSet*
+
+%5*
+	component*
+
+com_fields°
+û
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpZ Z(J
+%7"__mapSet*
+
+%5*	
+context*
+com_contact.mailºπ
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpW [(	
+%8*
+	
+$router*
+v1/fields/contacts/mail*
+
+fields*
+
+%52createcrudroutessq
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.php` `(P
+%9"$Arrayû
+õ
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.php` `(P
+%10"__mapSet*
+
+%9*
+	component*
+
+com_fields®
+•
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.php` `(P
+%11"__mapSet*
+
+%9*	
+context*
+com_contact.categories√¿
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.php] a(	
+%12*
+	
+$router*!
+v1/fields/contacts/categories*
+
+fields*
+
+%92createcrudroutestr
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpf f(M
+%13"$Arrayü
+ú
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpf f(M
+%14"__mapSet*
+
+%13*
+	component*
+
+com_fields¶
+£
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpf f(M
+%15"__mapSet*
+
+%13*	
+context*
+com_contact.contact»≈
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpc g(	
+%16*
+	
+$router*%#
+!v1/fields/groups/contacts/contact*
+
+groups*
+
+%132createcrudroutestr
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpl l(J
+%17"$Arrayü
+ú
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpl l(J
+%18"__mapSet*
+
+%17*
+	component*
+
+com_fields£
+†
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpl l(J
+%19"__mapSet*
+
+%17*	
+context*
+com_contact.mail≈¬
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpi m(	
+%20*
+	
+$router*" 
+v1/fields/groups/contacts/mail*
+
+groups*
+
+%172createcrudroutestr
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpr r(P
+%21"$Arrayü
+ú
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpr r(P
+%22"__mapSet*
+
+%21*
+	component*
+
+com_fields©
+¶
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpr r(P
+%23"__mapSet*
+
+%21*	
+context*
+com_contact.categoriesÀ»
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/contact/contact.phpo s(	
+%24*
+	
+$router*(&
+$v1/fields/groups/contacts/categories*
+
+groups*
+
+%212createcrudroutes*
+2:	
+$routerB
+plgwebservicescontact

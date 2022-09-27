@@ -1,0 +1,96 @@
+
+Ijoomla\component\categories\administrator\model\categorymodel::cleancache
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpØ	 Ø	(!"1*¢
+3
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpµ	 µ	(2ã
+à
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpµ	 µ	(1
+%4"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+com_contentî
+ë
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php∂	 ∂	(:
+%5"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+mod_articles_archiveó
+î
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php∑	 ∑	(=
+%6"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+mod_articles_categoriesï
+í
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php∏	 ∏	(;
+%7"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+mod_articles_categoryì
+ê
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpπ	 π	(9
+%8"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+mod_articles_latestë
+é
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php∫	 ∫	(7
+%9"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+mod_articles_newsï
+í
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpª	 ª	(:
+%10"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+mod_articles_popular*
+5*ó
+4
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpæ	 æ	(/ã
+à
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpæ	 æ	(.
+%11"+joomla\cms\mvc\model\adminmodel::cleancache*A?
+=joomla\component\categories\administrator\model\categorymodel*
+
+
+$extension*
+5*±
+5
+CategoryModel.php"ñ
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php¡	 ¡	(
+implicit return*«
+1
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php±	 ±	(H∆
+√
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php±	 ±	(.
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory£
+†
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php±	 ±	(5
+%2"__id**
+
+%1"
+input¶£
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php±	 ±	(G
+%3*
+
+%2*
+	extension2get†
+ù
+
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.php±	 ±	(G
+
+$extension"__id*
+
+%3*
+3
+4:
+$group:
+	$clientIdBA?
+=joomla\component\categories\administrator\model\categorymodel

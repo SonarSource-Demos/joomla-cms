@@ -1,0 +1,63 @@
+
+7joomla\cms\installer\adapter\packageadapter::getelementn
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.php◊ ◊("2"3*Ä
+
+2n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.php€ €(B∑¥
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.php€  €(4
+%1*/-
++joomla\cms\installer\adapter\packageadapter2getmanifestò
+ï
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.php€  €(A
+%2"__id**
+
+%1"
+packagenameõ
+ò
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.php€ €(A
+
+$element"__passthrough_cast*
+
+%2»
+≈
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.phpﬁ  ﬁ(:
+%3"*joomla\cms\filter\inputfilter::getinstance*!"
+joomla\cms\filter\inputfilterüú
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.phpﬁ  ﬁ(R
+%4*
+
+%3*
+
+
+$element*
+cmd2cleanï
+í
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.phpﬁ ﬁ(R
+%5"__concat*
+pkg_*
+
+%4ç
+ä
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.phpﬁ ﬁ(R
+
+$element"__id*
+
+%5*
+3*Û
+3n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.php· ·("~
+n
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PackageAdapter.php· ·(
+
+
+$element:
+
+$elementB/-
++joomla\cms\installer\adapter\packageadapter

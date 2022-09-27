@@ -1,0 +1,35 @@
+
+1joomla\cms\application\siteapplication::getrouteri
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.php ($"1*£
+1i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpÚ Ú(2ï
+í
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.php ($
+
+$options"__id*
+
+$optionsarrayÎ
+Ë
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpÚ Ú(1
+%1"0joomla\cms\application\cmsapplication::getrouter**(
+&joomla\cms\application\siteapplication*	
+
+$name*
+
+
+$optionsú
+ô
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpÚ Ú(2
+%2joomla\cms\router\router"__id*
+
+%1"ç
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/SiteApplication.phpÚ Ú(2 
+
+%2joomla\cms\router\router:
+$name:
+$optionsarrayB*(
+&joomla\cms\application\siteapplication

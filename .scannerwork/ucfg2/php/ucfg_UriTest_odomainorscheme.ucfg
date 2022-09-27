@@ -1,0 +1,27 @@
+
+[joomla\tests\unit\libraries\cms\uri\uritest::testisinternalwheninternalwithnodomainorschemed
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpá á(B"1*è
+2
+UriTest.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpç ç(
+implicit return*™
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpâ å(
+À
+»
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpä ä(=
+%1"joomla\cms\uri\uri::isinternal*"
+joomla\cms\uri\uri*" 
+index.php?option=com_somethingÎË
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpâ å(	
+%2*/-
++joomla\tests\unit\libraries\cms\uri\uritest*
+
+%1*53
+1index.php?option=com_something should be internal2
+asserttrue*
+2B/-
++joomla\tests\unit\libraries\cms\uri\uritest

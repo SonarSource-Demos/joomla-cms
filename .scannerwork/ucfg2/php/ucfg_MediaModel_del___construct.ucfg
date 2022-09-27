@@ -1,0 +1,36 @@
+
+8joomla\component\media\api\model\mediamodel::__constructk
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediaModel.php1 1("1*ö
+2
+MediaModel.php"Ç
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediaModel.php6 6(
+implicit return*ç
+1k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediaModel.php3 3(·
+ﬁ
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediaModel.php3 3(
+%1"+joomla\cms\mvc\model\basemodel::__construct*/-
++joomla\component\media\api\model\mediamodel*
+	
+$config´®
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediaModel.php5 5('
+%2"3joomla\component\media\administrator\model\apimodel¿
+Ω
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediaModel.php5 5('
+%3"@joomla\component\media\administrator\model\apimodel::__construct*
+
+%2¿
+Ω
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediaModel.php5 5('@-
++joomla\component\media\api\model\mediamodel"
+mediaApiModel"__id*
+
+%2*
+2:	
+$configB/-
++joomla\component\media\api\model\mediamodel

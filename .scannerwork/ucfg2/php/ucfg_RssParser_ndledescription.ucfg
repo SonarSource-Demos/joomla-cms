@@ -1,0 +1,54 @@
+
+3joomla\cms\feed\parser\rssparser::handledescriptiona
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phph h(("1*é
+2
+RssParser.php"x
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpk k(
+implicit return*Ó
+1a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpj j(Mñ
+ì
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phph h((
+$feed"__id*
+
+$feedjoomla\cms\feed\feedé
+ã
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phph h((
+$el"__id*
+
+$elsimplexmlelement©
+¶
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpj j(/
+%1"__id*5*3"
+ joomla\cms\feed\parser\rssparser"
+inputFilterâ
+Ü
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpj7 j(C
+%2"__passthrough_cast*
+
+$elçä
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpj j(L
+%3*
+
+%1*
+
+%2*
+html2cleané
+ã
+a
+W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpj j(L
+
+$feed"
+description"__id*
+
+%3*
+2:
+$feedjoomla\cms\feed\feed:
+$elsimplexmlelementB$"
+ joomla\cms\feed\parser\rssparser

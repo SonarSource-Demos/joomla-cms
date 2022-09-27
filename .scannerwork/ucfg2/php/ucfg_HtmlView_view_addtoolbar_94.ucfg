@@ -1,0 +1,72 @@
+
+Kjoomla\component\config\administrator\view\application\htmlview::addtoolbar
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpj j(!"1*¬
+2
+HtmlView.php"–
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpu u(
+implicit return*Í
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpl l(Wê
+ç
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpl l(G
+%1"joomla\cms\language\text::_*"
+joomla\cms\language\text*#!
+COM_CONFIG_GLOBAL_CONFIGURATIONñ
+î
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpl l(V
+%2"'joomla\cms\toolbar\toolbarhelper::title*$""
+ joomla\cms\toolbar\toolbarhelper*
+
+%1*
+
+cog configð
+í
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpm m(1
+%3"'joomla\cms\toolbar\toolbarhelper::apply*$""
+ joomla\cms\toolbar\toolbarhelper*
+application.applyÛ
+Ø
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpn n( 
+%4")joomla\cms\toolbar\toolbarhelper::divider*$""
+ joomla\cms\toolbar\toolbarhelperî
+ë
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpo o(/
+%5"&joomla\cms\toolbar\toolbarhelper::save*$""
+ joomla\cms\toolbar\toolbarhelper*
+application.saveÛ
+Ø
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpp p( 
+%6")joomla\cms\toolbar\toolbarhelper::divider*$""
+ joomla\cms\toolbar\toolbarhelper†
+ƒ
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpq q(E
+%7"(joomla\cms\toolbar\toolbarhelper::cancel*$""
+ joomla\cms\toolbar\toolbarhelper*
+application.cancel*
+JTOOLBAR_CLOSEÛ
+Ø
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpr r( 
+%8")joomla\cms\toolbar\toolbarhelper::divider*$""
+ joomla\cms\toolbar\toolbarhelperÞ
+Û
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phps s(#
+%9",joomla\cms\toolbar\toolbarhelper::inlinehelp*$""
+ joomla\cms\toolbar\toolbarhelperø
+õ
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_config/src/View/Application/HtmlView.phpt t(8
+%10"&joomla\cms\toolbar\toolbarhelper::help*$""
+ joomla\cms\toolbar\toolbarhelper*
+Site_Global_Configuration*
+2BCA
+?joomla\component\config\administrator\view\application\htmlview

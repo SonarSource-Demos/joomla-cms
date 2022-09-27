@@ -1,0 +1,55 @@
+
+Bjoomla\cms\installation\controller\jsoncontroller::checkvalidtokenh
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpD D(#"1*é
+2h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpH H([É
+Æ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpH3 H(S
+%3"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+JINVALID_TOKEN_NOTICE}{
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpH$ H(Y
+%2"	exception¢
+Ÿ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpH$ H(Y
+%4"exception::__construct*
+
+%2*
+
+%3*2“ÄÁ
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpH H(Z
+%5*53
+1joomla\cms\installation\controller\jsoncontroller*
+
+%22sendjsonresponse¹
+¶
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpJ J(
+%6"__id*>*<3
+1joomla\cms\installation\controller\jsoncontroller"
+app
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpJ J(
+%7*
+
+%62close*
+3*š
+3
+JSONController.php"
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpL L(
+implicit return*³
+1h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpG G("»
+¸
+h
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/JSONController.phpG G("
+%1"&joomla\cms\session\session::checktoken*"
+joomla\cms\session\session*
+2
+3B53
+1joomla\cms\installation\controller\jsoncontroller

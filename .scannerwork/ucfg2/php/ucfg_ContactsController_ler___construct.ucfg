@@ -1,0 +1,46 @@
+
+Qjoomla\component\contact\administrator\controller\contactscontroller::__construct„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.php' '("1*¼
+2
+ContactsController.php"œ
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.php, ,(
+implicit return*·
+1„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.php) )(=Ö
+Ó
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.php' '(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÃ
+À
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.php) )(<
+%1"6joomla\cms\mvc\controller\admincontroller::__construct*HF
+Djoomla\component\contact\administrator\controller\contactscontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$input†ƒ
+„
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.php+ +(5
+%2*HF
+Djoomla\component\contact\administrator\controller\contactscontroller*
+
+unfeatured*
+
+featured2registertask*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputBHF
+Djoomla\component\contact\administrator\controller\contactscontroller

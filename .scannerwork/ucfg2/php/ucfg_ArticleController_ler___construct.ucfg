@@ -1,0 +1,68 @@
+
+Pjoomla\component\content\administrator\controller\articlecontroller::__constructƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php+ +("1*‰
+2ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php2 2(*ó
+ð
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php2 2()TE
+Cjoomla\component\content\administrator\controller\articlecontroller"
+	view_list"__id*
+
+featured‚
+ÿ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php3 3(8TE
+Cjoomla\component\content\administrator\controller\articlecontroller"
+	view_item"__id*
+article&return=featured*
+3*º
+3
+ArticleController.php"›
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php5 5(
+implicit return*Ã
+1ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php- -(=Õ
+Ò
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php+ +(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÀ
+½
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php- -(<
+%1"5joomla\cms\mvc\controller\formcontroller::__construct*GE
+Cjoomla\component\content\administrator\controller\articlecontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$inputé
+æ
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php1 1(
+%2"__id*R*PE
+Cjoomla\component\content\administrator\controller\articlecontroller"
+input¨¥
+ƒ
+y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticleController.php1 1('
+%3*
+
+%2*
+
+return2get*
+2
+3:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputBGE
+Cjoomla\component\content\administrator\controller\articlecontroller

@@ -1,0 +1,161 @@
+
+-joomla\cms\mvc\controller\apicontroller::editj
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpƒ ƒ("1*ù
+14
+ApiController.php"Å
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpÍ Í(
+implicit return*ê
+3j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpŒ Œ((ãà
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpŒ Œ('
+%4*
+
+
+$model2gettableá
+Ñ
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpŒ Œ('
+$table"__id*
+
+%4*
+14
+5*À
+5j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php” ”(/≥
+∞
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php” ”( 
+%5"__id*6*4)
+'joomla\cms\mvc\controller\apicontroller"
+inputçä
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php” ”(.
+%6*
+
+%5*
+id2getintä
+á
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php” ”(.
+	$recordId"__id*
+
+%6*
+14
+7*ˆ
+7j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpŸ Ÿ($çä
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpŸ Ÿ(#
+%7*
+
+
+$table2
+getkeynameÖ
+Ç
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpŸ Ÿ(#
+$key"__id*
+
+%7|z
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php‹ ‹(6
+%8"$Array¢
+ü
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php‹ ‹(6
+%9"
+__arraySet*
+
+%8*
+
+$key*
+
+	$recordId¿Ω
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php‹ ‹(=
+%10*+)
+'joomla\cms\mvc\controller\apicontroller*
+
+%8*
+
+$key2	allowedit*
+14
+9*ô
+9j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php· ·(Kùö
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php· ·(+
+%11*
+
+
+$table*
+checked_out2hasfield*
+10
+12*ò
+10j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php·/ ·(Kõò
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php·0 ·(K
+%12*
+
+
+$model*
+
+	$recordId2checkout*
+14
+12*’
+12j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpÊ Ê(∏µ
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpÊ Ê(
+%13*+)
+'joomla\cms\mvc\controller\apicontroller*
+
+	$recordId2saveøº
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpÁ Á(%
+%14*+)
+'joomla\cms\mvc\controller\apicontroller*
+
+	$recordId2displayitemÀ
+»
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpÈ È('
+%15 joomla\cms\mvc\controller\static"__id*+)
+'joomla\cms\mvc\controller\apicontroller"ó
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.phpÈ È()
+'
+%15 joomla\cms\mvc\controller\static*∏
+1j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php« «(Mπ
+∂
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php«8 «(J
+%1"__id*<*:)
+'joomla\cms\mvc\controller\apicontroller"
+contentType¿
+Ω
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php«! «(K
+%2"$joomla\string\inflector::singularize*"
+joomla\string\inflector*
+
+%1¥±
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php« «(L
+%3*+)
+'joomla\cms\mvc\controller\apicontroller*
+
+%22getmodelá
+Ñ
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Controller/ApiController.php« «(L
+$model"__id*
+
+%3*
+3
+14B+)
+'joomla\cms\mvc\controller\apicontroller

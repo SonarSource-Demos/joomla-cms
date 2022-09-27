@@ -1,0 +1,104 @@
+
+Djoomla\component\finder\administrator\indexer\helper::getcommonwordsv
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php≠ ≠()"1*‘
+1v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.phpØ Ø( µ
+≤
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.phpØ Ø(
+%1"joomla\cms\factory::getdbo*"
+joomla\cms\factoryê
+ç
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.phpØ Ø(
+$db"__id*
+
+%1ûõ
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php≤ ≤($
+%2*
+
+$db*
+true2getqueryüú
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php≥ ≥(+
+%3*
+
+$db*
+term2	quotenameôñ
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php≤ ≥(,
+%4*
+
+%2*
+
+%32select±Æ
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php¥ ¥(;
+%5*
+
+$db*
+#__finder_terms_common2	quotenameóî
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php≤ ¥(<
+%6*
+
+%4*
+
+%52from£†
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.phpµ µ(.
+%7*
+
+$db*
+
+language2	quotenameúô
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.phpµ9 µ(J
+%8*
+
+$db*	
+
+$lang2quote§
+°
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.phpµ µ(J
+%9"__concat*
+
+%7*
+ = *
+
+%8ôñ
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php≤ µ(K
+%10*
+
+%6*
+
+%92whereî
+ë
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php≤ µ(K
+$query"__id*
+
+%10°û
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php∏ ∏(
+%11*
+
+$db*
+
+
+$query2setqueryóî
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php∫ ∫( 
+%12*
+
+$db2
+loadcolumn"Å
+v
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Helper.php∫ ∫(!
+
+%12:
+$langB86
+4joomla\component\finder\administrator\indexer\helper

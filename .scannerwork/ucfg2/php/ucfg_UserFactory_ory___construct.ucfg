@@ -1,0 +1,26 @@
+
+(joomla\cms\user\userfactory::__construct\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php! !("1*ã
+2
+UserFactory.php"s
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php$ $(
+implicit return*ù
+1\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php# #(ö
+ó
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php! !(
+$db"__id**
+(
+$db!joomla\database\databaseinterfaceó
+î
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php# #(%
+joomla\cms\user\userfactory"
+db"__id*
+
+$db*
+2:(
+$db!joomla\database\databaseinterfaceB
+joomla\cms\user\userfactory

@@ -1,0 +1,68 @@
+
+>joomla\component\menus\site\dispatcher\dispatcher::checkaccessl
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php+ +("1*Î
+2l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php1 1(6¿
+¼
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php1 1(
+%4"__id*@*>3
+1joomla\component\menus\site\dispatcher\dispatcher"
+input
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php1 1(*
+%5*
+
+%4*
+
+layout2get*
+3
+5*ò
+3l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php2 2(P½
+º
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php2 2(
+%6"__id*>*<3
+1joomla\component\menus\site\dispatcher\dispatcher"
+appŒ‰
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php2 2()
+%7*
+
+%62getidentityª§
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php2 2(P
+%8*
+
+%7*
+core.create*
+	com_menus2	authorise*
+5*›
+5
+Dispatcher.php"ƒ
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php6 6(
+implicit return*µ
+1l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php- -(æ
+ã
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php- -(
+%1"6joomla\cms\dispatcher\componentdispatcher::checkaccess*53
+1joomla\component\menus\site\dispatcher\dispatcher¿
+¼
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php0 0(
+%2"__id*@*>3
+1joomla\component\menus\site\dispatcher\dispatcher"
+inputŽ‹
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_menus/src/Dispatcher/Dispatcher.php0 0(%
+%3*
+
+%2*
+view2get*
+2
+5B53
+1joomla\component\menus\site\dispatcher\dispatcher

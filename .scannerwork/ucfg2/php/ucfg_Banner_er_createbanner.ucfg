@@ -1,0 +1,70 @@
+
+2step\acceptance\administrator\banner::createbanner}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php% %( "1*¨
+2
+
+Banner.php"”
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php- -(
+implicit return*Ú
+1}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php' '(¸
+µ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php' '(
+$I"__id*(&
+$step\acceptance\administrator\bannerÊ
+Ç
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php( (()
+%1"__id*:*8.
+,page\acceptance\administrator\bannerlistpage"
+$url¢Ÿ
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php( ((*
+%2*
+
+$I*
+
+%12amonpage­ª
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php) )(%
+%3*
+
+$I*
+New2clicktoolbarbuttonÑ
+Î
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php* *(1
+%4"__id*A*?.
+,page\acceptance\administrator\bannerlistpage"
+$titleField¯¬
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php* *(:
+%5*
+
+$I*
+
+%4*
+
+
+$title2	fillfield¶³
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php+ +(.
+%6*
+
+$I*
+Save & Close2clicktoolbarbutton´±
+}
+s/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Banner.php, ,(*
+%7*
+
+$I*
+
+
+$message2assertsuccessmessage*
+2:
+$title:
+
+$messageB(&
+$step\acceptance\administrator\banner

@@ -1,0 +1,68 @@
+
+'joomla\cms\feed\feedparser::__construct[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.php> >("1*å
+3[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpA- A(Smk
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpAF A(H
+%2"$Arraymk
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpAJ A(L
+%3"$Array—
+Œ
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpA- A(S
+%4"*joomla\cms\filter\inputfilter::getinstance*!"
+joomla\cms\filter\inputfilter*
+
+%2*
+
+%3*2*2s
+q
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpA A(S
+%1"__id*
+
+%4*
+4*Ö
+4[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpAS A(Sù
+ö
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpA A(S-
+joomla\cms\feed\feedparser"
+inputFilter"__id*
+
+%1*
+5*â
+5
+FeedParser.php"r
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.phpB B(
+implicit return*æ
+1[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.php@ @(%â
+Ü
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.php> >(	
+$stream"__id*
+
+$stream	xmlreaderß
+§
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.php> >(
+$inputFilter"__id*/
+-
+$inputFilterjoomla\cms\filter\inputfilterù
+ö
+[
+Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedParser.php@ @($(
+joomla\cms\feed\feedparser"
+stream"__id*
+	
+$stream*
+3
+4:
+$stream	xmlreader:-
+$inputFilterjoomla\cms\filter\inputfilterB
+joomla\cms\feed\feedparser

@@ -1,0 +1,65 @@
+
+Ljoomla\component\workflow\administrator\controller\stagecontroller::allowadd‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpe e("1*¾
+1‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpg g(~å
+â
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpg g(
+%1"__id*O*MD
+Bjoomla\component\workflow\administrator\controller\stagecontroller"
+app£ 
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpg g((
+%2*
+
+%12getidentityë
+è
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpgC g(S
+%3"__id*U*SD
+Bjoomla\component\workflow\administrator\controller\stagecontroller"
+	extensionì
+é
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpgk g(|
+%4"__id*V*TD
+Bjoomla\component\workflow\administrator\controller\stagecontroller"
+
+workflowId©
+¦
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpge g(|
+%5"__sanitizing_cast*
+
+%4¸
+µ
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpgC g(|
+%6"__concat*
+
+%3*
+
+.workflow.*
+
+%5º·
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpg g(}
+%7*
+
+%2*
+core.create*
+
+%62	authoriseØ
+Õ
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpg g(~@
+%8:joomla\component\workflow\administrator\controller\boolean"__id*
+
+%7"É
+‚
+x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/StageController.phpg g(~B
+@
+%8:joomla\component\workflow\administrator\controller\boolean:
+$dataBFD
+Bjoomla\component\workflow\administrator\controller\stagecontroller

@@ -1,0 +1,113 @@
+
+Ljoomla\tests\unit\libraries\cms\environment\browsertest::testbrowsermatchingp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php± ±('"1*†
+2
+BrowserTest.php"á
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.phpπ π(
+implicit return*É
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php≥ ≥(*À
+»
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php≥ ≥(
+%1"__id*H*F9
+7joomla\tests\unit\libraries\cms\environment\browsertest"	
+browseröó
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php≥ ≥()
+%2*
+
+%1*
+
+
+$userAgent2matchÀ
+»
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.phpµ, µ(:
+%3"__id*H*F9
+7joomla\tests\unit\libraries\cms\environment\browsertest"	
+browserèå
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.phpµ, µ(H
+%4*
+
+%32
+getbrowser‚ﬂ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.phpµ µ(I
+%5*;9
+7joomla\tests\unit\libraries\cms\environment\browsertest*
+
+$expectedBrowser*
+
+%42
+assertsameÀ
+»
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∂- ∂(;
+%6"__id*H*F9
+7joomla\tests\unit\libraries\cms\environment\browsertest"	
+browserêç
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∂- ∂(J
+%7*
+
+%62getplatform„‡
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∂ ∂(K
+%8*;9
+7joomla\tests\unit\libraries\cms\environment\browsertest*
+
+$expectedPlatform*
+
+%72
+assertsameÀ
+»
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∑1 ∑(?
+%9"__id*H*F9
+7joomla\tests\unit\libraries\cms\environment\browsertest"	
+browseréã
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∑1 ∑(K
+%10*
+
+%92getmajorÈÊ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∑ ∑(L
+%11*;9
+7joomla\tests\unit\libraries\cms\environment\browsertest*
+
+$expectedMajorVersion*
+
+%102
+assertsameÃ
+…
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∏+ ∏(9
+%12"__id*H*F9
+7joomla\tests\unit\libraries\cms\environment\browsertest"	
+browserèå
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∏+ ∏(E
+%13*
+
+%122ismobile„‡
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Environment/BrowserTest.php∏ ∏(F
+%14*;9
+7joomla\tests\unit\libraries\cms\environment\browsertest*
+
+$expectedMobile*
+
+%132
+assertsame*
+2:
+
+$userAgent:
+$expectedBrowser:
+$expectedPlatform:
+$expectedMajorVersion:
+$expectedMobileB;9
+7joomla\tests\unit\libraries\cms\environment\browsertest

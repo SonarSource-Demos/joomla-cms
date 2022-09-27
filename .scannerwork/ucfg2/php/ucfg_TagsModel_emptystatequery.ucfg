@@ -1,0 +1,67 @@
+
+Gjoomla\component\tags\administrator\model\tagsmodel::getemptystatequeryu
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.php¼ ¼()"1*³
+1u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.php¾ ¾(.í
+ê
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.php¾ ¾(-
+%1"2joomla\cms\mvc\model\listmodel::getemptystatequery*75
+3joomla\component\tags\administrator\model\tagsmodel’
+
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.php¾ ¾(-
+$query"__id*
+
+%1ÆÃ
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÀ À("
+%2*75
+3joomla\component\tags\administrator\model\tagsmodel2getdatabase
+Œ
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÀ À("
+$db"__id*
+
+%2Ÿœ
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÂ Â(-
+%3*
+
+$db*	
+alias2	quotenameš—
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÂ9 Â(K
+%4*
+
+$db*
+root2quote¤
+¡
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÂ Â(K
+%5"__concat*
+
+%3*
+ != *
+
+%4›˜
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÂ Â(L
+%6*
+
+
+$query*
+
+%52where±
+®
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÄ Ä(#
+%7joomla\database\databasequery"__id*
+
+
+$query"
+u
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpÄ Ä(%
+#
+%7joomla\database\databasequeryB75
+3joomla\component\tags\administrator\model\tagsmodel

@@ -1,0 +1,30 @@
+
+5joomla\cms\mvc\model\adminmodel::cleanuppostbatchcopyb
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpž ž(+"1*ÿ
+1
+AdminModel.php¤
+¡
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpž ž(+
+$table"__id*+
+)
+$tablejoomla\cms\table\tableinterface¡
+ž
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpž ž(+
+$newId"__id*(
+&
+$newIdjoomla\cms\mvc\model\integer¡
+ž
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.phpž ž(+
+$oldId"__id*(
+&
+$oldIdjoomla\cms\mvc\model\integer"y
+b
+V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/AdminModel.php   (
+implicit return:)
+$tablejoomla\cms\table\tableinterface:&
+$newIdjoomla\cms\mvc\model\integer:&
+$oldIdjoomla\cms\mvc\model\integerB#!
+joomla\cms\mvc\model\adminmodel

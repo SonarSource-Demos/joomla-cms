@@ -1,0 +1,77 @@
+
+)joomla\cms\layout\filelayout::__construct]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpL L("1*ã
+2
+FileLayout.php"t
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpX X(
+implicit return*Å
+1]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpO O($§°
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpO O(#
+%1* 
+joomla\cms\layout\filelayout*
+
+
+$options2
+setoptions¶£
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpR R(%
+%2* 
+joomla\cms\layout\filelayout*
+
+	$layoutId2setlayoutid•
+¢
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpS S(#,
+joomla\cms\layout\filelayout"
+
+basePath"__id*
+
+	$basePathù
+ö
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpV V(*
+%3"__id*-*+
+joomla\cms\layout\filelayout"	
+optionséã
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpV V(D
+%4*
+
+%3*
+	component*
+auto2get†ù
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpV V(E
+%5* 
+joomla\cms\layout\filelayout*
+
+%42setcomponentù
+ö
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpW W('
+%6"__id*-*+
+joomla\cms\layout\filelayout"	
+optionsãà
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpW W(>
+%7*
+
+%6*
+
+client*
+auto2getùö
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpW W(?
+%8* 
+joomla\cms\layout\filelayout*
+
+%72	setclient*
+2:
+	$layoutId:
+	$basePath:
+
+$optionsB 
+joomla\cms\layout\filelayout

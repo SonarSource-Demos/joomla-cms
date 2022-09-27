@@ -1,0 +1,64 @@
+
+=joomla\component\contact\site\model\formmodel::preprocessformj
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.phpŒ Œ(%"1*Ê
+2j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php— —(C∑¥
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php— —(B
+%2*	
+
+$form*
+
+language*
+type*
+
+hidden2setfieldattributeµ≤
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php“ “(@
+%3*	
+
+$form*
+
+language*	
+default*
+*2setfieldattribute*
+3*å
+3j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php’ ’(5ï
+í
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php’ ’(4
+%4"Ijoomla\component\contact\administrator\model\contactmodel::preprocessform*1/
+-joomla\component\contact\site\model\formmodel*	
+
+$form*	
+
+$data*
+
+
+$group*
+4*ò
+4
+FormModel.php"Å
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php÷ ÷(
+implicit return*Ê
+1j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php– –('ü
+ú
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.phpŒ Œ(%
+$form"__id*
+
+$formjoomla\cms\form\form 
+«
+j
+^/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Model/FormModel.php– –('
+%1",joomla\cms\language\multilanguage::isenabled*%"#
+!joomla\cms\language\multilanguage*
+2
+3:
+$formjoomla\cms\form\form:
+$data:
+$groupB1/
+-joomla\component\contact\site\model\formmodel

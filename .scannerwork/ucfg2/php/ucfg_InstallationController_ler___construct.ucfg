@@ -1,0 +1,80 @@
+
+Fjoomla\cms\installation\controller\installationcontroller::__constructp
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php$ $("1*«
+2
+InstallationController.php"‡
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php. .(
+implicit return*Ù
+1p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php& &(=Á
+¾
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php$ $(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface«
+¨
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php& &(<
+%1">joomla\cms\installation\controller\jsoncontroller::__construct*=;
+9joomla\cms\installation\controller\installationcontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$inputåâ
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php( ((4
+%2*=;
+9joomla\cms\installation\controller\installationcontroller*
+	populate1*
+
+populate2registertaskåâ
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php) )(4
+%3*=;
+9joomla\cms\installation\controller\installationcontroller*
+	populate2*
+
+populate2registertaskåâ
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php* *(4
+%4*=;
+9joomla\cms\installation\controller\installationcontroller*
+	populate3*
+
+populate2registertaskãà
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php+ +(2
+%5*=;
+9joomla\cms\installation\controller\installationcontroller*	
+custom1*
+
+populate2registertaskãà
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php, ,(2
+%6*=;
+9joomla\cms\installation\controller\installationcontroller*	
+custom2*
+
+populate2registertaskæã
+p
+f/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/InstallationController.php- -(5
+%7*=;
+9joomla\cms\installation\controller\installationcontroller*
+removeFolder*
+
+delete2registertask*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputB=;
+9joomla\cms\installation\controller\installationcontroller

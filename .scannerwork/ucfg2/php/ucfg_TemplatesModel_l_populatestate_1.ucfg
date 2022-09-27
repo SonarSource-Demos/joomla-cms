@@ -1,0 +1,42 @@
+
+Hjoomla\component\mails\administrator\model\templatesmodel::populatestatey
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplatesModel.phpA A($"1*¨
+2
+TemplatesModel.php"ê
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplatesModel.phpI I(
+implicit return*à
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplatesModel.phpD D(:Ó
+Î
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplatesModel.phpD D(9
+%1"/joomla\cms\component\componenthelper::getparams*("&
+$joomla\cms\component\componenthelper*
+	com_mailsó
+î
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplatesModel.phpD D(9	
+$params"__id*
+
+%1Ê„
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplatesModel.phpE E(*
+%2*=;
+9joomla\component\mails\administrator\model\templatesmodel*
+
+params*
+	
+$params2setstateé
+ã
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/Model/TemplatesModel.phpH H(5
+%3"-joomla\cms\mvc\model\listmodel::populatestate*=;
+9joomla\component\mails\administrator\model\templatesmodel*
+a.template_id*
+asc*
+2:
+	$ordering:
+
+$directionB=;
+9joomla\component\mails\administrator\model\templatesmodel

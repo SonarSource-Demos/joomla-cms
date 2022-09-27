@@ -1,0 +1,54 @@
+
+.joomla\cms\feed\parser\atomparser::handletitled
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php£ £(""1*í
+2
+AtomParser.php"{
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php¶ ¶(
+implicit return*˛
+1d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php• •(Gô
+ñ
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php£ £("
+$feed"__id*
+
+$feedjoomla\cms\feed\feedë
+é
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php£ £("
+$el"__id*
+
+$elsimplexmlelement≠
+™
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php• •()
+%1"__id*6*4#
+!joomla\cms\feed\parser\atomparser"
+inputFilterå
+â
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php•1 •(=
+%2"__passthrough_cast*
+
+$elêç
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php• •(F
+%3*
+
+%1*
+
+%2*
+html2cleanã
+à
+d
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.php• •(F
+
+$feed"
+title"__id*
+
+%3*
+2:
+$feedjoomla\cms\feed\feed:
+$elsimplexmlelementB%#
+!joomla\cms\feed\parser\atomparser

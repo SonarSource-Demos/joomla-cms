@@ -1,0 +1,73 @@
+
+/joomla\cms\adapter\adapterinstance::__constructc
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php1 1("1*è
+3c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php: :(,¢
+ü
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php: :(,
+%3"joomla\cms\factory::getdbo*"
+joomla\cms\factory{
+y
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php: :(,
+%2"__id*
+
+%3*
+4*î
+4c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php:, :(,§
+°
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php: :(,,$
+"joomla\cms\adapter\adapterinstance"
+db"__id*
+
+%2*
+5*ñ
+5
+AdapterInstance.php"z
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php; ;(
+implicit return*Æ
+1c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php4 4('¢
+ü
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php1 1(	
+$parent"__id*'
+%
+$parentjoomla\cms\adapter\adapterû
+õ
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php1 1(
+$db"__id*'
+%
+$dbjoomla\database\databasedriverè
+å
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php1 1(
+
+$options"__id*
+
+$optionsarray≥∞
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php4 4(&
+%1*&$
+"joomla\cms\adapter\adapterinstance*
+
+
+$options2setproperties≠
+™
+c
+Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Adapter/AdapterInstance.php7 7(0$
+"joomla\cms\adapter\adapterinstance"
+parent"__id*
+	
+$parent*
+3
+4:%
+$parentjoomla\cms\adapter\adapter:%
+$dbjoomla\database\databasedriver:
+$optionsarrayB&$
+"joomla\cms\adapter\adapterinstance

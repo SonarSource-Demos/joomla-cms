@@ -1,0 +1,44 @@
+
+Hjoomla\component\config\site\controller\templatescontroller::__constructv
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/TemplatesController.php& &("1*Æ
+2
+TemplatesController.php"ç
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/TemplatesController.php, ,(
+implicit return*ﬂ
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/TemplatesController.php( ((=«
+ƒ
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/TemplatesController.php& &(
+
+$factory"__id*8
+6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface™
+ß
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/TemplatesController.php( ((<
+%1"5joomla\cms\mvc\controller\basecontroller::__construct*?=
+;joomla\component\config\site\controller\templatescontroller*
+	
+$config*
+
+
+$factory*
+
+$app*
+
+
+$inputÂ‚
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_config/src/Controller/TemplatesController.php+ +(,
+%2*?=
+;joomla\component\config\site\controller\templatescontroller*	
+apply*
+save2registertask*
+2:	
+$config:6
+$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
+$app:
+$inputB?=
+;joomla\component\config\site\controller\templatescontroller

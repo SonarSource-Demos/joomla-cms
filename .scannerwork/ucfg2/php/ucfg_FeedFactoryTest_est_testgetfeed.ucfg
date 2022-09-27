@@ -1,0 +1,19 @@
+
+Ajoomla\tests\unit\libraries\cms\feed\feedfactorytest::testgetfeedk
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedFactoryTest.phpF F("1*Ÿ
+2
+FeedFactoryTest.php"‚
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedFactoryTest.phpK K(
+implicit return*û
+1k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedFactoryTest.phpH J(Bƒ€
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedFactoryTest.phpH J(A
+%1*86
+4joomla\tests\unit\libraries\cms\feed\feedfactorytest*¿¼
+¹We cant unit test FeedFactory::getFeed() at the moment,
+		 because it uses filesystem (XMLReader::open) and http service.
+		  It should be refactored and covered with integration tests.2marktestskipped*
+2B86
+4joomla\tests\unit\libraries\cms\feed\feedfactorytest

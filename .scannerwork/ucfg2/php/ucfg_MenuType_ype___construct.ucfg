@@ -1,0 +1,28 @@
+
+&joomla\cms\table\menutype::__constructZ
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/MenuType.php   ("1*†
+2
+MenuType.php"q
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/MenuType.php# #(
+implicit return*Ì
+1Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/MenuType.php" "(8•
+’
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/MenuType.php   (
+$db"__id*'
+%
+$dbjoomla\database\databasedriverÍ
+Ê
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/MenuType.php" "(7
+%1"#joomla\cms\table\table::__construct*
+joomla\cms\table\menutype*
+#__menu_types*
+id*
+
+$db*
+2:%
+$dbjoomla\database\databasedriverB
+joomla\cms\table\menutype

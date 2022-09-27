@@ -1,0 +1,87 @@
+
+Imedialistcest::showsfilesandfoldersofasubdirectorywhenopenedusingdeeplinké
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpé é(K"1*¡
+2
+MediaListCest.php"¶
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpï ï(
+implicit return*ÿ
+1é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpê ê(nÕ
+ 
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpé é(K
+$I"__id*+
+)
+$I#step\acceptance\administrator\mediaçä
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpê ê(m
+%1*
+
+$I*][
+Ythat it shows the  media files and folders of a subdirectory when opened using deep link.2
+wanttotest€
+ÿ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpë ë("
+%2"__id*9*7-
++page\acceptance\administrator\medialistpage"
+$urlπ
+∂
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpë ë(.
+%3"__concat*
+
+%2*	
+banners¥±
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpë ë(/
+%4*
+
+$I*
+
+%32amonpage∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpí í(
+%5*
+
+$I2waitformedialoaded›
+⁄
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpì ì(&
+%6"__id*;*9-
++page\acceptance\administrator\medialistpage"
+$items∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpì ì('
+%7*
+
+$I*
+
+%62
+seeelement¡
+æ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpî î(!
+%8"__id**
+medialistcest"
+
+contents∫
+∑
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpî î(-
+%9"__mapGet*
+
+%8*
+
+/banners∏µ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpî î(.
+%10*
+
+$I*
+
+%92seecontents*
+2:)
+$I#step\acceptance\administrator\mediaB
+medialistcest

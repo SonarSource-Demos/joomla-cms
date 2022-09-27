@@ -1,0 +1,41 @@
+
+,joomla\cms\form\field\checkboxesfield::__setf
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpT T("3"4*½
+3f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpX X(8‘
+Ž
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpX( X(7
+%1"__passthrough_cast*
+
+
+$value¶
+³
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.phpX X(7;'
+%joomla\cms\form\field\checkboxesfield"
+checkedOptions"__id*
+
+%1*
+5*Î
+4f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.php\ \(-Û
+Ø
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.php\ \(,
+%2"&joomla\cms\form\field\listfield::__set*)'
+%joomla\cms\form\field\checkboxesfield*	
+
+$name*
+
+
+$value*
+5*™
+5
+CheckboxesField.php"}
+f
+\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/CheckboxesField.php^ ^(
+implicit return:
+$name:
+$valueB)'
+%joomla\cms\form\field\checkboxesfield

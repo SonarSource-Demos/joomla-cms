@@ -1,0 +1,79 @@
+
+'plgsystemtasknotification::notifyorphanp
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¡ ¡( "1*ó
+2p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php§ §("|
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php§ §(
+void*Â
+3p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpª ª(G¡ž
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpª' ª(E
+%4*
+
+
+$event*	
+subject2getargument³°
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpª ª(F
+%5*
+plgsystemtasknotification*
+
+%42getdatafromtaskŒ
+‰
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.phpª ª(F
+$data"__id*
+
+%5ÜÙ
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php« «(I
+%6*
+plgsystemtasknotification*+)
+'plg_system_tasknotification.orphan_mail*	
+
+$data2sendmail*
+4*¥
+4
+tasknotification.php"‡
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¬ ¬(
+implicit return*«
+1p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¤ ¤(/¥
+¢
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¡ ¡( 
+$event"__id*
+
+$eventjoomla\event\event¡ž
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¤ ¤(.
+%1*
+
+
+$event*	
+subject2getargumentŒ
+‰
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¤ ¤(.
+$task"__id*
+
+%1·´
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¦ ¦(D
+%2*	
+
+$task*$"
+ params.notifications.orphan_mail*22get–
+“
+p
+d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/tasknotification/tasknotification.php¦ ¦(D
+%3"__sanitizing_cast*
+
+%2*
+2
+3:
+$eventjoomla\event\eventB
+plgsystemtasknotification

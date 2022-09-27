@@ -1,0 +1,31 @@
+
+Njoomla\module\latestactions\administrator\helper\latestactionshelper::gettitleÑ
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_latestactions/src/Helper/LatestActionsHelper.phpE E(#"1*è
+1Ñ
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_latestactions/src/Helper/LatestActionsHelper.phpG G(Q¬
+ø
+Ñ
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_latestactions/src/Helper/LatestActionsHelper.phpE E(#	
+$params"__id*%
+#
+$paramsjoomla\registry\registry≥∞
+Ñ
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_latestactions/src/Helper/LatestActionsHelper.phpG7 G(O
+%1*
+	
+$params*	
+count*22getı
+Ú
+Ñ
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_latestactions/src/Helper/LatestActionsHelper.phpG G(P
+%2" joomla\cms\language\text::plural*"
+joomla\cms\language\text*
+MOD_LATESTACTIONS_TITLE*
+
+%1"è
+Ñ
+z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_latestactions/src/Helper/LatestActionsHelper.phpG G(Q
+
+%2:#
+$paramsjoomla\registry\registryBHF
+Djoomla\module\latestactions\administrator\helper\latestactionshelper

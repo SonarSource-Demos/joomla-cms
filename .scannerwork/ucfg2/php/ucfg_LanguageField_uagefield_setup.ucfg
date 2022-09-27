@@ -1,0 +1,51 @@
+
+Djoomla\cms\installation\form\field\installation\languagefield::setupt
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php- -("1*©
+
+1t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php/ /(,´
+®
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php- -(
+
+$element"__id*
+
+$elementsimplexmlelement’“
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php/ /(+
+%1*A?
+=joomla\cms\installation\form\field\installation\languagefield2getnativelanguageë
+é
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php/ /(+
+$value"__id*
+
+%1ê
+ç
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php1 1(6
+%2"&joomla\cms\form\field\listfield::setup*A?
+=joomla\cms\installation\form\field\installation\languagefield*
+
+
+$element*
+
+
+$value*
+
+
+$group∆
+√
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php1 1(7=
+%37joomla\cms\installation\form\field\installation\boolean"__id*
+
+%2"∑
+t
+j/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Form/Field/Installation/LanguageField.php1 1(7?
+=
+%37joomla\cms\installation\form\field\installation\boolean:
+$elementsimplexmlelement:
+$value:
+$groupBA?
+=joomla\cms\installation\form\field\installation\languagefield

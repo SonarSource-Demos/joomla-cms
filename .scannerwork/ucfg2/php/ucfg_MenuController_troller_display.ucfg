@@ -1,0 +1,34 @@
+
+Gjoomla\component\menus\administrator\controller\menucontroller::display~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenuController.php% %("1*±
+2
+MenuController.php"•
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenuController.php( ((
+implicit return*É
+1~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenuController.php' '(UÞ
+Û
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenuController.php% %(
+	$cachable"__id*F
+D
+	$cachable7joomla\component\menus\administrator\controller\booleanø
+õ
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenuController.php' '(S
+%1"joomla\cms\router\route::_*"
+joomla\cms\router\route*)'
+%index.php?option=com_menus&view=menus*	
+falseâß
+~
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenuController.php' '(T
+%2*B@
+>joomla\component\menus\administrator\controller\menucontroller*
+
+%12setredirect*
+2:D
+	$cachable7joomla\component\menus\administrator\controller\boolean:
+
+$urlparamsBB@
+>joomla\component\menus\administrator\controller\menucontroller

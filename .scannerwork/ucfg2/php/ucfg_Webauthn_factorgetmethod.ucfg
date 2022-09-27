@@ -1,0 +1,111 @@
+
+Ujoomla\plugin\multifactorauth\webauthn\extension\webauthn::onusermultifactorgetmethodu
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpV V(."1*¢
+2
+Webauthn.php"å
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpd d(
+implicit return*ë
+1u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpX c(
+æ
+ª
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpV V(.
+$event"__id*2
+0
+$event&joomla\cms\event\multifactor\getmethodàÖ
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpZ a(
+%2"$Arrayÿ
+’
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php[, [(@
+%3"__id*P*N;
+9joomla\plugin\multifactorauth\webauthn\extension\webauthn"
+mfaMethodName§
+°
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpZ a(
+%4"__mapSet*
+
+%2*
+name*
+
+%3Ì
+Í
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php\, \(c
+%5"joomla\cms\language\text::_*"
+joomla\cms\language\text*0.
+,PLG_MULTIFACTORAUTH_WEBAUTHN_LBL_DISPLAYEDASß
+§
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpZ a(
+%6"__mapSet*
+
+%2*	
+display*
+
+%5Î
+Ë
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.php], ](a
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*.,
+*PLG_MULTIFACTORAUTH_WEBAUTHN_LBL_SHORTINFO©
+¶
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpZ a(
+%8"__mapSet*
+
+%2*
+	shortinfo*
+
+%7Ÿ
+÷
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpZ a(
+%9"__mapSet*
+
+%2*	
+image*:8
+6media/plg_multifactorauth_webauthn/images/webauthn.svg∞
+≠
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpZ a(
+%10"__mapSet*
+
+%2*
+allowMultiple*
+trueµ
+≤
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpZ a(
+%11"__mapSet*
+
+%2*
+allowEntryBatching*
+true¡æ
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpY b(
+%1"?joomla\component\users\administrator\datashape\methoddescriptorﬂ
+‹
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpY b(
+%12"Ljoomla\component\users\administrator\datashape\methoddescriptor::__construct*
+
+%1*
+
+%2†ù
+u
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpX c(	
+%13*
+
+
+$event*
+
+%12	addresult*
+2:0
+$event&joomla\cms\event\multifactor\getmethodB=;
+9joomla\plugin\multifactorauth\webauthn\extension\webauthn

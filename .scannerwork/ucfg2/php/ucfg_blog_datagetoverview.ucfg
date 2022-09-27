@@ -1,0 +1,101 @@
+
+*plgsampledatablog::onsampledatagetoverviewZ
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpF F(+"1*«
+2Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpI I("f
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpI I(
+void*¸
+3Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpL L(,qo
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpL L(+
+$data"stdclassá
+Ñ
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpL L(+
+%4"stdclass::__construct*	
+
+$dataç
+ä
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpM M()
+%5"__id* *
+plgsampledatablog"
+_name
+}
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpM M()
+
+$data"
+name"__id*
+
+%5»
+≈
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpN N(J
+%6"joomla\cms\language\text::_*"
+joomla\cms\language\text*&$
+"PLG_SAMPLEDATA_BLOG_OVERVIEW_TITLEÄ
+~
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpN N(J
+
+$data"
+title"__id*
+
+%6«
+ƒ
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpO O(I
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*%#
+!PLG_SAMPLEDATA_BLOG_OVERVIEW_DESCá
+Ñ
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpO O(I
+
+$data"
+description"__id*
+
+%7Å
+
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpP P(#
+
+$data"
+icon"__id*
+wifi~
+|
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpQ Q(
+
+$data"
+steps"__id*2"g
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpS S(	
+
+$data*ç
+1Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpH H(Oã
+à
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpH H(
+%1"__id**
+plgsampledatablog"
+appyw
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpH H(&
+%2*
+
+%12getidentityöó
+Z
+P/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/blog/blog.phpH H(O
+%3*
+
+%2*
+core.create*
+com_content2	authorise*
+2
+3B
+plgsampledatablog

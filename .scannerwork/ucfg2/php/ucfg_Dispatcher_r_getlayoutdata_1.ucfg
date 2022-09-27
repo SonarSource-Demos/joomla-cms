@@ -1,0 +1,61 @@
+
+Fjoomla\module\articleslatest\site\dispatcher\dispatcher::getlayoutdatas
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php! !($"1*»
+1s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php# #((˙
+˜
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php# #('
+%1"=joomla\cms\dispatcher\abstractmoduledispatcher::getlayoutdata*;9
+7joomla\module\articleslatest\site\dispatcher\dispatcherè
+å
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php# #('
+$data"__id*
+
+%1Õ 
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php% %(1
+%2*;9
+7joomla\module\articleslatest\site\dispatcher\dispatcher2gethelperfactory´®
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php% %(T
+%3*
+
+%2*
+ArticlesLatestHelper2	gethelperü
+ú
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php%b %(q
+%4"__mapGet*	
+
+$data*
+
+paramsÃ…
+t
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php%s %(ä
+%5*;9
+7joomla\module\articleslatest\site\dispatcher\dispatcher2getapplication§°
+t
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php% %(ã
+%6*
+
+%3*
+
+%4*
+
+%52getarticles•
+¢
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php% %(
+%7"__mapSet*	
+
+$data*
+list*
+
+%6"Ä
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/modules/mod_articles_latest/src/Dispatcher/Dispatcher.php' '(	
+
+$dataB;9
+7joomla\module\articleslatest\site\dispatcher\dispatcher

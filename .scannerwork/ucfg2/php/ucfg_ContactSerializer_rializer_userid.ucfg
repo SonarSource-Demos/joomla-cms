@@ -1,0 +1,107 @@
+
+Ajoomla\component\contact\api\serializer\contactserializer::useridy
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.phpy y("1*Ü
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php{ {(4¤
+¡
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.phpy y(
+$model"__id*
+
+$modelstdclassµ²
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php{ {(3
+$serializer"&joomla\cms\serializer\joomlaserializerÕ
+Ò
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php{ {(3
+%1"3joomla\cms\serializer\joomlaserializer::__construct*
+
+$serializer*	
+users£
+ 
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php}" }(1
+%3"__id**
+
+$model"	
+user_idŸœ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php} }(@
+%2"tobscure\jsonapi\resourceÍ
+Ê
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php} }(@
+%4"&tobscure\jsonapi\resource::__construct*
+
+%2*
+
+%3*
+
+$serializer¶
+³
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php~2 ~(=
+%5"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri£
+ 
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php~\ ~(k
+%6"__id**
+
+$model"	
+user_id»
+¸
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php~2 ~(k
+%7"__concat*
+
+%5*
+api/index.php/v1/users/*
+
+%6Ò
+Ï
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php~ ~(l
+%8"joomla\cms\router\route::link*"
+joomla\cms\router\route*
+site*
+
+%7§¤
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php} ~(m
+%9*
+
+%2*
+self*
+
+%82addlink™
+–
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php} ~(m
+	$resource"__id*
+
+%9¦£
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php€ €(*
+%10"tobscure\jsonapi\relationshipË
+È
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php€ €(*
+%11"*tobscure\jsonapi\relationship::__construct*
+
+%10*
+
+	$resourceµ
+²
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php€ €(+$
+%12tobscure\jsonapi\relationship"__id*
+
+%10"¥
+{
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_contact/src/Serializer/ContactSerializer.php€ €(+&
+$
+%12tobscure\jsonapi\relationship:
+$modelstdclassB=;
+9joomla\component\contact\api\serializer\contactserializer

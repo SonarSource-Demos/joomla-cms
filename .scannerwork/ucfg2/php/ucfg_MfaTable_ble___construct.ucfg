@@ -1,0 +1,54 @@
+
+@joomla\component\users\administrator\table\mfatable::__constructs
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpN N("1*†
+2
+MfaTable.php"ä
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpS S(
+implicit return*⁄
+
+1s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpP P(CÆ
+´
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpN N(
+$db"__id*'
+%
+$dbjoomla\database\databasedriver¿
+Ω
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpN N(
+$dispatcher"__id*1
+/
+$dispatcher joomla\event\dispatcherinterfaceè
+å
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpP P(B
+%1"#joomla\cms\table\table::__construct*75
+3joomla\component\users\administrator\table\mfatable*
+#__user_mfa*
+id*
+
+$db*
+
+$dispatcher¥±
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpR  R(-
+%2"4joomla\component\users\administrator\service\encrypt…
+∆
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpR  R(-
+%3"Ajoomla\component\users\administrator\service\encrypt::__construct*
+
+%2—
+Œ
+s
+i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Table/MfaTable.phpR R(-I5
+3joomla\component\users\administrator\table\mfatable"
+encryptService"__id*
+
+%2*
+2:%
+$dbjoomla\database\databasedriver:/
+$dispatcher joomla\event\dispatcherinterfaceB75
+3joomla\component\users\administrator\table\mfatable

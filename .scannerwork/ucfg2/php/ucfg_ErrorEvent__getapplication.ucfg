@@ -1,0 +1,29 @@
+
++joomla\cms\event\errorevent::getapplication\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php (""1*ø
+1\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php (/ù
+ö
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php (
+%1"__id*.*,
+joomla\cms\event\errorevent"
+	argumentsä
+á
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php (.
+%2"__mapGet*
+
+%1*
+applicationù
+ö
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php (/,
+%3&joomla\application\abstractapplication"__id*
+
+%2"é
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/ErrorEvent.php (/.
+,
+%3&joomla\application\abstractapplicationB
+joomla\cms\event\errorevent

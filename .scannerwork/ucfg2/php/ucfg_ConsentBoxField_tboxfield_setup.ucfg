@@ -1,0 +1,132 @@
+
+Ajoomla\plugin\content\confirmconsent\field\consentboxfield::setupv
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.php| |("1*Ç
+2x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÅ Å(A÷
+”
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÅ% Å(3
+%2"__id*K*I<
+:joomla\plugin\content\confirmconsent\field\consentboxfield"	
+element§
+°
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÅ% Å(@
+%3"__mapGet*
+
+%2*
+	articleidû
+õ
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÅ Å(@
+%4"__sanitizing_cast*
+
+%3ÿ
+’
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÅ Å(@K<
+:joomla\plugin\content\confirmconsent\field\consentboxfield"
+	articleid"__id*
+
+%4÷
+”
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÇ& Ç(4
+%5"__id*K*I<
+:joomla\plugin\content\confirmconsent\field\consentboxfield"	
+elementß
+§
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÇ& Ç(D
+%6"__mapGet*
+
+%5*
+menu_item_idû
+õ
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÇ  Ç(D
+%7"__sanitizing_cast*
+
+%6Ÿ
+÷
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÇ Ç(DL<
+:joomla\plugin\content\confirmconsent\field\consentboxfield"
+
+menuItemId"__id*
+
+%7÷
+”
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÉ* É(8
+%8"__id*K*I<
+:joomla\plugin\content\confirmconsent\field\consentboxfield"	
+elementß
+§
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÉ* É(H
+%9"__mapGet*
+
+%8*
+privacy_type†
+ù
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÉ! É(H
+%10"__passthrough_cast*
+
+%9€
+ÿ
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÉ É(HM<
+:joomla\plugin\content\confirmconsent\field\consentboxfield"
+privacyType"__id*
+
+%10*
+3*Ö
+3x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÜ Ü(À
+»
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÜ Ü(9
+%112joomla\plugin\content\confirmconsent\field\boolean"__id*
+	
+$return"∑
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.phpÜ Ü(;
+9
+%112joomla\plugin\content\confirmconsent\field\boolean*‚
+1v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.php~ ~(:≠
+™
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.php| |(
+
+$element"__id*
+
+$elementsimplexmlelementï
+í
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.php~ ~(9
+%1",joomla\cms\form\field\checkboxesfield::setup*><
+:joomla\plugin\content\confirmconsent\field\consentboxfield*
+
+
+$element*
+
+
+$value*
+
+
+$groupî
+ë
+v
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/content/confirmconsent/src/Field/ConsentBoxField.php~ ~(9	
+$return"__id*
+
+%1*
+2
+3:
+$elementsimplexmlelement:
+$value:
+$groupB><
+:joomla\plugin\content\confirmconsent\field\consentboxfield

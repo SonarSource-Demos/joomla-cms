@@ -1,0 +1,39 @@
+
+*plgextensionfinder::onextensionafterupdate]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpE E(*"1*‡
+2
+
+finder.php"t
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpH H(
+implicit return*Ì
+1]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpG G(9¦
+£
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpE E(*
+
+$installer"__id*.
+,
+
+$installerjoomla\cms\installer\installerƒ
+€
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpE E(*
+$eid"__id*
+
+$eidinteger³°
+]
+S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.phpG G(8
+%1*
+plgextensionfinder*
+
+
+$installer*
+
+$eid2onextensionafterinstall*
+2:,
+
+$installerjoomla\cms\installer\installer:
+$eidintegerB
+plgextensionfinder

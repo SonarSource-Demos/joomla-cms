@@ -1,0 +1,27 @@
+
+Cjoomla\plugin\system\webauthn\hotfix\server::settokenbindinghandleri
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpË Ë(*"1*”
+2
+
+Server.php"€
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpÎ Î(
+implicit return*¬
+1i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpÍ Í(:Ý
+Ú
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpË Ë(*
+$tokenBindingHandler"__id*O
+M
+$tokenBindingHandler5webauthn\tokenbinding\tokenbindingnotsupportedhandlerÖ
+Ó
+i
+]/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/webauthn/src/Hotfix/Server.phpÍ Í(9F-
++joomla\plugin\system\webauthn\hotfix\server"
+tokenBindingHandler"__id*
+
+$tokenBindingHandler*
+2:M
+$tokenBindingHandler5webauthn\tokenbinding\tokenbindingnotsupportedhandlerB/-
++joomla\plugin\system\webauthn\hotfix\server

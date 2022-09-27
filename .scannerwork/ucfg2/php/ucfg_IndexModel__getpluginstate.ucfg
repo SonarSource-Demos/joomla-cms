@@ -1,0 +1,163 @@
+
+Fjoomla\component\finder\administrator\model\indexmodel::getpluginstatex
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.php˛ ˛(""1*⁄
+1x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÄ Ä(#Ã…
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÄ Ä("
+%1*:8
+6joomla\component\finder\administrator\model\indexmodel2getdatabaseí
+è
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÄ Ä("
+$db"__id*
+
+%1†ù
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÅ Å($
+%2*
+
+$db*
+true2getquery¶£
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÅ Ç(%
+%3*
+
+%2*
+name, enabled2select™ß
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÉ É(2
+%4*
+
+$db*
+#__extensions2	quotenameôñ
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÅ É(3
+%5*
+
+%3*
+
+%42from°û
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÑ Ñ(*
+%6*
+
+$db*
+type2	quotenameüú
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÑ5 Ñ(I
+%7*
+
+$db*
+
+plugin2quote¶
+£
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÑ Ñ(I
+%8"__concat*
+
+%6*
+ = *
+
+%7öó
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÅ Ñ(J
+%9*
+
+%5*
+
+%82where§°
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÖ Ö(,
+%10*
+
+$db*
+
+folder2	quotename†ù
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÖ9 Ö(M
+%11*
+
+$db*
+
+system2quote°û
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÖV Ö(k
+%12*
+
+$db*	
+content2quote¬
+ø
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÖ Ö(q
+%13"__concat*
+
+%10*	
+ IN (*
+
+%11*
+,*
+
+%12*
+)úô
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÅ Ö(r
+%14*
+
+%9*
+
+%132where•¢
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÜ Ü(-
+%15*
+
+$db*	
+element2	quotename†ù
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÜ8 Ü(L
+%16*
+
+$db*
+
+finder2quote©
+¶
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÜ Ü(L
+%17"__concat*
+
+%15*
+ = *
+
+%16ùö
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÅ Ü(M
+%18*
+
+%14*
+
+%172whereñ
+ì
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpÅ Ü(M
+$query"__id*
+
+%18£†
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpá á(
+%19*
+
+$db*
+
+
+$query2setqueryß§
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpâ â(*
+%20*
+
+$db*
+name2loadobjectlist"É
+x
+l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Model/IndexModel.phpâ â(+
+
+%20B:8
+6joomla\component\finder\administrator\model\indexmodel

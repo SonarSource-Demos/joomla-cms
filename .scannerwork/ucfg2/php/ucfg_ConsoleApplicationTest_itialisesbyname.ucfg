@@ -1,0 +1,50 @@
+
+\joomla\tests\unit\libraries\cms\application\consoleapplicationtest::testappinitialisesbynamey
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php (,"1*¥
+2
+ConsoleApplicationTest.php"ê
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php$ $(
+implicit return*ì
+
+1y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php   (*ﬂ‹
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php   ()
+%1*FD
+Bjoomla\tests\unit\libraries\cms\application\consoleapplicationtest2createapplicationî
+ë
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php   ()
+$app"__id*
+
+%1óî
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php"! "(0
+%2*
+
+$app2getnameÈÊ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php" "(1
+%3*FD
+Bjoomla\tests\unit\libraries\cms\application\consoleapplicationtest*
+cli*
+
+%22
+assertsame°û
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php#  #(5
+%4*
+
+$app*
+cli2isclientÍÁ
+y
+o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Application/ConsoleApplicationTest.php# #(6
+%5*FD
+Bjoomla\tests\unit\libraries\cms\application\consoleapplicationtest*
+true*
+
+%42
+assertsame*
+2BFD
+Bjoomla\tests\unit\libraries\cms\application\consoleapplicationtest

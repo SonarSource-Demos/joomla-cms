@@ -1,0 +1,36 @@
+
+?joomla\component\users\administrator\model\levelmodel::gettablew
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php… …("1*Ë
+1w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php‡ ‡(>è
+å
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php‡ ‡(=
+%1"#joomla\cms\table\table::getinstance*"
+joomla\cms\table\table*	
+
+$type*
+	
+$prefix*
+	
+$config•
+’
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php‡ ‡(=	
+$return"__id*
+
+%1­
+ª
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php‰ ‰(
+%2joomla\cms\table\table"__id*
+	
+$return"™
+w
+k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/LevelModel.php‰ ‰(
+
+%2joomla\cms\table\table:
+$type:	
+$prefix:	
+$configB97
+5joomla\component\users\administrator\model\levelmodel

@@ -1,0 +1,158 @@
+
+/joomla\cms\user\userfactory::loaduserbyusername\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php= =(&"1*é
+1\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ E(ã
+à
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php= =(&
+	$username"__id*
+
+	$usernamestringñ
+ì
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ @(
+%1"__id*'*%
+joomla\cms\user\userfactory"
+dbÉÄ
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ @(*
+%2*
+
+%1*
+true2getqueryñ
+ì
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpA A(
+%3"__id*'*%
+joomla\cms\user\userfactory"
+dbÅ
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpA A(/
+%4*
+
+%3*
+id2	quotename~|
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ A(0
+%5*
+
+%2*
+
+%42selectñ
+ì
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpB B(
+%6"__id*'*%
+joomla\cms\user\userfactory"
+dbàÖ
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpB B(3
+%7*
+
+%6*
+
+#__users2	quotename|z
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ B(4
+%8*
+
+%5*
+
+%72fromñ
+ì
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpC C(
+%9"__id*'*%
+joomla\cms\user\userfactory"
+dbâÜ
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpC C(4
+%10*
+
+%9*
+
+username2	quotenameç
+ä
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpC C(E
+%11"__concat*
+
+%10*
+ = :username}
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ C(F
+%12*
+
+%8*
+
+%112whereïí
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ D(*
+%13*
+
+%12*
+	:username*
+
+	$username2bindÄ~
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ E(
+%14*
+
+%13*22setlimity
+w
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.php@ E(
+$query"__id*
+
+%14ó
+î
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpF F(
+%15"__id*'*%
+joomla\cms\user\userfactory"
+dbáÑ
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpF F(#
+%16*
+
+%15*
+
+
+$query2setqueryó
+î
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpH) H(2
+%17"__id*'*%
+joomla\cms\user\userfactory"
+db|z
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpH) H(@
+%18*
+
+%172
+loadresultÑ
+Å
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpH# H(@
+%19"__sanitizing_cast*
+
+%18†ù
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpH H(A
+%20*
+joomla\cms\user\userfactory*
+
+%192loaduserbyidç
+ä
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpH H(B
+%21joomla\cms\user\user"__id*
+
+%20"}
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/User/UserFactory.phpH H(B
+
+%21joomla\cms\user\user:
+	$usernamestringB
+joomla\cms\user\userfactory

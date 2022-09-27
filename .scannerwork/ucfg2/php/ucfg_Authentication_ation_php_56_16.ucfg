@@ -1,0 +1,29 @@
+
+v__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Authentication.php_56_16k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Authentication.php8 8("1*‚
+1k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Authentication.php9 9(1©
+¦
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Authentication.php8 8(
+
+$container"__id*#
+!
+
+$containerjoomla\di\containerª§
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Authentication.php9 9(0
+%1"2joomla\cms\authentication\password\argon2idhandler¿
+¼
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Authentication.php9 9(0
+%2"?joomla\cms\authentication\password\argon2idhandler::__construct*
+
+%1"u
+k
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Service/Provider/Authentication.php9 9(1
+
+%1:!
+
+$containerjoomla\di\containerB.,
+*joomla\cms\service\provider\authentication

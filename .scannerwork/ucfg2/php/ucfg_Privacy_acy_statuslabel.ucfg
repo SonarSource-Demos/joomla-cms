@@ -1,0 +1,97 @@
+
+Hjoomla\component\privacy\administrator\service\html\privacy::statuslabel{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php ("1*»
+3{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php# #(oã
+à
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php#; #(b
+%1"joomla\cms\language\text::_*"
+joomla\cms\language\text* 
+COM_PRIVACY_STATUS_COMPLETEDÊ
+Ç
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php# #(n
+%2"__concat*#!
+<span class="badge bg-success">*
+
+%1*	
+</span>"…
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php# #(o
+
+%2*¸
+5{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php& &(lã
+à
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php&8 &(_
+%3"joomla\cms\language\text::_*"
+joomla\cms\language\text* 
+COM_PRIVACY_STATUS_CONFIRMEDÇ
+Ä
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php& &(k
+%4"__concat* 
+<span class="badge bg-info">*
+
+%3*	
+</span>"…
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php& &(l
+
+%4*¸
+7{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php) )(lá
+Þ
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php): )(_
+%5"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+COM_PRIVACY_STATUS_INVALIDÉ
+Æ
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php) )(k
+%6"__concat*" 
+<span class="badge bg-danger">*
+
+%5*	
+</span>"…
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php) )(l
+
+%6*Ã
+9{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php- -(wá
+Þ
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php-E -(j
+%7"joomla\cms\language\text::_*"
+joomla\cms\language\text*
+COM_PRIVACY_STATUS_PENDINGÔ
+Ñ
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php- -(v
+%8"__concat*-+
+)<span class="badge bg-warning text-dark">*
+
+%7*	
+</span>"…
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php- -(w
+
+%8*ì
+1{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php! !(Û
+Ø
+{
+q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Service/HTML/Privacy.php (	
+$status"__id*H
+F
+$status;joomla\component\privacy\administrator\service\html\integer*
+3
+5
+7
+9:F
+$status;joomla\component\privacy\administrator\service\html\integerB?=
+;joomla\component\privacy\administrator\service\html\privacy

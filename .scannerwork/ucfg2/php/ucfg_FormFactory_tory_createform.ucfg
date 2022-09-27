@@ -1,0 +1,56 @@
+
+'joomla\cms\form\formfactory::createform\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php! !("1*Õ	
+1\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php# #(*ƒ
+€
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php! !(
+$name"__id*
+
+$namestringˆ
+…
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php! !(
+
+$options"__id*
+
+$optionsarray}
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php# #()
+$form"joomla\cms\form\form®
+«
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php# #()
+%1"!joomla\cms\form\form::__construct*	
+
+$form*	
+
+$name*
+
+
+$options•’
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php% %(/
+%2*
+joomla\cms\form\formfactory2getdatabase‡„
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php% %(0
+%3*	
+
+$form*
+
+%22setdatabaseŽ
+‹
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php' '(
+%4joomla\cms\form\form"__id*	
+
+$form"|
+\
+R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/FormFactory.php' '(
+
+%4joomla\cms\form\form:
+$namestring:
+$optionsarrayB
+joomla\cms\form\formfactory

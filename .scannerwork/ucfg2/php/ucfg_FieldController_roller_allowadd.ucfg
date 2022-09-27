@@ -1,0 +1,43 @@
+
+Jjoomla\component\fields\administrator\controller\fieldcontroller::allowadd€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpM M("1*Ò
+
+1€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpO O(Uá
+Þ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpO O(
+%1"__id*M*KB
+@joomla\component\fields\administrator\controller\fieldcontroller"
+app¡ž
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpO O((
+%2*
+
+%12getidentityç
+ä
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpOC O(S
+%3"__id*S*QB
+@joomla\component\fields\administrator\controller\fieldcontroller"
+	component¸µ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpO O(T
+%4*
+
+%2*
+core.create*
+
+%32	authoriseÔ
+Ñ
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpO O(U>
+%58joomla\component\fields\administrator\controller\boolean"__id*
+
+%4"Å
+€
+v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpO O(U@
+>
+%58joomla\component\fields\administrator\controller\boolean:
+$dataBDB
+@joomla\component\fields\administrator\controller\fieldcontroller

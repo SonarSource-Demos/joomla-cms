@@ -1,0 +1,67 @@
+
+Kjoomla\component\workflow\administrator\model\transitionsmodel::getworkflow€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpç ç("1*½
+2€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpî î(&¯¬
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpî î(%
+%3*
+
+
+$table*
+
+$workflowId2load*
+3*ò
+3€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpñ ñ(0§¤
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpñ ñ(/
+%4*
+
+
+$table2getproperties¨
+¥
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpñ ñ(/
+%5"__passthrough_cast*
+
+%4Ð
+Í
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpñ ñ(0:
+%64joomla\component\workflow\administrator\model\object"__id*
+
+%5"Á
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpñ ñ(0<
+:
+%64joomla\component\workflow\administrator\model\object*Õ
+1€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpé é(>ûø
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpé é(=
+%1*B@
+>joomla\component\workflow\administrator\model\transitionsmodel*
+
+Workflow*
+Administrator2gettablež
+›
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpé é(=
+$table"__id*
+
+%1òï
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpë ë(A
+%2*B@
+>joomla\component\workflow\administrator\model\transitionsmodel*
+filter.workflow_id2getstate°
+­
+€
+t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpë ë(A
+$workflowId"__sanitizing_cast*
+
+%2*
+2
+3BB@
+>joomla\component\workflow\administrator\model\transitionsmodel

@@ -1,0 +1,78 @@
+
+-medialistcest::openimageeditorusingactionmenué
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpå å(/"1*¡
+2
+MediaListCest.php"¶
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpì ì(
+implicit return*
+1é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpé é(TÕ
+ 
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpå å(/
+$I"__id*+
+)
+$I#step\acceptance\administrator\mediaÛ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpé é(S
+%1*
+
+$I*CA
+?that it is possible to open the image editor using action menu.2
+wanttotest€
+ÿ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpè è("
+%2"__id*9*7-
++page\acceptance\administrator\medialistpage"
+$url¥±
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpè è(#
+%3*
+
+$I*
+
+%22amonpage∂≥
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpê ê(
+%4*
+
+$I2waitformedialoaded‚
+ﬂ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpë. ë(H
+%5"__id*@*>-
++page\acceptance\administrator\medialistpage"
+$editAction’“
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpë ë(I
+%6*
+
+$I*
+powered_by.png*
+
+%52clickonactioninmenuof€
+ÿ
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpí í()
+%7"__id*9*7-
++page\acceptance\administrator\mediafilepage"
+$urlÁ
+‰
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpí í(c
+%8"__concat*
+
+%7*97
+5&mediatypes=0,1,2,3&path=local-images:/powered_by.pngª∏
+é
+Å/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_media/MediaListCest.phpí í(d
+%9*
+
+$I*
+
+%82seeincurrenturl*
+2:)
+$I#step\acceptance\administrator\mediaB
+medialistcest

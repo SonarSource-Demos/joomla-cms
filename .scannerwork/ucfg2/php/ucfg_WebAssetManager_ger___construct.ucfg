@@ -1,0 +1,77 @@
+
+0joomla\cms\webasset\webassetmanager::__constructd
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phpq q("1*™
+2
+WebAssetManager.php"}
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.php‰ ‰(
+implicit return*º
+1d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phps s($±
+®
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phpq q(
+	$registry"__id*3
+1
+	$registry$joomla\cms\webasset\webassetregistry³
+°
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phps s(#3%
+#joomla\cms\webasset\webassetmanager"
+
+registry"__id*
+
+	$registry¬
+©
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phpv v(
+%1"__id*5*3%
+#joomla\cms\webasset\webassetmanager"
+
+registry†ƒ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phpv v((
+%2*
+
+%12getdispatcherø
+õ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phpx }(
+%3"__declareFunction*tr
+p__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.php_120_12¸µ
+d
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.phpv ~(	
+%4*
+
+%2**(
+&onWebAssetRegistryChangedAssetOverride*
+
+%32addlistener®
+«
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.php€ €(
+%5"__id*5*3%
+#joomla\cms\webasset\webassetmanager"
+
+registryˆ…
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.php€ €((
+%6*
+
+%52getdispatcherú
+÷
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.php‚ ‡(
+%7"__declareFunction*tr
+p__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.php_130_12¸µ
+f
+Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetManager.php€ ˆ(	
+%8*
+
+%6*(&
+$onWebAssetRegistryChangedAssetRemove*
+
+%72addlistener*
+2:1
+	$registry$joomla\cms\webasset\webassetregistryB'%
+#joomla\cms\webasset\webassetmanager

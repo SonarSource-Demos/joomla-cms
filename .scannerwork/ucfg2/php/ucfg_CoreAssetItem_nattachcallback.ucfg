@@ -1,0 +1,97 @@
+
+=joomla\cms\webasset\assetitem\coreassetitem::onattachcallbackl
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php# #($"1*ž
+2
+CoreAssetItem.php"ƒ
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php1 1(
+implicit return*Þ
+1l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php& .(
+§
+¤
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php# #($
+$doc"__id*&
+$
+$docjoomla\cms\document\document~|
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php( -(
+%1"$Array³
+°
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php) )()
+%2"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uri*
+true›
+˜
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php( -(
+%3"__mapSet*
+
+%1*
+root*
+
+%2©
+¦
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php* *()
+%4"joomla\cms\uri\uri::root*"
+joomla\cms\uri\uriŸ
+œ
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php( -(
+%5"__mapSet*
+
+%1*
+
+rootFull*
+
+%4³
+°
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php+ +()
+%6"joomla\cms\uri\uri::base*"
+joomla\cms\uri\uri*
+true›
+˜
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php( -(
+%7"__mapSet*
+
+%1*
+base*
+
+%6©
+¦
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php, ,()
+%8"joomla\cms\uri\uri::base*"
+joomla\cms\uri\uriŸ
+œ
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php( -(
+%9"__mapSet*
+
+%1*
+
+baseFull*
+
+%8®«
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php& .(	
+%10*
+
+$doc*
+system.paths*
+
+%12addscriptoptionsÆ
+Ã
+l
+b/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/AssetItem/CoreAssetItem.php0 0("
+%11"joomla\cms\html\htmlhelper::_*"
+joomla\cms\html\htmlhelper*
+	form.csrf*
+2:$
+$docjoomla\cms\document\documentB/-
++joomla\cms\webasset\assetitem\coreassetitem

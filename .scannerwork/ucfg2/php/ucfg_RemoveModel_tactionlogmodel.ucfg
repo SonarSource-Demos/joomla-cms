@@ -1,0 +1,52 @@
+
+Kjoomla\component\privacy\administrator\model\removemodel::getactionlogmodelz
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÎ Î(&"1*Á
+1z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÐ Ñ(eÁ
+¾
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÐ Ð((
+%1""joomla\cms\factory::getapplication*"
+joomla\cms\factory°­
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÐ Ð(I
+%2*
+
+%1*
+com_actionlogs2bootcomponentœ™
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÐ Ñ(
+%3*
+
+%22getmvcfactoryŠ
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÑI Ñ(c
+%4"$Arrayµ
+²
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÑI Ñ(c
+%5"__mapSet*
+
+%4*
+ignore_request*
+trueÄÁ
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÐ Ñ(d
+%6*
+
+%3*
+	Actionlog*
+Administrator*
+
+%42createmodelÓ
+Ð
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÐ Ñ(eD
+%7>joomla\component\actionlogs\administrator\model\actionlogmodel"__id*
+
+%6"Ä
+z
+n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/Model/RemoveModel.phpÐ Ñ(eF
+D
+%7>joomla\component\actionlogs\administrator\model\actionlogmodelB<:
+8joomla\component\privacy\administrator\model\removemodel

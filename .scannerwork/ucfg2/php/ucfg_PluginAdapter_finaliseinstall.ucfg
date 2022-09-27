@@ -1,0 +1,122 @@
+
+;joomla\cms\installer\adapter\pluginadapter::finaliseinstallm
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpñ ñ(&"1*í
+2m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php§ §("òï
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php§ §(!
+%10*
+	
+$update*
+
+$uid2delete*
+3*∑
+3m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php® ®(/∫
+∑
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php® ®(
+%11"__id*9*7,
+*joomla\cms\installer\adapter\pluginadapter"
+route*
+4
+6*◊
+4m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php© ©(0ª
+∏
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php© ©(
+%12"__id*:*8,
+*joomla\cms\installer\adapter\pluginadapter"
+parentüú
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php© ©(0
+%13*
+
+%12*2ˇˇˇˇˇˇˇˇˇ2copymanifest*
+6*ü
+6
+PluginAdapter.php"Ñ
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.php≥ ≥(
+implicit return*â
+1m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpö ö(/≈
+¬
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpö ö(.
+%1"#joomla\cms\table\table::getinstance*"
+joomla\cms\table\table*
+
+updateã
+à
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpö ö(.	
+$update"__id*
+
+%1}
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpú †(
+%2"$Arrayª
+∏
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpù ù(+
+%3"__id*;*9,
+*joomla\cms\installer\adapter\pluginadapter"	
+elementü
+ú
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpú †(
+%4"__mapSet*
+
+%2*	
+element*
+
+%3∏
+µ
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpû û((
+%5"__id*8*6,
+*joomla\cms\installer\adapter\pluginadapter"
+typeú
+ô
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpú †(
+%6"__mapSet*
+
+%2*
+type*
+
+%5π
+∂
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpü ü()
+%7"__id*9*7,
+*joomla\cms\installer\adapter\pluginadapter"
+groupû
+õ
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpú †(
+%8"__mapSet*
+
+%2*
+
+folder*
+
+%7ìê
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpõ °(	
+%9*
+	
+$update*
+
+%22findà
+Ö
+m
+a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/PluginAdapter.phpõ °(	
+$uid"__id*
+
+%9*
+2
+3B.,
+*joomla\cms\installer\adapter\pluginadapter

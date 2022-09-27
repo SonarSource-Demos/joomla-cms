@@ -1,0 +1,54 @@
+
+2joomla\cms\feed\parser\atomparser::handlegeneratorb
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpP P(&"1*ê
+2
+AtomParser.php"y
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpS S(
+implicit return*Ù
+1b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpR R(Kó
+î
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpP P(&
+$feed"__id*
+
+$feedjoomla\cms\feed\feedè
+å
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpP P(&
+$el"__id*
+
+$elsimplexmlelement´
+®
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpR R(-
+%1"__id*6*4#
+!joomla\cms\feed\parser\atomparser"
+inputFilterä
+á
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpR5 R(A
+%2"__passthrough_cast*
+
+$eléã
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpR R(J
+%3*
+
+%1*
+
+%2*
+html2cleanç
+ä
+b
+X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/AtomParser.phpR R(J
+
+$feed"
+	generator"__id*
+
+%3*
+2:
+$feedjoomla\cms\feed\feed:
+$elsimplexmlelementB%#
+!joomla\cms\feed\parser\atomparser

@@ -1,0 +1,46 @@
+
+)plgwebserviceslanguages::onbeforeapiroutee
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php* *($"1*’
+2
+languages.php"|
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php4 4(
+implicit return*Ê
+1e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php, 0(
+wu
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php/ /(,
+%1"$Array¤
+¡
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php/ /(,
+%2"__mapSet*
+
+%1*
+	component*
+com_languagesÀ½
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php, 0(	
+%3*
+	
+$router*
+v1/languages/content*
+	languages*
+
+%12createcrudroutes¹¶
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php2 2(5
+%4*
+plgwebserviceslanguages*
+	
+$router2createlanguageoverridesroutes¹¶
+e
+[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/languages/languages.php3 3(5
+%5*
+plgwebserviceslanguages*
+	
+$router2createlanguageinstallerroutes*
+2:	
+$routerB
+plgwebserviceslanguages

@@ -1,0 +1,43 @@
+
+Pjoomla\component\users\administrator\datashape\methoddescriptor::addactivemethod
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/DataShape/MethodDescriptor.phpp p(#"1*´
+2
+MethodDescriptor.php"–
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/DataShape/MethodDescriptor.phps s(
+implicit return*¥
+1
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/DataShape/MethodDescriptor.phpr r(-×
+Ô
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/DataShape/MethodDescriptor.phpp p(#	
+$record"__id*@
+>
+$record3joomla\component\users\administrator\table\mfatableá
+Þ
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/DataShape/MethodDescriptor.phpr r(
+%1"__id*O*MA
+?joomla\component\users\administrator\datashape\methoddescriptor"
+active¥
+¢
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/DataShape/MethodDescriptor.phpr r(!
+%3"__id**
+	
+$record"
+id³
+°
+
+u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/DataShape/MethodDescriptor.phpr r("
+%2"
+__arraySet*
+
+%1*
+
+%3*
+	
+$record*
+2:>
+$record3joomla\component\users\administrator\table\mfatableBCA
+?joomla\component\users\administrator\datashape\methoddescriptor
