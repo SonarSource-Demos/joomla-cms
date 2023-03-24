@@ -1,37 +1,0 @@
-
-"joomla\cms\cache\cache::setcachingY
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php   ("1*‚
-2
-	Cache.php"p
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php£ £(
-implicit return*©
-1Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php¢ ¢((˜
-•
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php   (
-
-$enabled"__id*&
-$
-$enabledjoomla\cms\cache\boolean”
-‘
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php¢ ¢(
-%1"__id*(*&
-joomla\cms\cache\cache"
-
-_options‘
-Ž
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php¢ ¢(
-%2"__mapSet*
-
-%1*	
-caching*
-
-
-$enabled*
-2:$
-$enabledjoomla\cms\cache\booleanB
-joomla\cms\cache\cache

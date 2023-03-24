@@ -1,26 +1,0 @@
-
-1joomla\tests\integration\dbtesttrait::setdbdriver[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/DBTestTrait.php' '("1*Š
-2
-DBTestTrait.php"r
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/DBTestTrait.php* *(
-implicit return*°
-1[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/DBTestTrait.php) )( ž
-›
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/DBTestTrait.php' '(	
-$driver"__id*+
-)
-$driverjoomla\database\databasedriver§
-¤
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Integration/DBTestTrait.php) )(2&
-$joomla\tests\integration\dbtesttrait"
-driver"__id*
-	
-$driver*
-2:)
-$driverjoomla\database\databasedriverB(&
-$joomla\tests\integration\dbtesttrait

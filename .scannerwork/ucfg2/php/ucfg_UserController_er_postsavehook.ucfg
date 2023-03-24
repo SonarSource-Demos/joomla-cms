@@ -1,18 +1,0 @@
-
-Ljoomla\component\users\administrator\controller\usercontroller::postsavehook€
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UserController.php— —(#"1*
-1
-UserController.phpÊ
-Ç
-€
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UserController.php— —(#
-$model"__id*2
-0
-$model&joomla\cms\mvc\model\basedatabasemodel"˜
-€
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UserController.php™ ™(
-implicit return:0
-$model&joomla\cms\mvc\model\basedatabasemodel:
-
-$validDataBB@
->joomla\component\users\administrator\controller\usercontroller

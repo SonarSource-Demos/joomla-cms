@@ -1,112 +1,0 @@
-
-,plgfieldsimagelist::oncustomfieldspreparedom`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php! !(,"1*Ì
-2`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php& &(ç
-ä
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php& &(
-%2
-domelement"__id*
-
-
-$fieldNode"v
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php& &(
-
-%2
-domelement*·
-3`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php) )(9•¢
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php) )(8
-%3*
-
-
-$fieldNode*
-hide_default*
-true2setattributeòï
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php*; *(`
-%4*
-
-
-$fieldNode*
-	directory2getattributeã
-à
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php*. *(`
-%5"__concat*
-
-/images/*
-
-%4†ù
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php* *(a
-%6*
-
-
-$fieldNode*
-	directory*
-
-%52setattributeç
-ä
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php, ,(
-%7
-domelement"__id*
-
-
-$fieldNode"v
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php, ,(
-
-%7
-domelement*ß
-1`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php# #(Nã
-à
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php! !(,
-$field"__id*
-
-$fieldstdclassè
-å
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php! !(,	
-$parent"__id*
-
-$parent
-domelementï
-í
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php! !(,
-$form"__id*
-
-$formjoomla\cms\form\form¸
-˘
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php# #(M
-%1"Sjoomla\component\fields\administrator\plugin\fieldsplugin::oncustomfieldspreparedom*
-plgfieldsimagelist*
-
-
-$field*
-	
-$parent*	
-
-$formÄ
-~
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/imagelist/imagelist.php# #(M
-
-$fieldNode"__id*
-
-%1*
-2
-3:
-$fieldstdclass:
-$parent
-domelement:
-$formjoomla\cms\form\formB
-plgfieldsimagelist

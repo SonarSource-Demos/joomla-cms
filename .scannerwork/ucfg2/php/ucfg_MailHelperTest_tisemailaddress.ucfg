@@ -1,30 +1,0 @@
-
-Gjoomla\tests\unit\libraries\cms\mail\mailhelpertest::testisemailaddressl
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpù ù(&"1*ü
-2
-MailHelperTest.php"É
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.php† †(
-implicit return*†
-1l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpü ü(Kœ
-Ã
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpü' ü(I
-%1"*joomla\cms\mail\mailhelper::isemailaddress*"
-joomla\cms\mail\mailhelper*
-
-
-$input’“
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.phpü ü(J
-%2*75
-3joomla\tests\unit\libraries\cms\mail\mailhelpertest*
-
-	$expected*
-
-%12assertequals*
-2:
-$input:
-	$expectedB75
-3joomla\tests\unit\libraries\cms\mail\mailhelpertest

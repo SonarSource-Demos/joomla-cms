@@ -1,47 +1,0 @@
-
-*joomla\cms\filter\inputfilter::__construct^
-T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filter/InputFilter.php? ?("1*ç
-2
-InputFilter.php"u
-^
-T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filter/InputFilter.phpE E(
-implicit return*ô
-1^
-T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filter/InputFilter.phpA A(XÑ
-Å
-^
-T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filter/InputFilter.phpA A(W
-%1"&joomla\filter\inputfilter::__construct*!
-joomla\cms\filter\inputfilter*
-
-
-$tagsArray*
-
-
-$attrArray*
-
-$tagsMethod*
-
-$attrMethod*
-
-
-$xssAutoß
-§
-^
-T/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filter/InputFilter.phpD D(#-
-joomla\cms\filter\inputfilter"
-
-stripUSC"__id*
-
-	$stripUSC*
-2:
-
-$tagsArray:
-
-$attrArray:
-$tagsMethod:
-$attrMethod:
-
-$xssAuto:
-	$stripUSCB!
-joomla\cms\filter\inputfilter

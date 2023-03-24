@@ -1,35 +1,0 @@
-
-(plgwebservicesredirect::onbeforeapiroutec
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/redirect/redirect.php( (($"1*è
-2
-redirect.php"z
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/redirect/redirect.php/ /(
-implicit return*¿
-1c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/redirect/redirect.php* .(
-us
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/redirect/redirect.php- -(+
-%1"$Array°
-û
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/redirect/redirect.php- -(+
-%2"__mapSet*
-
-%1*
-	component*
-com_redirectµ≤
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/redirect/redirect.php* .(	
-%3*
-	
-$router*
-v1/redirects*
-
-redirect*
-
-%12createcrudroutes*
-2:	
-$routerB
-plgwebservicesredirect

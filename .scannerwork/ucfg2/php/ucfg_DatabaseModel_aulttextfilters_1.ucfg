@@ -1,142 +1,0 @@
-
-Sjoomla\component\installer\administrator\model\databasemodel::fixdefaulttextfilters~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpˆ ˆ(*"1*þ
-2~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php (Wø
-õ
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php (I
-%8"2joomla\cms\component\componenthelper::getcomponent*("&
-$joomla\cms\component\componenthelper*
-com_contentœ™
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php (V
-%9*
-
-%82	getparams£
- 
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php (V
-$contentParams"__id*
-
-%9°­
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php’ ’(.
-%10*
-
-$contentParams*	
-filters2get*
-3
-4*á
-
-3~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php“ “(,«¨
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php“ “(+
-
-$newParams"joomla\registry\registryÁ
-¾
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php“ “(+
-%11"%joomla\registry\registry::__construct*
-
-
-$newParams°­
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php”+ ”(I
-%12*
-
-$contentParams*	
-filters2getµ²
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php” ”(J
-%13*
-
-
-$newParams*	
-filters*
-
-%122set®
-«
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php•! •(4
-%14"__passthrough_cast*
-
-
-$newParams¨
-¥
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php• •(4
-
-$table"
-params"__id*
-
-%14š
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php– –(
-%15*
-
-
-$table2store*
-4*°
-4
-DatabaseModel.php"•
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php™ ™(
-implicit return*
-1~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpŠ Š(5ØÕ
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpŠ Š(3
-%1*@>
-<joomla\component\installer\administrator\model\databasemodel2getdatabase©¦
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpŠ Š(4
-$table"joomla\cms\table\extensionÆ
-Ã
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpŠ Š(4
-%2"'joomla\cms\table\extension::__construct*
-
-
-$table*
-
-%1‘Ž
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php‹" ‹(?
-%3"$Arrayµ
-²
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php‹" ‹(?
-%4"__mapSet*
-
-%3*
-name*
-
-com_config£ 
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php‹ ‹(@
-%5*
-
-
-$table*
-
-%32find£ 
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.php‹ ‹(A
-%6*
-
-
-$table*
-
-%52load§
-¤
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Model/DatabaseModel.phpŽ Ž(
-%7"__id**
-
-$table"
-params*
-2
-4B@>
-<joomla\component\installer\administrator\model\databasemodel

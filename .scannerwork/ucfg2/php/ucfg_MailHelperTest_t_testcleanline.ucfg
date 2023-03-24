@@ -1,30 +1,0 @@
-
-Bjoomla\tests\unit\libraries\cms\mail\mailhelpertest::testcleanlinej
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.php5 5(!"1*ù
-2
-MailHelperTest.php"Å
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.php8 8(
-implicit return*ï
-1j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.php7 7(F»
-≈
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.php7' 7(D
-%1"%joomla\cms\mail\mailhelper::cleanline*"
-joomla\cms\mail\mailhelper*
-
-
-$input”–
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Mail/MailHelperTest.php7 7(E
-%2*75
-3joomla\tests\unit\libraries\cms\mail\mailhelpertest*
-
-	$expected*
-
-%12assertequals*
-2:
-$input:
-	$expectedB75
-3joomla\tests\unit\libraries\cms\mail\mailhelpertest

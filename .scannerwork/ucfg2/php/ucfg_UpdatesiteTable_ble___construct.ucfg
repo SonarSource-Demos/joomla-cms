@@ -1,34 +1,0 @@
-
-Kjoomla\component\installer\administrator\table\updatesitetable::__construct~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Table/UpdatesiteTable.php' '("1*²
-2
-UpdatesiteTable.php"•
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Table/UpdatesiteTable.php, ,(
-implicit return*ç
-1~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Table/UpdatesiteTable.php) )(7¹
-¶
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Table/UpdatesiteTable.php' '(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverù
-ö
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Table/UpdatesiteTable.php) )(6O@
->joomla\component\installer\administrator\table\updatesitetable"
-	typeAlias"__id*
-com_installer.downloadkey¤
-¡
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Table/UpdatesiteTable.php+ +(E
-%1"#joomla\cms\table\table::__construct*B@
->joomla\component\installer\administrator\table\updatesitetable*
-#__update_sites*
-update_site_id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverBB@
->joomla\component\installer\administrator\table\updatesitetable

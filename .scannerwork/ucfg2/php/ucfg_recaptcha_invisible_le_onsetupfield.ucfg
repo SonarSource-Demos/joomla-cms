@@ -1,36 +1,0 @@
-
-+plgcaptcharecaptcha_invisible::onsetupfieldw
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/captcha/recaptcha_invisible/recaptcha_invisible.php¨ ¨( "1*¯
-2
-recaptcha_invisible.php"Ž
-w
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/captcha/recaptcha_invisible/recaptcha_invisible.php¬ ¬(
-implicit return*©
-1w
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/captcha/recaptcha_invisible/recaptcha_invisible.php« «()¼
-¹
-w
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/captcha/recaptcha_invisible/recaptcha_invisible.php¨ ¨( 
-$field"__id*.
-,
-$field"joomla\cms\form\field\captchafield®
-«
-w
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/captcha/recaptcha_invisible/recaptcha_invisible.php¨ ¨( 
-
-$element"__id*
-
-$elementsimplexmlelementµ
-²
-w
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/captcha/recaptcha_invisible/recaptcha_invisible.php« «(
-%1"__mapSet*
-
-
-$element*
-hiddenLabel*
-true*
-2:,
-$field"joomla\cms\form\field\captchafield:
-$elementsimplexmlelementB!
-plgcaptcharecaptcha_invisible

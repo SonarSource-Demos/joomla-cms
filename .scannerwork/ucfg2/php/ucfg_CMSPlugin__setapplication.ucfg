@@ -1,26 +1,0 @@
-
-+joomla\cms\plugin\cmsplugin::setapplication^
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpï ï(""1*‹
-2
-CMSPlugin.php"u
-^
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpò ò(
-implicit return*Ô
-1^
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpñ ñ(*»
-¸
-^
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpï ï("
-$application"__id*@
->
-$application.joomla\cms\application\cmsapplicationinterface«
-¨
-^
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Plugin/CMSPlugin.phpñ ñ().
-joomla\cms\plugin\cmsplugin"
-application"__id*
-
-$application*
-2:>
-$application.joomla\cms\application\cmsapplicationinterfaceB
-joomla\cms\plugin\cmsplugin

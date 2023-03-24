@@ -1,90 +1,0 @@
-
-Hjoomla\component\mails\administrator\view\templates\htmlview::addtoolbar~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.phpƒ ƒ(!"1*Î
-2~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php‹; ‹(hÀ½
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php‹; ‹(h
-%6*	
-
-$user*
-core.options*
-	com_mails2	authorise*
-3
-4*¾
-3~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.phpŒ Œ(/³°
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.phpŒ Œ(.
-%7*
-
-
-$toolbar*
-	com_mails2preferences*
-4*¼
-4~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php ()±®
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php ((
-%8*
-
-
-$toolbar*
-Mail_Templates2help*
-5*«
-5
-HtmlView.php"•
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php (
-implicit return*œ
-1~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php† †(3ß
-Ü
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php† †(2
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar
-š
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php† †(2
-
-$toolbar"__id*
-
-%1ÛØ
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php‡ ‡('
-%2*@>
-<joomla\component\mails\administrator\view\templates\htmlview2getcurrentuserš
-—
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php‡ ‡('
-$user"__id*
-
-%2ß
-Ü
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php‰ ‰(=
-%3"joomla\cms\language\text::_*"
-joomla\cms\language\text*
-COM_MAILS_MAILS_TITLEî
-ë
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php‰ ‰(J
-%4"'joomla\cms\toolbar\toolbarhelper::title*$""
- joomla\cms\toolbar\toolbarhelper*
-
-%3*
-
-envelope¾»
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_mails/src/View/Templates/HtmlView.php‹ ‹(7
-%5*	
-
-$user*
-
-core.admin*
-	com_mails2	authorise*
-2
-3B@>
-<joomla\component\mails\administrator\view\templates\htmlview

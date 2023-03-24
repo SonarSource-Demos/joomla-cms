@@ -1,29 +1,0 @@
-
-7page\acceptance\administrator\medialistpage::itemaction†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/MediaListPage.php„ „(%"1*‡
-1†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/MediaListPage.php† †(XŠ
-‡
-†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/MediaListPage.php† †()
-%1"6page\acceptance\administrator\medialistpage::itemxpath*/"-
-+page\acceptance\administrator\medialistpage*
-
-	$itemName×
-Ô
-†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/MediaListPage.php† †(W
-%2"__concat*
-
-%1*
-//button[@class= \'*
-
-$actionName*
-\']"‘
-†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/MediaListPage.php† †(X
-
-%2:
-	$itemName:
-$actionNameB/-
-+page\acceptance\administrator\medialistpage

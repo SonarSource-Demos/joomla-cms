@@ -1,35 +1,0 @@
-
-'joomla\cms\toolbar\toolbarhelper::applyc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpç ç( "1*î
-2
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpì ì(
-implicit return* 
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpè è(/ƒ
-¡
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpè è(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpè è(.
-$bar"__id*
-
-%1îë
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpí í( 
-%2*
-
-$bar*	
-
-$task*
-
-$alt2apply*
-2:
-$task:
-$altB$"
- joomla\cms\toolbar\toolbarhelper

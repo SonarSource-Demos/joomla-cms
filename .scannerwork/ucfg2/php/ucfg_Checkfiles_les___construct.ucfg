@@ -1,49 +1,0 @@
-
-?joomla\plugin\task\checkfiles\extension\checkfiles::__constructn
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.phpV V("1*ù
-2
-Checkfiles.php"Ö
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.php[ [(
-implicit return*–
-1n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.phpX X(2ª
-∏
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.phpV V(
-$dispatcher"__id*1
-/
-$dispatcher joomla\event\dispatcherinterfaceò
-ï
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.phpV V(	
-$config"__id*
-
-$configarrayß
-§
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.phpV V(
-$rootDirectory"__id*
-
-$rootDirectorystring˘
-ˆ
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.phpX X(1
-%1"(joomla\cms\plugin\cmsplugin::__construct*64
-2joomla\plugin\task\checkfiles\extension\checkfiles*
-
-$dispatcher*
-	
-$config÷
-”
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/checkfiles/src/Extension/Checkfiles.phpZ Z(-G4
-2joomla\plugin\task\checkfiles\extension\checkfiles"
-rootDirectory"__id*
-
-$rootDirectory*
-2:/
-$dispatcher joomla\event\dispatcherinterface:
-$configarray:
-$rootDirectorystringB64
-2joomla\plugin\task\checkfiles\extension\checkfiles

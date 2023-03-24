@@ -1,85 +1,0 @@
-
-3joomla\cms\component\router\routerbase::__constructg
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php- -("1*¦
-2g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php0 0(¯
-¬
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php0 0(1(
-&joomla\cms\component\router\routerbase"
-app"__id*
-
-$app*
-5
-6*Õ
-3g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php2 2(3®
-«
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php2 2(2
-%1""joomla\cms\factory::getapplication*"
-joomla\cms\factory­
-ª
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php2 2(21(
-&joomla\cms\component\router\routerbase"
-app"__id*
-
-%1*
-5
-6*¥
-5g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php6 6( ±
-®
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php6 6(2(
-&joomla\cms\component\router\routerbase"
-menu"__id*	
-
-$menu*
-7*Ø
-6g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php8 8(0­
-ª
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php8 8($
-%2"__id*3*1(
-&joomla\cms\component\router\routerbase"
-appƒ€
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php8 8(/
-%3*
-
-%22getmenu®
-«
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php8 8(/2(
-&joomla\cms\component\router\routerbase"
-menu"__id*
-
-%3*
-7*•
-7
-RouterBase.php"~
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php: :(
-implicit return*É
-1g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php/ /(«
-¨
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php- -(
-$app"__id*/
--
-$app%joomla\cms\application\cmsapplication¤
-¡
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterBase.php- -(
-$menu"__id*'
-%
-$menujoomla\cms\menu\abstractmenu*
-2
-3:-
-$app%joomla\cms\application\cmsapplication:%
-$menujoomla\cms\menu\abstractmenuB*(
-&joomla\cms\component\router\routerbase

@@ -1,37 +1,0 @@
-
->joomla\component\users\administrator\model\usermodel::gettablet
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UserModel.phpN N("1*º
-1t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UserModel.phpP P(=å
-â
-t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UserModel.phpP P(<
-%1"#joomla\cms\table\table::getinstance*"
-joomla\cms\table\table*	
-
-$type*
-	
-$prefix*
-	
-$config‘
-Ž
-t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UserModel.phpP P(<
-$table"__id*
-
-%1©
-¦
-t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UserModel.phpR R(
-%2joomla\cms\table\table"__id*
-
-
-$table"–
-t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/UserModel.phpR R(
-
-%2joomla\cms\table\table:
-$type:	
-$prefix:	
-$configB86
-4joomla\component\users\administrator\model\usermodel

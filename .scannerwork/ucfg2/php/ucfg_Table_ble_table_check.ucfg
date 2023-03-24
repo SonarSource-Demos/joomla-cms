@@ -1,48 +1,0 @@
-
-joomla\cms\table\table::checkY
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpä ä("1*¡
-1Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpç í(
-ki
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpè ë(
-%1"$Arrayü
-ú
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpè ë(
-%2"__mapSet*
-
-%1*	
-subject*
-joomla\cms\table\table 
-«
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpç í(	
-%3"&joomla\cms\event\abstractevent::create*"" 
-joomla\cms\event\abstractevent*
-onTableCheck*
-
-%1u
-s
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpç í(	
-$event"__id*
-
-%3èå
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpì ì(
-%4*
-joomla\cms\table\table2getdispatcherîë
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpì ì(@
-%5*
-
-%4*
-onTableCheck*
-
-
-$event2dispatch"e
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Table.phpï ï(
-trueB
-joomla\cms\table\table

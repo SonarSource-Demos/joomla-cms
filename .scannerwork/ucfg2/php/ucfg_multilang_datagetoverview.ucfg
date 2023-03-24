@@ -1,101 +1,0 @@
-
-/plgsampledatamultilang::onsampledatagetoverviewd
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpO O(+"1*€
-2d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpR R("p
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpR R(
-void*â
-3d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpU U(,{y
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpU U(+
-$data"stdclassë
-é
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpU U(+
-%4"stdclass::__construct*	
-
-$dataú
-ô
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpV V()
-%5"__id*%*#
-plgsampledatamultilang"
-_nameä
-á
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpV V()
-
-$data"
-name"__id*
-
-%5◊
-‘
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpW W(O
-%6"joomla\cms\language\text::_*"
-joomla\cms\language\text*+)
-'PLG_SAMPLEDATA_MULTILANG_OVERVIEW_TITLEã
-à
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpW W(O
-
-$data"
-title"__id*
-
-%6÷
-”
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpX X(N
-%7"joomla\cms\language\text::_*"
-joomla\cms\language\text**(
-&PLG_SAMPLEDATA_MULTILANG_OVERVIEW_DESCë
-é
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpX X(N
-
-$data"
-description"__id*
-
-%7å
-â
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpY Y(#
-
-$data"
-icon"__id*
-wifiâ
-Ü
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpZ Z(
-
-$data"
-steps"__id*2"q
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.php\ \(	
-
-$data*º
-1d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpQ Q(Oö
-ó
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpQ Q(
-%1"__id*#*!
-plgsampledatamultilang"
-appÑÅ
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpQ Q(&
-%2*
-
-%12getidentity§°
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/sampledata/multilang/multilang.phpQ Q(O
-%3*
-
-%2*
-core.create*
-com_content2	authorise*
-2
-3B
-plgsampledatamultilang

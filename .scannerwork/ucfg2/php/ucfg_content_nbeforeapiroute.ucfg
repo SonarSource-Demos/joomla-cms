@@ -1,76 +1,0 @@
-
-'plgwebservicescontent::onbeforeapiroutea
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php) )($"1*Œ
-2
-content.php"x
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php: :(
-implicit return*—
-1a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php+ /(
-sq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php. .(*
-%1"$Arrayž
-›
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php. .(*
-%2"__mapSet*
-
-%1*
-	component*
-com_contentº·
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php+ /(	
-%3*
-	
-$router*
-v1/content/articles*
-
-articles*
-
-%12createcrudroutessq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php4 4(K
-%4"$Array¡
-ž
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php4 4(K
-%5"__mapSet*
-
-%4*
-	component*
-com_categoriesž
-›
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php4 4(K
-%6"__mapSet*
-
-%4*
-	extension*
-com_content¾»
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php1 5(	
-%7*
-	
-$router*
-v1/content/categories*
-
-categories*
-
-%42createcrudroutes¨¥
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php7 7(*
-%8*
-plgwebservicescontent*
-	
-$router2createfieldsroutes°­
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php9 9(2
-%9*
-plgwebservicescontent*
-	
-$router2createcontenthistoryroutes*
-2:	
-$routerB
-plgwebservicescontent

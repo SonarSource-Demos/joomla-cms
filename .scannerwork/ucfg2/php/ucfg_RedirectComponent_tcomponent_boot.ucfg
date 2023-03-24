@@ -1,44 +1,0 @@
-
-Ijoomla\component\redirect\administrator\extension\redirectcomponent::bootƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php) )("1*º
-2
-RedirectComponent.php"›
-ƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php, ,(
-implicit return*¹	
-1ƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php+ +(CÏ
-Ì
-ƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php) )(
-
-$container"__id*0
-.
-
-$container psr\container\containerinterfaceåâ
-ƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php+ +(
-%1*GE
-Cjoomla\component\redirect\administrator\extension\redirectcomponent2getregistryÎË
-ƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php+3 +(A
-%2"=joomla\component\redirect\administrator\service\html\redirectã
-à
-ƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php+3 +(A
-%3"Jjoomla\component\redirect\administrator\service\html\redirect::__construct*
-
-%2·´
-ƒ
-y/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Extension/RedirectComponent.php+ +(B
-%4*
-
-%1*
-
-redirect*
-
-%22register*
-2:.
-
-$container psr\container\containerinterfaceBGE
-Cjoomla\component\redirect\administrator\extension\redirectcomponent

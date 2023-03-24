@@ -1,66 +1,0 @@
-
-Cjoomla\component\finder\administrator\indexer\language::__constructv
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.php> >("2"3*Ÿ
-2v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpA A(&÷
-”
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpA A(%F8
-6joomla\component\finder\administrator\indexer\language"
-
-language"__id*
-	
-$locale*
-3*◊
-3v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpE E($—
-Œ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpE E(
-%1"__id*H*F8
-6joomla\component\finder\administrator\indexer\language"
-
-language*
-4
-5*”
-4v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpF F("–
-Õ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpF F(!F8
-6joomla\component\finder\administrator\indexer\language"
-
-language"__id*
-**
-5*Å
-5v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpJ J(E—
-Œ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpJ4 J(C
-%2"__id*H*F8
-6joomla\component\finder\administrator\indexer\language"
-
-language◊
-‘
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpJ J(D
-%3"'wamania\snowball\stemmerfactory::create*#"!
-wamania\snowball\stemmerfactory*
-
-%2–
-Õ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpJ J(DE8
-6joomla\component\finder\administrator\indexer\language"	
-stemmer"__id*
-
-%3*
-7*£
-7
-Language.php"ç
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Indexer/Language.phpN N(
-implicit return:	
-$localeB:8
-6joomla\component\finder\administrator\indexer\language

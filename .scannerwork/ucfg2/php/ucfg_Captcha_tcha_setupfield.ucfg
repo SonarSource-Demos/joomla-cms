@@ -1,89 +1,0 @@
-
-&joomla\cms\captcha\captcha::setupfield]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.php¼ ¼("1*Í
-2]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.php¿ ¿("i
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.php¿ ¿(
-void*½	
-3]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÂ Å(
-om
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÂ Å(	
-%2"$Array‘
-Ž
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÂ Å(	
-%3"__mapSet*
-
-%2*	
-field*
-
-
-$field•
-’
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÂ Å(	
-%4"__mapSet*
-
-%2*	
-element*
-
-
-$elementw
-u
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÂ Å(	
-$arg"__id*
-
-%2¬©
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÇ Ç(5
-%5*
-joomla\cms\captcha\captcha*
-onSetupField*
-
-$arg2updatez
-x
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÇ Ç(5	
-$result"__id*
-
-%5”
-‘
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÉ É(
-%6joomla\cms\captcha\void"__id*
-	
-$result"€
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.phpÉ É(
-
-%6joomla\cms\captcha\void*Ä
-1]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.php¾ ¾(#¢
-Ÿ
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.php¼ ¼(
-$field"__id*.
-,
-$field"joomla\cms\form\field\captchafield”
-‘
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.php¼ ¼(
-
-$element"__id*
-
-$elementsimplexmlelement›
-˜
-]
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Captcha/Captcha.php¾ ¾(
-%1"__id*+*)
-joomla\cms\captcha\captcha"	
-captcha*
-2
-3:,
-$field"joomla\cms\form\field\captchafield:
-$elementsimplexmlelementB
-joomla\cms\captcha\captcha

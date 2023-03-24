@@ -1,54 +1,0 @@
-
-1joomla\cms\feed\parser\rssparser::handlecopyrighta
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpY Y(&"1*é
-2
-RssParser.php"x
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.php\ \(
-implicit return*Ï
-1a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.php[ [(Kñ
-ì
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpY Y(&
-$feed"__id*
-
-$feedjoomla\cms\feed\feedé
-ã
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.phpY Y(&
-$el"__id*
-
-$elsimplexmlelement©
-¶
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.php[ [(-
-%1"__id*5*3"
- joomla\cms\feed\parser\rssparser"
-inputFilterâ
-Ü
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.php[5 [(A
-%2"__passthrough_cast*
-
-$elçä
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.php[ [(J
-%3*
-
-%1*
-
-%2*
-html2cleanå
-â
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/RssParser.php[ [(J
-
-$feed"
-	copyright"__id*
-
-%3*
-2:
-$feedjoomla\cms\feed\feed:
-$elsimplexmlelementB$"
- joomla\cms\feed\parser\rssparser

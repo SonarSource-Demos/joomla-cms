@@ -1,26 +1,0 @@
-
-Qjoomla\component\users\administrator\controller\methodcontroller::assertcandeleteÇ
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodController.phpª ª($"1*∏
-3
-MethodController.php"ö
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodController.php¿ ¿(
-implicit return*€
-1Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodController.phpΩ Ω(.∏
-µ
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodController.phpª ª($
-$user"__id*
-
-$userjoomla\cms\user\userê
-ç
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodController.phpΩ Ω(.
-%1"@joomla\component\users\administrator\helper\mfa::candeletemethod*3"1
-/joomla\component\users\administrator\helper\mfa*	
-
-$user*
-3:
-$userjoomla\cms\user\userBDB
-@joomla\component\users\administrator\controller\methodcontroller

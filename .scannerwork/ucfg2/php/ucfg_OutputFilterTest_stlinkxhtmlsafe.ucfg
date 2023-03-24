@@ -1,27 +1,0 @@
-
-Jjoomla\tests\unit\libraries\cms\filter\outputfiltertest::testlinkxhtmlsafen
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php (%"1*£
-2
-OutputFilterTest.php"Ö
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php$ $(
-implicit return*ä
-1n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php #(
-†
-ù
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php! !(y
-%1"-joomla\cms\filter\outputfilter::linkxhtmlsafe*"" 
-joomla\cms\filter\outputfilter*RP
-N<a href="http://www.example.com/index.frd?one=1&two=2&three=3">This & That</a>ÏÈ
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Filter/OutputFilterTest.php #(	
-%2*;9
-7joomla\tests\unit\libraries\cms\filter\outputfiltertest*ZX
-V<a href="http://www.example.com/index.frd?one=1&amp;two=2&amp;three=3">This & That</a>*
-
-%1*B@
->Should clean ampersands only out of link, not out of link text2assertequals*
-2B;9
-7joomla\tests\unit\libraries\cms\filter\outputfiltertest

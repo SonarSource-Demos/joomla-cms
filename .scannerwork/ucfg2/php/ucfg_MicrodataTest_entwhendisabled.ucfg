@@ -1,78 +1,0 @@
-
-Wjoomla\tests\unit\libraries\cms\microdata\microdatatest::testdisplaycontentwhendisabledp
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php± ±(2"1*¢
-2
-MicrodataTest.php"‡
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¾ ¾(
-implicit return*¿
-1p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php³ ³($™
-–
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php³ ³(#
-
-$content"__id*
-Some Contentƒ€
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php´9 ´(;
-%1"$Array¼¹
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php´ ´(<
-
-$microdata"7joomla\tests\unit\libraries\cms\microdata\microdatastubñ
-î
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php´ ´(<
-%2"Djoomla\tests\unit\libraries\cms\microdata\microdatastub::__construct*
-
-
-$microdata*	
-Article*	
-false*
-
-%1¢Ÿ
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php· ¸(
-%3*
-
-
-$microdata*
-
-
-$content2content¥¢
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php· ¹(*
-%4*
-
-%3*	
-Article*	
-about2fallback 
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php· º('
-%5*
-
-%4*
-datePublished2propertyŒ‰
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php· »(
-%6*
-
-%52displayŒ
-‰
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php· »(
-$html"__id*
-
-%6ßÜ
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php½ ½(,
-%7*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*
-
-
-$content*	
-
-$html2assertequals*
-2B;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest

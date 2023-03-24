@@ -1,37 +1,0 @@
-
-*joomla\cms\helper\libraryhelper::getparams`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/LibraryHelper.phpY Y($"1*³
-1`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/LibraryHelper.php[ [(=¦
-£
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/LibraryHelper.php[ [(4
-%1"static::getlibrary*
-"
-static*
-
-
-$element*
-	
-$strict…
-‚
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/LibraryHelper.php[ [(<
-%2"__id**
-
-%1"
-params“
-
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/LibraryHelper.php[ [(=
-%3joomla\registry\registry"__id*
-
-%2"„
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/LibraryHelper.php[ [(= 
-
-%3joomla\registry\registry:
-
-$element:	
-$strictB#!
-joomla\cms\helper\libraryhelper

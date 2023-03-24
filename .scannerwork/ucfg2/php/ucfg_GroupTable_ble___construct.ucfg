@@ -1,34 +1,0 @@
-
-Cjoomla\component\fields\administrator\table\grouptable::__constructv
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/GroupTable.php* *("1*•
-2
-GroupTable.php"ç
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/GroupTable.php/ /(
-implicit return*™
-1v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/GroupTable.php, ,(;±
-Æ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/GroupTable.php* *(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverâ
-Ü
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/GroupTable.php, ,(:
-%1"#joomla\cms\table\table::__construct*:8
-6joomla\component\fields\administrator\table\grouptable*
-#__fields_groups*
-id*
-
-$dbÁ‰
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/GroupTable.php. .(3
-%2*:8
-6joomla\component\fields\administrator\table\grouptable*
-	published*	
-state2setcolumnalias*
-2:%
-$dbjoomla\database\databasedriverB:8
-6joomla\component\fields\administrator\table\grouptable

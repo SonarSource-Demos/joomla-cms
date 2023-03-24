@@ -1,39 +1,0 @@
-
-)joomla\cms\toolbar\toolbarhelper::editcssc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÐ Ð(""1*”
-2
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÖ Ö(
-implicit return*ö
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÒ Ò(/Ä
-Á
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÒ Ò(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÒ Ò(.
-$bar"__id*
-
-%1À½
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÕ Õ(D
-%2*
-
-$bar*
-
-Standard*	
-editcss*
-
-$alt*	
-
-$task*
-true2appendbutton*
-2:
-$task:
-$altB$"
- joomla\cms\toolbar\toolbarhelper

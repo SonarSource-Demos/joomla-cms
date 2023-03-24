@@ -1,81 +1,0 @@
-
-Djoomla\cms\installer\adapter\templateadapter::checkexistingextensionm
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php. .(-"1*¡
-4
-TemplateAdapter.php"„
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.phpD D(
-implicit return*¹
-1m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php1 7(¿
-¼
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php1( 1(8
-%1"__id*?*=.
-,joomla\cms\installer\adapter\templateadapter"
-	extension}
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php2 6(
-%2"$Array½
-º
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php3# 3(1
-%3"__id*=*;.
-,joomla\cms\installer\adapter\templateadapter"	
-elementŸ
-œ
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php2 6(
-%4"__mapSet*
-
-%2*	
-element*
-
-%3º
-·
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php4# 4(.
-%5"__id*:*8.
-,joomla\cms\installer\adapter\templateadapter"
-typeœ
-™
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php2 6(
-%6"__mapSet*
-
-%2*
-type*
-
-%5¾
-»
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php5# 5(2
-%7"__id*>*<.
-,joomla\cms\installer\adapter\templateadapter"
-
-clientId¡
-ž
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php2 6(
-%8"__mapSet*
-
-%2*
-	client_id*
-
-%7Ž‹
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php1( 7(
-%9*
-
-%1*
-
-%22findÈ
-Å
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Adapter/TemplateAdapter.php1 7(F.
-,joomla\cms\installer\adapter\templateadapter"
-currentExtensionId"__id*
-
-%9*
-4B0.
-,joomla\cms\installer\adapter\templateadapter

@@ -1,75 +1,0 @@
-
-'plgwebservicesusers::createfieldsroutes]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpH H('"1*†
-2
-	users.php"t
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpU U(
-implicit return*ª
-
-1]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpJ N(
-om
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpM M(H
-%1"$Array™
-–
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpM M(H
-%2"__mapSet*
-
-%1*
-	component*
-
-com_fields›
-˜
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpM M(H
-%3"__mapSet*
-
-%1*	
-context*
-com_users.user°­
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpJ N(	
-%4*
-	
-$router*
-v1/fields/users*
-
-fields*
-
-%12createcrudroutesom
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpS S(H
-%5"$Array™
-–
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpS S(H
-%6"__mapSet*
-
-%5*
-	component*
-
-com_fields›
-˜
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpS S(H
-%7"__mapSet*
-
-%5*	
-context*
-com_users.user·´
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.phpP T(	
-%8*
-	
-$router*
-v1/fields/groups/users*
-
-groups*
-
-%52createcrudroutes*
-2:	
-$routerB
-plgwebservicesusers

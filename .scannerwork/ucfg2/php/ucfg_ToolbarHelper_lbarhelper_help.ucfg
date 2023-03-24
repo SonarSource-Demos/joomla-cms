@@ -1,49 +1,0 @@
-
-&joomla\cms\toolbar\toolbarhelper::helpc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¥ ¥("3"4*Ù
-3c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php© ©("o
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php© ©(
-void*ù
-4c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¬ ¬(/Ä
-Á
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¬ ¬(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¬ ¬(.
-$bar"__id*
-
-%1ÃÀ
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php¯ ¯(E
-%2*
-
-$bar*
-Help*
-
-$ref*
-
-$com*
-
-	$override*
-
-
-$component2appendbutton*
-5*”
-5
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.php° °(
-implicit return:
-$ref:
-$com:
-	$override:
-
-$componentB$"
- joomla\cms\toolbar\toolbarhelper

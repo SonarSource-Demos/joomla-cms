@@ -1,24 +1,0 @@
-
-=joomla\component\fields\administrator\table\fieldtable::storex
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.phpÎ Î("1*Ò
-1x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.phpÐ Ð(+Ú
-×
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.phpÎ Î(
-$updateNulls"__id*E
-C
-$updateNulls3joomla\component\fields\administrator\table\booleanð
-í
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.phpÐ Ð(*
-%1"joomla\cms\table\table::store*:8
-6joomla\component\fields\administrator\table\fieldtable*
-
-$updateNulls"‚
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.phpÐ Ð(+
-
-%1:C
-$updateNulls3joomla\component\fields\administrator\table\booleanB:8
-6joomla\component\fields\administrator\table\fieldtable

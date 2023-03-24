@@ -1,55 +1,0 @@
-
-$joomla\cms\table\module::__constructX
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php( (("1*Ç
-2
-
-Module.php"o
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php- -(
-implicit return*Ù
-1X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php* *(5ì
-ê
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php( ((
-$db"__id*'
-%
-$dbjoomla\database\databasedriver∆
-√
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php* *(4
-%1"#joomla\cms\table\table::__construct*
-joomla\cms\table\module*
-
-#__modules*
-id*
-
-$dbü
-ú
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php, ,(7
-%2""joomla\cms\factory::getapplication*"
-joomla\cms\factory{y
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php, ,(F
-%3*
-
-%2*
-
-access2get}
-{
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php, ,(F
-%4"__sanitizing_cast*
-
-%3í
-è
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Module.php, ,(F%
-joomla\cms\table\module"
-access"__id*
-
-%4*
-2:%
-$dbjoomla\database\databasedriverB
-joomla\cms\table\module

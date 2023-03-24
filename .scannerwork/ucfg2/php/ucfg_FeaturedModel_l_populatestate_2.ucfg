@@ -1,30 +1,0 @@
-
-Ijoomla\component\content\administrator\model\featuredmodel::populatestatez
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/FeaturedModel.phpL L($"1*¬
-2
-FeaturedModel.php"‘
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/FeaturedModel.phpR R(
-implicit return*£
-1z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/FeaturedModel.phpN N(5¯
-¬
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/FeaturedModel.phpN N(4
-%1"Ijoomla\component\content\administrator\model\articlesmodel::populatestate*><
-:joomla\component\content\administrator\model\featuredmodel*
-
-	$ordering*
-
-
-$directionêç
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Model/FeaturedModel.phpQ Q(-
-%2*><
-:joomla\component\content\administrator\model\featuredmodel*
-filter.featured*22setstate*
-2:
-	$ordering:
-
-$directionB><
-:joomla\component\content\administrator\model\featuredmodel

@@ -1,36 +1,0 @@
-
-Cjoomla\plugin\system\debug\datacollector\infocollector::__constructr
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.php6 6("1*§
-2
-InfoCollector.php"â
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.php; ;(
-implicit return*è
-1r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.php8 8(&Ø
-¨
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.php6 6(	
-$params"__id*%
-#
-$paramsjoomla\registry\registry÷
-”
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.php8 8(%G8
-6joomla\plugin\system\debug\datacollector\infocollector"
-	requestId"__id*
-
-
-$requestIdÖ
-Ç
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/InfoCollector.php: :($
-%1"=joomla\plugin\system\debug\abstractdatacollector::__construct*:8
-6joomla\plugin\system\debug\datacollector\infocollector*
-	
-$params*
-2:#
-$paramsjoomla\registry\registry:
-
-$requestIdB:8
-6joomla\plugin\system\debug\datacollector\infocollector

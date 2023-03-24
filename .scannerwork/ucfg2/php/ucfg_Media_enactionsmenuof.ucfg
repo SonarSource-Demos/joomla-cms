@@ -1,63 +1,0 @@
-
-6step\acceptance\administrator\media::openactionsmenuof~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php” ”(%"1*®
-2
-	Media.php"ï
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php⁄ ⁄(
-implicit return*Ù
-1~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php’ ’(∏
-µ
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php’ ’(
-$I"__id*'%
-#step\acceptance\administrator\mediaç
-ä
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php÷ ÷(B
-%1"Bpage\acceptance\administrator\medialistpage::itemactionmenutoggler*/"-
-+page\acceptance\administrator\medialistpage*
-
-	$itemNameù
-ö
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php÷ ÷(B
-
-$toggler"__id*
-
-%1¸
-˘
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php◊ ◊(8
-%2"1page\acceptance\administrator\medialistpage::item*/"-
-+page\acceptance\administrator\medialistpage*
-
-	$itemName®•
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php◊ ◊(9
-%3*
-
-$I*
-
-%22movemouseover´®
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpÿ ÿ( 
-%4*
-
-$I*
-
-
-$toggler2
-seeelement¶£
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpŸ Ÿ(
-%5*
-
-$I*
-
-
-$toggler2click*
-2:
-	$itemNameB'%
-#step\acceptance\administrator\media

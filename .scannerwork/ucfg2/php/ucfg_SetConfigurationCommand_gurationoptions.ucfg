@@ -1,36 +1,0 @@
-
-Jjoomla\cms\console\setconfigurationcommand::getinitialconfigurationoptionsm
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.php   (2"1*å
-1m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.phpÃ Ã(.Ä~
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.phpÃ Ã(+
-%2"jconfigñ
-ì
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.phpÃ Ã(+
-%3"jconfig::__construct*
-
-%2íè
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.phpÃ Ã(-
-%1"joomla\registry\registryØ
-¨
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.phpÃ Ã(-
-%4"%joomla\registry\registry::__construct*
-
-%1*
-
-%2†
-ù
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.phpÃ Ã(.
-%5joomla\registry\registry"__id*
-
-%1"ë
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/SetConfigurationCommand.phpÃ Ã(. 
-
-%5joomla\registry\registryB.,
-*joomla\cms\console\setconfigurationcommand

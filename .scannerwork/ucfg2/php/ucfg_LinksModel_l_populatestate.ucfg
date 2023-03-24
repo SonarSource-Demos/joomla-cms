@@ -1,45 +1,0 @@
-
-Gjoomla\component\redirect\administrator\model\linksmodel::populatestatex
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpZ Z($"1*ß
-2
-LinksModel.php"è
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpb b(
-implicit return*á
-1x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php] ](=
-Ì
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php] ](<
-%1"/joomla\cms\component\componenthelper::getparams*("&
-$joomla\cms\component\componenthelper*
-com_redirectñ
-ì
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php] ](<	
-$params"__id*
-
-%1‰·
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.php^ ^(*
-%2*<:
-8joomla\component\redirect\administrator\model\linksmodel*
-
-params*
-	
-$params2setstateè
-å
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_redirect/src/Model/LinksModel.phpa a(4
-%3"-joomla\cms\mvc\model\listmodel::populatestate*<:
-8joomla\component\redirect\administrator\model\linksmodel*
-
-	$ordering*
-
-
-$direction*
-2:
-	$ordering:
-
-$directionB<:
-8joomla\component\redirect\administrator\model\linksmodel

@@ -1,39 +1,0 @@
-
-&joomla\cms\toolbar\toolbarhelper::linkc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpä ä("1*”
-2
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpé é(
-implicit return*æ
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpæ æ(/Ä
-Á
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpæ æ(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpæ æ(.
-$bar"__id*
-
-%1°­
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpè è(6
-%2*
-
-$bar*
-Link*	
-
-$name*	
-
-$text*
-
-$url2appendbutton*
-2:
-$url:
-$text:
-$nameB$"
- joomla\cms\toolbar\toolbarhelper

@@ -1,50 +1,0 @@
-
-;joomla\component\contact\site\service\category::__constructi
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Service/Category.php ("1*–
-2
-Category.php"€
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Service/Category.php$ $(
-implicit return*ê
-1i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Service/Category.php (6¯
-¬
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Service/Category.php (
-%1"__mapSet*
-
-
-$options*	
-table*
-#__contact_details¬
-©
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Service/Category.php   (
-%2"__mapSet*
-
-
-$options*
-	extension*
-com_contact«
-¨
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Service/Category.php! !(
-%3"__mapSet*
-
-
-$options*
-
-statefield*
-	publishedå
-â
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_contact/src/Service/Category.php# #(%
-%4"-joomla\cms\categories\categories::__construct*20
-.joomla\component\contact\site\service\category*
-
-
-$options*
-2:
-
-$optionsB20
-.joomla\component\contact\site\service\category

@@ -1,42 +1,0 @@
-
-:joomla\module\menu\administrator\menu\cssmenu::__constructm
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php\ \("1*™
-2
-CssMenu.php"„
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php` `(
-implicit return*¡
-1m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php^ ^(*Á
-¾
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php\ \(
-$application"__id*7
-5
-$application%joomla\cms\application\cmsapplicationÌ
-É
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php^ ^()@/
--joomla\module\menu\administrator\menu\cssmenu"
-application"__id*
-
-$applicationŸœ
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php_ _(1
-%1"%joomla\cms\menu\administratormenuitem´
-±
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php_ _(1
-%2"2joomla\cms\menu\administratormenuitem::__construct*
-
-%1»
-¸
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/modules/mod_menu/src/Menu/CssMenu.php_ _(19/
--joomla\module\menu\administrator\menu\cssmenu"
-root"__id*
-
-%1*
-2:5
-$application%joomla\cms\application\cmsapplicationB1/
--joomla\module\menu\administrator\menu\cssmenu

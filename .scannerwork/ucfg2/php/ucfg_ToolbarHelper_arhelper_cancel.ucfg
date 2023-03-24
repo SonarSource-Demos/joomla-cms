@@ -1,40 +1,0 @@
-
-(joomla\cms\toolbar\toolbarhelper::cancelc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpì ì(!"1*”
-2
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpò ò(
-implicit return*ö
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpî î(/Ä
-Á
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpî î(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpî î(.
-$bar"__id*
-
-%1À½
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpñ ñ(D
-%2*
-
-$bar*
-
-Standard*
-
-cancel*
-
-$alt*	
-
-$task*	
-false2appendbutton*
-2:
-$task:
-$altB$"
- joomla\cms\toolbar\toolbarhelper

@@ -1,32 +1,0 @@
-
-@joomla\component\fields\administrator\model\groupmodel::gettablev
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupModel.phpP P("1*Ñ
-1v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupModel.phpR R(:Ž
-‹
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupModel.phpR R(9
-%1")joomla\cms\mvc\model\adminmodel::gettable*:8
-6joomla\component\fields\administrator\model\groupmodel*	
-
-$name*
-	
-$prefix*
-
-
-$options§
-¤
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupModel.phpR R(:
-%2joomla\cms\table\table"__id*
-
-%1"˜
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/GroupModel.phpR R(:
-
-%2joomla\cms\table\table:
-$name:	
-$prefix:
-
-$optionsB:8
-6joomla\component\fields\administrator\model\groupmodel

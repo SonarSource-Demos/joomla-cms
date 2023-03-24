@@ -1,95 +1,0 @@
-
-Ojoomla\plugin\multifactorauth\fixed\extension\fixed::onusermultifactorgetmethodo
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.php^ ^(."1*ô
-2
-	Fixed.php"Ü
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpj j(
-implicit return*≈
-1o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.php` i(
-∏
-µ
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.php^ ^(.
-$event"__id*2
-0
-$event&joomla\cms\event\multifactor\getmethodÅ
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpb g(
-%2"$ArrayÃ
-…
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpc# c(7
-%3"__id*J*H5
-3joomla\plugin\multifactorauth\fixed\extension\fixed"
-mfaMethodNameû
-õ
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpb g(
-%4"__mapSet*
-
-%2*
-name*
-
-%3‰
-·
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpd# d(W
-%5"joomla\cms\language\text::_*"
-joomla\cms\language\text*-+
-)PLG_MULTIFACTORAUTH_FIXED_LBL_DISPLAYEDAS°
-û
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpb g(
-%6"__mapSet*
-
-%2*	
-display*
-
-%5‚
-ﬂ
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpe# e(U
-%7"joomla\cms\language\text::_*"
-joomla\cms\language\text*+)
-'PLG_MULTIFACTORAUTH_FIXED_LBL_SHORTINFO£
-†
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpb g(
-%8"__mapSet*
-
-%2*
-	shortinfo*
-
-%7Õ
- 
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpb g(
-%9"__mapSet*
-
-%2*	
-image*42
-0media/plg_multifactorauth_fixed/images/fixed.svgª∏
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpa h(
-%1"?joomla\component\users\administrator\datashape\methoddescriptorŸ
-÷
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.phpa h(
-%10"Ljoomla\component\users\administrator\datashape\methoddescriptor::__construct*
-
-%1*
-
-%2öó
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/fixed/src/Extension/Fixed.php` i(	
-%11*
-
-
-$event*
-
-%12	addresult*
-2:0
-$event&joomla\cms\event\multifactor\getmethodB75
-3joomla\plugin\multifactorauth\fixed\extension\fixed

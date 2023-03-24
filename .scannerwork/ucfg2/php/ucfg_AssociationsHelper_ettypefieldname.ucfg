@@ -1,60 +1,0 @@
-
-Wjoomla\component\associations\administrator\helper\associationshelper::gettypefieldname‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpö ö(+"1*¥
-2‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpù ù("•
-‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpù ù(	
-false*‹
-
-3‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpý ý(;Í
-Ê
-‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpý ý(:
-%2"Yjoomla\component\associations\administrator\helper\associationshelper::getextensionhelper*I"G
-Ejoomla\component\associations\administrator\helper\associationshelper*
-
-$extensionName¦
-£
-‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpý ý(:	
-$helper"__id*
-
-%2ÑÎ
-‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpÿ ÿ(?
-%3*
-	
-$helper*
-
-	$typeName*
-
-
-$fieldName2gettypefieldnameÝ
-Ú
-‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpÿ ÿ(@@
-%4:joomla\component\associations\administrator\helper\boolean"__id*
-
-%3"Î
-‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpÿ ÿ(@B
-@
-%4:joomla\component\associations\administrator\helper\boolean*Ý
-1‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpø ø(-Å
-Â
-‡
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_associations/src/Helper/AssociationsHelper.phpø ø(-
-%1"Qjoomla\component\associations\administrator\helper\associationshelper::hassupport*I"G
-Ejoomla\component\associations\administrator\helper\associationshelper*
-
-$extensionName*
-2
-3:
-$extensionName:
-	$typeName:
-
-$fieldNameBIG
-Ejoomla\component\associations\administrator\helper\associationshelper

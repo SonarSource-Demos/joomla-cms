@@ -1,34 +1,0 @@
-
-'joomla\cms\table\extension::__construct[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Extension.php5 5("1*à
-2
-Extension.php"r
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Extension.php; ;(
-implicit return*è
-1[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Extension.php7 7(Bñ
-ì
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Extension.php5 5(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverŸ
-÷
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Extension.php7 7(A
-%1"#joomla\cms\table\table::__construct*
-joomla\cms\table\extension*
-#__extensions*
-extension_id*
-
-$db≤Ø
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Extension.php: :(5
-%2*
-joomla\cms\table\extension*
-	published*	
-enabled2setcolumnalias*
-2:%
-$dbjoomla\database\databasedriverB
-joomla\cms\table\extension

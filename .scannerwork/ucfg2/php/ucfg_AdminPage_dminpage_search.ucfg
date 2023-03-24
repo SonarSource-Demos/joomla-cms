@@ -1,64 +1,0 @@
-
-/page\acceptance\administrator\adminpage::search€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpj j("1*¯
-2
-AdminPage.php"˜
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpq q(
-implicit return*½
-1€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpl l(¿
-¼
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpl l(
-$I"__id*+)
-'page\acceptance\administrator\adminpage½
-º
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpn n(5
-%1"__concat*
-search for "*
-
-
-$keyword*
-"§¤
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpn n(6
-%2*
-
-$I*
-
-%12	amgoingtoÒ
-Ï
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpo o(+
-%3"__id*>*<)
-'page\acceptance\administrator\adminpage"
-$filterSearchµ²
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpo o(6
-%4*
-
-$I*
-
-%3*
-
-
-$keyword2	fillfieldÐ
-Í
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpp p(%
-%5"__id*<*:)
-'page\acceptance\administrator\adminpage"
-$iconSearch£ 
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpp p(&
-%6*
-
-$I*
-
-%52click*
-2:
-
-$keywordB+)
-'page\acceptance\administrator\adminpage

@@ -1,28 +1,0 @@
-
-Bjoomla\component\finder\administrator\table\linktable::__constructu
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Table/LinkTable.php& &("1*£
-2
-LinkTable.php"Œ
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Table/LinkTable.php) )(
-implicit return*À
-1u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Table/LinkTable.php( ((?°
-­
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Table/LinkTable.php& &(
-$db"__id*'
-%
-$dbjoomla\database\databasedriver‹
-ˆ
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_finder/src/Table/LinkTable.php( ((>
-%1"#joomla\cms\table\table::__construct*97
-5joomla\component\finder\administrator\table\linktable*
-#__finder_links*	
-link_id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB97
-5joomla\component\finder\administrator\table\linktable

@@ -1,30 +1,0 @@
-
-Jjoomla\component\contenthistory\administrator\model\comparemodel::gettableÇ
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/CompareModel.phpã ã("1*ﬁ
-1Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/CompareModel.phpç ç(;Ù
-Ò
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/CompareModel.phpç ç(:
-%1"#joomla\cms\table\table::getinstance*"
-joomla\cms\table\table*	
-
-$type*
-	
-$prefix*
-	
-$config¥
-±
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/CompareModel.phpç ç(;
-%2joomla\cms\table\table"__id*
-
-%1"•
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Model/CompareModel.phpç ç(;
-
-%2joomla\cms\table\table:
-$type:	
-$prefix:	
-$configBDB
-@joomla\component\contenthistory\administrator\model\comparemodel

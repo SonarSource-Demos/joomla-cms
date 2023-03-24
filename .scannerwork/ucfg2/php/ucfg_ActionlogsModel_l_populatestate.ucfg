@@ -1,25 +1,0 @@
-
-Njoomla\component\actionlogs\administrator\model\actionlogsmodel::populatestate
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpH H($"1*≥
-2
-ActionlogsModel.php"ñ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpK K(
-implicit return*©
-1
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpJ J(5ù
-ö
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Model/ActionlogsModel.phpJ J(4
-%1"-joomla\cms\mvc\model\listmodel::populatestate*CA
-?joomla\component\actionlogs\administrator\model\actionlogsmodel*
-
-	$ordering*
-
-
-$direction*
-2:
-	$ordering:
-
-$directionBCA
-?joomla\component\actionlogs\administrator\model\actionlogsmodel

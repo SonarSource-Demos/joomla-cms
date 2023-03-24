@@ -1,50 +1,0 @@
-
-:joomla\plugin\system\debug\javascriptrenderer::__constructi
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php! !("1* 
-2
-JavascriptRenderer.php"€
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php) )(
-implicit return*ø
-1i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php# #(<£
- 
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php! !(
-	$debugBar"__id* 
-
-	$debugBardebugbar\debugbarý
-ú
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php# #(;
-%1"(debugbar\javascriptrenderer::__construct*1/
--joomla\plugin\system\debug\javascriptrenderer*
-
-	$debugBar*
-
-
-$baseUrl*
-
-	$basePathÍÊ
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php& &(/
-%2*1/
--joomla\plugin\system\debug\javascriptrenderer*	
-false2setenablejquerynoconflictÂ¿
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php' '(&
-%3*1/
--joomla\plugin\system\debug\javascriptrenderer*
-
-jquery2disablevendorÇÄ
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/JavascriptRenderer.php( ((+
-%4*1/
--joomla\plugin\system\debug\javascriptrenderer*
-fontawesome2disablevendor*
-2:
-	$debugBardebugbar\debugbar:
-
-$baseUrl:
-	$basePathB1/
--joomla\plugin\system\debug\javascriptrenderer

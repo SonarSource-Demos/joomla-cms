@@ -1,27 +1,0 @@
-
-Yjoomla\tests\unit\libraries\cms\uri\uritest::testisinternalschemeemptybuthostandportmatchd
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpà à(@"1*è
-2
-UriTest.php"{
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpé é(
-implicit return*í
-1d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpä ç(
-ø
-º
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpã ã(1
-%1"joomla\cms\uri\uri::isinternal*"
-joomla\cms\uri\uri*
-www.example.com:80ﬂ‹
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpä ç(	
-%2*/-
-+joomla\tests\unit\libraries\cms\uri\uritest*
-
-%1*)'
-%www.example.com:80 should be internal2
-asserttrue*
-2B/-
-+joomla\tests\unit\libraries\cms\uri\uritest

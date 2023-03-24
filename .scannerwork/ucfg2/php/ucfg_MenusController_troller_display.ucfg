@@ -1,18 +1,0 @@
-
-Hjoomla\component\menus\administrator\controller\menuscontroller::display
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenusController.php# #("1*•
-1
-MenusController.phpß
-Ü
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenusController.php# #(
-	$cachable"__id*F
-D
-	$cachable7joomla\component\menus\administrator\controller\boolean"–
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/MenusController.php% %(
-implicit return:D
-	$cachable7joomla\component\menus\administrator\controller\boolean:
-
-$urlparamsBCA
-?joomla\component\menus\administrator\controller\menuscontroller

@@ -1,39 +1,0 @@
-
-plgsystemstats::getrendererZ
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpµ µ(""1*„
-1Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php∑ ∑(.äá
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php∑ ∑(-
-	$renderer"joomla\cms\layout\filelayoutÆ
-´
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.php∑ ∑(-
-%1")joomla\cms\layout\filelayout::__construct*
-
-	$renderer*
-
-	$layoutIdâÜ
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpπ# π(:
-%2*
-plgsystemstats2getlayoutpathsçä
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpπ π(;
-%3*
-
-	$renderer*
-
-%22setincludepathsù
-ö
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpª ª('
-%4!joomla\cms\layout\layoutinterface"__id*
-
-	$renderer"á
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/stats/stats.phpª ª()
-'
-%4!joomla\cms\layout\layoutinterface:
-	$layoutIdB
-plgsystemstats

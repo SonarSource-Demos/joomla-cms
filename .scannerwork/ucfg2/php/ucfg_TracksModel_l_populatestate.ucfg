@@ -1,39 +1,0 @@
-
-Gjoomla\component\banners\administrator\model\tracksmodel::populatestatex
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/TracksModel.phpJ J($"1*®
-2
-TracksModel.php"è
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/TracksModel.phpQ Q(
-implicit return*Ë
-1x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/TracksModel.phpM M(MÔ
-Ï
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/TracksModel.phpM" M(K
-%1"/joomla\cms\component\componenthelper::getparams*("&
-$joomla\cms\component\componenthelper*
-com_bannersﬂ‹
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/TracksModel.phpM M(L
-%2*<:
-8joomla\component\banners\administrator\model\tracksmodel*
-
-params*
-
-%12setstateè
-å
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Model/TracksModel.phpP P(4
-%3"-joomla\cms\mvc\model\listmodel::populatestate*<:
-8joomla\component\banners\administrator\model\tracksmodel*
-
-	$ordering*
-
-
-$direction*
-2:
-	$ordering:
-
-$directionB<:
-8joomla\component\banners\administrator\model\tracksmodel

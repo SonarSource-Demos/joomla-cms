@@ -1,6 +1,0 @@
-projectKey=joomla-cms
-serverUrl=https://nautilus.sonarqube.org
-serverVersion=9.6.1.59531
-dashboardUrl=https://nautilus.sonarqube.org/dashboard?id=joomla-cms
-ceTaskId=AYNl2JRZSTltQnmNtvlA
-ceTaskUrl=https://nautilus.sonarqube.org/api/ce/task?id=AYNl2JRZSTltQnmNtvlA

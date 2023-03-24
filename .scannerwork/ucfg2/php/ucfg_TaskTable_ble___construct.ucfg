@@ -1,34 +1,0 @@
-
-Ejoomla\component\scheduler\administrator\table\tasktable::__constructx
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Table/TaskTable.phpK K("1*¶
-2
-TaskTable.php"è
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Table/TaskTable.phpP P(
-implicit return*∏
-1x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Table/TaskTable.phpM M(4≥
-∞
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Table/TaskTable.phpK K(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverÎË
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Table/TaskTable.phpM M(3
-%1*<:
-8joomla\component\scheduler\administrator\table\tasktable*
-	published*	
-state2setcolumnaliasè
-å
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_scheduler/src/Table/TaskTable.phpO O(<
-%2"#joomla\cms\table\table::__construct*<:
-8joomla\component\scheduler\administrator\table\tasktable*
-#__scheduler_tasks*
-id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB<:
-8joomla\component\scheduler\administrator\table\tasktable

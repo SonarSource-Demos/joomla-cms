@@ -1,30 +1,0 @@
-
-Pjoomla\component\workflow\administrator\controller\workflowscontroller::getmodel†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/WorkflowsController.phpZ Z("1*Î
-1†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/WorkflowsController.php\ \(9¸
-µ
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/WorkflowsController.php\ \(8
-%1"3joomla\cms\mvc\controller\admincontroller::getmodel*JH
-Fjoomla\component\workflow\administrator\controller\workflowscontroller*	
-
-$name*
-	
-$prefix*
-	
-$configÈ
-Å
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/WorkflowsController.php\ \(9,
-%2&joomla\cms\mvc\model\basedatabasemodel"__id*
-
-%1"¹
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/WorkflowsController.php\ \(9.
-,
-%2&joomla\cms\mvc\model\basedatabasemodel:
-$name:	
-$prefix:	
-$configBJH
-Fjoomla\component\workflow\administrator\controller\workflowscontroller

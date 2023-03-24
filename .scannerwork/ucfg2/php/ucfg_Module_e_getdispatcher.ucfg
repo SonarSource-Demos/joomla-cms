@@ -1,81 +1,0 @@
-
-*joomla\cms\extension\module::getdispatcher\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpE E(!"1*Ÿ
-2\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpJ J(@¡
-ž
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpJ* J(>
-%3"__id*2*0
-joomla\cms\extension\module"
-helperFactory’
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpJ J(?
-%4*
-
-$dispatcher*
-
-%32sethelperfactory*
-3*¡
-3\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpM M(©
-¦
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpM M(/
-%5)joomla\cms\dispatcher\dispatcherinterface"__id*
-
-$dispatcher"‘
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpM M(1
-/
-%5)joomla\cms\dispatcher\dispatcherinterface*›
-1\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpG G(`‰
-†
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpE E(!	
-$module"__id*
-
-$modulestdclass¹
-¶
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpE E(!
-$application"__id*@
->
-$application.joomla\cms\application\cmsapplicationinterface‘
-Ž
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpE E(!
-$input"__id*
-
-$inputjoomla\input\input¥
-¢
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpG G(.
-%1"__id*6*4
-joomla\cms\extension\module"
-dispatcherFactory¬©
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpG G(_
-%2*
-
-%1*
-	
-$module*
-
-$application*
-
-
-$input2createdispatcher}
-{
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpG G(_
-$dispatcher"__id*
-
-%2*
-2
-3:
-$modulestdclass:>
-$application.joomla\cms\application\cmsapplicationinterface:
-$inputjoomla\input\inputB
-joomla\cms\extension\module

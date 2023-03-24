@@ -1,40 +1,0 @@
-
-Yjoomla\component\fields\administrator\controller\fieldcontroller::getredirecttoitemappendÇ
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpõ õ(."1*‘	
-1Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpù ù(a‰
-·
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpõ õ(.
-	$recordId"__id*G
-E
-	$recordId8joomla\component\fields\administrator\controller\integer¶
-£
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpù ù(9
-%1"Ajoomla\cms\mvc\controller\formcontroller::getredirecttoitemappend*DB
-@joomla\component\fields\administrator\controller\fieldcontroller*
-
-	$recordIdÔ
-Ï
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpùJ ù(`
-%2"__id*Y*WB
-@joomla\component\fields\administrator\controller\fieldcontroller"
-internalContext∑
-¥
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpù ù(`
-%3"__concat*
-
-%1*
-	&context=*
-
-%2"ç
-Ç
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Controller/FieldController.phpù ù(a
-
-%3:E
-	$recordId8joomla\component\fields\administrator\controller\integer:	
-$urlVarBDB
-@joomla\component\fields\administrator\controller\fieldcontroller

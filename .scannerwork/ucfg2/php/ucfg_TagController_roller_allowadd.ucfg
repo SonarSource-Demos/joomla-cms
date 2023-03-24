@@ -1,36 +1,0 @@
-
-Fjoomla\component\tags\administrator\controller\tagcontroller::allowadd|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php" "("1*È
-1|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php$ $(OØ
-Õ
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php$ $(
-%1"__id*I*G>
-<joomla\component\tags\administrator\controller\tagcontroller"
-appœ™
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php$ $((
-%2*
-
-%12getidentity¹¶
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php$ $(N
-%3*
-
-%2*
-core.create*
-
-com_tags2	authoriseÍ
-Ê
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php$ $(O<
-%46joomla\component\tags\administrator\controller\boolean"__id*
-
-%3"¾
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Controller/TagController.php$ $(O>
-<
-%46joomla\component\tags\administrator\controller\boolean:
-$dataB@>
-<joomla\component\tags\administrator\controller\tagcontroller

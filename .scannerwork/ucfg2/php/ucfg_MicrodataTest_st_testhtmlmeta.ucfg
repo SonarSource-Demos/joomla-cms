@@ -1,134 +1,0 @@
-
-Ejoomla\tests\unit\libraries\cms\microdata\microdatatest::testhtmlmetap
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php˚ ˚( "1*¢
-2
-MicrodataTest.php"á
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpí í(
-implicit return*µ
-1p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php˝ ˝(í
-è
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php˝ ˝(
-$scope"__id*	
-Articleï
-í
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php˛ ˛(
-
-$content"__id*
-
-anythingõ
-ò
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpˇ ˇ(#
-	$property"__id*
-datePublishedå
-â
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÉ É(k
-%1"__concat*1/
--<meta itemscope itemtype='https://schema.org/*
-' itemprop='*
-' content='*
-'>*
-
-
-$scope*
-
-	$property*
-
-
-$content§
-°
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÑ Ñ(@
-%2"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlmeta*;"9
-7joomla\tests\unit\libraries\cms\microdata\microdatastub*
-
-
-$content*
-
-	$property*
-
-
-$scope÷”
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpÇ Ö(	
-%3*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*
-
-%1*
-
-%22assertequalså
-â
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpâ â(k
-%4"__concat*
-<meta itemprop='*-+
-)' itemscope itemtype='https://schema.org/*
-' content='*
-'>*
-
-	$property*
-
-
-$scope*
-
-
-$contentÆ
-´
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpä ä(F
-%5"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlmeta*;"9
-7joomla\tests\unit\libraries\cms\microdata\microdatastub*
-
-
-$content*
-
-	$property*
-
-
-$scope*
-true÷”
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpà ã(	
-%6*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*
-
-%4*
-
-%52assertequals—
-Œ
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpè è(<
-%7"__concat*
-<meta itemprop='*
-' content='*
-'>*
-
-	$property*
-
-
-$contentò
-ï
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpê ê(8
-%8"Ajoomla\tests\unit\libraries\cms\microdata\microdatastub::htmlmeta*;"9
-7joomla\tests\unit\libraries\cms\microdata\microdatastub*
-
-
-$content*
-
-	$property÷”
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpé ë(	
-%9*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*
-
-%7*
-
-%82assertequals*
-2B;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest

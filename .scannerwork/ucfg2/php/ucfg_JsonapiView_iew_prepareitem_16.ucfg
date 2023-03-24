@@ -1,56 +1,0 @@
-
-Cjoomla\component\templates\api\view\styles\jsonapiview::prepareitemv
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpC C(""1*Ô
-3v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpI I(*ˆ
-Û
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpI I()
-%4",joomla\cms\mvc\view\jsonapiview::prepareitem*:8
-6joomla\component\templates\api\view\styles\jsonapiview*	
-
-$item¬
-ø
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpI I(*7
-%51joomla\component\templates\api\view\styles\object"__id*
-
-%4"≥
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpI I(*9
-7
-%51joomla\component\templates\api\view\styles\object*¶
-4
-JsonapiView.php"ç
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpJ J(
-implicit return*·
-1v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpE E(H»
-≈
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpC C("
-$item"__id*<
-:
-$item1joomla\component\templates\api\view\styles\object°
-û
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpE E(
-%1"__id**
-
-$item"
-	client_id«ƒ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpE  E(1
-%2*:8
-6joomla\component\templates\api\view\styles\jsonapiview2getmodel¢ü
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_templates/src/View/Styles/JsonapiView.phpE  E(H
-%3*
-
-%2*
-	client_id2getstate*
-3
-4::
-$item1joomla\component\templates\api\view\styles\objectB:8
-6joomla\component\templates\api\view\styles\jsonapiview

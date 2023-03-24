@@ -1,56 +1,0 @@
-
-)joomla\cms\html\helpers\dropdown::untrashc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpé é(""1*è
-2
-Dropdown.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpí í(
-implicit return*Œ
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpê ê($í
-è
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpê ê(#
-%1"__concat*
-	
-$prefix*	
-publish~
-|
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpê ê(#
-$task"__id*
-
-%1ø
-º
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpë ë(9
-%2"joomla\cms\language\text::_*"
-joomla\cms\language\text*
-JTOOLBAR_UNTRASH 
-«
-d
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpëQ ë(ñ
-%3"__concat*
-onclick="contextAction(\'*
-
-$checkboxId*
-
-\', \'*	
-
-$task*
-\')"∫
-∑
-d
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/Dropdown.phpë ë(ó
-%4"static::addcustomitem*
-"
-static*
-
-%2*
-javascript:void(0)*
-
-%3*
-2:
-$checkboxId:	
-$prefixB$"
- joomla\cms\html\helpers\dropdown

@@ -1,80 +1,0 @@
-
-&joomla\cms\form\field\filefield::setup`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpe e("1*À
-2`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpj j(>£
-†
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpj% j(3
-%2"__id*0*.!
-joomla\cms\form\field\filefield"	
-elementâ
-Ü
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpj% j(=
-%3"__mapGet*
-
-%2*
-
-acceptá
-Ñ
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpj j(=
-%4"__passthrough_cast*
-
-%3¢
-ü
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpj j(=-!
-joomla\cms\form\field\filefield"
-accept"__id*
-
-%4*
-3*ë
-3`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpm m(ù
-ö
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpm m(#
-%5joomla\cms\form\field\boolean"__id*
-	
-$return"â
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpm m(%
-#
-%5joomla\cms\form\field\boolean*·
-1`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpg g(:ó
-î
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpe e(
-
-$element"__id*
-
-$elementsimplexmlelementÿ
-’
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpg g(9
-%1" joomla\cms\form\formfield::setup*#!
-joomla\cms\form\field\filefield*
-
-
-$element*
-
-
-$value*
-
-
-$group}
-{
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/FileField.phpg g(9	
-$return"__id*
-
-%1*
-2
-3:
-$elementsimplexmlelement:
-$value:
-$groupB#!
-joomla\cms\form\field\filefield

@@ -1,25 +1,0 @@
-
-+joomla\cms\document\errordocument::seterrorb
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ErrorDocument.phpF F("1*×
-2b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ErrorDocument.phpI I(%"n
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ErrorDocument.phpK K(
-true*Ø
-3b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ErrorDocument.phpN N("o
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ErrorDocument.phpN N(	
-false*€
-1b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ErrorDocument.phpH H((Ž
-‹
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ErrorDocument.phpF F(
-$error"__id*
-
-$error	throwable*
-2
-3:
-$error	throwableB%#
-!joomla\cms\document\errordocument

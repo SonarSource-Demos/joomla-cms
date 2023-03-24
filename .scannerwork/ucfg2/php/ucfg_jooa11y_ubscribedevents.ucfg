@@ -1,48 +1,0 @@
-
-%plgsystemjooa11y::getsubscribedevents\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php3 3(."1*’
-2\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php9 9(<©
-¦
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php9 9(+
-%4"__mapSet*
-
-
-$mapping*
-onBeforeCompileHead*
-initJooa11y*
-3*Ï
-3\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php< <("l
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php< <(
-
-
-$mapping*
-1\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php5 5(nl
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php5 5(
-%1"$Arrayz
-x
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php5 5(
-
-$mapping"__id*
-
-%1£
- 
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php8 8(%
-%2""joomla\cms\factory::getapplication*"
-joomla\cms\factoryƒ€
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/jooa11y/jooa11y.php8 8(7
-%3*
-
-%2*
-site2isclient*
-2
-3B
-plgsystemjooa11y

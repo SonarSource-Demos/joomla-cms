@@ -1,33 +1,0 @@
-
-Djoomla\component\users\administrator\model\mailmodel::preprocessformt
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/MailModel.phpU U(%"1*¢
-2
-MailModel.php"‹
-t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/MailModel.phpX X(
-implicit return*¹
-1t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/MailModel.phpW W(5©
-¦
-t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/MailModel.phpU U(%
-$form"__id*
-
-$formjoomla\cms\form\formŒ
-‰
-t
-j/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Model/MailModel.phpW W(4
-%1"/joomla\cms\mvc\model\adminmodel::preprocessform*86
-4joomla\component\users\administrator\model\mailmodel*	
-
-$form*	
-
-$data*
-
-
-$group*
-2:
-$formjoomla\cms\form\form:
-$data:
-$groupB86
-4joomla\component\users\administrator\model\mailmodel

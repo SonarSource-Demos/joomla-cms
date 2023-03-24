@@ -1,76 +1,0 @@
-
-Ojoomla\component\installer\administrator\controller\discovercontroller::refresh†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php   ("1*’
-2†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php) )(_ÿ
-ü
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php) )(U
-%5"joomla\cms\language\text::_*"
-joomla\cms\language\text*0.
-,COM_INSTALLER_ERROR_NO_EXTENSIONS_DISCOVEREDüù
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php) )(^
-%6*JH
-Fjoomla\component\installer\administrator\controller\discovercontroller*
-
-%5*
-info2
-setmessage*
-3*’
-3†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php, ,(\ˆ
-…
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php, ,(Z
-%7"joomla\cms\router\route::_*"
-joomla\cms\router\route*0.
-,index.php?option=com_installer&view=discover*	
-falseóð
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php, ,([
-%8*JH
-Fjoomla\component\installer\administrator\controller\discovercontroller*
-
-%72setredirect*
-4*¾
-4
-DiscoverController.php"ž
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php- -(
-implicit return*„	
-1†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php" "(%÷ô
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php" "($
-%1*JH
-Fjoomla\component\installer\administrator\controller\discovercontroller*	
-request2
-checktokenöó
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php% %(,
-%2*JH
-Fjoomla\component\installer\administrator\controller\discovercontroller*
-
-discover2getmodel¤
-¡
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php% %(,
-$model"__id*
-
-%2¨¥
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php& &(
-%3*
-
-
-$model2discover¨¥
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/Controller/DiscoverController.php( ((
-%4*
-
-
-$model2gettotal*
-2
-3BJH
-Fjoomla\component\installer\administrator\controller\discovercontroller

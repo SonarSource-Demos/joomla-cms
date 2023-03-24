@@ -1,30 +1,0 @@
-
-Tjoomla\component\contenthistory\administrator\controller\previewcontroller::getmodel‹
-€/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Controller/PreviewController.php! !("1*å
-1‹
-€/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Controller/PreviewController.php# #(9À
-½
-‹
-€/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Controller/PreviewController.php# #(8
-%1"2joomla\cms\mvc\controller\basecontroller::getmodel*NL
-Jjoomla\component\contenthistory\administrator\controller\previewcontroller*	
-
-$name*
-	
-$prefix*
-	
-$configÍ
-Ê
-‹
-€/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Controller/PreviewController.php# #(9,
-%2&joomla\cms\mvc\model\basedatabasemodel"__id*
-
-%1"¾
-‹
-€/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contenthistory/src/Controller/PreviewController.php# #(9.
-,
-%2&joomla\cms\mvc\model\basedatabasemodel:
-$name:	
-$prefix:	
-$configBNL
-Jjoomla\component\contenthistory\administrator\controller\previewcontroller

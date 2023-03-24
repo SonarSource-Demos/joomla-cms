@@ -1,30 +1,0 @@
-
-Gjoomla\component\categories\administrator\model\categorymodel::gettable
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpô ô("1*˚
-1
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpõ õ(9ù
-ö
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpõ õ(8
-%1")joomla\cms\mvc\model\adminmodel::gettable*A?
-=joomla\component\categories\administrator\model\categorymodel*	
-
-$type*
-	
-$prefix*
-	
-$config∞
-≠
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpõ õ(9
-%2joomla\cms\table\table"__id*
-
-%1"°
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_categories/src/Model/CategoryModel.phpõ õ(9
-
-%2joomla\cms\table\table:
-$type:	
-$prefix:	
-$configBA?
-=joomla\component\categories\administrator\model\categorymodel

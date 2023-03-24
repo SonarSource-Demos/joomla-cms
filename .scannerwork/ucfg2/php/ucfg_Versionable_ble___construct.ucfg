@@ -1,63 +1,0 @@
-
-Fjoomla\plugin\behaviour\versionable\extension\versionable::__constructu
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpJ J("1*•
-2
-Versionable.php"å
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpP P(
-implicit return*ê
-1u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpL L(2¬
-ø
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpJ J(
-$dispatcher"__id*1
-/
-$dispatcher joomla\event\dispatcherinterfaceü
-ú
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpJ J(	
-$config"__id*
-
-$configarray≥
-∞
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpJ J(	
-$filter"__id*&
-$
-$filterjoomla\filter\inputfilterµ
-≤
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpJ J(	
-$helper"__id*(
-&
-$helperjoomla\cms\helper\cmshelperá
-Ñ
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpL L(1
-%1"(joomla\cms\plugin\cmsplugin::__construct*=;
-9joomla\plugin\behaviour\versionable\extension\versionable*
-
-$dispatcher*
-	
-$config÷
-”
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpN N(G;
-9joomla\plugin\behaviour\versionable\extension\versionable"
-filter"__id*
-	
-$filter÷
-”
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/behaviour/versionable/src/Extension/Versionable.phpO O(G;
-9joomla\plugin\behaviour\versionable\extension\versionable"
-helper"__id*
-	
-$helper*
-2:/
-$dispatcher joomla\event\dispatcherinterface:
-$configarray:$
-$filterjoomla\filter\inputfilter:&
-$helperjoomla\cms\helper\cmshelperB=;
-9joomla\plugin\behaviour\versionable\extension\versionable

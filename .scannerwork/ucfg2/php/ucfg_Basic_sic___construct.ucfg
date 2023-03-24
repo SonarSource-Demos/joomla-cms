@@ -1,49 +1,0 @@
-
-Bjoomla\plugin\apiauthentication\basic\extension\basic::__constructr
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php. .("1*œ
-2
-	Basic.php"‰
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php3 3(
-implicit return*„	
-1r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php0 0(2¿
-¼
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php. .(
-$dispatcher"__id*1
-/
-$dispatcher joomla\event\dispatcherinterfaceœ
-™
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php. .(	
-$config"__id*
-
-$configarrayÅ
-Â
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php. .(
-$userFactory"__id*6
-4
-$userFactory$joomla\cms\user\userfactoryinterface€
-ý
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php0 0(1
-%1"(joomla\cms\plugin\cmsplugin::__construct*97
-5joomla\plugin\apiauthentication\basic\extension\basic*
-
-$dispatcher*
-	
-$configÙ
-Ö
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/api-authentication/basic/src/Extension/Basic.php2 2()H7
-5joomla\plugin\apiauthentication\basic\extension\basic"
-userFactory"__id*
-
-$userFactory*
-2:/
-$dispatcher joomla\event\dispatcherinterface:
-$configarray:4
-$userFactory$joomla\cms\user\userfactoryinterfaceB97
-5joomla\plugin\apiauthentication\basic\extension\basic

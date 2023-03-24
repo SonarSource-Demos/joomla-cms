@@ -1,40 +1,0 @@
-
-(joomla\cms\router\apirouter::__construct\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/ApiRouter.php) )("1*â
-2
-ApiRouter.php"s
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/ApiRouter.php. .(
-implicit return*Î
-1\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/ApiRouter.php+ +(©
-¶
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/ApiRouter.php) )(
-$app"__id*8
-6
-$app.joomla\cms\application\cmsapplicationinterfaceÅ
-
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/ApiRouter.php) )(
-$maps"__id*
-
-$mapsarrayô
-ñ
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/ApiRouter.php+ +(&
-joomla\cms\router\apirouter"
-app"__id*
-
-$app∂
-≥
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Router/ApiRouter.php- -("
-%1"!joomla\router\router::__construct*
-joomla\cms\router\apirouter*	
-
-$maps*
-2:6
-$app.joomla\cms\application\cmsapplicationinterface:
-$mapsarrayB
-joomla\cms\router\apirouter

@@ -1,46 +1,0 @@
-
-Hjoomla\plugin\quickicon\joomlaupdate\extension\joomlaupdate::__constructw
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/joomlaupdate/src/Extension/Joomlaupdate.phpG G("1*¨
-2
-Joomlaupdate.php"Ž
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/joomlaupdate/src/Extension/Joomlaupdate.phpL L(
-implicit return*í
-1w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/joomlaupdate/src/Extension/Joomlaupdate.phpI I(/¾
-»
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/joomlaupdate/src/Extension/Joomlaupdate.phpG G(
-
-$subject"__id*.
-,
-$subject joomla\event\dispatcherinterface¼
-¹
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/joomlaupdate/src/Extension/Joomlaupdate.phpG G(
-	$document"__id*+
-)
-	$documentjoomla\cms\document\documentˆ
-…
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/joomlaupdate/src/Extension/Joomlaupdate.phpI I(.
-%1"(joomla\cms\plugin\cmsplugin::__construct*?=
-;joomla\plugin\quickicon\joomlaupdate\extension\joomlaupdate*
-
-
-$subject*
-	
-$configÞ
-Û
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/quickicon/joomlaupdate/src/Extension/Joomlaupdate.phpK K(#K=
-;joomla\plugin\quickicon\joomlaupdate\extension\joomlaupdate"
-
-document"__id*
-
-	$document*
-2:,
-$subject joomla\event\dispatcherinterface:)
-	$documentjoomla\cms\document\document:	
-$configB?=
-;joomla\plugin\quickicon\joomlaupdate\extension\joomlaupdate

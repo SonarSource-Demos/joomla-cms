@@ -1,62 +1,0 @@
-
-Sjoomla\component\templates\administrator\controller\templatecontroller::__construct†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php+ +("1*¾
-2
-TemplateController.php"ž
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php3 3(
-implicit return*ä
-1†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php- -(=Ø
-Õ
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php+ +(
-
-$factory"__id*8
-6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÆ
-Ã
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php- -(<
-%1"5joomla\cms\mvc\controller\basecontroller::__construct*JH
-Fjoomla\component\templates\administrator\controller\templatecontroller*
-	
-$config*
-
-
-$factory*
-
-$app*
-
-
-$inputþ
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php/ /(,
-%2*JH
-Fjoomla\component\templates\administrator\controller\templatecontroller*	
-apply*
-save2registertaskˆ…
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php0 0(3
-%3*JH
-Fjoomla\component\templates\administrator\controller\templatecontroller*
-	unpublish*	
-publish2registertask†ƒ
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php1 1(1
-%4*JH
-Fjoomla\component\templates\administrator\controller\templatecontroller*	
-publish*	
-publish2registertask”‘
-†
-|/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_templates/src/Controller/TemplateController.php2 2(?
-%5*JH
-Fjoomla\component\templates\administrator\controller\templatecontroller*
-deleteOverrideHistory*	
-publish2registertask*
-2:	
-$config:6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
-$app:
-$inputBJH
-Fjoomla\component\templates\administrator\controller\templatecontroller

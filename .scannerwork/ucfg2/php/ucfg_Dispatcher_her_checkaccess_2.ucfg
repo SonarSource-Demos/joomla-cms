@@ -1,47 +1,0 @@
-
->joomla\component\media\site\dispatcher\dispatcher::checkaccessl
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php/ /(""1*¦
-2l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php6 6(<­ª
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php6 6(<
-%4*	
-
-$user*
-core.create*
-	com_media2	authorise*
-4*›
-4
-Dispatcher.php"ƒ
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php: :(
-implicit return*ƒ
-1l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php1 1(*½
-º
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php1 1(
-%1"__id*>*<3
-1joomla\component\media\site\dispatcher\dispatcher"
-appŒ‰
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php1 1()
-%2*
-
-%12getidentityˆ
-…
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php1 1()
-$user"__id*
-
-%2­ª
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_media/src/Dispatcher/Dispatcher.php5 5(9
-%3*	
-
-$user*
-core.manage*
-	com_media2	authorise*
-2
-4B53
-1joomla\component\media\site\dispatcher\dispatcher

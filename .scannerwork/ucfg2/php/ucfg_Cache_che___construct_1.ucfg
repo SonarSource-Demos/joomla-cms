@@ -1,88 +1,0 @@
-
-7joomla\plugin\system\cache\extension\cache::__constructf
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php` `("1*è
-2
-	Cache.php"}
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpo o(
-implicit return*•
-1f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpi i()≠
-™
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php` `(
-
-$subject"__id*.
-,
-$subject joomla\event\dispatcherinterface¡
-æ
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php` `(
-$documentFactory"__id*:
-8
-$documentFactory$joomla\cms\document\factoryinterface€
-ÿ
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php` `(
-$cacheControllerFactory"__id*M
-K
-$cacheControllerFactory0joomla\cms\cache\cachecontrollerfactoryinterface´
-®
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php` `(
-	$profiler"__id*+
-)
-	$profilerjoomla\cms\profiler\profilerß
-§
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.php` `(	
-$router"__id*)
-'
-$routerjoomla\cms\router\siterouterÊ
-„
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpi i((
-%1"(joomla\cms\plugin\cmsplugin::__construct*.,
-*joomla\plugin\system\cache\extension\cache*
-
-
-$subject*
-	
-$config 
-«
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpk k(2A,
-*joomla\plugin\system\cache\extension\cache"
-documentFactory"__id*
-
-$documentFactoryÿ
-’
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpl l(9H,
-*joomla\plugin\system\cache\extension\cache"
-cacheControllerFactory"__id*
-
-$cacheControllerFactoryº
-π
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpm m(+:,
-*joomla\plugin\system\cache\extension\cache"
-
-profiler"__id*
-
-	$profiler∏
-µ
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/cache/src/Extension/Cache.phpn n()8,
-*joomla\plugin\system\cache\extension\cache"
-router"__id*
-	
-$router*
-2:,
-$subject joomla\event\dispatcherinterface:	
-$config:8
-$documentFactory$joomla\cms\document\factoryinterface:K
-$cacheControllerFactory0joomla\cms\cache\cachecontrollerfactoryinterface:)
-	$profilerjoomla\cms\profiler\profiler:'
-$routerjoomla\cms\router\siterouterB.,
-*joomla\plugin\system\cache\extension\cache

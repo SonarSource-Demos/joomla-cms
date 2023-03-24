@@ -1,66 +1,0 @@
-
-1joomla\cms\mvc\factory\apimvcfactory::createtablee
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php7 7("1*Î
-2e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php< <(Jı
-Ú
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php< <(I
-%2".joomla\cms\mvc\factory\mvcfactory::createtable*(&
-$joomla\cms\mvc\factory\apimvcfactory*	
-
-$name*
-Administrator*
-	
-$configÅ
-
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php< <(I
-$table"__id*
-
-%2*
-3*ë
-3e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php? ?(ö
-ó
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php? ?(
-%3joomla\cms\table\table"__id*
-
-
-$table"á
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php? ?(
-
-%3joomla\cms\table\table*˙
-1e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php9 9(>è
-å
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php7 7(	
-$config"__id*
-
-$configarrayÔ
-Ï
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php9 9(=
-%1".joomla\cms\mvc\factory\mvcfactory::createtable*(&
-$joomla\cms\mvc\factory\apimvcfactory*	
-
-$name*
-	
-$prefix*
-	
-$configÅ
-
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/ApiMVCFactory.php9 9(=
-$table"__id*
-
-%1*
-2
-3:
-$name:	
-$prefix:
-$configarrayB(&
-$joomla\cms\mvc\factory\apimvcfactory

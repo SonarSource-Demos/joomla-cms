@@ -1,47 +1,0 @@
-
-Njoomla\component\languages\administrator\controller\overridescontroller::purge‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpJ J("1*À
-2
-OverridesController.php"Ÿ
-‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpS S(
-implicit return*Ó
-1‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpM M(ìé
-‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpM M(
-%1*KI
-Gjoomla\component\languages\administrator\controller\overridescontroller2
-checktokenùö
-‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpP P(-
-%2*KI
-Gjoomla\component\languages\administrator\controller\overridescontroller*
-	overrides2getmodel¥
-¢
-‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpP P(-
-$model"__id*
-
-%2¦£
-‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpQ Q(
-%3*
-
-
-$model2purgeŠ
-‡
-‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpR R([
-%4"joomla\cms\router\route::_*"
-joomla\cms\router\route*1/
--index.php?option=com_languages&view=overrides*	
-falseõò
-‡
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_languages/src/Controller/OverridesController.phpR R(\
-%5*KI
-Gjoomla\component\languages\administrator\controller\overridescontroller*
-
-%42setredirect*
-2BKI
-Gjoomla\component\languages\administrator\controller\overridescontroller

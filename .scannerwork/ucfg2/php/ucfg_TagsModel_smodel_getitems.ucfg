@@ -1,52 +1,0 @@
-
-=joomla\component\tags\administrator\model\tagsmodel::getitemsu
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpè è("1*ÿ
-2u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpî î(=Ÿ÷
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpî î(<
-%2*75
-3joomla\component\tags\administrator\model\tagsmodel*
-filter.extension2getstateñ
-ì
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpî î(<
-
-$extension"__id*
-
-%2·ﬁ
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpñ ñ(1
-%3*75
-3joomla\component\tags\administrator\model\tagsmodel*
-
-
-$items*
-
-
-$extension2
-countitems*
-3*Ä
-3u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpô ô("É
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpô ô(
-
-
-$items*˝
-1u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpë ë($„
-‡
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpë ë(#
-%1"(joomla\cms\mvc\model\listmodel::getitems*75
-3joomla\component\tags\administrator\model\tagsmodelí
-è
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Model/TagsModel.phpë ë(#
-$items"__id*
-
-%1*
-2
-3B75
-3joomla\component\tags\administrator\model\tagsmodel

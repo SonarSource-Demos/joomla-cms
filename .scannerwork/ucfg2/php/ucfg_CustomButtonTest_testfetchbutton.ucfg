@@ -1,43 +1,0 @@
-
-Pjoomla\tests\unit\libraries\cms\toolbar\button\custombuttontest::testfetchbuttonv
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php   (#"1*´
-2
-CustomButtonTest.php"ç
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php& &(
-implicit return*Í
-1v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php" "(%Æ´
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php" "($	
-$button"&joomla\cms\toolbar\button\custombutton√
-¿
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php" "($
-%1"3joomla\cms\toolbar\button\custombutton::__construct*
-	
-$button—
-Œ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php# #(S
-$html"__id*EC
-A<div class="custom-button"><a href="#">My Custom Button</a></div>≤Ø
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php%# %(H
-%2*
-	
-$button*
-
-Custom*	
-
-$html2fetchbuttonÁ‰
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Toolbar/Button/CustomButtonTest.php% %(I
-%3*CA
-?joomla\tests\unit\libraries\cms\toolbar\button\custombuttontest*	
-
-$html*
-
-%22assertequals*
-2BCA
-?joomla\tests\unit\libraries\cms\toolbar\button\custombuttontest

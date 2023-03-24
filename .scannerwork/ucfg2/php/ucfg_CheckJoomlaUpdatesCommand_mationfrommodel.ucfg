@@ -1,58 +1,0 @@
-
-Kjoomla\cms\console\checkjoomlaupdatescommand::getupdateinformationfrommodelm
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpA A(2"1*Å
-1m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpC C('∫∑
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpC C(&
-%1*0.
-,joomla\cms\console\checkjoomlaupdatescommand2getapplicationà
-Ö
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpC C(&
-$app"__id*
-
-%1ß§
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpD D(>
-%2*
-
-$app*
-com_joomlaupdate2bootcomponentôñ
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpD D(S
-%3*
-
-%2*
-
-$app2getmvcfactory¨©
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpD D({
-%4*
-
-%3*
-
-Update*
-Administrator2createmodelê
-ç
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpD D({
-$updatemodel"__id*
-
-%4ëé
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpE E(
-%5*
-
-$updatemodel2purge§°
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpF F(*
-%6*
-
-$updatemodel*
-true2refreshupdates"Å
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/CheckJoomlaUpdatesCommand.phpH H(
-
-$updatemodelB0.
-,joomla\cms\console\checkjoomlaupdatescommand

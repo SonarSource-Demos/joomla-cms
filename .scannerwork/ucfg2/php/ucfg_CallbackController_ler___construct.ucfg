@@ -1,62 +1,0 @@
-
-Ojoomla\component\users\administrator\controller\callbackcontroller::__construct‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php' '("1*º
-2
-CallbackController.php"š
-‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php, ,(
-implicit return*Ö
-1‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php) )(=­
-ª
-‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php' '(	
-$config"__id*
-
-$configarrayÔ
-Ñ
-‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php' '(
-
-$factory"__id*8
-6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÇ
-Ä
-‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php' '(
-$app"__id*/
--
-$app%joomla\cms\application\cmsapplication¸
-µ
-‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php' '(
-$input"__id*
-
-$inputjoomla\input\input¾
-»
-‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php) )(<
-%1"5joomla\cms\mvc\controller\basecontroller::__construct*FD
-Bjoomla\component\users\administrator\controller\callbackcontroller*
-	
-$config*
-
-
-$factory*
-
-$app*
-
-
-$inputùö
-‚
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/CallbackController.php+ +(.
-%2*FD
-Bjoomla\component\users\administrator\controller\callbackcontroller*
-
-callback2registerdefaulttask*
-2:
-$configarray:6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface:-
-$app%joomla\cms\application\cmsapplication:
-$inputjoomla\input\inputBFD
-Bjoomla\component\users\administrator\controller\callbackcontroller

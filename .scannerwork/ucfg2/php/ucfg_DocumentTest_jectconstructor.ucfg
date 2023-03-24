@@ -1,178 +1,0 @@
-
-cjoomla\tests\unit\libraries\cms\document\documenttest::testinjectingoptionsintotheobjectconstructorl
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpZ Z(@"1*ù
-2
-DocumentTest.php"É
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpe e(
-implicit return*í 
-1l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php\ \(4–Õ
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php\ \(3
-%1*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-
-$options2createdocumentå
-â
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php\ \(3
-	$document"__id*
-
-%1ú
-ô
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php^ ^(/
-%2"__mapGet*
-
-
-$expects*	
-lineendìê
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php^1 ^(I
-%3*
-
-	$document2_getlineend–Õ
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php^ ^(J
-%4*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%2*
-
-%32assertequalsú
-ô
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php_ _(/
-%5"__mapGet*
-
-
-$expects*	
-charsetíè
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php_1 _(H
-%6*
-
-	$document2
-getcharset–Õ
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php_ _(I
-%7*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%5*
-
-%62assertequalsù
-ö
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php` `(0
-%8"__mapGet*
-
-
-$expects*
-
-languageìê
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php`2 `(J
-%9*
-
-	$document2getlanguage—Œ
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php` `(K
-%10*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%8*
-
-%92assertequalsü
-ú
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpa a(1
-%11"__mapGet*
-
-
-$expects*
-	directionïí
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpa3 a(L
-%12*
-
-	$document2getdirection”–
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpa a(M
-%13*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%11*
-
-%122assertequalsô
-ñ
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpb b(+
-%14"__mapGet*
-
-
-$expects*
-tabêç
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpb- b(A
-%15*
-
-	$document2_gettab”–
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpb b(B
-%16*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%14*
-
-%152assertequalsö
-ó
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpc c(,
-%17"__mapGet*
-
-
-$expects*
-linkêç
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpc. c(B
-%18*
-
-	$document2getlink”–
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpc c(C
-%19*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%17*
-
-%182assertequalsö
-ó
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpd d(,
-%20"__mapGet*
-
-
-$expects*
-baseêç
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpd. d(B
-%21*
-
-	$document2getbase”–
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpd d(C
-%22*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%20*
-
-%212assertequals*
-2:
-
-$options:
-
-$expectsB97
-5joomla\tests\unit\libraries\cms\document\documenttest

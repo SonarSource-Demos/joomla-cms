@@ -1,45 +1,0 @@
-
-<joomla\cms\component\router\routerservicetrait::createroutero
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php) )( "1*Í	
-1o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php+ +(GÌ
-É
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php) )( 
-$application"__id*@
->
-$application.joomla\cms\application\cmsapplicationinterface¬
-©
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php) )( 
-$menu"__id*'
-%
-$menujoomla\cms\menu\abstractmenuÇ
-Ä
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php+ +(#
-%1"__id*E*C0
-.joomla\cms\component\router\routerservicetrait"
-routerFactory­ª
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php+ +(F
-%2*
-
-%1*
-
-$application*	
-
-$menu2createrouterµ
-²
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php+ +(G1
-%3+joomla\cms\component\router\routerinterface"__id*
-
-%2"¦
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Component/Router/RouterServiceTrait.php+ +(G3
-1
-%3+joomla\cms\component\router\routerinterface:>
-$application.joomla\cms\application\cmsapplicationinterface:%
-$menujoomla\cms\menu\abstractmenuB20
-.joomla\cms\component\router\routerservicetrait

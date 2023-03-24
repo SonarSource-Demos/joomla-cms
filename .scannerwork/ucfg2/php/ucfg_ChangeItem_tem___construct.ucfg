@@ -1,47 +1,0 @@
-
-)joomla\cms\schema\changeitem::__construct]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.php{ {("1*ç
-2
-ChangeItem.php"v
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.phpÅ Å(
-implicit return*Ü
-1]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.php} }($ò
-ï
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.php{ {(
-$db"__id*'
-%
-$dbjoomla\database\databasedriver•
-¢
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.php} }(#/
-joomla\cms\schema\changeitem"
-updateQuery"__id*
-
-
-$queryù
-ö
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.php~ ~((
-joomla\cms\schema\changeitem"
-file"__id*	
-
-$fileô
-ñ
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.php (&
-joomla\cms\schema\changeitem"
-db"__id*
-
-$dbùö
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Schema/ChangeItem.phpÄ Ä( 
-%1* 
-joomla\cms\schema\changeitem2buildcheckquery*
-2:%
-$dbjoomla\database\databasedriver:
-$file:
-$queryB 
-joomla\cms\schema\changeitem

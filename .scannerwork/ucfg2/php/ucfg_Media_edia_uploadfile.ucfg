@@ -1,47 +1,0 @@
-
-/step\acceptance\administrator\media::uploadfile|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpX X("1*¦
-2
-	Media.php"“
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php] ](
-implicit return*Ë
-1|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpZ Z(¶
-³
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.phpZ Z(
-$I"__id*'%
-#step\acceptance\administrator\mediaÓ
-Ð
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php[ [(:
-%1"__id*D*B-
-+page\acceptance\administrator\medialistpage"
-$fileInputField¨¥
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php[ [(;
-%2*
-
-$I*
-
-%12seeelementindomÓ
-Ð
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php\ \(5
-%3"__id*D*B-
-+page\acceptance\administrator\medialistpage"
-$fileInputField²¯
-|
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Media.php\ \(A
-%4*
-
-$I*
-
-%3*
-
-	$fileName2
-attachfile*
-2:
-	$fileNameB'%
-#step\acceptance\administrator\media

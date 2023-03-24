@@ -1,180 +1,0 @@
-
-'joomla\cms\mvc\model\formmodel::checkin_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpM M("1*“
-13_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpr r("k
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpr r(
-true*à
-1_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpP P(ò
-ï
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpM M(
-$pk"__id*%
-#
-$pkjoomla\cms\mvc\model\integer*
-2
-13*©
-2_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpQ Q(,ûõ
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpQ Q(+
-%1*" 
-joomla\cms\mvc\model\formmodel2getcurrentuserz
-x
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpQ Q(+
-$user"__id*
-
-%1òï
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpT T(&
-%2*" 
-joomla\cms\mvc\model\formmodel2gettable{
-y
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpT T(&
-$table"__id*
-
-%2ÖÇ
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpV V("
-%3*
-
-
-$table*
-
-$pk2load*
-3
-4*ˆ
-3_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpW W(4}
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpW  W(2
-%4*
-
-
-$table2geterror†ù
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpW W(3
-%5*" 
-joomla\cms\mvc\model\formmodel*
-
-%42seterror"l
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpY Y(	
-false*Ä
-4_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.php] ](Yëé
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.php] ](0
-%6*
-
-
-$table*
-checked_out2hasfield*
-5
-6*Ö
-5_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.php]4 ](Yñì
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.php]5 ](Y
-%7*
-
-
-$table*
-checked_out_time2hasfield*
-6
-7*—
-6_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.php^ ^("k
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.php^ ^(
-true*ê
-7_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpa a(Eóî
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpa a(D
-%8*
-
-
-$table*
-checked_out2getcolumnaliasÜ
-É
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpa a(D
-$checkedOutField"__id*
-
-%8*
-8
-11*Ò
-8_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpd0 d(\Å
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpdL d(\
-%9*	
-
-$user*
-id2get*
-9
-11*ñ
-9`
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpd` d(è§°
-`
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpda d(è
-%10*	
-
-$user*
-core.manage*
-com_checkin2	authorise*
-10
-11*”
-10_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpe e(Yÿ
-’
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpe  e(W
-%11"joomla\cms\language\text::_*"
-joomla\cms\language\text*0.
-,JLIB_APPLICATION_ERROR_CHECKIN_USER_MISMATCH¢ü
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpe e(X
-%12*" 
-joomla\cms\mvc\model\formmodel*
-
-%112seterror"l
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpg g(	
-false*˚
-11_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpk k(%âÜ
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpk k(%
-%13*
-
-
-$table*
-
-$pk2checkin*
-13
-12*˚
-12_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpl l(4Ä~
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpl  l(2
-%14*
-
-
-$table2geterror¢ü
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpl l(3
-%15*" 
-joomla\cms\mvc\model\formmodel*
-
-%142seterror"l
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/FormModel.phpn n(	
-false:#
-$pkjoomla\cms\mvc\model\integerB" 
-joomla\cms\mvc\model\formmodel

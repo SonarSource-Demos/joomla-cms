@@ -1,39 +1,0 @@
-
-+joomla\cms\installer\installer::__constructa
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php© ©("1*Ž
-2
-Installer.php"x
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php® ®(
-implicit return*Ã
-1a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php« «(Eî
-ë
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php« «(D
-%1"'joomla\cms\adapter\adapter::__construct*" 
-joomla\cms\installer\installer*
-
-	$basepath*
-
-$classprefix*
-
-$adapterfolder¼
-¹
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php­ ­(:
-%2"#joomla\cms\table\table::getinstance*"
-joomla\cms\table\table*
-	extension¥
-¢
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php­ ­(:/ 
-joomla\cms\installer\installer"
-	extension"__id*
-
-%2*
-2:
-	$basepath:
-$classprefix:
-$adapterfolderB" 
-joomla\cms\installer\installer

@@ -1,53 +1,0 @@
-
-njoomla\tests\unit\libraries\cms\document\documenttest::testensuretwoaddscriptdeclarationcallsreturnsthisobjectn
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÒ Ò(K"1*Ÿ
-2
-DocumentTest.php"…
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpØ Ø(
-implicit return*›
-
-1n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÔ Ô(,ÄÁ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÔ Ô(+
-%1*97
-5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
-‹
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÔ Ô(+
-	$document"__id*
-
-%1ÈÅ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÖ% Ö(l
-%2*
-
-	$document*(&
-$<script>this.document.id();</script>2addscriptdeclaration×Ô
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÖ Ö(m
-%3*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-	$document*
-
-%22
-assertsameÉÆ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php×% ×(m
-%4*
-
-	$document*)'
-%<script>this.window.close();</script>2addscriptdeclaration×Ô
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php× ×(n
-%5*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-	$document*
-
-%42
-assertsame*
-2B97
-5joomla\tests\unit\libraries\cms\document\documenttest

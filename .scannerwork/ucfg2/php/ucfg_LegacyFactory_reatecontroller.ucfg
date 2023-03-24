@@ -1,35 +1,0 @@
-
-6joomla\cms\mvc\factory\legacyfactory::createcontrollere
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/LegacyFactory.php, ,($"1*ñ
-2
-LegacyFactory.php"|
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/LegacyFactory.php/ /(
-implicit return*”
-1e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/LegacyFactory.php. .(Yè
-å
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/LegacyFactory.php, ,($	
-$config"__id*
-
-$configarray≤
-Ø
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/LegacyFactory.php, ,($
-$app"__id*8
-6
-$app.joomla\cms\application\cmsapplicationinterfaceö
-ó
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Factory/LegacyFactory.php, ,($
-$input"__id*
-
-$inputjoomla\input\input*
-2:
-$name:	
-$prefix:
-$configarray:6
-$app.joomla\cms\application\cmsapplicationinterface:
-$inputjoomla\input\inputB(&
-$joomla\cms\mvc\factory\legacyfactory

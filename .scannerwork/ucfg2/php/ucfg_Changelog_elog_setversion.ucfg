@@ -1,28 +1,0 @@
-
-*joomla\cms\changelog\changelog::setversiona
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Changelog/Changelog.php¼ ¼("1*Ž
-2
-Changelog.php"x
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Changelog/Changelog.php¿ ¿(
-implicit return*­
-1a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Changelog/Changelog.php¾ ¾('Ž
-‹
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Changelog/Changelog.php¼ ¼(
-
-$version"__id*
-
-$versionstring®
-«
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Changelog/Changelog.php¾ ¾(&2 
-joomla\cms\changelog\changelog"
-matchVersion"__id*
-
-
-$version*
-2:
-$versionstringB" 
-joomla\cms\changelog\changelog

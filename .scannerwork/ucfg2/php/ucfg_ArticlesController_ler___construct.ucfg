@@ -1,72 +1,0 @@
-
-Qjoomla\component\content\administrator\controller\articlescontroller::__construct„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php) )("1*‡
-2„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php0 0(*õ
-ò
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php0 0()UF
-Djoomla\component\content\administrator\controller\articlescontroller"
-	view_list"__id*
-
-featured*
-3*˜
-3„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php3 3(6†ƒ
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php3 3(5
-%4*HF
-Djoomla\component\content\administrator\controller\articlescontroller*
-
-unfeatured*
-
-featured2registertask*
-4*¼
-4
-ArticlesController.php"œ
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php4 4(
-implicit return*É
-1„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php+ +(=Ö
-Ó
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php) )(
-
-$factory"__id*8
-6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÃ
-À
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php+ +(<
-%1"6joomla\cms\mvc\controller\admincontroller::__construct*HF
-Djoomla\component\content\administrator\controller\articlescontroller*
-	
-$config*
-
-
-$factory*
-
-$app*
-
-
-$inputë
-è
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php/ /(
-%2"__id*S*QF
-Djoomla\component\content\administrator\controller\articlescontroller"
-input§¤
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php/ /(%
-%3*
-
-%2*
-view2get*
-2
-3:	
-$config:6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
-$app:
-$inputBHF
-Djoomla\component\content\administrator\controller\articlescontroller

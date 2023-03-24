@@ -1,26 +1,0 @@
-
-/joomla\cms\log\delegatingpsrlogger::__constructc
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/DelegatingPsrLogger.php7 7("1*š
-2
-DelegatingPsrLogger.php"z
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/DelegatingPsrLogger.php: :(
-implicit return*º
-1c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/DelegatingPsrLogger.php9 9( š
-—
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/DelegatingPsrLogger.php7 7(	
-$logger"__id*
-
-$loggerjoomla\cms\log\log­
-ª
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Log/DelegatingPsrLogger.php9 9(0$
-"joomla\cms\log\delegatingpsrlogger"
-logger"__id*
-	
-$logger*
-2:
-$loggerjoomla\cms\log\logB&$
-"joomla\cms\log\delegatingpsrlogger

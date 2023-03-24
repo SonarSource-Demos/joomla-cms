@@ -1,58 +1,0 @@
-
-Ejoomla\component\banners\administrator\table\bannertable::__constructx
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php. .("1*®
-2
-BannerTable.php"è
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php6 6(
-implicit return*¿
-1x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php0 0(0≥
-∞
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php. .(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverÊ
-„
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php0 0(/I:
-8joomla\component\banners\administrator\table\bannertable"
-	typeAlias"__id*
-com_banners.bannerá
-Ñ
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php2 2(4
-%1"#joomla\cms\table\table::__construct*<:
-8joomla\component\banners\administrator\table\bannertable*
-
-#__banners*
-id*
-
-$db∏
-µ
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php4 4(+
-%2"joomla\cms\factory::getdate*"
-joomla\cms\factoryíè
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php4 4(4
-%3*
-
-%22tosql‘
-—
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php4 4(4G:
-8joomla\component\banners\administrator\table\bannertable"	
-created"__id*
-
-%3ÎË
-x
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_banners/src/Table/BannerTable.php5 5(3
-%4*<:
-8joomla\component\banners\administrator\table\bannertable*
-	published*	
-state2setcolumnalias*
-2:%
-$dbjoomla\database\databasedriverB<:
-8joomla\component\banners\administrator\table\bannertable

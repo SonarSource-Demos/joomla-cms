@@ -1,39 +1,0 @@
-
--joomla\cms\toolbar\toolbarhelper::archivelistc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpà à(&"1*î
-2
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpé é(
-implicit return*ˆ
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpä ä(/ƒ
-¡
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpä ä(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpä ä(.
-$bar"__id*
-
-%1¿Ω
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpç ç(D
-%2*
-
-$bar*
-
-Standard*	
-archive*
-
-$alt*	
-
-$task*
-true2appendbutton*
-2:
-$task:
-$altB$"
- joomla\cms\toolbar\toolbarhelper

@@ -1,79 +1,0 @@
-
-*joomla\cms\form\field\orderingfield::setupd
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.php_ _("1*Ú
-2d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpd d(I´
-®
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpd* d(8
-%2"__id*4*2%
-#joomla\cms\form\field\orderingfield"	
-elementì
-ê
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpd* d(H
-%3"__mapGet*
-
-%2*
-content_typeã
-à
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpd! d(H
-%4"__passthrough_cast*
-
-%3Ø
-¨
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpd d(H6%
-#joomla\cms\form\field\orderingfield"
-contentType"__id*
-
-%4*
-3*ù
-3d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpg g(°
-û
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpg g(#
-%5joomla\cms\form\field\boolean"__id*
-	
-$result"ç
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpg g(%
-#
-%5joomla\cms\form\field\boolean*ˆ
-1d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpa a(:õ
-ò
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.php_ _(
-
-$element"__id*
-
-$elementsimplexmlelement‡
-›
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpa a(9
-%1" joomla\cms\form\formfield::setup*'%
-#joomla\cms\form\field\orderingfield*
-
-
-$element*
-
-
-$value*
-
-
-$groupÅ
-
-d
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Form/Field/OrderingField.phpa a(9	
-$result"__id*
-
-%1*
-2
-3:
-$elementsimplexmlelement:
-$value:
-$groupB'%
-#joomla\cms\form\field\orderingfield

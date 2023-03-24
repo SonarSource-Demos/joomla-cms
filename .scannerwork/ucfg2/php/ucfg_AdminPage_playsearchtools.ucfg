@@ -1,92 +1,0 @@
-
-;page\acceptance\administrator\adminpage::displaysearchtools‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÁ Á(&"1*û
-2‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÈ È(UÞÛ
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÈ È(T
-%4*
-
-$I*=;
-9Search tools button does not exist on this page, skipping2comment"
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÊ Ê(
-void*¬
-3‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(K–“
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(I
-%5"$ArrayÌ
-É
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(I
-%6"__mapSet*
-
-%5*	
-class*
-js-stools-container-filters®«
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(J
-%7*
-
-$I*
-
-%52dontseeelement*	
-4
-5
-8*ô
-4‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÐ Ð(N×Ô
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÐ Ð(M
-%8*
-
-$I*64
-2Search tools already visible on the page, skipping2comment"
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÒ Ò(
-void*¿
-5‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÕ Õ("¯¬
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÕ Õ(!
-%9*
-
-$I*
-Search Tools2click*
-8*±
-8
-AdminPage.php"š
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÖ Ö(
-implicit return*å
-1‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÃ Ã(Á
-¾
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÃ Ã(
-$I"__id*+)
-'page\acceptance\administrator\adminpage–“
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÆ Æ(>
-%1"$ArrayÅ
-Â
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÆ Æ(>
-%2"__mapSet*
-
-%1*	
-class*
-js-stools-btn-filterª§
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÆ Æ(?
-%3*
-
-$I*
-
-%12
-seeelement*	
-2
-3
-8B+)
-'page\acceptance\administrator\adminpage

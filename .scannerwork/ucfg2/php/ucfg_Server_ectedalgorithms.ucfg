@@ -1,27 +1,0 @@
-
-Kjoomla\plugin\multifactorauth\webauthn\hotfix\server::setselectedalgorithmsr
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpƒ ƒ()"1*ù
-2
-
-Server.php"â
-r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php« «(
-implicit return*ú
-1r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∆ ∆(8¥
-±
-r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.phpƒ ƒ()
-$selectedAlgorithms"__id*
-
-$selectedAlgorithmsarrayÊ
-„
-r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Hotfix/Server.php∆ ∆(7N6
-4joomla\plugin\multifactorauth\webauthn\hotfix\server"
-selectedAlgorithms"__id*
-
-$selectedAlgorithms*
-2:
-$selectedAlgorithmsarrayB86
-4joomla\plugin\multifactorauth\webauthn\hotfix\server

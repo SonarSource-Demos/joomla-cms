@@ -1,53 +1,0 @@
-
-Sjoomla\component\categories\api\controller\categoriescontroller::preprocesssavedata
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php0 0()"1*§
-1
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php2 2(4•
-¢
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php0 0()
-$data"__id*
-
-$dataarrayÊ„
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php2 2(3
-%1*CA
-?joomla\component\categories\api\controller\categoriescontroller2getextensionfrominput†
-ù
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php2 2(3
-
-$extension"__id*
-
-%1æ
-ª
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php3 3(
-%2"__mapSet*	
-
-$data*
-	extension*
-
-
-$extension‡
-›
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php7 7(
-%3"__id*N*LA
-?joomla\component\categories\api\controller\categoriescontroller"
-input∂≥
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php7 7(2
-%4*
-
-%3*
-	extension*
-
-
-$extension2set"å
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_categories/src/Controller/CategoriesController.php9 9(	
-
-$data:
-$dataarrayBCA
-?joomla\component\categories\api\controller\categoriescontroller

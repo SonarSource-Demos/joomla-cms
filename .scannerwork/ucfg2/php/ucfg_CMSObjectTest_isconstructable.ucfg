@@ -1,56 +1,0 @@
-
-Ijoomla\tests\unit\libraries\cms\object\cmsobjecttest::testisconstructablek
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php# #('"1*ù
-2
-CMSObjectTest.php"Ç
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php( ((
-implicit return*¸	
-1k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php% %(M}{
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php%  %(K
-%1"$Array£
-†
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php%  %(K
-%2"__mapSet*
-
-%1*
-	property1*
-
-value1ù
-ö
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php%  %(K
-%3"__mapSet*
-
-%1*
-	property2*2òï
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php% %(L	
-$object"joomla\cms\object\cmsobjectµ
-≤
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php% %(L
-%4"(joomla\cms\object\cmsobject::__construct*
-	
-$object*
-
-%1óî
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php'& '(?
-%5*
-	
-$object*
-	property12get“œ
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php' '(@
-%6*86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest*
-
-value1*
-
-%52assertequals*
-2B86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest

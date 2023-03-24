@@ -1,36 +1,0 @@
-
-9joomla\component\media\api\model\mediummodel::__constructl
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediumModel.php) )("1*œ
-2
-MediumModel.php"ƒ
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediumModel.php. .(
-implicit return*”
-1l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediumModel.php+ +(ã
-à
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediumModel.php+ +(
-%1"+joomla\cms\mvc\model\basemodel::__construct*0.
-,joomla\component\media\api\model\mediummodel*
-	
-$config¬©
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediumModel.php- -('
-%2"3joomla\component\media\administrator\model\apimodelÁ
-¾
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediumModel.php- -('
-%3"@joomla\component\media\administrator\model\apimodel::__construct*
-
-%2Â
-¿
-l
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_media/src/Model/MediumModel.php- -('A.
-,joomla\component\media\api\model\mediummodel"
-mediaApiModel"__id*
-
-%2*
-2:	
-$configB0.
-,joomla\component\media\api\model\mediummodel

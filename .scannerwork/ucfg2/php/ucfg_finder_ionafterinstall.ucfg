@@ -1,70 +1,0 @@
-
-+plgextensionfinder::onextensionafterinstall]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php- -(+"1*Õ
-2]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php0 0("i
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php0 0(
-void*É
-3]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php3 3(.óî
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php3 3(-
-%1*
-plgextensionfinder*
-
-$eid2getlanguage}
-{
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php3 3(-
-
-$extension"__id*
-
-%1*
-4
-5*∞
-4]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php6 6(1£†
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php6 6(0
-%2*
-plgextensionfinder*
-
-
-$extension2removecommonwords†ù
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php7 7(-
-%3*
-plgextensionfinder*
-
-
-$extension2addcommonwords*
-5*á
-5
-
-finder.php"t
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php9 9(
-implicit return*ô
-1]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php/ /(¶
-£
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php- -(+
-
-$installer"__id*.
-,
-
-$installerjoomla\cms\installer\installerÉ
-Ä
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/extension/finder/finder.php- -(+
-$eid"__id*
-
-$eidinteger*
-2
-3:,
-
-$installerjoomla\cms\installer\installer:
-$eidintegerB
-plgextensionfinder

@@ -1,30 +1,0 @@
-
-Hjoomla\component\workflow\administrator\model\transitionsmodel::gettable~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.php` `("1*÷
-1~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpb b(9œ
-™
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpb b(8
-%1"(joomla\cms\mvc\model\listmodel::gettable*B@
->joomla\component\workflow\administrator\model\transitionsmodel*	
-
-$type*
-	
-$prefix*
-	
-$config¯
-¬
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpb b(9
-%2joomla\cms\table\table"__id*
-
-%1" 
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/TransitionsModel.phpb b(9
-
-%2joomla\cms\table\table:
-$type:	
-$prefix:	
-$configBB@
->joomla\component\workflow\administrator\model\transitionsmodel

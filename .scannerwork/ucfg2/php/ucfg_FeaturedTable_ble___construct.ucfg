@@ -1,29 +1,0 @@
-
-Gjoomla\component\content\administrator\table\featuredtable::__constructz
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Table/FeaturedTable.php ("1*¬
-2
-FeaturedTable.php"‘
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Table/FeaturedTable.php! !(
-implicit return*Ü
-1z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Table/FeaturedTable.php   (Gµ
-²
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Table/FeaturedTable.php (
-$db"__id*'
-%
-$dbjoomla\database\databasedriver
-š
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Table/FeaturedTable.php   (F
-%1"#joomla\cms\table\table::__construct*><
-:joomla\component\content\administrator\table\featuredtable*
-#__content_frontpage*
-
-content_id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB><
-:joomla\component\content\administrator\table\featuredtable

@@ -1,26 +1,0 @@
-
-8joomla\tests\unit\libraries\cms\uri\uritest::testcurrentb
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpy y("1*ç
-2
-UriTest.php"y
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php (
-implicit return*ˆ
-1b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php{ ~(
-¢
-ü
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php| |(
-%1"joomla\cms\uri\uri::current*"
-joomla\cms\uri\uri‚ﬂ
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php{ ~(	
-%2*/-
-+joomla\tests\unit\libraries\cms\uri\uritest*
-
-%1*.,
-*http://www.example.com:80/joomla/index.php2
-assertsame*
-2B/-
-+joomla\tests\unit\libraries\cms\uri\uritest

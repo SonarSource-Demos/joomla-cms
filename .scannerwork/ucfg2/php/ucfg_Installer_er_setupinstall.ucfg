@@ -1,109 +1,0 @@
-
-,joomla\cms\installer\installer::setupinstalla
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpµ µ( "1*÷
-2a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpπ π("n
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpπ π(	
-false*®
-3a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpΩ Ω(?§
-°
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpΩ Ω(*
-%2"__id*0*. 
-joomla\cms\installer\installer"
-
-manifest}
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpΩ Ω(8
-%3*
-
-%22
-attributesÑ
-Å
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpΩ Ω(>
-%4"__id**
-
-%3"
-typeã
-à
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpΩ Ω(>
-$type"__passthrough_cast*
-
-%4sq
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpæ æ(N
-%5"$Arrayï
-í
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpæ æ(N
-%6"__mapSet*
-
-%5*	
-route*
-
-
-$routeùö
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpæ9 æ(M
-%7*" 
-joomla\cms\installer\installer2getmanifestî
-ë
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpæ æ(N
-%8"__mapSet*
-
-%5*
-
-manifest*
-
-%7~
-|
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpæ æ(N	
-$params"__id*
-
-%5µ≤
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php¡ ¡(5
-%9*" 
-joomla\cms\installer\installer*	
-
-$type*
-	
-$params2loadadapter
-}
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php¡ ¡(5
-
-$adapter"__id*
-
-%9*
-4
-5*Ÿ
-4a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpƒ ƒ("q
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.phpƒ ƒ(
-
-
-$adapter*’
-5a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php« «("m
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php« «(
-true*è
-1a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php∏ ∏("ûõ
-a
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Installer/Installer.php∏ ∏("
-%1*" 
-joomla\cms\installer\installer2findmanifest*
-2
-3:
-$route:
-$returnAdapterB" 
-joomla\cms\installer\installer

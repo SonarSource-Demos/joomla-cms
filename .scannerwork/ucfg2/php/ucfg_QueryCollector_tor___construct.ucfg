@@ -1,70 +1,0 @@
-
-Djoomla\plugin\system\debug\datacollector\querycollector::__constructs
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpT T("1*¦
-2
-QueryCollector.php"Š
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.php\ \(
-implicit return*à
-1s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpV V(,°
-­
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpT T(	
-$params"__id*%
-#
-$paramsjoomla\registry\registryÈ
-Å
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpT T(
-$queryMonitor"__id*7
-5
-$queryMonitor$joomla\database\monitor\debugmonitor¡
-ž
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpT T(
-	$profiles"__id*
-
-	$profilesarray¡
-ž
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpT T(
-	$explains"__id*
-
-	$explainsarrayÞ
-Û
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpV V(+K9
-7joomla\plugin\system\debug\datacollector\querycollector"
-queryMonitor"__id*
-
-$queryMonitor‡
-„
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpX X($
-%1"=joomla\plugin\system\debug\abstractdatacollector::__construct*;9
-7joomla\plugin\system\debug\datacollector\querycollector*
-	
-$paramsÖ
-Ó
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpZ Z(#G9
-7joomla\plugin\system\debug\datacollector\querycollector"
-
-profiles"__id*
-
-	$profilesÖ
-Ó
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.php[ [(#G9
-7joomla\plugin\system\debug\datacollector\querycollector"
-
-explains"__id*
-
-	$explains*
-2:#
-$paramsjoomla\registry\registry:5
-$queryMonitor$joomla\database\monitor\debugmonitor:
-	$profilesarray:
-	$explainsarrayB;9
-7joomla\plugin\system\debug\datacollector\querycollector

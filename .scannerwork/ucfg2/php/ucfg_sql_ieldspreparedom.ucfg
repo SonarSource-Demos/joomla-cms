@@ -1,96 +1,0 @@
-
-&plgfieldssql::oncustomfieldspreparedomT
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php# #(,"1*È
-2T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php( ((€
-~
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php( ((
-%2
-domelement"__id*
-
-
-$fieldNode"j
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php( ((
-
-%2
-domelement*ý
-3T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php+ +(8˜•
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php+ +(7
-%3*
-
-
-$fieldNode*
-value_field*
-text2setattribute—”
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php, ,(6
-%4*
-
-
-$fieldNode*
-	key_field*	
-value2setattribute€
-~
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php. .(
-%5
-domelement"__id*
-
-
-$fieldNode"j
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php. .(
-
-%5
-domelement*Ú
-1T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php% %(N~
-|
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php# #(,
-$field"__id*
-
-$fieldstdclassƒ
-€
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php# #(,	
-$parent"__id*
-
-$parent
-domelement‰
-†
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php# #(,
-$form"__id*
-
-$formjoomla\cms\form\formî
-ë
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php% %(M
-%1"Wjoomla\component\fields\administrator\plugin\fieldslistplugin::oncustomfieldspreparedom*
-plgfieldssql*
-
-
-$field*
-	
-$parent*	
-
-$formt
-r
-T
-J/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/sql/sql.php% %(M
-
-$fieldNode"__id*
-
-%1*
-2
-3:
-$fieldstdclass:
-$parent
-domelement:
-$formjoomla\cms\form\formB
-plgfieldssql

@@ -1,45 +1,0 @@
-
-&joomla\cms\extension\module::gethelper\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpZ Z("1*›
-1\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php\ \(?ƒ
-€
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpZ Z(
-$name"__id*
-
-$namestring†
-ƒ
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.phpZ Z(	
-$config"__id*
-
-$configarray¡
-ž
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php\ \(#
-%1"__id*2*0
-joomla\cms\extension\module"
-helperFactory’
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php\ \(>
-%2*
-
-%1*	
-
-$name*
-	
-$config2	gethelper~
-|
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php\ \(?
-%3stdclass"__id*
-
-%2"p
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Module.php\ \(?
-
-%3stdclass:
-$namestring:
-$configarrayB
-joomla\cms\extension\module

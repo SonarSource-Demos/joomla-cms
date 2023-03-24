@@ -1,106 +1,0 @@
-
-Pjoomla\tests\unit\libraries\cms\microdata\microdatatest::testexpecteddisplaytypep
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpŒ Œ(+"1*¢
-2
-MicrodataTest.php"‡
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpª ª(
-implicit return*±
-1p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpŽ Ž()¼¹
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpŽ Ž((
-
-$microdata"7joomla\tests\unit\libraries\cms\microdata\microdatastubÑ
-Î
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpŽ Ž((
-%1"Djoomla\tests\unit\libraries\cms\microdata\microdatastub::__construct*
-
-
-$microdataš—
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php£ £(:
-$reflectionClass"reflectionclass¿
-¼
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php£ £(:
-%2"reflectionclass::__construct*
-
-$reflectionClass*
-
-
-$microdata¸µ
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¤ ¤(P
-%3*
-
-$reflectionClass*
-getExpectedDisplayType2	getmethodŽ
-‹
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¤ ¤(P	
-$method"__id*
-
-%3¡ž
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¥ ¥($
-%4*
-	
-$method*
-true2setaccessible¾»
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php§& §([
-%5*
-	
-$method*
-
-
-$microdata*	
-Article*
-articleBody2invokeÚ×
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php§ §(\
-%6*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*
-
-normal*
-
-%52assertequals¸µ
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¨& ¨(U
-%7*
-	
-$method*
-
-
-$microdata*	
-Article*	
-about2invokeÚ×
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php¨ ¨(V
-%8*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*
-
-nested*
-
-%72assertequalsÀ½
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php©$ ©([
-%9*
-	
-$method*
-
-
-$microdata*	
-Article*
-datePublished2invokeÙÖ
-p
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php© ©(\
-%10*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*
-meta*
-
-%92assertequals*
-2B;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest

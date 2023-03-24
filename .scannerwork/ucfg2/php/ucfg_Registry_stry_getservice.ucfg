@@ -1,49 +1,0 @@
-
-$joomla\cms\html\registry::getserviceY
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpF F("1*‚
-3Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpL L('ò
-ï
-Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpL L( 
-%2"__id*,**
-joomla\cms\html\registry"
-
-serviceMapÅ
-
-Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpL L(&
-%3"
-__arrayGet*
-
-%2*
-
-$key"c
-Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpL L('
-
-%3*Ö
-4
-Registry.php"p
-Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpM M(
-implicit return*Ä
-1Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpH H($}
-{
-Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpF F(
-$key"__id*
-
-$keystringòï
-Y
-O/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Registry.phpH H($
-%1*
-joomla\cms\html\registry*
-
-$key2
-hasservice*
-3
-4:
-$keystringB
-joomla\cms\html\registry

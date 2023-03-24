@@ -1,134 +1,0 @@
-
-)plgwebservicescontent::createfieldsroutesa
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpE E('"1*å
-2
-content.php"x
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php^ ^(
-implicit return*Ö
-1a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpG K(
-sq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpJ J(M
-%1"$Arrayù
-ö
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpJ J(M
-%2"__mapSet*
-
-%1*
-	component*
-
-com_fields§
-°
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpJ J(M
-%3"__mapSet*
-
-%1*	
-context*
-com_content.articleøº
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpG K(	
-%4*
-	
-$router*
-v1/fields/content/articles*
-
-fields*
-
-%12createcrudroutessq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpP P(P
-%5"$Arrayù
-ö
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpP P(P
-%6"__mapSet*
-
-%5*
-	component*
-
-com_fieldsß
-§
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpP P(P
-%7"__mapSet*
-
-%5*	
-context*
-com_content.categories¡æ
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpM Q(	
-%8*
-	
-$router* 
-v1/fields/content/categories*
-
-fields*
-
-%52createcrudroutessq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpV V(M
-%9"$Arrayû
-õ
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpV V(M
-%10"__mapSet*
-
-%9*
-	component*
-
-com_fields•
-¢
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpV V(M
-%11"__mapSet*
-
-%9*	
-context*
-com_content.article«ƒ
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpS W(	
-%12*
-	
-$router*%#
-!v1/fields/groups/content/articles*
-
-groups*
-
-%92createcrudroutestr
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php\ \(P
-%13"$Arrayü
-ú
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php\ \(P
-%14"__mapSet*
-
-%13*
-	component*
-
-com_fields©
-¶
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.php\ \(P
-%15"__mapSet*
-
-%13*	
-context*
-com_content.categories «
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/content/content.phpY ](	
-%16*
-	
-$router*'%
-#v1/fields/groups/content/categories*
-
-groups*
-
-%132createcrudroutes*
-2:	
-$routerB
-plgwebservicescontent

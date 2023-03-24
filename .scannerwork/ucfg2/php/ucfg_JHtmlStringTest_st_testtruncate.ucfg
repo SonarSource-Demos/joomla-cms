@@ -1,40 +1,0 @@
-
-Bjoomla\tests\unit\libraries\cms\html\jhtmlstringtest::testtruncatem
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.phpÃ Ã( "1*¡
-2
-JHtmlStringTest.php"„
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.phpÆ Æ(
-implicit return*¬
-1m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.phpÅ Å(fØ
-Õ
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.phpÅ' Å(d
-%1"jhtmlstring::truncate*"
-jhtmlstring*	
-
-$text*
-	
-$length*
-
-
-$noSplit*
-
-$allowedHtml×Ô
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlStringTest.phpÅ Å(e
-%2*86
-4joomla\tests\unit\libraries\cms\html\jhtmlstringtest*
-
-	$expected*
-
-%12assertequals*
-2:
-$text:	
-$length:
-
-$noSplit:
-$allowedHtml:
-	$expectedB86
-4joomla\tests\unit\libraries\cms\html\jhtmlstringtest

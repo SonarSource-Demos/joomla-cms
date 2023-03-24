@@ -1,34 +1,0 @@
-
-.joomla\cms\mvc\model\basedatabasemodel::setdboi
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.php÷ ÷("1*å
-2i
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.phpú ú("u
-i
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.phpú ú(
-void*¬
-3i
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.phpý ý( ¶³
-i
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.phpý ý(
-%1**(
-&joomla\cms\mvc\model\basedatabasemodel*
-
-$db2setdatabase*
-4*Ÿ
-4
-BaseDatabaseModel.php"€
-i
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.phpþ þ(
-implicit return* 
-1i
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.phpù ù(§
-¤
-i
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/MVC/Model/BaseDatabaseModel.php÷ ÷(
-$db"__id**
-(
-$db!joomla\database\databaseinterface*
-2
-3:(
-$db!joomla\database\databaseinterfaceB*(
-&joomla\cms\mvc\model\basedatabasemodel

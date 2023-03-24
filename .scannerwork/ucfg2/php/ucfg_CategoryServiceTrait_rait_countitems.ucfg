@@ -1,95 +1,0 @@
-
-6joomla\cms\categories\categoryservicetrait::countitemsk
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpH H("1*§
-2
-CategoryServiceTrait.php"Ç
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpR R(
-implicit return*Á
-1k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpJ O(
-ì
-ê
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpH H(
-$items"__id*
-
-$itemsarrayò
-ï
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpH H(
-
-$section"__id*
-
-$sectionstring}{
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpJ O(	
-%1"$ArrayÃ…
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpK K(F
-%2*.,
-*joomla\cms\categories\categoryservicetrait*
-
-
-$section2gettablenameforsection°
-û
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpJ O(	
-%3"__mapSet*
-
-%1*
-related_tbl*
-
-%2ŒÀ
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpL L(H
-%4*.,
-*joomla\cms\categories\categoryservicetrait*
-
-
-$section2getstatecolumnforsectionü
-ú
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpJ O(	
-%5"__mapSet*
-
-%1*
-	state_col*
-
-%4¢
-ü
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpJ O(	
-%6"__mapSet*
-
-%1*
-	group_col*	
-catid≤
-Ø
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpJ O(	
-%7"__mapSet*
-
-%1*
-relation_type*
-category_or_groupó
-î
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpJ O(		
-$config"__passthrough_cast*
-
-%1Â
-‚
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Categories/CategoryServiceTrait.phpQ Q(6
-%8"/joomla\cms\helper\contenthelper::countrelations*#"!
-joomla\cms\helper\contenthelper*
-
-
-$items*
-	
-$config*
-2:
-$itemsarray:
-$sectionstringB.,
-*joomla\cms\categories\categoryservicetrait

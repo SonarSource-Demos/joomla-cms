@@ -1,54 +1,0 @@
-
-[joomla\component\modules\administrator\controller\modulecontroller::getredirecttolistappend„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÛ Û(."1*‘
-1„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÝ Ý(4›
-˜
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÝ Ý(3
-%1"Ajoomla\cms\mvc\controller\formcontroller::getredirecttolistappend*FD
-Bjoomla\component\modules\administrator\controller\modulecontroller£
- 
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÝ Ý(3	
-$append"__id*
-
-%1é
-æ
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÞ# Þ(/
-%2"__id*Q*OD
-Bjoomla\component\modules\administrator\controller\modulecontroller"
-input¯¬
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÞ# Þ(D
-%3*
-
-%2*
-	client_id2getint³
-°
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÞ Þ(D
-%4"__concat*
-&client_id=*
-
-%3¯
-¬
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÞ Þ(D
-%5"__concat*
-	
-$append*
-
-%4£
- 
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpÞ Þ(D	
-$append"__id*
-
-%5"”
-„
-x/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Controller/ModuleController.phpà à(
-	
-$appendBFD
-Bjoomla\component\modules\administrator\controller\modulecontroller

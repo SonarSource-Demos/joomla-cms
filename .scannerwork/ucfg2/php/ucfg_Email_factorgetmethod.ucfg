@@ -1,95 +1,0 @@
-
-Ojoomla\plugin\multifactorauth\email\extension\email::onusermultifactorgetmethodo
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.phpx x(."1*õ
-2
-	Email.php"à
-q
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.phpÑ Ñ(
-implicit return*œ
-1p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.phpz É(
-∏
-µ
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.phpx x(.
-$event"__id*2
-0
-$event&joomla\cms\event\multifactor\getmethodÉÄ
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php| Å(
-%2"$ArrayÃ
-…
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php}# }(7
-%3"__id*J*H5
-3joomla\plugin\multifactorauth\email\extension\email"
-mfaMethodNameü
-ú
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php| Å(
-%4"__mapSet*
-
-%2*
-name*
-
-%3‰
-·
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php~# ~(W
-%5"joomla\cms\language\text::_*"
-joomla\cms\language\text*-+
-)PLG_MULTIFACTORAUTH_EMAIL_LBL_DISPLAYEDAS¢
-ü
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php| Å(
-%6"__mapSet*
-
-%2*	
-display*
-
-%5‚
-ﬂ
-o
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php# (U
-%7"joomla\cms\language\text::_*"
-joomla\cms\language\text*+)
-'PLG_MULTIFACTORAUTH_EMAIL_LBL_SHORTINFO§
-°
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php| Å(
-%8"__mapSet*
-
-%2*
-	shortinfo*
-
-%7Œ
-À
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php| Å(
-%9"__mapSet*
-
-%2*	
-image*42
-0media/plg_multifactorauth_email/images/email.svgºπ
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php{ Ç(
-%1"?joomla\component\users\administrator\datashape\methoddescriptor⁄
-◊
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.php{ Ç(
-%10"Ljoomla\component\users\administrator\datashape\methoddescriptor::__construct*
-
-%1*
-
-%2õò
-p
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/email/src/Extension/Email.phpz É(	
-%11*
-
-
-$event*
-
-%12	addresult*
-2:0
-$event&joomla\cms\event\multifactor\getmethodB75
-3joomla\plugin\multifactorauth\email\extension\email

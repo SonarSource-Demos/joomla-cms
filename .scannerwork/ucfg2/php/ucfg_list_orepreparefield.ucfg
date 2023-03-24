@@ -1,121 +1,0 @@
-
-/plgfieldslist::oncustomfieldsbeforepreparefieldV
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php! !(4"1*ø
-2V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php$ $("b
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php$ $(
-void*Ò
-3V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php' '(1|
-z
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php'$ '(0
-%3"__id**
-
-$field"
-typeçä
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php' '(1
-%4*
-plgfieldslist*
-
-%32istypesupported*
-4
-5*ø
-4V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php( (("b
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php( ((
-void*Ë
-5V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php+ +(6ïí
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php+ +(5
-%5*
-plgfieldslist*
-
-
-$field2getoptionsfromfieldt
-r
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php+ +(5
-
-$options"__id*
-
-%5hf
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php- -(E
-%6"$Array}
-{
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php- -()
-%7"__id**
-
-$field"
-value}
-{
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php-6 -(C
-%8"__id**
-
-$field"
-valueÉ
-Ä
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php-- -(D
-%9"
-__arrayGet*
-
-
-$options*
-
-%8Ü
-É
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php- -(E
-%10"
-__arraySet*
-
-%6*
-
-%7*
-
-%9Ä
-~
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php- -(E
-
-$field"
-
-apivalue"__id*
-
-%6*
-6*~
-6
-
-list.php"m
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php. .(
-implicit return*Ê
-1V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php# #((É
-Ä
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php# #(
-%1"__id**
-plgfieldslist"
-app{y
-V
-L/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/fields/list/list.php# #((
-%2*
-
-%1*
-api2isclient*
-2
-3:
-
-$context:
-$item:
-$fieldB
-plgfieldslist

@@ -1,36 +1,0 @@
-
-#joomla\cms\cache\cache::setlifetimeY
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php∫ ∫("1*Ç
-2
-	Cache.php"p
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.phpΩ Ω(
-implicit return*õ
-1Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.phpº º($é
-ã
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.php∫ ∫(
-$lt"__id*!
-
-$ltjoomla\cms\cache\integerî
-ë
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.phpº º(
-%1"__id*(*&
-joomla\cms\cache\cache"
-
-_optionsç
-ä
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Cache.phpº º(
-%2"__mapSet*
-
-%1*
-
-lifetime*
-
-$lt*
-2:
-$ltjoomla\cms\cache\integerB
-joomla\cms\cache\cache

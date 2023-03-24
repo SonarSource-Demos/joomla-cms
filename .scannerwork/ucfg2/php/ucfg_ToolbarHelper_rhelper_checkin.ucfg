@@ -1,42 +1,0 @@
-
-)joomla\cms\toolbar\toolbarhelper::checkinc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÚ Ú(""1*”
-2
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpà à(
-implicit return*ø
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÜ Ü(/Ä
-Á
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÜ Ü(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpÜ Ü(.
-$bar"__id*
-
-%1Â¿
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpß ß(F
-%2*
-
-$bar*
-
-Standard*	
-checkin*
-
-$alt*	
-
-$task*
-
-
-$check2appendbutton*
-2:
-$task:
-$alt:
-$checkB$"
- joomla\cms\toolbar\toolbarhelper

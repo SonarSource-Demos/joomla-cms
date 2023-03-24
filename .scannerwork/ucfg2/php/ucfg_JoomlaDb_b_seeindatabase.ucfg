@@ -1,37 +1,0 @@
-
-helper\joomladb::seeindatabaseh
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpJ J(!"1*”
-2
-JoomlaDb.php"
-h
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpO O(
-implicit return*è
-1h
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpL L(*Ÿœ
-h
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpL L()
-%1*
-helper\joomladb*
-
-
-$table2	addprefix…
-‚
-h
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpL L()
-$table"__id*
-
-%1É
-Æ
-h
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpN N(0
-%2"$codeception\module\db::seeindatabase*
-helper\joomladb*
-
-
-$table*
-
-	$criteria*
-2:
-$table:
-	$criteriaB
-helper\joomladb

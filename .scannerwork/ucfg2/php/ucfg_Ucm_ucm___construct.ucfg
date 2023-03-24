@@ -1,29 +1,0 @@
-
-!joomla\cms\table\ucm::__constructU
-K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Ucm.php ("1*|
-2	
-Ucm.php"l
-U
-K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Ucm.php (
-implicit return*∫
-1U
-K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Ucm.php (:ê
-ç
-U
-K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Ucm.php (
-$db"__id*'
-%
-$dbjoomla\database\databasedriver≈
-¬
-U
-K/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Ucm.php (9
-%1"#joomla\cms\table\table::__construct*
-joomla\cms\table\ucm*
-#__ucm_base*
-
-ucm_id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB
-joomla\cms\table\ucm

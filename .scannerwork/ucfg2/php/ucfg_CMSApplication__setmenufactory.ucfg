@@ -1,36 +1,0 @@
-
-5joomla\cms\application\cmsapplication::setmenufactoryh
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpƒ
- ƒ
-(""1*š
-2
-CMSApplication.php"
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.php†
- †
-(
-implicit return*ò
-1h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.php…
- …
-(*»
-¸
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.phpƒ
- ƒ
-("
-$menuFactory"__id*6
-4
-$menuFactory$joomla\cms\menu\menufactoryinterface¿
-¼
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/CMSApplication.php…
- …
-()8'
-%joomla\cms\application\cmsapplication"
-menuFactory"__id*
-
-$menuFactory*
-2:4
-$menuFactory$joomla\cms\menu\menufactoryinterfaceB)'
-%joomla\cms\application\cmsapplication

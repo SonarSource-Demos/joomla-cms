@@ -1,30 +1,0 @@
-
-Ijoomla\component\menus\administrator\controller\itemscontroller::getmodel
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/ItemsController.php: :("1*Ç
-1
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/ItemsController.php< <(9©
-¦
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/ItemsController.php< <(8
-%1"3joomla\cms\mvc\controller\admincontroller::getmodel*CA
-?joomla\component\menus\administrator\controller\itemscontroller*	
-
-$name*
-	
-$prefix*
-	
-$configÐ
-Í
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/ItemsController.php< <(9<
-%26joomla\component\menus\administrator\controller\object"__id*
-
-%1"Á
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_menus/src/Controller/ItemsController.php< <(9>
-<
-%26joomla\component\menus\administrator\controller\object:
-$name:	
-$prefix:	
-$configBCA
-?joomla\component\menus\administrator\controller\itemscontroller

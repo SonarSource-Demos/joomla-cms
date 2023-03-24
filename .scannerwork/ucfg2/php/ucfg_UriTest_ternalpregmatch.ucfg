@@ -1,26 +1,0 @@
-
-Djoomla\tests\unit\libraries\cms\uri\uritest::testisinternalpregmatchd
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpó ó(+"1*è
-2
-UriTest.php"{
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpù ù(
-implicit return*ë
-1d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ú(
-º
-π
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpö ö(.
-%1"joomla\cms\uri\uri::isinternal*"
-joomla\cms\uri\uri*
-wwwhexample.com·ﬁ
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpô ú(	
-%2*/-
-+joomla\tests\unit\libraries\cms\uri\uritest*
-
-%1**(
-&wwwhexample.com should NOT be internal2assertfalse*
-2B/-
-+joomla\tests\unit\libraries\cms\uri\uritest

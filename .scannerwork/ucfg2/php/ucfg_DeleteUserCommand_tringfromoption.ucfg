@@ -1,61 +1,0 @@
-
-9joomla\cms\console\deleteusercommand::getstringfromoptiong
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php¶ ¶(*"1*Õ
-3g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php´ ´(>Ø
-¨
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php´ ´(-
-%4"__id*5*3&
-$joomla\cms\console\deleteusercommand"	
-ioStyleéã
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php´ ´(=
-%5*
-
-%4*
-
-	$question2askì
-ê
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php´ ´(=	
-$answer"__passthrough_cast*
-
-%5*
-3
-4*‰
-4g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpÆ Æ("v
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.phpÆ Æ(
-	
-$answer*‹
-1g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php® ®(Z¨©
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php® ®(2
-%1*(&
-$joomla\cms\console\deleteusercommand2getapplicationãà
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php® ®(E
-%2*
-
-%12getconsoleinputíè
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php® ®(Y
-%3*
-
-%2*
-	
-$option2	getoptionì
-ê
-g
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/DeleteUserCommand.php® ®(Y	
-$answer"__passthrough_cast*
-
-%3*
-3
-4:	
-$option:
-	$questionB(&
-$joomla\cms\console\deleteusercommand

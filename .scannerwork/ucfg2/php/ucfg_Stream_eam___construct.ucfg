@@ -1,44 +1,0 @@
-
-)joomla\cms\filesystem\stream::__construct_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php’ ’("1*‰
-2
-
-Stream.php"v
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php˜ ˜(
-implicit return*”
-1_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php” ”(*­
-ª
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php” ”()/
-joomla\cms\filesystem\stream"
-writeprefix"__id*
-
-$writeprefix«
-¨
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php• •('.
-joomla\cms\filesystem\stream"
-
-readprefix"__id*
-
-$readprefix¬
-©
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php– –((2
-joomla\cms\filesystem\stream"
-contextOptions"__id*
-
-
-$context›˜
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php— —(
-%1* 
-joomla\cms\filesystem\stream2_buildcontext*
-2:
-$writeprefix:
-$readprefix:
-
-$contextB 
-joomla\cms\filesystem\stream

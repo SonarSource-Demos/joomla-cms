@@ -1,89 +1,0 @@
-
-1plgworkflowpublishing::oncontentbeforechangestatef
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpê ê(."1*ß
-2f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpð ð("r
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpð ð(
-true*Â
-3f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpõ õ(I›
-˜
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpõ õ(
-%4"__id*"* 
-plgworkflowpublishing"
-app¥
-¢
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpõ õ(?
-%5"__concat*
-plgWorkflowPublishing.*
-
-
-$context†ƒ
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpõ õ(@
-%6*
-
-%4*
-
-%52get*
-4
-6*ß
-4f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpö ö("r
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpö ö(
-true*”
-6
-publishing.php"}
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpú ú(
-implicit return*÷
-1f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpì ì(,¤
-¡
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpê ê(.
-$event"__id*'
-%
-$eventjoomla\event\eventinterface‘Ž
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpì ì(+
-%1*
-
-
-$event*
-02getargument…
-‚
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpì ì(+
-
-$context"__id*
-
-%1‘Ž
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpí í(+
-%2*
-
-
-$event*
-12getargument€
-~
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpí í(+
-$pks"__id*
-
-%2§¤
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/workflow/publishing/publishing.phpï ï()
-%3*
-plgworkflowpublishing*
-
-
-$context2issupported*
-2
-3:%
-$eventjoomla\event\eventinterfaceB
-plgworkflowpublishing

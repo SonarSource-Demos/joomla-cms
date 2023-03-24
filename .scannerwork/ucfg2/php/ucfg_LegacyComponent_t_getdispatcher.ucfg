@@ -1,34 +1,0 @@
-
-3joomla\cms\extension\legacycomponent::getdispatchere
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/LegacyComponent.phpM M(!"1*ç
-1e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/LegacyComponent.phpO O(;Â
-¿
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/LegacyComponent.phpM M(!
-$application"__id*@
->
-$application.joomla\cms\application\cmsapplicationinterface¡ž
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/LegacyComponent.phpO O(:
-%1"/joomla\cms\dispatcher\legacycomponentdispatcherÈ
-Å
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/LegacyComponent.phpO O(:
-%2"<joomla\cms\dispatcher\legacycomponentdispatcher::__construct*
-
-%1*
-
-$application©
-¦
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/LegacyComponent.phpO O(;/
-%3)joomla\cms\dispatcher\dispatcherinterface"__id*
-
-%1"š
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/LegacyComponent.phpO O(;1
-/
-%3)joomla\cms\dispatcher\dispatcherinterface:>
-$application.joomla\cms\application\cmsapplicationinterfaceB(&
-$joomla\cms\extension\legacycomponent

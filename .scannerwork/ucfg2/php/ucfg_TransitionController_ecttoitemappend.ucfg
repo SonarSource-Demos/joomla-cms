@@ -1,68 +1,0 @@
-
-`joomla\component\workflow\administrator\controller\transitioncontroller::getredirecttoitemappend‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php˜ ˜(."1*ª
-1‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.phpš š(=í
-ê
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php˜ ˜(.
-	$recordId"__id*I
-G
-	$recordId:joomla\component\workflow\administrator\controller\integer´
-±
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.phpš š(<
-%1"Ajoomla\cms\mvc\controller\formcontroller::getredirecttoitemappend*KI
-Gjoomla\component\workflow\administrator\controller\transitioncontroller*
-
-	$recordId¨
-¥
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.phpš š(<	
-$append"__id*
-
-%1ø
-õ
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php›% ›(6
-%2"__id*[*YI
-Gjoomla\component\workflow\administrator\controller\transitioncontroller"
-
-workflowId÷
-ô
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php›I ›(Y
-%3"__id*Z*XI
-Gjoomla\component\workflow\administrator\controller\transitioncontroller"
-	extensionÓ
-Ð
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php› ›(Y
-%4"__concat*
-&workflow_id=*
-
-%2*
-&extension=*
-
-%3´
-±
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php› ›(Y
-%5"__concat*
-	
-$append*
-
-%4¨
-¥
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php› ›(Y	
-$append"__id*
-
-%5"™
-‰
-}/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Controller/TransitionController.php (
-	
-$append:G
-	$recordId:joomla\component\workflow\administrator\controller\integer:	
-$urlVarBKI
-Gjoomla\component\workflow\administrator\controller\transitioncontroller

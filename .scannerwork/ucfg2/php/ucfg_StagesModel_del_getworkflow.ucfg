@@ -1,67 +1,0 @@
-
-Fjoomla\component\workflow\administrator\model\stagesmodel::getworkflow{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.php¸ ¸("1*±
-2{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.php¿ ¿(&©¦
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.php¿ ¿(%
-%3*
-
-
-$table*
-
-$workflowId2load*
-3*Ô
-3{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpÂ Â(0¡ž
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpÂ Â(/
-%4*
-
-
-$table2getproperties¢
-Ÿ
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpÂ Â(/
-%5"__passthrough_cast*
-
-%4Ê
-Ç
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpÂ Â(0:
-%64joomla\component\workflow\administrator\model\object"__id*
-
-%5"»
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpÂ Â(0<
-:
-%64joomla\component\workflow\administrator\model\object*­
-1{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpº º(>ðí
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpº º(=
-%1*=;
-9joomla\component\workflow\administrator\model\stagesmodel*
-
-Workflow*
-Administrator2gettable˜
-•
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.phpº º(=
-$table"__id*
-
-%1çä
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.php¼ ¼(A
-%2*=;
-9joomla\component\workflow\administrator\model\stagesmodel*
-filter.workflow_id2getstateª
-§
-{
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Model/StagesModel.php¼ ¼(A
-$workflowId"__sanitizing_cast*
-
-%2*
-2
-3B=;
-9joomla\component\workflow\administrator\model\stagesmodel

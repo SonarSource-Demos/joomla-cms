@@ -1,98 +1,0 @@
-
-Djoomla\component\newsfeeds\site\helper\routehelper::getnewsfeedroutem
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php   (+"1*º
-2m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php& &((õ
-ò
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php& &('
-%3"__concat*	
-&catid=*
-
-
-$catidï
-í
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php& &('
-%4"__concat*	
-
-$link*
-
-%3â
-Ü
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php& &('
-$link"__id*
-
-%4*
-5
-7* 
-5m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php). )(HÕ
- 
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php). )(H
-%5",joomla\cms\language\multilanguage::isenabled*%"#
-!joomla\cms\language\multilanguage*
-6
-7*ª
-6m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php* *(*ù
-ö
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php* *()
-%6"__concat*
-
-&lang=*
-
-	$languageï
-í
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php* *()
-%7"__concat*	
-
-$link*
-
-%6â
-Ü
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php* *()
-$link"__id*
-
-%7*
-7*Ó
-7m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php- -("z
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php- -(	
-
-$link*Á
-1m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php# #(I¡
-æ
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php# #(H
-%1"__concat*42
-0index.php?option=com_newsfeeds&view=newsfeed&id=*
-
-$idâ
-Ü
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php# #(H
-$link"__id*
-
-%1ó
-î
-m
-c/Users/jasonobrien/Projects/Nautilus/joomla-cms/components/com_newsfeeds/src/Helper/RouteHelper.php% %(
-%2"__sanitizing_cast*
-
-
-$catid*	
-2
-5
-7:
-$id:
-$catid:
-	$languageB64
-2joomla\component\newsfeeds\site\helper\routehelper

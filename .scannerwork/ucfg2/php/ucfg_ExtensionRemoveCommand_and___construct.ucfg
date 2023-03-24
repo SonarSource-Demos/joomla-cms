@@ -1,30 +1,0 @@
-
-6joomla\cms\console\extensionremovecommand::__constructj
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionRemoveCommand.phpf f("1*•
-2
-ExtensionRemoveCommand.php"Å
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionRemoveCommand.phpk k(
-implicit return*∏
-1j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionRemoveCommand.phph h(®
-•
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionRemoveCommand.phpf f(
-$db"__id**
-(
-$db!joomla\database\databaseinterfaceŸ
-÷
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionRemoveCommand.phph h(
-%1"3joomla\console\command\abstractcommand::__construct*-+
-)joomla\cms\console\extensionremovecommand∫∑
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionRemoveCommand.phpj j(
-%2*-+
-)joomla\cms\console\extensionremovecommand*
-
-$db2setdatabase*
-2:(
-$db!joomla\database\databaseinterfaceB-+
-)joomla\cms\console\extensionremovecommand

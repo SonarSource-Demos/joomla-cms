@@ -1,30 +1,0 @@
-
-Bjoomla\component\modules\administrator\model\modulemodel::gettablez
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Model/ModuleModel.phpí í("1*º
-1z
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Model/ModuleModel.phpï ï(;ë
-è
-z
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Model/ModuleModel.phpï ï(:
-%1"#joomla\cms\table\table::getinstance*"
-joomla\cms\table\table*	
-
-$type*
-	
-$prefix*
-	
-$config«
-¨
-z
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Model/ModuleModel.phpï ï(;
-%2joomla\cms\table\table"__id*
-
-%1"œ
-z
-n/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Model/ModuleModel.phpï ï(;
-
-%2joomla\cms\table\table:
-$type:	
-$prefix:	
-$configB<:
-8joomla\component\modules\administrator\model\modulemodel

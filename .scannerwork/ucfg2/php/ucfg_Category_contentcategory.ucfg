@@ -1,122 +1,0 @@
-
-=step\acceptance\administrator\category::createcontentcategory
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php$ $()"1*¨
-2
-Category.php"ñ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php5 5(
-implicit return*“
-1
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php& &(7’
-“
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php& &(5
-%1"__id*C*A7
-5page\acceptance\administrator\contentcategorylistpage"
-$url»≈
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php& &(6
-%2**(
-&step\acceptance\administrator\category*
-
-%12amonpageŒÀ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php'3 '(N
-%3**(
-&step\acceptance\administrator\category*	
-timeout2	getconfigÔÏ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php' '(W
-%4**(
-&step\acceptance\administrator\category*
-Articles: Categories*
-
-%3*
-//h12waitfortext”–
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php( (((
-%5**(
-&step\acceptance\administrator\category*
-New2clicktoolbarbutton◊
-‘
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php) )(=
-%6"__id*E*C7
-5page\acceptance\administrator\contentcategorylistpage"
-$titleŒÀ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php) )(>
-%7**(
-&step\acceptance\administrator\category*
-
-%62waitforelement◊
-‘
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php* *(8
-%8"__id*E*C7
-5page\acceptance\administrator\contentcategorylistpage"
-$title’“
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php* *(A
-%9**(
-&step\acceptance\administrator\category*
-
-%8*
-
-
-$title2	fillfield·
-ﬁ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php+ +(=
-%10"__id*N*L7
-5page\acceptance\administrator\contentcategorylistpage"
-$dropDownToggle«ƒ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php+ +(>
-%11**(
-&step\acceptance\administrator\category*
-
-%102click›⁄
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php, ,(1
-%12**(
-&step\acceptance\administrator\category*
-Save & Close2clicktoolbarbuttonìê
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php/ 2(	
-%13"$Arrayµ
-≤
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php/ 2(	
-%14"__mapSet*
-
-%13*	
-title*
-
-
-$titleæ
-ª
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php/ 2(	
-%15"__mapSet*
-
-%13*
-	extension*
-com_content§
-°
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php/ 2(	
-$testCategory"__id*
-
-%13ÈÊ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Step/Acceptance/Administrator/Category.php4 4(9
-%16**(
-&step\acceptance\administrator\category*
-
-categories*
-
-$testCategory2seeindatabase*
-2:
-$titleB*(
-&step\acceptance\administrator\category

@@ -1,34 +1,0 @@
-
-Cjoomla\component\fields\administrator\table\fieldtable::__constructv
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.php, ,("1*•
-2
-FieldTable.php"ç
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.php1 1(
-implicit return*£
-1v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.php. .(4±
-Æ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.php, ,(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverÇ
-ˇ
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.php. .(3
-%1"#joomla\cms\table\table::__construct*:8
-6joomla\component\fields\administrator\table\fieldtable*
-	#__fields*
-id*
-
-$dbÁ‰
-v
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Table/FieldTable.php0 0(3
-%2*:8
-6joomla\component\fields\administrator\table\fieldtable*
-	published*	
-state2setcolumnalias*
-2:%
-$dbjoomla\database\databasedriverB:8
-6joomla\component\fields\administrator\table\fieldtable

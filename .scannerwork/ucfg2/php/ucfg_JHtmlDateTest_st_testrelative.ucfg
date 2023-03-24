@@ -1,35 +1,0 @@
-
-@joomla\tests\unit\libraries\cms\html\jhtmldatetest::testrelativei
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlDateTest.php] ]( "1*õ
-2
-JHtmlDateTest.php"Ä
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlDateTest.php` `(
-implicit return*Å
-1i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlDateTest.php_ _(Oπ
-∂
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlDateTest.php_% _(M
-%1"jhtmldate::relative*"
-	jhtmldate*	
-
-$date*	
-
-$unit*	
-
-$timeœÃ
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Html/JHtmlDateTest.php_ _(N
-%2*64
-2joomla\tests\unit\libraries\cms\html\jhtmldatetest*
-	
-$result*
-
-%12assertequals*
-2:	
-$result:
-$date:
-$unit:
-$timeB64
-2joomla\tests\unit\libraries\cms\html\jhtmldatetest

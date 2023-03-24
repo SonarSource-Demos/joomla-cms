@@ -1,28 +1,0 @@
-
-#joomla\cms\table\asset::__constructW
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Asset.php= =("1*Ä
-2
-	Asset.php"n
-W
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Asset.php@ @(
-implicit return*Ω
-1W
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Asset.php? ?(4í
-è
-W
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Asset.php= =(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverƒ
-¡
-W
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Asset.php? ?(3
-%1"$joomla\cms\table\nested::__construct*
-joomla\cms\table\asset*
-	#__assets*
-id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB
-joomla\cms\table\asset

@@ -1,37 +1,0 @@
-
-`joomla\tests\unit\libraries\cms\document\documenttest::testensuresetdescriptionreturnsthisobjectn
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php€ €(="1*Ÿ
-2
-DocumentTest.php"…
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php… …(
-implicit return*Ò
-1n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php‚ ‚(,ÄÁ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php‚ ‚(+
-%1*97
-5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
-‹
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php‚ ‚(+
-	$document"__id*
-
-%1¥¢
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php„% „(I
-%2*
-
-	$document*	
-Joomla!2setdescription×Ô
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php„ „(J
-%3*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-	$document*
-
-%22
-assertsame*
-2B97
-5joomla\tests\unit\libraries\cms\document\documenttest

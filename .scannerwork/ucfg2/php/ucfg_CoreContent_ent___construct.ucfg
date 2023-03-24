@@ -1,47 +1,0 @@
-
-)joomla\cms\table\corecontent::__construct]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php2 2("1*Œ
-2
-CoreContent.php"t
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php9 9(
-implicit return*¼
-1]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php4 4(F˜
-•
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php2 2(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverá
-Þ
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php4 4(E
-%1"#joomla\cms\table\table::__construct* 
-joomla\cms\table\corecontent*
-#__ucm_content*
-core_content_id*
-
-$db¹¶
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php6 6(8
-%2* 
-joomla\cms\table\corecontent*
-	published*
-
-core_state2setcolumnaliasÉÆ
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php7 7(H
-%3* 
-joomla\cms\table\corecontent*
-checked_out*
-core_checked_out_user_id2setcolumnaliasËÈ
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/CoreContent.php8 8(J
-%4* 
-joomla\cms\table\corecontent*
-checked_out_time*
-core_checked_out_time2setcolumnalias*
-2:%
-$dbjoomla\database\databasedriverB 
-joomla\cms\table\corecontent

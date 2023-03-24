@@ -1,38 +1,0 @@
-
-ljoomla\tests\unit\libraries\cms\document\documenttest::testensuresetmetadataforcustomparamsreturnsthisobjectn
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpï ï(I"1*Ÿ
-2
-DocumentTest.php"…
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpô ô(
-implicit return*ä
-1n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpñ ñ(,ÄÁ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpñ ñ(+
-%1*97
-5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
-‹
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpñ ñ(+
-	$document"__id*
-
-%1·´
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpó% ó(Y
-%2*
-
-	$document*
-	myMetaTag*
-myMetaContent2setmetadata×Ô
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpó ó(Z
-%3*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-	$document*
-
-%22
-assertsame*
-2B97
-5joomla\tests\unit\libraries\cms\document\documenttest

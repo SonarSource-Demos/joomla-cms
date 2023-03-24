@@ -1,34 +1,0 @@
-
-,joomla\cms\document\rawdocument::__construct`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/RawDocument.php ("1*è
-2
-RawDocument.php"w
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/RawDocument.php# #(
-implicit return*Ü
-1`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/RawDocument.php (&…
-∆
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/RawDocument.php (%
-%1")joomla\cms\document\document::__construct*#!
-joomla\cms\document\rawdocument*
-
-
-$options®
-•
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/RawDocument.php (",!
-joomla\cms\document\rawdocument"
-_mime"__id*
-	text/html¢
-ü
-`
-V/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/RawDocument.php" "(,!
-joomla\cms\document\rawdocument"
-_type"__id*
-raw*
-2:
-
-$optionsB#!
-joomla\cms\document\rawdocument

@@ -1,90 +1,0 @@
-
-'plgwebservicesbanners::onbeforeapiroutea
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php) )($"1*Œ
-2
-banners.php"x
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php> >(
-implicit return*µ
-1a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php+ /(
-sq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php. .(*
-%1"$Arrayž
-›
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php. .(*
-%2"__mapSet*
-
-%1*
-	component*
-com_banners°­
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php+ /(	
-%3*
-	
-$router*
-
-v1/banners*	
-banners*
-
-%12createcrudroutessq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php4 4(*
-%4"$Arrayž
-›
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php4 4(*
-%5"__mapSet*
-
-%4*
-	component*
-com_banners¸µ
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php1 5(	
-%6*
-	
-$router*
-v1/banners/clients*	
-clients*
-
-%42createcrudroutessq
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php: :(K
-%7"$Array¡
-ž
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php: :(K
-%8"__mapSet*
-
-%7*
-	component*
-com_categoriesž
-›
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php: :(K
-%9"__mapSet*
-
-%7*
-	extension*
-com_banners¿¼
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php7 ;(	
-%10*
-	
-$router*
-v1/banners/categories*
-
-categories*
-
-%72createcrudroutes±®
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/banners/banners.php= =(2
-%11*
-plgwebservicesbanners*
-	
-$router2createcontenthistoryroutes*
-2:	
-$routerB
-plgwebservicesbanners

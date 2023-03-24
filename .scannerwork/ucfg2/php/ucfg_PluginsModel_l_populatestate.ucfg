@@ -1,45 +1,0 @@
-
-Hjoomla\component\plugins\administrator\model\pluginsmodel::populatestatey
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_plugins/src/Model/PluginsModel.phpF F($"1*™
-2
-PluginsModel.php"ê
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_plugins/src/Model/PluginsModel.phpN N(
-implicit return*ç
-1y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_plugins/src/Model/PluginsModel.phpI I(<
-Ì
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_plugins/src/Model/PluginsModel.phpI I(;
-%1"/joomla\cms\component\componenthelper::getparams*("&
-$joomla\cms\component\componenthelper*
-com_pluginsó
-î
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_plugins/src/Model/PluginsModel.phpI I(;	
-$params"__id*
-
-%1Ê„
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_plugins/src/Model/PluginsModel.phpJ J(*
-%2*=;
-9joomla\component\plugins\administrator\model\pluginsmodel*
-
-params*
-	
-$params2setstateë
-é
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_plugins/src/Model/PluginsModel.phpM M(4
-%3"-joomla\cms\mvc\model\listmodel::populatestate*=;
-9joomla\component\plugins\administrator\model\pluginsmodel*
-
-	$ordering*
-
-
-$direction*
-2:
-	$ordering:
-
-$directionB=;
-9joomla\component\plugins\administrator\model\pluginsmodel

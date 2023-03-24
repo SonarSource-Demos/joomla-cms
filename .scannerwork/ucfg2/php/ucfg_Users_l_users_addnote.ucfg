@@ -1,62 +1,0 @@
-
-@joomla\component\users\administrator\service\html\users::addnotew
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.php> >("1*ü
-1w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.php@ @(/’
-“
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.php> >(	
-$userId"__id*F
-D
-$userId9joomla\component\users\administrator\service\html\integer’
-“
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.php@ @(.
-%1"joomla\cms\language\text::_*"
-joomla\cms\language\text*
-COM_USERS_ADD_NOTEî
-ë
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.php@ @(.
-$title"__id*
-
-%1¢
-ü
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.phpBY B(f
-%2"__sanitizing_cast*
-	
-$userId»
-≈
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.phpB& B(f
-%3"__concat*20
-.index.php?option=com_users&task=note.add&u_id=*
-
-%2√
-¿
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.phpB B(g
-%4"joomla\cms\router\route::_*"
-joomla\cms\router\route*
-
-%3ü
-ú
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.phpB D()
-%5"__concat*
-	<a href="*
-
-%4*WU
-S" class="btn btn-secondary btn-sm"><span class="icon-plus pe-1" aria-hidden="true">*	
-</span>*
-
-
-$title*
-</a>"Å
-w
-m/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Service/HTML/Users.phpB D(*
-
-%5:D
-$userId9joomla\component\users\administrator\service\html\integerB;9
-7joomla\component\users\administrator\service\html\users

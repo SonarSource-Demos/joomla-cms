@@ -1,60 +1,0 @@
-
-&joomla\cms\feed\feedentry::addcategoryZ
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.php| |("1*Ù
-1Z
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.php~ ~(6ö
-ó
-Z
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.php~ ~(
-%1"__id*-*+
-joomla\cms\feed\feedentry"
-
-propertiesá
-Ñ
-Z
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.php~ ~('
-%2"__mapGet*
-
-%1*
-
-categoriesé
-ã
-Z
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.php~ ~(.
-%3"
-__arraySet*
-
-%2*	
-
-$name*
-
-$uriö
-ó
-Z
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.php~ ~(
-%4"__id*-*+
-joomla\cms\feed\feedentry"
-
-propertiesè
-å
-Z
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.php~ ~('
-%5"__mapSet*
-
-%4*
-
-categories*
-
-%2ß
-§
-\
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.phpÄ Ä(
-%6joomla\cms\feed\feedentry"__id*
-joomla\cms\feed\feedentry"Å
-\
-P/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/FeedEntry.phpÄ Ä(!
-
-%6joomla\cms\feed\feedentry:
-$name:
-$uriB
-joomla\cms\feed\feedentry

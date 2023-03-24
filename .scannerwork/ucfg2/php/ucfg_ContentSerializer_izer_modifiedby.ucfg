@@ -1,107 +1,0 @@
-
-Ejoomla\component\content\api\serializer\contentserializer::modifiedbyy
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpc c("1*Ü
-1y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpe e(4¤
-¡
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpc c(
-$model"__id*
-
-$modelstdclassµ²
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpe e(3
-$serializer"&joomla\cms\serializer\joomlaserializerÕ
-Ò
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpe e(3
-%1"3joomla\cms\serializer\joomlaserializer::__construct*
-
-$serializer*	
-users§
-¤
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpg" g(5
-%3"__id**
-
-$model"
-modified_byŸœ
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpg g(D
-%2"tobscure\jsonapi\resourceÍ
-Ê
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpg g(D
-%4"&tobscure\jsonapi\resource::__construct*
-
-%2*
-
-%3*
-
-$serializer¶
-³
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phph2 h(=
-%5"joomla\cms\uri\uri::root*"
-joomla\cms\uri\uri§
-¤
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phph\ h(o
-%6"__id**
-
-$model"
-modified_by»
-¸
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phph2 h(o
-%7"__concat*
-
-%5*
-api/index.php/v1/users/*
-
-%6Ò
-Ï
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phph h(p
-%8"joomla\cms\router\route::link*"
-joomla\cms\router\route*
-site*
-
-%7§¤
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpg h(q
-%9*
-
-%2*
-self*
-
-%82addlink™
-–
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpg h(q
-	$resource"__id*
-
-%9¤¡
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpj j(*
-%10"tobscure\jsonapi\relationshipÉ
-Æ
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpj j(*
-%11"*tobscure\jsonapi\relationship::__construct*
-
-%10*
-
-	$resource³
-°
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpj j(+$
-%12tobscure\jsonapi\relationship"__id*
-
-%10"£
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_content/src/Serializer/ContentSerializer.phpj j(+&
-$
-%12tobscure\jsonapi\relationship:
-$modelstdclassB=;
-9joomla\component\content\api\serializer\contentserializer

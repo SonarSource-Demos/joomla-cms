@@ -1,43 +1,0 @@
-
-Gjoomla\component\modules\administrator\extension\modulescomponent::bootÅ
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php) )("1*∑
-2
-ModulesComponent.php"ô
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php, ,(
-implicit return*¶	
-1Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php+ +(AÕ
- 
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php) )(
-
-$container"__id*0
-.
-
-$container psr\container\containerinterface·ﬁ
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php+ +(
-%1*EC
-Ajoomla\component\modules\administrator\extension\modulescomponent2getregistry «
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php+2 +(?
-%2";joomla\component\modules\administrator\service\html\modulesﬂ
-‹
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php+2 +(?
-%3"Hjoomla\component\modules\administrator\service\html\modules::__construct*
-
-%2¥±
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_modules/src/Extension/ModulesComponent.php+ +(@
-%4*
-
-%1*	
-modules*
-
-%22register*
-2:.
-
-$container psr\container\containerinterfaceBEC
-Ajoomla\component\modules\administrator\extension\modulescomponent

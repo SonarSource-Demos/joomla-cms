@@ -1,38 +1,0 @@
-
-Mjoomla\component\privacy\administrator\view\capabilities\htmlview::addtoolbar
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/View/Capabilities/HtmlView.phpL L(!"1*¯
-2
-HtmlView.php"™
-
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/View/Capabilities/HtmlView.phpS S(
-implicit return*ä
-1
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/View/Capabilities/HtmlView.phpN N(Oë
-è
-
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/View/Capabilities/HtmlView.phpN N(E
-%1"joomla\cms\language\text::_*"
-joomla\cms\language\text*!
-COM_PRIVACY_VIEW_CAPABILITIESî
-ë
-
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/View/Capabilities/HtmlView.phpN N(N
-%2"'joomla\cms\toolbar\toolbarhelper::title*$""
- joomla\cms\toolbar\toolbarhelper*
-
-%1*
-lockó
-ð
-
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/View/Capabilities/HtmlView.phpP P(1
-%3"-joomla\cms\toolbar\toolbarhelper::preferences*$""
- joomla\cms\toolbar\toolbarhelper*
-com_privacy€
-ý
-
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_privacy/src/View/Capabilities/HtmlView.phpR R(>
-%4"&joomla\cms\toolbar\toolbarhelper::help*$""
- joomla\cms\toolbar\toolbarhelper*#!
-Privacy:_Extension_Capabilities*
-2BEC
-Ajoomla\component\privacy\administrator\view\capabilities\htmlview

@@ -1,29 +1,0 @@
-
-6joomla\cms\event\afterextensionbootevent::getcontaineri
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AfterExtensionBootEvent.php5 5( "1*å
-1i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AfterExtensionBootEvent.php7 7(-·
-´
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AfterExtensionBootEvent.php7 7(
-%1"__id*;*9*
-(joomla\cms\event\afterextensionbootevent"
-	arguments•
-’
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AfterExtensionBootEvent.php7 7(,
-%2"__mapGet*
-
-%1*
-	container—
-”
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AfterExtensionBootEvent.php7 7(-
-%3joomla\di\container"__id*
-
-%2"ˆ
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/AfterExtensionBootEvent.php7 7(-
-
-%3joomla\di\containerB,*
-(joomla\cms\event\afterextensionbootevent

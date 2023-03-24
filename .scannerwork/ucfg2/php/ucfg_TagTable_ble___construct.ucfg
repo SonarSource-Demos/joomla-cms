@@ -1,34 +1,0 @@
-
-?joomla\component\tags\administrator\table\tagtable::__constructr
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.php2 2("1*Ÿ
-2
-TagTable.php"‰
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.php7 7(
-implicit return*ÿ
-1r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.php4 4(*­
-ª
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.php2 2(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverÔ
-Ñ
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.php4 4()C4
-2joomla\component\tags\administrator\table\tagtable"
-	typeAlias"__id*
-com_tags.tagù
-ö
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_tags/src/Table/TagTable.php6 6(1
-%1"$joomla\cms\table\nested::__construct*64
-2joomla\component\tags\administrator\table\tagtable*	
-#__tags*
-id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB64
-2joomla\component\tags\administrator\table\tagtable

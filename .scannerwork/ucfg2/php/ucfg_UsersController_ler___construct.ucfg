@@ -1,50 +1,0 @@
-
-Ljoomla\component\users\administrator\controller\userscontroller::__construct
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.php/ /("1*³
-2
-UsersController.php"–
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.php5 5(
-implicit return*‘	
-1
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.php1 1(=Ð
-Í
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.php/ /(
-
-$factory"__id*8
-6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface¸
-µ
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.php1 1(<
-%1"6joomla\cms\mvc\controller\admincontroller::__construct*CA
-?joomla\component\users\administrator\controller\userscontroller*
-	
-$config*
-
-
-$factory*
-
-$app*
-
-
-$inputùö
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.php3 3(3
-%2*CA
-?joomla\component\users\administrator\controller\userscontroller*	
-block*
-changeBlock2registertaskûø
-
-u/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/UsersController.php4 4(5
-%3*CA
-?joomla\component\users\administrator\controller\userscontroller*	
-unblock*
-changeBlock2registertask*
-2:	
-$config:6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
-$app:
-$inputBCA
-?joomla\component\users\administrator\controller\userscontroller

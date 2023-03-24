@@ -1,37 +1,0 @@
-
-Djoomla\cms\event\workflow\workflowtransitionevent::setstoptransitionr
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php/ /(%"1*Ä
-2r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php4 4(%ÅÂ
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php4 4($
-%3*53
-1joomla\cms\event\workflow\workflowtransitionevent2stoppropagation*
-3*®
-3
-WorkflowTransitionEvent.php"‰
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php6 6(
-implicit return*ý
-1r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php1 1(4É
-Æ
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php1 1(
-%1"__id*D*B3
-1joomla\cms\event\workflow\workflowtransitionevent"
-	arguments¯
-¬
-r
-h/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Workflow/WorkflowTransitionEvent.php1 1(*
-%2"__mapSet*
-
-%1*
-stopTransition*
-
-
-$value*
-2
-3:
-$valueB53
-1joomla\cms\event\workflow\workflowtransitionevent

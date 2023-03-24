@@ -1,93 +1,0 @@
-
-8joomla\cms\session\metadatamanager::createorupdaterecordc
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpw w(("1*Ÿ
-2c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.php} }("o
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.php} }(
-void*≥
-3e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpÄ Ä(8æ
-ª
-e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpÄ Ä(8
-%4"__id*F*D$
-"joomla\cms\session\metadatamanager"
-$sessionRecordDoesNotExist*
-4
-5*¶
-4e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpÅ Å(8∆√
-e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpÅ Å(7
-%5*&$
-"joomla\cms\session\metadatamanager*
-
-
-$session*	
-
-$user2createsessionrecord"q
-e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpÉ É(
-void*∏
-5e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpÜ Ü(4∆√
-e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpÜ Ü(3
-%6*&$
-"joomla\cms\session\metadatamanager*
-
-
-$session*	
-
-$user2updatesessionrecord*
-6*ò
-6
-MetadataManager.php"|
-e
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpá á(
-implicit return*µ
-1c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpy y(E©
-¶
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpw w((
-
-$session"__id*-
-+
-$sessionjoomla\session\sessioninterfaceò
-ï
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpw w((
-$user"__id*
-
-$userjoomla\cms\user\userÉÄ
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpy2 y(C
-%1*
-
-
-$session2getid∏µ
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpy y(D
-%2*&$
-"joomla\cms\session\metadatamanager*
-
-%12checksessionrecordexistsÄ
-~
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.phpy y(D	
-$exists"__id*
-
-%2∑
-¥
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Session/MetadataManager.php| |(3
-%3"__id*A*?$
-"joomla\cms\session\metadatamanager"
-$sessionRecordUnknown*
-2
-3:+
-$sessionjoomla\session\sessioninterface:
-$userjoomla\cms\user\userB&$
-"joomla\cms\session\metadatamanager

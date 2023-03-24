@@ -1,50 +1,0 @@
-
-.joomla\cms\toolbar\corebuttonstrait::save2copyf
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php∞ ∞("1*æ	
-1f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php≤ ¥(#ç
-ä
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php∞ ∞(
-$task"__id*
-
-$taskstringç
-ä
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php∞ ∞(
-$text"__id*
-
-$textstringƒ¡
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php≤ ≤(8
-%1*'%
-#joomla\cms\toolbar\corebuttonstrait*
-	save-copy*	
-
-$text2standardbuttonäá
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php≤ ≥(
-%2*
-
-%1*	
-
-$task2taskìê
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php≤ ¥("
-%3*
-
-%2*
-true2formvalidation©
-¶
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php≤ ¥(#.
-%4(joomla\cms\toolbar\button\standardbutton"__id*
-
-%3"ö
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/CoreButtonsTrait.php≤ ¥(#0
-.
-%4(joomla\cms\toolbar\button\standardbutton:
-$taskstring:
-$textstringB'%
-#joomla\cms\toolbar\corebuttonstrait

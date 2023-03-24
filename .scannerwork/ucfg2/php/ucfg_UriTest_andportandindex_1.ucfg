@@ -1,26 +1,0 @@
-
-njoomla\tests\unit\libraries\cms\uri\uritest::testisinternalwhennotinternalwithdomainandnoschemeandportandindexd
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÃ Ã(U"1*è
-2
-UriTest.php"{
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php“ “(
-implicit return*‹
-1d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpŒ —(
-‚
-ﬂ
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpœ œ(T
-%1"joomla\cms\uri\uri::isinternal*"
-joomla\cms\uri\uri*97
-5www.myotherexample.com/index.php?option=com_somethingÜÉ
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpŒ —(	
-%2*/-
-+joomla\tests\unit\libraries\cms\uri\uritest*
-
-%1*OM
-Kwww.myotherexample.comindex.php?option=com_something should NOT be internal2assertfalse*
-2B/-
-+joomla\tests\unit\libraries\cms\uri\uritest

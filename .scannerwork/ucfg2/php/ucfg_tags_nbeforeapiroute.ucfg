@@ -1,36 +1,0 @@
-
-$plgwebservicestags::onbeforeapiroute[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/tags/tags.php( (($"1*ƒ
-2
-
-tags.php"r
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/tags/tags.php/ /(
-implicit return*“
-1[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/tags/tags.php* .(
-mk
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/tags/tags.php- -('
-%1"$Array•
-’
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/tags/tags.php- -('
-%2"__mapSet*
-
-%1*
-	component*
-
-com_tags¤¡
-[
-Q/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/tags/tags.php* .(	
-%3*
-	
-$router*	
-v1/tags*
-tags*
-
-%12createcrudroutes*
-2:	
-$routerB
-plgwebservicestags

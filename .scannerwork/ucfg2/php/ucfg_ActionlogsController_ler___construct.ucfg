@@ -1,45 +1,0 @@
-
-Vjoomla\component\actionlogs\administrator\controller\actionlogscontroller::__construct‰
-/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Controller/ActionlogsController.php1 1("1*Ã
-2
-ActionlogsController.php"¡
-‰
-/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Controller/ActionlogsController.php6 6(
-implicit return*ß
-1‰
-/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Controller/ActionlogsController.php3 3(=Û
-Ø
-‰
-/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Controller/ActionlogsController.php1 1(
-
-$factory"__id*8
-6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterfaceÍ
-Ê
-‰
-/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Controller/ActionlogsController.php3 3(<
-%1"6joomla\cms\mvc\controller\admincontroller::__construct*MK
-Ijoomla\component\actionlogs\administrator\controller\actionlogscontroller*
-	
-$config*
-
-
-$factory*
-
-$app*
-
-
-$inputš—
-‰
-/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_actionlogs/src/Controller/ActionlogsController.php5 5(?
-%2*MK
-Ijoomla\component\actionlogs\administrator\controller\actionlogscontroller*
-exportSelectedLogs*
-
-exportLogs2registertask*
-2:	
-$config:6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface:
-$app:
-$inputBMK
-Ijoomla\component\actionlogs\administrator\controller\actionlogscontroller

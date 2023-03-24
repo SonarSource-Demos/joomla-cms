@@ -1,26 +1,0 @@
-
-Zjoomla\tests\unit\libraries\cms\uri\uritest::testisinternalappendingofbasetotheendoftheurld
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÍ Í(A"1*è
-2
-UriTest.php"{
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php (
-implicit return*ª
-1d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÏ Ô(
-—
-Œ
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÌ Ì(C
-%1"joomla\cms\uri\uri::isinternal*"
-joomla\cms\uri\uri*(&
-$/customDevScript.php?www.example.comˆÛ
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.phpÏ Ô(	
-%2*/-
-+joomla\tests\unit\libraries\cms\uri\uritest*
-
-%1*?=
-;/customDevScript.php?www.example.com should NOT be internal2assertfalse*
-2B/-
-+joomla\tests\unit\libraries\cms\uri\uritest

@@ -1,54 +1,0 @@
-
-'joomla\cms\filesystem\stream::writefile_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php’	 ’	("1*€
-2_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpÿ	 ÿ	(,†ù
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpÿ	 ÿ	(+
-%2* 
-joomla\cms\filesystem\stream*
-	
-$buffer2write|
-z
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpÿ	 ÿ	(+	
-$result"__id*
-
-%2ìê
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpŸ	 Ÿ	(
-%3* 
-joomla\cms\filesystem\stream2chmodìê
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php⁄	 ⁄	(
-%4* 
-joomla\cms\filesystem\stream2closeú
-ô
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php‹	 ‹	(#
-%5joomla\cms\filesystem\boolean"__id*
-	
-$result"à
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php‹	 ‹	(%
-#
-%5joomla\cms\filesystem\boolean*“
-3_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpﬂ	 ﬂ	("l
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.phpﬂ	 ﬂ	(	
-false*ó
-1_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php◊	 ◊	('®•
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Filesystem/Stream.php◊	 ◊	('
-%1* 
-joomla\cms\filesystem\stream*
-
-	$filename*
-w2open*
-2
-3:
-	$filename:	
-$bufferB 
-joomla\cms\filesystem\stream

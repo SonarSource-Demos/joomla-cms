@@ -1,54 +1,0 @@
-
-<joomla\component\fields\administrator\field\typefield::setupu
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php+ +("1*¹
-
-1u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php- -(:¬
-©
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php+ +(
-
-$element"__id*
-
-$elementsimplexmlelement‰
-†
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php- -(9
-%1"&joomla\cms\form\field\listfield::setup*97
-5joomla\component\fields\administrator\field\typefield*
-
-
-$element*
-
-
-$value*
-
-
-$group“
-
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php- -(9	
-$return"__id*
-
-%1é
-æ
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php/ /(8E7
-5joomla\component\fields\administrator\field\typefield"
-
-onchange"__id* 
-Joomla.typeHasChanged(this);È
-Å
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php1 1(9
-%23joomla\component\fields\administrator\field\boolean"__id*
-	
-$return"´
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Field/TypeField.php1 1(;
-9
-%23joomla\component\fields\administrator\field\boolean:
-$elementsimplexmlelement:
-$value:
-$groupB97
-5joomla\component\fields\administrator\field\typefield

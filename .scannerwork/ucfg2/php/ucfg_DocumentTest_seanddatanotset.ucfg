@@ -1,42 +1,0 @@
-
-joomla\tests\unit\libraries\cms\document\documenttest::testthereturnforgetmetadatawithcustomparamandhttpequivfalseanddatanotsetn
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpš š(\"1*Ÿ
-2
-DocumentTest.php"…
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php¡ ¡(
-implicit return*‡
-1n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpœ œ(,ÄÁ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpœ œ(+
-%1*97
-5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
-‹
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpœ œ(+
-	$document"__id*
-
-%1Á¾
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpž ž(B
-%2*
-
-	$document*
-	myMetaTag*
-myMetaContent*
-true2setmetadata¤¡
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php   (>
-%3*
-
-	$document*
-	myMetaTag2getmetadataÉÆ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php   (?
-%4*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-%32assertempty*
-2B97
-5joomla\tests\unit\libraries\cms\document\documenttest

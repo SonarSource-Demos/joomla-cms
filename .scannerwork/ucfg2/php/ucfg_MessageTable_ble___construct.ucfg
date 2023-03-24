@@ -1,35 +1,0 @@
-
-Gjoomla\component\messages\administrator\table\messagetable::__constructz
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/Table/MessageTable.php   ("1*«
-2
-MessageTable.php"‘
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/Table/MessageTable.php% %(
-implicit return*Å
-1z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/Table/MessageTable.php" "(>µ
-²
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/Table/MessageTable.php   (
-$db"__id*'
-%
-$dbjoomla\database\databasedriver”
-‘
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/Table/MessageTable.php" "(=
-%1"#joomla\cms\table\table::__construct*><
-:joomla\component\messages\administrator\table\messagetable*
-#__messages*
-
-message_id*
-
-$dbïì
-z
-p/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_messages/src/Table/MessageTable.php$ $(3
-%2*><
-:joomla\component\messages\administrator\table\messagetable*
-	published*	
-state2setcolumnalias*
-2:%
-$dbjoomla\database\databasedriverB><
-:joomla\component\messages\administrator\table\messagetable

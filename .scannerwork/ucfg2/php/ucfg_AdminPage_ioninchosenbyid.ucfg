@@ -1,124 +1,0 @@
-
-Apage\acceptance\administrator\adminpage::selectoptioninchosenbyid‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÆ Æ(,"1*±
-2
-AdminPage.php"š
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÒ Ò(
-implicit return*ë
-1‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÈ È(.²
-¯
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÈ È(-
-%1"__concat*
-
-	$selectId*	
-_chzn©
-¦
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÈ È(-
-$chosenSelectID"__id*
-
-%1Á
-¾
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÊ Ê(
-$I"__id*+)
-'page\acceptance\administrator\adminpageÔ
-Ñ
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpË Ë(@
-%2"__concat*
-I open the *
- chosen selector*
-
-$chosenSelectID§¤
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpË Ë(A
-%3*
-
-$I*
-
-%22comment–“
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÌ Ì(E
-%4"$ArrayÎ
-Ë
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÌ Ì(D
-%5"__concat*
-//div[@id='*
-
-']/a/div/b*
-
-$chosenSelectID³
-°
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÌ Ì(E
-%6"__mapSet*
-
-%4*	
-xpath*
-
-%5¥¢
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÌ Ì(F
-%7*
-
-$I*
-
-%42click´
-±
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÍ Í(&
-%8"__concat*
-	I select *
-	
-$option§¤
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÍ Í('
-%9*
-
-$I*
-
-%82comment—”
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(S
-%10"$Arrayé
-æ
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(R
-%11"__concat*
-//div[@id='*
-']//li[text()='*
-']*
-
-$chosenSelectID*
-	
-$option¶
-³
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(S
-%12"__mapSet*
-
-%10*	
-xpath*
-
-%11§¤
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÎ Î(T
-%13*
-
-$I*
-
-%102click£ 
-‚
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Page/Acceptance/Administrator/AdminPage.phpÑ Ñ(
-%14*
-
-$I*22wait*
-2:
-	$selectId:	
-$optionB+)
-'page\acceptance\administrator\adminpage

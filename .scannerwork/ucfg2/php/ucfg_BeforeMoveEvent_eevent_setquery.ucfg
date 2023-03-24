@@ -1,27 +1,0 @@
-
-0joomla\cms\event\table\beforemoveevent::setqueryg
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Table/BeforeMoveEvent.php> >("1*ã
-3g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Table/BeforeMoveEvent.phpD D("u
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Table/BeforeMoveEvent.phpD D(
-
-
-$value*š
-4
-BeforeMoveEvent.php"~
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Table/BeforeMoveEvent.phpE E(
-implicit return*ž
-1g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Table/BeforeMoveEvent.php@ @(.§
-¤
-g
-]/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Event/Table/BeforeMoveEvent.php> >(
-$value"__id*)
-'
-$valuejoomla\database\databasequery*
-3
-4:'
-$valuejoomla\database\databasequeryB*(
-&joomla\cms\event\table\beforemoveevent

@@ -1,118 +1,0 @@
-
-Cjoomla\plugin\system\debug\datacollector\querycollector::getwidgetsu
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpä ä("1*¸
-1u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpå ó(
-àÖ
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpå ó(	
-%1"$ArrayàÖ
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpç í(
-%2"$Array™
-ß
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpç í(
-%3"__mapSet*
-
-%2*
-icon*
-
-database»
-≈
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpç í(
-%4"__mapSet*
-
-%2*
-
-widget*(&
-$PhpDebugBar.Widgets.SQLQueriesWidgetÕ
- 
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpê ê((
-%5"__id*E*C9
-7joomla\plugin\system\debug\datacollector\querycollector"
-nameù
-ö
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpê ê(2
-%6"__concat*
-
-%5*	
-.data£
-†
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpç í(
-%7"__mapSet*
-
-%2*
-map*
-
-%6ß
-§
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpç í(
-%8"__mapSet*
-
-%2*	
-default*
-[]ß
-§
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpå ó(	
-%9"__mapSet*
-
-%1*	
-queries*
-
-%2âÜ
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpì ñ(
-%10"$ArrayŒ
-À
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpî î((
-%11"__id*E*C9
-7joomla\plugin\system\debug\datacollector\querycollector"
-name†
-ù
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpî î(3
-%12"__concat*
-
-%11*
-
-.count¶
-£
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpì ñ(
-%13"__mapSet*
-
-%10*
-map*
-
-%12´
-®
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpì ñ(
-%14"__mapSet*
-
-%10*	
-default*
-nullØ
-¨
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpå ó(	
-%15"__mapSet*
-
-%1*
-queries:badge*
-
-%10"
-u
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/system/debug/src/DataCollector/QueryCollector.phpå ó(
-
-
-%1B;9
-7joomla\plugin\system\debug\datacollector\querycollector

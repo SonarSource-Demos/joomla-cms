@@ -1,63 +1,0 @@
-
-)plgwebservicesnewsfeeds::onbeforeapiroutee
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php( (($"1*’
-2
-newsfeeds.php"|
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php5 5(
-implicit return*Û	
-1e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php* .(
-wu
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php- -(,
-%1"$Array¤
-¡
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php- -(,
-%2"__mapSet*
-
-%1*
-	component*
-com_newsfeedsº·
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php* .(	
-%3*
-	
-$router*
-v1/newsfeeds/feeds*	
-feeds*
-
-%12createcrudrouteswu
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php3 3(M
-%4"$Array¥
-¢
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php3 3(M
-%5"__mapSet*
-
-%4*
-	component*
-com_categories¤
-¡
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php3 3(M
-%6"__mapSet*
-
-%4*
-	extension*
-com_newsfeedsÄÁ
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/newsfeeds/newsfeeds.php0 4(	
-%7*
-	
-$router*
-v1/newsfeeds/categories*
-
-categories*
-
-%42createcrudroutes*
-2:	
-$routerB
-plgwebservicesnewsfeeds

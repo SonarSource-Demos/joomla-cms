@@ -1,43 +1,0 @@
-
-#helper\joomladb::deletefromdatabasej
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php≥ ≥(&"1*ó
-2
-JoomlaDb.php"Å
-j
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php∏ ∏(
-implicit return*Û
-1j
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpµ µ(*°û
-j
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpµ µ()
-%1*
-helper\joomladb*
-
-
-$table2	addprefixá
-Ñ
-j
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.phpµ µ()
-$table"__id*
-
-%1ú
-ô
-j
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php∑ ∑(
-%2"__id**
-helper\joomladb"
-driverØ¨
-j
-^/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/_support/Helper/JoomlaDb.php∑ ∑(?
-%3*
-
-%2*
-
-
-$table*
-
-	$criteria2deletequerybycriteria*
-2:
-$table:
-	$criteriaB
-helper\joomladb

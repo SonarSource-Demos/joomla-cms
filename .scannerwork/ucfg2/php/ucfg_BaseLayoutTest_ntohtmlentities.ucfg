@@ -1,127 +1,0 @@
-
-djoomla\tests\unit\libraries\cms\layout\baselayouttest::testescapingspecialcharactersintohtmlentitiesn
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.phpü ü(A"1*°
-2
-BaseLayoutTest.php"Ö
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php∏ ∏(
-implicit return*Ü
-1n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php° •(
- 
-«
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php¢ ¢(
-%1"__id*I*G7
-5joomla\tests\unit\libraries\cms\layout\baselayouttest"
-
-baseLayoutêç
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php¢ ¢(*
-%2*
-
-%1*
-&2escape»≈
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php£ £(#
-%3*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*	
-&amp;2equaltoÇˇ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php° •(	
-%4*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*
-
-%2*
-
-%3*0.
-,Test the ampersand is converted to HTML code2
-assertthat 
-«
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php® ®(
-%5"__id*I*G7
-5joomla\tests\unit\libraries\cms\layout\baselayouttest"
-
-baseLayoutêç
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php® ®(*
-%6*
-
-%5*
-"2escape…∆
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php© ©($
-%7*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*
-
-&quot;2equaltoÖÇ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.phpß ´(	
-%8*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*
-
-%6*
-
-%7*31
-/Test the double quote is converted to HTML code2
-assertthat 
-«
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.phpÆ Æ(
-%9"__id*I*G7
-5joomla\tests\unit\libraries\cms\layout\baselayouttest"
-
-baseLayoutëé
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.phpÆ Æ(*
-%10*
-
-%9*
-'2escape «
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.phpØ Ø($
-%11*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*
-
-&#039;2equaltoàÖ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php≠ ±(	
-%12*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*
-
-%10*
-
-%11*31
-/Test the single quote is converted to HTML code2
-assertthatÀ
-»
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php¥ ¥(
-%13"__id*I*G7
-5joomla\tests\unit\libraries\cms\layout\baselayouttest"
-
-baseLayout®•
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php¥ ¥(@
-%14*
-
-%13*
-<a href='test'>Test</a>2escapeÒÓ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.phpµ µ(K
-%15*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*1/
--&lt;a href=&#039;test&#039;&gt;Test&lt;/a&gt;2equaltoÅ˛
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Layout/BaseLayoutTest.php≥ ∑(	
-%16*97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest*
-
-%14*
-
-%15*,*
-(Test the characters <> are not converted2
-assertthat*
-2B97
-5joomla\tests\unit\libraries\cms\layout\baselayouttest

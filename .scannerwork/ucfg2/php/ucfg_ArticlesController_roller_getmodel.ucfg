@@ -1,30 +1,0 @@
-
-Njoomla\component\content\administrator\controller\articlescontroller::getmodel†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php€ €("1*Ì
-1†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php‚ ‚(9¶
-³
-†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php‚ ‚(8
-%1"3joomla\cms\mvc\controller\admincontroller::getmodel*HF
-Djoomla\component\content\administrator\controller\articlescontroller*	
-
-$name*
-	
-$prefix*
-	
-$configÈ
-Å
-†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php‚ ‚(9,
-%2&joomla\cms\mvc\model\basedatabasemodel"__id*
-
-%1"¹
-†
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/Controller/ArticlesController.php‚ ‚(9.
-,
-%2&joomla\cms\mvc\model\basedatabasemodel:
-$name:	
-$prefix:	
-$configBHF
-Djoomla\component\content\administrator\controller\articlescontroller

@@ -1,37 +1,0 @@
-
-‰__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php_57_12~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php9 9("1*Ä
-1~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php: :(\¼
-¹
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php9 9(
-
-$container"__id*#
-!
-
-$containerjoomla\di\containerá
-Þ
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php:J :(Z
-%2"__id*P*N?
-=joomla\cms\extension\service\provider\moduledispatcherfactory"
-	namespace¸µ
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php: :([
-%1"-joomla\cms\dispatcher\moduledispatcherfactoryÕ
-Ò
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php: :([
-%3":joomla\cms\dispatcher\moduledispatcherfactory::__construct*
-
-%1*
-
-%2"ˆ
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Service/Provider/ModuleDispatcherFactory.php: :(\
-
-%1:!
-
-$containerjoomla\di\containerBA?
-=joomla\cms\extension\service\provider\moduledispatcherfactory

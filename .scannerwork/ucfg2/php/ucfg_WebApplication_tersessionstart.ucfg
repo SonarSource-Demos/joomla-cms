@@ -1,104 +1,0 @@
-
-8joomla\cms\application\webapplication::aftersessionstarth
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php¥ ¥(%"1*é
-2h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpπ π(6çä
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpπ& π(4
-%3"joomla\registry\registry¢
-ü
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpπ& π(4
-%4"%joomla\registry\registry::__construct*
-
-%3úô
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpπ π(5
-%5*
-
-
-$session*
-
-registry*
-
-%32setâÜ
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php∫" ∫(,
-%6"joomla\cms\user\userû
-õ
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php∫" ∫(,
-%7"!joomla\cms\user\user::__construct*
-
-%6òï
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php∫ ∫(-
-%8*
-
-
-$session*
-user*
-
-%62set*
-3*£
-3h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpæ æ(!´®
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpæ æ(!
-%9*)'
-%joomla\cms\application\webapplication2getidentity*
-4
-5*ø
-4h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpø ø(7ëé
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpø  ø(5
-%10*
-
-
-$session*
-user2get∂≥
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.phpø ø(6
-%11*)'
-%joomla\cms\application\webapplication*
-
-%102loadidentity*
-5*ö
-5
-WebApplication.php"
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php¡ ¡(
-implicit return*¡
-1h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php∂ ∂((¶
-£
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php¥ ¥(%
-$event"__id*'
-%
-$eventjoomla\session\sessioneventãà
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php∂ ∂('
-%1*
-
-
-$event2
-getsessioná
-Ñ
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php∂ ∂('
-
-$session"__id*
-
-%1àÖ
-h
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/WebApplication.php∏ ∏(
-%2*
-
-
-$session2isnew*
-2
-3:%
-$eventjoomla\session\sessioneventB)'
-%joomla\cms\application\webapplication

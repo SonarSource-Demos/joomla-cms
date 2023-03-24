@@ -1,44 +1,0 @@
-
-Ljoomla\tests\unit\libraries\cms\form\rule\folderpathexistsruletest::testruley
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FolderPathExistsRuleTest.phpX X("1*∂
-2
-FolderPathExistsRuleTest.php"ê
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FolderPathExistsRuleTest.php[ [(
-implicit return*ü
-1y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FolderPathExistsRuleTest.phpZ Z(]Ø¨
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FolderPathExistsRuleTest.phpZ' Z(C
-%1")joomla\cms\form\rule\folderpathexistsruleƒ
-¡
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FolderPathExistsRuleTest.phpZ' Z(C
-%2"6joomla\cms\form\rule\folderpathexistsrule::__construct*
-
-%1¨©
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FolderPathExistsRuleTest.phpZ' Z([
-%3*
-
-%1*
-
-
-$element*
-
-
-$value2testÒÓ
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Form/Rule/FolderPathExistsRuleTest.phpZ Z(\
-%4*FD
-Bjoomla\tests\unit\libraries\cms\form\rule\folderpathexistsruletest*
-
-	$expected*
-
-%32assertequals*
-2:
-	$expected:
-
-$element:
-$valueBFD
-Bjoomla\tests\unit\libraries\cms\form\rule\folderpathexistsruletest

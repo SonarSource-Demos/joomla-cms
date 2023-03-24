@@ -1,30 +1,0 @@
-
-5joomla\cms\console\extensionslistcommand::__constructi
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpB B("1*£
-2
-ExtensionsListCommand.php"€
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpG G(
-implicit return*²
-1i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpD D(§
-¤
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpB B(
-$db"__id**
-(
-$db!joomla\database\databaseinterface×
-Ô
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpD D(
-%1"3joomla\console\command\abstractcommand::__construct*,*
-(joomla\cms\console\extensionslistcommand¸µ
-i
-_/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Console/ExtensionsListCommand.phpF F(
-%2*,*
-(joomla\cms\console\extensionslistcommand*
-
-$db2setdatabase*
-2:(
-$db!joomla\database\databaseinterfaceB,*
-(joomla\cms\console\extensionslistcommand

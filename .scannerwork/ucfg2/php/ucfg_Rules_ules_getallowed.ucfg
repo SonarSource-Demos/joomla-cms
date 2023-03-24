@@ -1,65 +1,0 @@
-
-#joomla\cms\access\rules::getallowedZ
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php¶ ¶("1*¸
-2Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php´ ´(í
-è
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php´ ´(
-%2"__id*%*#
-joomla\cms\access\rules"
-data*
-3
-5*Ú
-3Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php¨ ¨()àÖ
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php¨ ¨()
-%3*
-	
-$action*
-
-	$identity2allow*
-2
-4*Ù
-4Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php≠ ≠(+çä
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php≠ ≠(*
-%4*
-
-
-$allowed*	
-
-$name*
-true2set*
-2*¸
-5Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php± ±(ñ
-ì
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php± ±(!
-%5joomla\cms\object\cmsobject"__id*
-
-
-$allowed"Å
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php± ±(#
-!
-%5joomla\cms\object\cmsobject*è
-1Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php© ©(#àÖ
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php© ©("
-
-$allowed"joomla\cms\object\cmsobjectù
-ö
-Z
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Access/Rules.php© ©("
-%1"(joomla\cms\object\cmsobject::__construct*
-
-
-$allowed*
-2:
-	$identityB
-joomla\cms\access\rules

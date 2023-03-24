@@ -1,35 +1,0 @@
-
-:joomla\cms\application\administratorapplication::getrouterr
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpÇ Ç($"1*Ù
-1r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpÉ É(2ž
-›
-r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpÇ Ç($
-
-$options"__id*
-
-$optionsarrayý
-ú
-r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpÉ É(1
-%1"0joomla\cms\application\cmsapplication::getrouter*31
-/joomla\cms\application\administratorapplication*	
-
-$name*
-
-
-$options¥
-¢
-r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpÉ É(2
-%2joomla\cms\router\router"__id*
-
-%1"–
-r
-f/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/AdministratorApplication.phpÉ É(2 
-
-%2joomla\cms\router\router:
-$name:
-$optionsarrayB31
-/joomla\cms\application\administratorapplication

@@ -1,37 +1,0 @@
-
-)joomla\cms\layout\filelayout::setsuffixes_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpÀ À("1*ﬁ
-1_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpÕ Õ(3ç
-ä
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpÀ À(
-	$suffixes"__id*
-
-	$suffixesarrayü
-ú
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpÕ Õ(
-%1"__id*-*+
-joomla\cms\layout\filelayout"	
-optionsîë
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpÕ Õ(2
-%2*
-
-%1*
-
-suffixes*
-
-	$suffixes2set™
-ß
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpœ œ(
-%3joomla\cms\layout\self"__id* 
-joomla\cms\layout\filelayout"Å
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Layout/FileLayout.phpœ œ(
-
-%3joomla\cms\layout\self:
-	$suffixesarrayB 
-joomla\cms\layout\filelayout

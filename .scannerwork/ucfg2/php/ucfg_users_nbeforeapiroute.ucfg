@@ -1,83 +1,0 @@
-
-%plgwebservicesusers::onbeforeapiroute]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php( (($"1*†
-2
-	users.php"t
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php= =(
-implicit return*Â
-1]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php* .(
-om
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php- -((
-%1"$Array˜
-•
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php- -((
-%2"__mapSet*
-
-%1*
-	component*
-	com_users¨¥
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php* .(	
-%3*
-	
-$router*
-
-v1/users*	
-users*
-
-%12createcrudroutes¢Ÿ
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php0 0(*
-%4*
-plgwebservicesusers*
-	
-$router2createfieldsroutesom
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php5 5((
-%5"$Array˜
-•
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php5 5((
-%6"__mapSet*
-
-%5*
-	component*
-	com_users°­
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php2 6(	
-%7*
-	
-$router*
-v1/users/groups*
-
-groups*
-
-%52createcrudroutesom
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php; ;((
-%8"$Array˜
-•
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php; ;((
-%9"__mapSet*
-
-%8*
-	component*
-	com_users±®
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/users/users.php8 <(	
-%10*
-	
-$router*
-v1/users/levels*
-
-levels*
-
-%82createcrudroutes*
-2:	
-$routerB
-plgwebservicesusers

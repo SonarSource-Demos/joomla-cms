@@ -1,27 +1,0 @@
-
-Cjoomla\tests\unit\libraries\cms\uri\uritest::testisinternalwithuserd
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php¶ ¶(*"1*è
-2
-UriTest.php"{
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php¨ ¨(
-implicit return*∂
-1d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php® ´(
-”
-–
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php© ©(E
-%1"joomla\cms\uri\uri::isinternal*"
-joomla\cms\uri\uri**(
-&http://someuser.com@www.example.com:80ÔÏ
-d
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Uri/UriTest.php® ´(	
-%2*/-
-+joomla\tests\unit\libraries\cms\uri\uritest*
-
-%1*97
-5http://someuser@www.example.com:80 should be internal2
-asserttrue*
-2B/-
-+joomla\tests\unit\libraries\cms\uri\uritest

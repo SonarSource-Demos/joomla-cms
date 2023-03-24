@@ -1,27 +1,0 @@
-
-1joomla\cms\webasset\webassetregistry::__constructe
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetRegistry.phpj j("1*™
-2
-WebAssetRegistry.php"|
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetRegistry.phpn n(
-implicit return*Ð
-1e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetRegistry.phpm m(4‰†
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetRegistry.phpm m(2
-%1"joomla\event\dispatcherž
-›
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetRegistry.phpm m(2
-%2"$joomla\event\dispatcher::__construct*
-
-%1±®
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/WebAsset/WebAssetRegistry.phpm m(3
-%3*(&
-$joomla\cms\webasset\webassetregistry*
-
-%12setdispatcher*
-2B(&
-$joomla\cms\webasset\webassetregistry

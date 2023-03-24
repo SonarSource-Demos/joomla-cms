@@ -1,47 +1,0 @@
-
-Hjoomla\component\users\administrator\controller\groupscontroller::delete€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php7 7("1*“
-3€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php= =(…
-‚
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php= =(
-%5"1joomla\cms\mvc\controller\admincontroller::delete*DB
-@joomla\component\users\administrator\controller\groupscontroller*
-4*¶
-4
-GroupsController.php"˜
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php> >(
-implicit return*·
-1€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php9 9(Ná
-Þ
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php9 9(
-%1"__id*M*KB
-@joomla\component\users\administrator\controller\groupscontroller"
-app¡ž
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php9 9(&
-%2*
-
-%12getidentityä
-á
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php9@ 9(M
-%3"__id*P*NB
-@joomla\component\users\administrator\controller\groupscontroller"
-option·´
-€
-v/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/GroupsController.php9 9(N
-%4*
-
-%2*
-
-core.admin*
-
-%32	authorise*
-3
-4BDB
-@joomla\component\users\administrator\controller\groupscontroller

@@ -1,40 +1,0 @@
-
-.joomla\cms\html\helpers\sortablelist::sortablee
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/SortableList.php% %(#"1*•
-2
-SortableList.php"|
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/SortableList.php( ((
-implicit return*­
-1f
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/SortableList.php' '(†º
-·
-f
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/HTML/Helpers/SortableList.php' '(…
-%1"joomla\cms\html\htmlhelper::_*"
-joomla\cms\html\htmlhelper*
-draggablelist.draggable*
-
-
-$tableId*
-	
-$formId*
-
-
-$sortDir*
-
-$saveOrderingUrl*
-
-$proceedSaveOrderButton*
-
-$nestedList*
-2:
-
-$tableId:	
-$formId:
-
-$sortDir:
-$saveOrderingUrl:
-$proceedSaveOrderButton:
-$nestedListB(&
-$joomla\cms\html\helpers\sortablelist

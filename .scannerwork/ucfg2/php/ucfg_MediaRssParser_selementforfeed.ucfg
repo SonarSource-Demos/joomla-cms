@@ -1,23 +1,0 @@
-
-@joomla\cms\feed\parser\rss\mediarssparser::processelementforfeedj
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/MediaRssParser.php" "()"1*Ÿ
-1
-MediaRssParser.phpü
-ú
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/MediaRssParser.php" "()
-$feed"__id*
-
-$feedjoomla\cms\feed\feedó
-î
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/MediaRssParser.php" "()
-$el"__id*
-
-$elsimplexmlelement"Å
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Feed/Parser/Rss/MediaRssParser.php$ $(
-implicit return:
-$feedjoomla\cms\feed\feed:
-$elsimplexmlelementB-+
-)joomla\cms\feed\parser\rss\mediarssparser

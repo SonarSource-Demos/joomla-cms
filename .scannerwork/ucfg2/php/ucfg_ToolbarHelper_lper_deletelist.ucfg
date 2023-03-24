@@ -1,63 +1,0 @@
-
-,joomla\cms\toolbar\toolbarhelper::deletelistc
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpã ã(%"1*¸
-2c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpé é(MÈÅ
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpé é(L
-%2*
-
-$bar*	
-Confirm*
-
-$msg*
-
-delete*
-
-$alt*	
-
-$task*
-true2appendbutton*
-4*¯
-3c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpë ë(H¿¼
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpë ë(G
-%3*
-
-$bar*
-
-Standard*
-
-delete*
-
-$alt*	
-
-$task*
-true2appendbutton*
-4*”
-4
-ToolbarHelper.php"z
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpí í(
-implicit return*¶
-1c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpå å(/Ä
-Á
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpå å(.
-%1"'joomla\cms\toolbar\toolbar::getinstance*"
-joomla\cms\toolbar\toolbar*	
-toolbar}
-{
-c
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Toolbar/ToolbarHelper.phpå å(.
-$bar"__id*
-
-%1*
-2
-3:
-$msg:
-$task:
-$altB$"
- joomla\cms\toolbar\toolbarhelper

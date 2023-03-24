@@ -1,53 +1,0 @@
-
-mjoomla\tests\unit\libraries\cms\document\documenttest::testensuretwoaddstyledeclarationcallsreturnsthisobjectn
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpú ú(J"1*Ÿ
-2
-DocumentTest.php"…
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.php€ €(
-implicit return*—
-
-1n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpü ü(,ÄÁ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpü ü(+
-%1*97
-5joomla\tests\unit\libraries\cms\document\documenttest2createdocumentŽ
-‹
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpü ü(+
-	$document"__id*
-
-%1ÅÂ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpþ% þ(i
-%2*
-
-	$document*&$
-"<style>div { padding: 0; }</style>2addstyledeclaration×Ô
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpþ þ(j
-%3*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-	$document*
-
-%22
-assertsameÈÅ
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÿ% ÿ(l
-%4*
-
-	$document*)'
-%<style>h1 { font-size: 4px; }</style>2addstyledeclaration×Ô
-n
-b/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Document/DocumentTest.phpÿ ÿ(m
-%5*97
-5joomla\tests\unit\libraries\cms\document\documenttest*
-
-	$document*
-
-%42
-assertsame*
-2B97
-5joomla\tests\unit\libraries\cms\document\documenttest

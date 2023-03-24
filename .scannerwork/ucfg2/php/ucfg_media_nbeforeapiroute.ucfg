@@ -1,56 +1,0 @@
-
-%plgwebservicesmedia::onbeforeapiroute]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php( ((!"1*†
-2
-	media.php"t
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php6 6(
-implicit return*¥
-1]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php* /(om
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php. .(
-%1"$Array˜
-•
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php. .(
-%2"__mapSet*
-
-%1*
-	component*
-	com_mediaÔÑ
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php* /(
-%3*
-plgwebservicesmedia*
-	
-$router*
-v1/media/adapters*
-
-adapters*
-
-%12createadapterreadroutesom
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php4 4(
-%4"$Array˜
-•
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php4 4(
-%5"__mapSet*
-
-%4*
-	component*
-	com_mediaÌÉ
-]
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/webservices/media/media.php0 5(
-%6*
-plgwebservicesmedia*
-	
-$router*
-v1/media/files*	
-media*
-
-%42createmediacrudroutes*
-2:	
-$routerB
-plgwebservicesmedia

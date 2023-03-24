@@ -1,71 +1,0 @@
-
-=joomla\cms\installation\controller\displaycontroller::getviewk
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.php[ [("1*∂
-2k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpa a(7∆√
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpa a(5
-%2*86
-4joomla\cms\installation\controller\displaycontroller*
-
-Checks2getmodelìê
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpa a(6
-%3*	
-
-$view*
-
-%22setmodel…∆
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpb b(8
-%4*86
-4joomla\cms\installation\controller\displaycontroller*
-	Languages2getmodelìê
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpb b(9
-%5*	
-
-$view*
-
-%42setmodel*
-3*∂
-3k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpe e(©
-¶
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpe e(&
-%6 joomla\cms\mvc\view\abstractview"__id*	
-
-$view"ó
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.phpe e((
-&
-%6 joomla\cms\mvc\view\abstractview*ò
-1k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.php] ](@ì
-ê
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.php] ](?
-%1"1joomla\cms\mvc\controller\basecontroller::getview*86
-4joomla\cms\installation\controller\displaycontroller*	
-
-$name*	
-
-$type*
-	
-$prefix*
-	
-$configá
-Ñ
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/installation/src/Controller/DisplayController.php] ](?
-$view"__id*
-
-%1*
-2
-3:
-$name:
-$type:	
-$prefix:	
-$configB86
-4joomla\cms\installation\controller\displaycontroller

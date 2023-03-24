@@ -1,87 +1,0 @@
-
-ˆ__sonar_lambda_/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php_172_16~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¬ ¬("1*ì
-3~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¯ ¯(8°­
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¯ ¯(7
-%1*
-
-	$childBar*
-article.save2save«¨
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php² ²(6
-%2*
-
-
-$canDo*
-core.create2get*
-4
-5*Ã
-4~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php³ ³(D¸µ
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php³ ³(C
-%3*
-
-	$childBar*
-article.save2new2save2new*
-5*Ò
-5~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¸ ¸(IÄÁ
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¸ ¸(I
-%4*	
-
-$user*
-core.create*
-com_menus.menu2	authorise*
-6
-7*Û
-6~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¹ ¹(VÐÍ
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¹ ¹(U
-%5*
-
-	$childBar*
-article.save2menu*
-JTOOLBAR_SAVE_TO_MENU2save*
-7*¹
-7~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php½ ½(2«¨
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php½ ½(2
-%6*
-
-
-$canDo*
-core.create2get*
-8
-9*Å
-8~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¾ ¾(Bº·
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¾ ¾(A
-%7*
-
-	$childBar*
-article.save2copy2	save2copy*
-9*«
-9
-HtmlView.php"•
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.phpÀ À(
-implicit return*Ï
-1~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php® ®(5Á
-¾
-~
-r/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_content/src/View/Article/HtmlView.php¬ ¬(
-	$childBar"__id*)
-'
-	$childBarjoomla\cms\toolbar\toolbar*
-3
-5:'
-	$childBarjoomla\cms\toolbar\toolbarB@>
-<joomla\component\content\administrator\view\article\htmlview

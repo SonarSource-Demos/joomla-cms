@@ -1,26 +1,0 @@
-
-+joomla\cms\extension\component::__construct_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php' '("1*Œ
-2
-Component.php"v
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php* *(
-implicit return*ý
-1_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php) )(6Ó
-Ð
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php' '(
-$dispatcherFactory"__id*Q
-O
-$dispatcherFactory9joomla\cms\dispatcher\componentdispatcherfactoryinterface»
-¸
-_
-U/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Extension/Component.php) )(57 
-joomla\cms\extension\component"
-dispatcherFactory"__id*
-
-$dispatcherFactory*
-2:O
-$dispatcherFactory9joomla\cms\dispatcher\componentdispatcherfactoryinterfaceB" 
-joomla\cms\extension\component

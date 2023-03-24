@@ -1,109 +1,0 @@
-
-Gjoomla\tests\unit\libraries\cms\object\cmsobjecttest::testsetpropertiesm
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpÜ Ü(%"1*Ÿ
-2
-CMSObjectTest.php"„
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpæ æ(
-implicit return*é
-1m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpÞ Þ("š—
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpÞ Þ(!	
-$object"joomla\cms\object\cmsobject¯
-¬
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpÞ Þ(!
-%1"(joomla\cms\object\cmsobject::__construct*
-	
-$object}
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpß ß(4
-%2"$Arrayž
-›
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpß ß(4
-%3"__mapSet*
-
-%2*
-foo*	
-ghost¡
-ž
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpß ß(4
-%4"__mapSet*
-
-%2*	
-knife*
-
-stewie†
-ƒ
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpß ß(4
-$a"__id*
-
-%2‡
-„
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpà à(
-$f"__id*
-fooœ™
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpâ" â(<
-%5*
-	
-$object*
-
-$a2setpropertiesÒÏ
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpâ â(=
-%6*86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest*
-true*
-
-%52assertequalsœ™
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpã# ã(=
-%7*
-	
-$object*
-
-$f2setpropertiesÓÐ
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpã ã(>
-%8*86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest*	
-false*
-
-%72assertequals”
-‘
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpä% ä(1
-%9"__id**
-	
-$object"
-fooÔÑ
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpä ä(2
-%10*86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest*	
-ghost*
-
-%92assertequals—
-”
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpå& å(4
-%11"__id**
-	
-$object"
-knifeÖÓ
-m
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpå å(5
-%12*86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest*
-
-stewie*
-
-%112assertequals*
-2B86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest

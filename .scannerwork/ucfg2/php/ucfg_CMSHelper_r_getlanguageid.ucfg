@@ -1,108 +1,0 @@
-
-*joomla\cms\helper\cmshelper::getlanguageid\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpK K(!"1*‰
-1\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpM M(#õ
-ò
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpM M("
-%1"joomla\cms\factory::getdbo*"
-joomla\cms\factoryu
-s
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpM M("
-$db"__id*
-
-%1ÑÅ
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpN N($
-%2*
-
-$db*
-true2getqueryàÖ
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpO O(.
-%3*
-
-$db*	
-lang_id2	quotename~|
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpN O(/
-%4*
-
-%2*
-
-%32selectçä
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpP P(1
-%5*
-
-$db*
-#__languages2	quotename|z
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpN P(2
-%6*
-
-%4*
-
-%52fromäá
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpQ Q(/
-%7*
-
-$db*
-	lang_code2	quotenameã
-à
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpQ Q(@
-%8"__concat*
-
-%7*
- = :language}{
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpN Q(A
-%9*
-
-%6*
-
-%82whereîë
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpN R(*
-%10*
-
-%9*
-	:language*
-
-	$langCode2bindy
-w
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpN R(*
-$query"__id*
-
-%10áÑ
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpS S(
-%11*
-
-$db*
-
-
-$query2setquery|z
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpU U( 
-%12*
-
-$db2
-loadresultí
-è
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpU U(! 
-%13joomla\cms\helper\integer"__id*
-
-%12"Ç
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Helper/CMSHelper.phpU U(!"
- 
-%13joomla\cms\helper\integer:
-	$langCodeB
-joomla\cms\helper\cmshelper

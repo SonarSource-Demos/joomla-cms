@@ -1,48 +1,0 @@
-
-(joomla\cms\mail\mailtemplate::setreplyto_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpó ó("1*è
-2
-MailTemplate.php"v
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpù ù(
-implicit return*∞
-1_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpô ô(!wu
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpô ô( 
-$reply"stdclassç
-ä
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpô ô( 
-%1"stdclass::__construct*
-
-
-$replyâ
-Ü
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpö ö(
-
-$reply"
-mail"__id*	
-
-$mailâ
-Ü
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpõ õ(
-
-$reply"
-name"__id*	
-
-$name£
-†
-_
-S/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Mail/MailTemplate.phpú ú(+
-joomla\cms\mail\mailtemplate"	
-replyto"__id*
-
-
-$reply*
-2:
-$mail:
-$nameB 
-joomla\cms\mail\mailtemplate

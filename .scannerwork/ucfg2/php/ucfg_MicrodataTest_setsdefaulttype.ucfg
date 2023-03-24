@@ -1,49 +1,0 @@
-
-Zjoomla\tests\unit\libraries\cms\microdata\microdatatest::testsetinvalidtypesetsdefaulttypen
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpZ Z(5"1*†
-2
-MicrodataTest.php"Ö
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpb b(
-implicit return*®	
-1n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php\ \(è
-å
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php\ \(
-$type"__id*	
-Article∫∑
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php] ]((
-
-$microdata"7joomla\tests\unit\libraries\cms\microdata\microdatastubœ
-Ã
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php] ]((
-%1"Djoomla\tests\unit\libraries\cms\microdata\microdatastub::__construct*
-
-
-$microdataùö
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.php_ _("
-%2*
-
-
-$microdata*	
-
-$type2settypeíè
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpa% a(:
-%3*
-
-
-$microdata2gettype◊‘
-n
-d/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Microdata/MicrodataTest.phpa a(;
-%4*;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest*	
-Thing*
-
-%32assertequals*
-2B;9
-7joomla\tests\unit\libraries\cms\microdata\microdatatest

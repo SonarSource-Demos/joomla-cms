@@ -1,137 +1,0 @@
-
-Gjoomla\tests\unit\libraries\cms\object\cmsobjecttest::testgetpropertiesk
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php\ \(%"1*ù
-2
-CMSObjectTest.php"Ç
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpv v(
-implicit return*÷
-1k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php^ a('}{
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php^  a(%
-%1"$Array¨
-©
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php^  a(%
-%2"__mapSet*
-
-%1*
-_privateproperty1*	
-valuep1£
-†
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php^  a(%
-%3"__mapSet*
-
-%1*
-	property1*
-
-value1ù
-ö
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php^  a(%
-%4"__mapSet*
-
-%1*
-	property2*2òï
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php^ a(&	
-$object"joomla\cms\object\cmsobjectµ
-≤
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.php^ a(&
-%5"(joomla\cms\object\cmsobject::__construct*
-	
-$object*
-
-%1}{
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpd i(
-%6"$Array}{
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpe' e()
-%7"$Arrayù
-ö
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpd i(
-%8"__mapSet*
-
-%6*	
-_errors*
-
-%7¨
-©
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpd i(
-%9"__mapSet*
-
-%6*
-_privateproperty1*	
-valuep1§
-°
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpd i(
-%10"__mapSet*
-
-%6*
-	property1*
-
-value1û
-õ
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpd i(
-%11"__mapSet*
-
-%6*
-	property2*2ûõ
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpj j()
-%12*
-	
-$object*	
-false2getpropertiesáÑ
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpc l(	
-%13*86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest*
-
-%6*
-
-%12*53
-1Should get all properties, including private ones2assertequals~|
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpo r(
-%14"$Array•
-¢
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpo r(
-%15"__mapSet*
-
-%14*
-	property1*
-
-value1ü
-ú
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpo r(
-%16"__mapSet*
-
-%14*
-	property2*2ìê
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phps s($
-%17*
-	
-$object2getproperties˜Ù
-k
-a/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Object/CMSObjectTest.phpn u(	
-%18*86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest*
-
-%14*
-
-%17*$"
- Should get all public properties2assertequals*
-2B86
-4joomla\tests\unit\libraries\cms\object\cmsobjecttest

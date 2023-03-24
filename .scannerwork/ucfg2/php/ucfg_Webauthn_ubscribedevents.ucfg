@@ -1,55 +1,0 @@
-
-Njoomla\plugin\multifactorauth\webauthn\extension\webauthn::getsubscribedeventsu
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpC C(."1*§
-1u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(
-ˆ…
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(	
-%1"$ArrayÒ
-Ï
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(	
-%2"__mapSet*
-
-%1*
-onUserMultifactorGetMethod*
-onUserMultifactorGetMethodÎ
-Ë
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(	
-%3"__mapSet*
-
-%1*
-onUserMultifactorCaptive*
-onUserMultifactorCaptiveÐ
-Í
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(	
-%4"__mapSet*
-
-%1*
-onUserMultifactorGetSetup*
-onUserMultifactorGetSetupÒ
-Ï
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(	
-%5"__mapSet*
-
-%1*
-onUserMultifactorSaveSetup*
-onUserMultifactorSaveSetupÐ
-Í
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(	
-%6"__mapSet*
-
-%1*
-onUserMultifactorValidate*
-onUserMultifactorValidate"
-u
-k/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/multifactorauth/webauthn/src/Extension/Webauthn.phpE K(
-
-
-%1B=;
-9joomla\plugin\multifactorauth\webauthn\extension\webauthn

@@ -1,30 +1,0 @@
-
-Njoomla\component\contact\administrator\controller\contactscontroller::getmodel„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.phpt t("1*Ä
-1„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.phpv v(9´
-±
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.phpv v(8
-%1"3joomla\cms\mvc\controller\admincontroller::getmodel*HF
-Djoomla\component\contact\administrator\controller\contactscontroller*	
-
-$name*
-	
-$prefix*
-	
-$configÆ
-Ã
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.phpv v(9,
-%2&joomla\cms\mvc\model\basedatabasemodel"__id*
-
-%1"·
-„
-z/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_contact/src/Controller/ContactsController.phpv v(9.
-,
-%2&joomla\cms\mvc\model\basedatabasemodel:
-$name:	
-$prefix:	
-$configBHF
-Djoomla\component\contact\administrator\controller\contactscontroller

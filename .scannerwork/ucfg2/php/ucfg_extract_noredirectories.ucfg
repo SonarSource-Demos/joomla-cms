@@ -1,37 +1,0 @@
-
-#zipextraction::setignoredirectoriesq
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/extract.phpÏ Ï(("1*ù
-2
-extract.php"à
-q
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/extract.phpÔ Ô(
-implicit return*ë
-1q
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/extract.phpÓ Ó(D±
-Æ
-q
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/extract.phpÏ Ï((
-$ignoreDirectories"__id*
-
-$ignoreDirectoriesarrayÑÅ
-q
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/extract.phpÓ# Ó(C
-%1"$Array©
-¶
-q
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/extract.phpÓ# Ó(C
-%2"__mapValues*
-
-%1*
-
-$ignoreDirectories¨
-©
-q
-e/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_joomlaupdate/extract.phpÓ Ó(C&
-zipextraction"
-ignoreDirectories"__id*
-
-%1*
-2:
-$ignoreDirectoriesarrayB
-zipextraction

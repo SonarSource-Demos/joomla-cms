@@ -1,96 +1,0 @@
-
-@joomla\component\fields\api\view\groups\jsonapiview::displayitems
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpc c("1*À
-2s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpg g('¡æ
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpg g(&
-%1*75
-3joomla\component\fields\api\view\groups\jsonapiview2getmodelê
-ç
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpg g(&
-$model"__id*
-
-%1ìê
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phph( h(9
-%2*
-
-
-$model2getitemÃ…
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phph h(:
-%3*75
-3joomla\component\fields\api\view\groups\jsonapiview*
-
-%22prepareitemè
-å
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phph h(:
-$item"__id*
-
-%3*
-3*ö
-3s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpk k(ó
-î
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpk k(
-%4"__id**
-
-$item"
-id*
-5
-8*ä
-5s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpo o(Kú
-ô
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpo o(
-%5"__id**
-
-$item"	
-context¡æ
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpo o(/
-%6*75
-3joomla\component\fields\api\view\groups\jsonapiview2getmodel§°
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpo o(K
-%7*
-
-%6*
-filter.context2getstate*
-7
-8*Í
-7s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phps s(*
-Ì
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phps s()
-%8",joomla\cms\mvc\view\jsonapiview::displayitem*75
-3joomla\component\fields\api\view\groups\jsonapiview*	
-
-$item"}
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phps s(*
-
-%8*£
-8
-JsonapiView.php"ä
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpt t(
-implicit return*≈
-1s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpe e(¬
-ø
-s
-i/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_fields/src/View/Groups/JsonapiView.phpc c(
-$item"__id*9
-7
-$item.joomla\component\fields\api\view\groups\object*
-2
-3:7
-$item.joomla\component\fields\api\view\groups\objectB75
-3joomla\component\fields\api\view\groups\jsonapiview

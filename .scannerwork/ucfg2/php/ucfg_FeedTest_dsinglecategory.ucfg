@@ -1,89 +1,0 @@
-
-Djoomla\tests\unit\libraries\cms\feed\feedtest::testaddsinglecategoryf
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÏ Ï()"1*í
-2
-FeedTest.php"}
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpˆ ˆ(
-implicit return*¿
-1f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÓ Ó(à
-Ö
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÓ Ó(
-$name"__id*
-
-categoryï
-í
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÔ Ô('
-$uri"__id*
-http://www.example.com¥
-±
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.php (
-%1"__id*;*9/
--joomla\tests\unit\libraries\cms\feed\feedtest"
-feedõò
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.php (-
-%2*
-
-%1*	
-
-$name*
-
-$uri2addcategory¥
-±
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÚ Ú(!
-%3"__id*;*9/
--joomla\tests\unit\libraries\cms\feed\feedtest"
-feedè
-å
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÚ Ú(-
-%4"__id**
-
-%3"
-
-categoriesà
-Ö
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÚ Ú(-
-$categories"__id*
-
-%4»≈
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÛ Û(*
-%5*1/
--joomla\tests\unit\libraries\cms\feed\feedtest*2*
-
-$categories2assertcount”–
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpÙ Ù(4
-%6*1/
--joomla\tests\unit\libraries\cms\feed\feedtest*	
-
-$name*
-
-$categories2assertarrayhaskeyô
-ñ
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpı" ı(4
-%7"
-__arrayGet*
-
-$categories*	
-
-$nameƒ¡
-f
-Z/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedTest.phpı ı(5
-%8*1/
--joomla\tests\unit\libraries\cms\feed\feedtest*
-
-$uri*
-
-%72assertequals*
-2B1/
--joomla\tests\unit\libraries\cms\feed\feedtest

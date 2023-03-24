@@ -1,55 +1,0 @@
-
-Jjoomla\component\installer\administrator\view\install\htmlview::addtoolbar~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.php< <(!"1*›
-2~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.php? ?(v³
-°
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.php? ?(u
-%3"&joomla\cms\toolbar\toolbarhelper::link*$""
- joomla\cms\toolbar\toolbarhelper*.,
-*index.php?option=com_installer&view=manage* 
-COM_INSTALLER_TOOLBAR_MANAGE*
-listÚ
-×
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.php@ @($
-%4")joomla\cms\toolbar\toolbarhelper::divider*$""
- joomla\cms\toolbar\toolbarhelper*
-3*™
-3~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.phpC C(›
-˜
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.phpC C(
-%5"Ljoomla\component\installer\administrator\view\installer\htmlview::addtoolbar*B@
->joomla\component\installer\administrator\view\install\htmlviewð
-í
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.phpE E(2
-%6"&joomla\cms\toolbar\toolbarhelper::help*$""
- joomla\cms\toolbar\toolbarhelper*
-Extensions:_Install*
-4*«
-4
-HtmlView.php"•
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.phpF F(
-implicit return*¦
-1~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.php> >(Jî
-ë
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.php> >(6
-%1"+joomla\cms\helper\contenthelper::getactions*#"!
-joomla\cms\helper\contenthelper*
-com_installer§¤
-~
-t/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_installer/src/View/Install/HtmlView.php> >(J
-%2*
-
-%1*
-core.manage2get*
-2
-3BB@
->joomla\component\installer\administrator\view\install\htmlview

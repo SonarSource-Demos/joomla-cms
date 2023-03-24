@@ -1,58 +1,0 @@
-
-plginstalleroverride::getmodela
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.php> >("1*æ
-
-1a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpA A(Gï
-í
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpA A(&
-%1"__id*!*
-plginstalleroverride"
-appñì
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpA A(F
-%2*
-
-%1*
-com_templates2bootcomponentâ
-Ü
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpA A(F
-$templateProvider"__id*
-
-%2íè
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpD D(3
-%3*
-
-$templateProvider2getmvcfactoryôñ
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpD D(P
-%4*
-
-%3*	
-
-$name*
-	
-$prefix2createmodel}
-{
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpD D(P
-$model"__id*
-
-%4º
-π
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpF F(B
-%5<joomla\component\templates\administrator\model\templatemodel"__id*
-
-
-$model"©
-a
-W/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/installer/override/override.phpF F(D
-B
-%5<joomla\component\templates\administrator\model\templatemodel:
-$name:	
-$prefixB
-plginstalleroverride

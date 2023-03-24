@@ -1,48 +1,0 @@
-
- plgprivacyuser::createuserdomainY
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.phpÒ Ò(%"1*	
-1Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.phpÔ Ô(D
-Œ
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.phpÒ Ò(%
-$user"__id* 
-
-$userjoomla\cms\table\user¨¥
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.phpÔ Ô(C
-%1*
-plgprivacyuser*	
-users*
-joomla_users_data2createdomainv
-t
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.phpÔ Ô(C	
-$domain"__id*
-
-%1›˜
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.phpÕ Õ(=
-%2*
-plgprivacyuser*	
-
-$user2createitemforusertable
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.phpÕ Õ(>
-%3*
-	
-$domain*
-
-%22additem­
-ª
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php× ×(:
-%44joomla\component\privacy\administrator\export\domain"__id*
-	
-$domain"™
-Y
-M/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/privacy/user/user.php× ×(<
-:
-%44joomla\component\privacy\administrator\export\domain:
-$userjoomla\cms\table\userB
-plgprivacyuser

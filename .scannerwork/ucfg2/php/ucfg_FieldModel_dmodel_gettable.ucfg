@@ -1,46 +1,0 @@
-
-@joomla\component\fields\administrator\model\fieldmodel::gettablex
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/FieldModel.phpî î("1*ô
-1x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/FieldModel.phpó ó(Bê
-ç
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/FieldModel.phpó ó(A
-%1")joomla\cms\mvc\model\adminmodel::gettable*:8
-6joomla\component\fields\administrator\model\fieldmodel*	
-
-$name*
-	
-$prefix*
-
-
-$optionsï
-í
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/FieldModel.phpó ó(A
-$table"__id*
-
-%1°
-û
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/FieldModel.phpò ò(
-
-$table"
-type"__id*
-text≠
-™
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/FieldModel.phpö ö(
-%2joomla\cms\table\table"__id*
-
-
-$table"ö
-x
-l/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_fields/src/Model/FieldModel.phpö ö(
-
-%2joomla\cms\table\table:
-$name:	
-$prefix:
-
-$optionsB:8
-6joomla\component\fields\administrator\model\fieldmodel

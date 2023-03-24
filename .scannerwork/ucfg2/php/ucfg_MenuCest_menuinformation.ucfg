@@ -1,69 +1,0 @@
-
-menucest::fillmenuinformationÖ
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpE E(*"1*≥
-2
-MenuCest.php"ù
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpJ J(
-implicit return*ò
-1Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpG G(9±
-Æ
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpE E(*
-$I"__id*
-
-$Iacceptancetesterÿ
-’
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpG G(/
-%1"__id*?*=,
-*page\acceptance\administrator\menuformpage"
-$fieldTitle∏µ
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpG G(8
-%2*
-
-$I*
-
-%1*
-
-
-$title2	fillfield€
-ÿ
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpH H(2
-%3"__id*B*@,
-*page\acceptance\administrator\menuformpage"
-$fieldMenuType∑¥
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpH H(:
-%4*
-
-$I*
-
-%3*	
-
-$type2	fillfield‚
-ﬂ
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpI I(9
-%5"__id*I*G,
-*page\acceptance\administrator\menuformpage"
-$fieldMenuDescriptionæª
-Ö
-{/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Codeception/acceptance/administrator/components/com_menu/MenuCest.phpI I(H
-%6*
-
-$I*
-
-%5*
-
-$description2	fillfield*
-2:
-$Iacceptancetester:
-$title:
-$type:
-$descriptionB
-
-menucest

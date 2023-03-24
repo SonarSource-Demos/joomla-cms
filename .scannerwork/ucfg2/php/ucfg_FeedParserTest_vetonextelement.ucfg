@@ -1,195 +1,0 @@
-
-Jjoomla\tests\unit\libraries\cms\feed\feedparsertest::testmovetonextelementl
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpŞ Ş()"1*Ÿ
-2
-FeedParserTest.php"ƒ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.php (
-implicit return*ä&
-1l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpà à(iÜ
-Ù
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpà à(h
-$xml"__id*[Y
-W<root><node test="first"><child>foobar</child></node><node test="second"></node></root>ÒÏ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpá á(6
-%1*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*
-
-$xml*
-root2getxmlreader
-Š
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpá á(6
-
-$xmlReader"__id*
-
-%1±®
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpã ã(0	
-$parser"3joomla\tests\unit\libraries\cms\feed\feedparserstubÖ
-Ó
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpã ã(0
-%2"@joomla\tests\unit\libraries\cms\feed\feedparserstub::__construct*
-	
-$parser*
-
-
-$xmlReader–“
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpæ æ(7
-$reflectionClass"reflectionclass¸
-µ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpæ æ(7
-%3"reflectionclass::__construct*
-
-$reflectionClass*
-	
-$parser¯¬
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpç ç(B
-%4*
-
-$reflectionClass*
-moveToNextElement2	getmethodŠ
-‡
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpç ç(B	
-$method"__id*
-
-%4š
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpè è($
-%5*
-	
-$method*
-true2setaccessible™–
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpë ë( 
-%6*
-	
-$method*
-	
-$parser2invoke—
-”
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpî$ î(4
-%7"__id**
-
-
-$xmlReader"
-nameĞÍ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpî î(5
-%8*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*
-node*
-
-%72assertequalsŸœ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpï% ï(E
-%9*
-
-
-$xmlReader*
-test2getattributeÒÏ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpï ï(F
-%10*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*	
-first*
-
-%92assertequalsš—
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpò ò( 
-%11*
-	
-$method*
-	
-$parser2invoke˜
-•
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpõ% õ(5
-%12"__id**
-
-
-$xmlReader"
-nameÓĞ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpõ õ(6
-%13*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*	
-child*
-
-%122assertequals”‘
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpö& ö(>
-%14*
-
-
-$xmlReader2
-readstringÔÑ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpö ö(?
-%15*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*
-
-foobar*
-
-%142assertequalsš—
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpù ù( 
-%16*
-	
-$method*
-	
-$parser2invoke˜
-•
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpü$ ü(4
-%17"__id**
-
-
-$xmlReader"
-nameÒÏ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpü ü(5
-%18*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*
-node*
-
-%172assertequals 
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpı& ı(F
-%19*
-
-
-$xmlReader*
-test2getattributeÔÑ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.phpı ı(G
-%20*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*
-
-second*
-
-%192assertequalsš—
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.php€ €(3
-%21*
-	
-$method*
-	
-$parser2invokeÇÄ
-l
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/tests/Unit/Libraries/Cms/Feed/FeedParserTest.php€ €(4
-%22*75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest*
-
-%212assertfalse*
-2B75
-3joomla\tests\unit\libraries\cms\feed\feedparsertest

@@ -1,28 +1,0 @@
-
-(joomla\cms\table\updatesite::__construct\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/UpdateSite.php ("1*Š
-2
-UpdateSite.php"s
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/UpdateSite.php! !(
-implicit return*â
-1\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/UpdateSite.php   (F—
-”
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/UpdateSite.php (
-$db"__id*'
-%
-$dbjoomla\database\databasedriverß
-Ü
-\
-R/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/UpdateSite.php   (E
-%1"#joomla\cms\table\table::__construct*
-joomla\cms\table\updatesite*
-#__update_sites*
-update_site_id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB
-joomla\cms\table\updatesite

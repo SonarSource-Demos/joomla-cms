@@ -1,36 +1,0 @@
-
-2joomla\cms\cache\storage\redisstorage::__constructf
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Storage/RedisStorage.php0 0("1*ž
-2f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Storage/RedisStorage.php6 6(«¨
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Storage/RedisStorage.php6 6(
-%3*)'
-%joomla\cms\cache\storage\redisstorage2getconnection*
-3*–
-3
-RedisStorage.php"}
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Storage/RedisStorage.php8 8(
-implicit return*þ
-1f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Storage/RedisStorage.php2 2( Ö
-Ó
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Storage/RedisStorage.php2 2(
-%1"*joomla\cms\cache\cachestorage::__construct*)'
-%joomla\cms\cache\storage\redisstorage*
-
-
-$options¯
-¬
-f
-\/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Cache/Storage/RedisStorage.php4 4(
-%2"__id*6*4'
-%joomla\cms\cache\storage\redisstorage"	
-$_redis*
-2
-3:
-
-$optionsB)'
-%joomla\cms\cache\storage\redisstorage

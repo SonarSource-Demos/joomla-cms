@@ -1,34 +1,0 @@
-
-.joomla\cms\document\imagedocument::__constructb
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ImageDocument.php ("1*“
-2
-ImageDocument.php"y
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ImageDocument.php% %(
-implicit return*–
-1b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ImageDocument.php (&Í
-Ê
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ImageDocument.php (%
-%1")joomla\cms\document\document::__construct*%#
-!joomla\cms\document\imagedocument*
-
-
-$options¬
-©
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ImageDocument.php! !(".#
-!joomla\cms\document\imagedocument"
-_mime"__id*
-	image/png¨
-¥
-b
-X/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/ImageDocument.php$ $(.#
-!joomla\cms\document\imagedocument"
-_type"__id*	
-image*
-2:
-
-$optionsB%#
-!joomla\cms\document\imagedocument

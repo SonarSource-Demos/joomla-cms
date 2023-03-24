@@ -1,58 +1,0 @@
-
-Njoomla\component\users\administrator\controller\methodscontroller::__constructÅ
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php- -("1*∏
-2
-MethodsController.php"ô
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php3 3(
-implicit return*Í	
-1Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php0 0(,”
-–
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php- -(
-
-$factory"__id*8
-6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface∆
-√
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php- -(
-$app"__id*/
--
-$app%joomla\cms\application\cmsapplication∑
-¥
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php- -(
-$input"__id*
-
-$inputjoomla\input\input√
-¿
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php0 0(
-%1"__mapSet*
-	
-$config*
-default_view*	
-Methodsº
-π
-Å
-w/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_users/src/Controller/MethodsController.php2 2(<
-%2"5joomla\cms\mvc\controller\basecontroller::__construct*EC
-Ajoomla\component\users\administrator\controller\methodscontroller*
-	
-$config*
-
-
-$factory*
-
-$app*
-
-
-$input*
-2:	
-$config:6
-$factory*joomla\cms\mvc\factory\mvcfactoryinterface:-
-$app%joomla\cms\application\cmsapplication:
-$inputjoomla\input\inputBEC
-Ajoomla\component\users\administrator\controller\methodscontroller

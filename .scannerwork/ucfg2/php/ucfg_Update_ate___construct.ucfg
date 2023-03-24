@@ -1,30 +1,0 @@
-
-$joomla\cms\table\update::__constructX
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Update.php& &("1*‚
-2
-
-Update.php"o
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Update.php) )(
-implicit return*È
-1X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Update.php( ((<“
-
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Update.php& &(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverÍ
-Ê
-X
-N/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Table/Update.php( ((;
-%1"#joomla\cms\table\table::__construct*
-joomla\cms\table\update*
-
-#__updates*
-	update_id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB
-joomla\cms\table\update

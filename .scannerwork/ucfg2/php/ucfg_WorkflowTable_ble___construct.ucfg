@@ -1,34 +1,0 @@
-
-Hjoomla\component\workflow\administrator\table\workflowtable::__construct{
-q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Table/WorkflowTable.php) )("1*≠
-2
-WorkflowTable.php"í
-{
-q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Table/WorkflowTable.php. .(
-implicit return*¡
-1{
-q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Table/WorkflowTable.php+ +(2∂
-≥
-{
-q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Table/WorkflowTable.php) )(
-$db"__id*'
-%
-$dbjoomla\database\databasedriverÓ
-Î
-{
-q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Table/WorkflowTable.php+ +(1L=
-;joomla\component\workflow\administrator\table\workflowtable"
-	typeAlias"__id*
-{extension}.workflowè
-å
-{
-q/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_workflow/src/Table/WorkflowTable.php- -(6
-%1"#joomla\cms\table\table::__construct*?=
-;joomla\component\workflow\administrator\table\workflowtable*
-#__workflows*
-id*
-
-$db*
-2:%
-$dbjoomla\database\databasedriverB?=
-;joomla\component\workflow\administrator\table\workflowtable

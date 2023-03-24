@@ -1,35 +1,0 @@
-
-/joomla\cms\document\preloadmanager::dnsprefetchc
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/PreloadManager.php` `("1*•
-2
-PreloadManager.php"z
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/PreloadManager.phpc c(
-implicit return*Ü
-1c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/PreloadManager.phpb b(7ˆ
-…
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/PreloadManager.php` `(
-$uri"__id*
-
-$uristring•
-’
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/PreloadManager.php` `(
-$attributes"__id*
-
-$attributesarrayÉÆ
-c
-Y/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Document/PreloadManager.phpb b(6
-%1*&$
-"joomla\cms\document\preloadmanager*
-
-$uri*
-dns-prefetch*
-
-$attributes2link*
-2:
-$uristring:
-$attributesarrayB&$
-"joomla\cms\document\preloadmanager

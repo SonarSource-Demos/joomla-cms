@@ -1,75 +1,0 @@
-
-Sjoomla\component\languages\api\controller\overridescontroller::getlanguagefrominput
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.php≤ ≤()"1*Æ
-2
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµ µ(*ﬁ
-€
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµ µ(
-%4"__id*L*J?
-=joomla\component\languages\api\controller\overridescontroller"
-input¶£
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµ µ(*
-%5*
-
-%4*
-	lang_code2getò
-ï
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.php¥ µ(Q
-%3"__id*
-
-%5*
-4*”
-3
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµ- µ(Qﬁ
-€
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµ- µ(9
-%6"__id*L*J?
-=joomla\component\languages\api\controller\overridescontroller"
-input¢
-ü
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµ- µ(?
-%7"__id**
-
-%6"
-post¶£
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµ- µ(Q
-%8*
-
-%7*
-	lang_code2getò
-ï
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.php¥ µ(Q
-%3"__id*
-
-%8*
-4*ê
-4
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.phpµQ µ(Q"â
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.php¥ µ(R
-
-%3*ô
-1
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.php¥ µ(Rﬁ
-€
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.php¥ ¥(
-%1"__id*L*J?
-=joomla\component\languages\api\controller\overridescontroller"
-input©¶
-
-s/Users/jasonobrien/Projects/Nautilus/joomla-cms/api/components/com_languages/src/Controller/OverridesController.php¥ ¥(0
-%2*
-
-%1*
-	lang_code2exists*
-2
-3BA?
-=joomla\component\languages\api\controller\overridescontroller

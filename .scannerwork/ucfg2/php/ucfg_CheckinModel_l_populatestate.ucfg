@@ -1,25 +1,0 @@
-
-Hjoomla\component\checkin\administrator\model\checkinmodel::populatestatey
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_checkin/src/Model/CheckinModel.php@ @($"1*™
-2
-CheckinModel.php"ê
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_checkin/src/Model/CheckinModel.phpD D(
-implicit return*ó
-1y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_checkin/src/Model/CheckinModel.phpC C(5ë
-é
-y
-o/Users/jasonobrien/Projects/Nautilus/joomla-cms/administrator/components/com_checkin/src/Model/CheckinModel.phpC C(4
-%1"-joomla\cms\mvc\model\listmodel::populatestate*=;
-9joomla\component\checkin\administrator\model\checkinmodel*
-
-	$ordering*
-
-
-$direction*
-2:
-	$ordering:
-
-$directionB=;
-9joomla\component\checkin\administrator\model\checkinmodel

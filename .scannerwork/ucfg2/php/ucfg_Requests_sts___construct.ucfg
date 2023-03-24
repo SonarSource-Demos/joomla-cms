@@ -1,63 +1,0 @@
-
-;joomla\plugin\task\requests\extension\requests::__constructj
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.php^ ^("1*ó
-2
-Requests.php"Å
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.phpd d(
-implicit return*∞
-1j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.php` `(2∑
-¥
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.php^ ^(
-$dispatcher"__id*1
-/
-$dispatcher joomla\event\dispatcherinterfaceî
-ë
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.php^ ^(	
-$config"__id*
-
-$configarray∞
-≠
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.php^ ^(
-$httpFactory"__id*)
-'
-$httpFactoryjoomla\http\httpfactory£
-†
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.php^ ^(
-$rootDirectory"__id*
-
-$rootDirectorystringÒ
-Ó
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.php` `(1
-%1"(joomla\cms\plugin\cmsplugin::__construct*20
-.joomla\plugin\task\requests\extension\requests*
-
-$dispatcher*
-	
-$config 
-«
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.phpb b(+A0
-.joomla\plugin\task\requests\extension\requests"
-httpFactory"__id*
-
-$httpFactoryŒ
-À
-j
-`/Users/jasonobrien/Projects/Nautilus/joomla-cms/plugins/task/requests/src/Extension/Requests.phpc c(-C0
-.joomla\plugin\task\requests\extension\requests"
-rootDirectory"__id*
-
-$rootDirectory*
-2:/
-$dispatcher joomla\event\dispatcherinterface:
-$configarray:'
-$httpFactoryjoomla\http\httpfactory:
-$rootDirectorystringB20
-.joomla\plugin\task\requests\extension\requests

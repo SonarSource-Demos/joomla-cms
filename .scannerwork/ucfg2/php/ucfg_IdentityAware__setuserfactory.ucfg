@@ -1,26 +1,0 @@
-
-4joomla\cms\application\identityaware::setuserfactorye
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/IdentityAware.phpK K(""1*–
-2
-IdentityAware.php"|
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/IdentityAware.phpN N(
-implicit return*è
-1e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/IdentityAware.phpM M(*¸
-µ
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/IdentityAware.phpK K("
-$userFactory"__id*6
-4
-$userFactory$joomla\cms\user\userfactoryinterface»
-¸
-e
-[/Users/jasonobrien/Projects/Nautilus/joomla-cms/libraries/src/Application/IdentityAware.phpM M()7&
-$joomla\cms\application\identityaware"
-userFactory"__id*
-
-$userFactory*
-2:4
-$userFactory$joomla\cms\user\userfactoryinterfaceB(&
-$joomla\cms\application\identityaware
