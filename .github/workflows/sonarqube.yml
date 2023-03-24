@@ -29,7 +29,8 @@ on:
   push:
     branches:
       - 'main' # or the name of your main branch
-      - '*-dev'
+      - '4.2-dev'
+      - 'dev'
   pull_request:
     types: [opened, synchronize, reopened]
   workflow_dispatch:
