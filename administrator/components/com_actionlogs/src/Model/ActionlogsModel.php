@@ -35,7 +35,7 @@ use RuntimeException;
  */
 class ActionlogsModel extends ListModel
 {
-    const ACTION-LOGS = '#__action_logs';
+    const ACTION_LOGS = '#__action_logs';
  
     /**
      * Constructor.
@@ -95,7 +95,7 @@ class ActionlogsModel extends ListModel
         $query = $db->getQuery(true)
             ->select('a.*')
             ->select($db->quoteName('u.name'))
-            ->from($db->quoteName(ACTION-LOGS, 'a'))
+            ->from($db->quoteName(ACTION_LOGS, 'a'))
             ->join('LEFT', $db->quoteName('#__users', 'u') . ' ON ' . $db->quoteName('a.user_id') . ' = ' . $db->quoteName('u.id'));
 
         // Get ordering
@@ -239,7 +239,7 @@ class ActionlogsModel extends ListModel
         $query  = $db->getQuery(true)
             ->select('a.*')
             ->select($db->quoteName('u.name'))
-            ->from($db->quoteName(ACTION-LOGS, 'a'))
+            ->from($db->quoteName(ACTION_LOGS, 'a'))
             ->join('INNER', $db->quoteName('#__users', 'u') . ' ON ' . $db->quoteName('a.user_id') . ' = ' . $db->quoteName('u.id'))
             ->where($db->quoteName('a.extension') . ' = :extension')
             ->where($db->quoteName('a.item_id') . ' = :itemid')
@@ -312,7 +312,7 @@ class ActionlogsModel extends ListModel
         $query = $db->getQuery(true)
             ->select('a.*')
             ->select($db->quoteName('u.name'))
-            ->from($db->quoteName(ACTION-LOGS, 'a'))
+            ->from($db->quoteName(ACTION_LOGS, 'a'))
             ->join('INNER', $db->quoteName('#__users', 'u') . ' ON ' . $db->quoteName('a.user_id') . ' = ' . $db->quoteName('u.id'));
 
         if (\is_array($pks) && \count($pks) > 0) {
@@ -337,7 +337,7 @@ class ActionlogsModel extends ListModel
         $keys  = ArrayHelper::toInteger($pks);
         $db    = $this->getDatabase();
         $query = $db->getQuery(true)
-            ->delete($db->quoteName(ACTION-LOGS))
+            ->delete($db->quoteName(ACTION_LOGS))
             ->whereIn($db->quoteName('id'), $keys);
         $db->setQuery($query);
 
@@ -364,7 +364,7 @@ class ActionlogsModel extends ListModel
     public function purge()
     {
         try {
-            $this->getDatabase()->truncateTable(ACTION-LOGS);
+            $this->getDatabase()->truncateTable(ACTION_LOGS);
         } catch (Exception $e) {
             return false;
         }
