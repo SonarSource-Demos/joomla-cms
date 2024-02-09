@@ -263,7 +263,7 @@ class BannerTable extends Table implements VersionableTableInterface
             /** @var BannerTable $table */
             $table = Table::getInstance('BannerTable', __NAMESPACE__ . '\\', ['dbo' => $db]);
 
-            if (  $table->load(['alias' => $this->alias, 'catid' => $this->catid]) 
+            if (  $table->load(['alias' => $this->alias, 'catid' => $this->catid])
               && ($table->id != $this->id || $this->id == 0)) {
                 $this->setError(Text::_('COM_BANNERS_ERROR_UNIQUE_ALIAS'));
                 return false;
